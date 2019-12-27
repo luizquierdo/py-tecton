@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EnvioDte729_636832524221514906">
+<Caratula version="1.0">
+<RutEmisor>96644100-3</RutEmisor>
+<RutEnvia>10095222-K</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2009-12-09</FchResol>
+<NroResol>183</NroResol>
+<TmstFirmaEnv>2019-01-16T16:20:22</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+<Documento ID="R96644100F1065374T33">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>1065374</Folio>
+<FchEmis>2019-01-16</FchEmis>
+<TpoImpresion>N</TpoImpresion>
+<FmaPago>1</FmaPago>
+<MedioPago>EF</MedioPago>
+<TermPagoGlosa>Pago contado</TermPagoGlosa>
+<FchVenc>2019-01-16</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>96644100-3</RUTEmisor>
+<RznSoc>STEWARD</RznSoc>
+<GiroEmis>VENTA AL POR MAYOR DE PRODUCTOS TEXTILES PRENDAS DE VESTIR</GiroEmis>
+<Telefono>227566000</Telefono>
+<Acteco>513100</Acteco>
+<DirOrigen>Avda. Americo Vespucio 0655</DirOrigen>
+<CmnaOrigen>RECOLETA</CmnaOrigen>
+<CiudadOrigen>SANTIAGO</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<CdgIntRecep>76407152</CdgIntRecep>
+<RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+<GiroRecep>PERSONA NATURAL</GiroRecep>
+<DirRecep>Nueva de Lyon 0124</DirRecep>
+<CmnaRecep>PROVIDENCIA</CmnaRecep>
+<CiudadRecep>SANTIAGO</CiudadRecep>
+</Receptor>
+<Transporte>
+<DirDest>RETIRA CLIENTE</DirDest>
+<CmnaDest>SANTIAGO</CmnaDest>
+<CiudadDest>SANTIAGO</CiudadDest>
+</Transporte>
+<Totales>
+<MntNeto>74921</MntNeto>
+<TasaIVA>19.00</TasaIVA>
+<IVA>14235</IVA>
+<MntTotal>89156</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>040003028</VlrCodigo>
+</CdgItem>
+<NmbItem>HERVIDOR BIG CHEF 2500W 40L INOX ELECT</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>un</UnmdItem>
+<PrcItem>74921</PrcItem>
+<MontoItem>74921</MontoItem>
+</Detalle>
+<Referencia>
+<NroLinRef>1</NroLinRef>
+<TpoDocRef>I11</TpoDocRef>
+<FolioRef>0</FolioRef>
+<FchRef>2019-01-16</FchRef>
+<RazonRef>PV-00279573||RETIRA CLIENTE</RazonRef>
+</Referencia>
+<Referencia>
+<NroLinRef>2</NroLinRef>
+<TpoDocRef>I12</TpoDocRef>
+<FolioRef>0</FolioRef>
+<FchRef>2019-01-16</FchRef>
+<RazonRef>||KAREN HERNANDEZ|KAREN HERNANDEZ|0|</RazonRef>
+</Referencia>
+<Referencia>
+<NroLinRef>3</NroLinRef>
+<TpoDocRef>I13</TpoDocRef>
+<FolioRef>0</FolioRef>
+<FchRef>2019-01-16</FchRef>
+<RazonRef>COMERCIAL</RazonRef>
+</Referencia>
+<Referencia>
+<NroLinRef>4</NroLinRef>
+<TpoDocRef>I15</TpoDocRef>
+<FolioRef>0</FolioRef>
+<FchRef>2019-01-16</FchRef>
+<RazonRef>74921</RazonRef>
+</Referencia>
+<TED version="1.0"><DD><RE>96644100-3</RE><TD>33</TD><F>1065374</F><FE>2019-01-16</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>89156</MNT><IT1>HERVIDOR BIG CHEF 2500W 40L INOX ELECT</IT1><CAF version="1.0"><DA><RE>96644100-3</RE><RS>STEWARD S A</RS><TD>33</TD><RNG><D>1047510</D><H>1077509</H></RNG><FA>2018-09-28</FA><RSAPK><M>rtxNRNM1dUmWUJPWTAwd6ZI799wE+3yXGWgi38y4NRnFqCoy+btyPuZPBHxuFVpKBiJnE+JD1ne6nfAxAnoFxw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">SeAb0jO8vE48rJeMWkWbJ5YufTmcy9Cw5uEhV+L008DzKlSDBv000d24+KSNg0w7DNUqNt/3ZcLElAUbcluW7A==</FRMA></CAF><TSTED>2019-01-16T16:01:50</TSTED></DD><FRMT algoritmo="SHA1withRSA">h/oT4iwFfzKSHhWxwFyopC9GyNY+jm7JI6BSDfxqZKtfQYUjPZ9mfzK0aP4GDJhev6wDhgv6FlEPsj4cJvOmJQ==</FRMT></TED><TmstFirma>2019-01-16T16:01:50</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#R96644100F1065374T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>JyA9oTUX6ceaX8DtGETJgGnDZVQ=</DigestValue></Reference></SignedInfo><SignatureValue>
+WIr+RcqousRvJs9nkxCcVwqGG75QfUndcq0TLhp87lpujgR2zowYsEJXpA1jG6FWsN+8DESnk52x
+ZBUJZRcHIlzKUZIHURuEtWnS5/4FcYcWtMs9FcxoUzez3xFLdzLsa1zbmZqhIdZ7BsOfmMTW1mpz
+3GxbuNIxqfebaUtkPl4=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vrWTFOyvmE88gdOh4vr6FZJqjOKHvGkeKX5LkUHU3ifaFUKhwR9rKFTd0aLZLYMReYf+VaqUuASWMJuHRRH9eVZifg5KG7hTSFYQbANSqE1fXPaaZ31t4VluAZ7IUXjobUig7zAgRKeB5+/gvkjavgnSeHQPPanBuOgvL9ylwa0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGXDCCBUSgAwIBAgIKEyBpbQAAAAwCHzANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xODA5MTExMzI5NTdaFw0yMTA5MTAxMzI5NTda
+MIHfMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRgwFgYDVQQKEw9JQ09OU1RSVVlFIFMuQS4xLDAqBgNVBAsMI1NlcnZp
+Y2lvcyBDb21lcmNpYWxlcyBFbGVjdHLDs25pY29zMR4wHAYDVQQDExVNRVNTQVVEIEVERVJZIFNF
+UkZBVFkxMDAuBgkqhkiG9w0BCQEWIWZyYW5jaXNjby56YW1icmFub0BpY29uc3RydXllLmNvbTCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvrWTFOyvmE88gdOh4vr6FZJqjOKHvGkeKX5LkUHU
+3ifaFUKhwR9rKFTd0aLZLYMReYf+VaqUuASWMJuHRRH9eVZifg5KG7hTSFYQbANSqE1fXPaaZ31t
+4VluAZ7IUXjobUig7zAgRKeB5+/gvkjavgnSeHQPPanBuOgvL9ylwa0CAwEAAaOCAqcwggKjMD0G
+CSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYGa5xWGr+AVAgFk
+AgEEMB0GA1UdDgQWBBRV6l3tgJAWAZRRkprUqrdhVTJ+iDALBgNVHQ8EBAMCBPAwHwYDVR0jBBgw
+FoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNl
+cnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcw
+AYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGg
+DBYKMTAwOTUyMjItSzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNV
+HSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNl
+cnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAAcwBpAGQAbwAgAHYAYQBsAGkA
+ZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBl
+AGQAYQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMA
+YQBkAG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3DQEB
+BQUAA4IBAQCUJ1m/AP71TdThjXkRdS9/yW7S8Yrm/ZJZGyzpqCZheRpH50NZdTphfZ1SUMp4KskO
+2j2kkjP4XR+ruypD58hmksPdKk+4tNPMZg7kTao2cPqC9nwyUc7mgSM6ufOffdBOhSsSKIP0Kxs7
+Qzv8Pb0SQL3cNyZkp3KyYOi38bcAzXpiv5uZfPB/gT1IRhv9kP1PRIoR3GQv1wCzuW5WTwxoTXpb
+Y8a3Rt1jIkhseZCD13BzoAnkDEtOaTgeYdKLrZ2m3V2ChH9p3XLpIo7N88ihyoq3sU4HYC5A0bld
+/oG53MWCpYlxp8xcB8Ra3rdPO9TQHP4BfRcRxbH5Ugcv3RGK
+</X509Certificate></X509Data></KeyInfo></Signature></DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#EnvioDte729_636832524221514906"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>9PD+Aw1euKlkJK8HcLp4Bz/FTpQ=</DigestValue></Reference></SignedInfo><SignatureValue>
+tYuoZAhyVGPmY2+LcGDSDAGyOHbJ6P4T3kzQDxQxywDoboa2uge+pvUkjdaNCg4EKWfyYPvOwVWw
+WcYlTbjek8X6zaNOsx2S9hmg9cOxgTFgy+ZJfGIYiS+hjCEKfAuMyyORGAuE57XB3TAH9SjJb//w
+OqcyIYwvsxSpiSJud4A=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vrWTFOyvmE88gdOh4vr6FZJqjOKHvGkeKX5LkUHU3ifaFUKhwR9rKFTd0aLZLYMReYf+VaqUuASWMJuHRRH9eVZifg5KG7hTSFYQbANSqE1fXPaaZ31t4VluAZ7IUXjobUig7zAgRKeB5+/gvkjavgnSeHQPPanBuOgvL9ylwa0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGXDCCBUSgAwIBAgIKEyBpbQAAAAwCHzANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xODA5MTExMzI5NTdaFw0yMTA5MTAxMzI5NTda
+MIHfMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRgwFgYDVQQKEw9JQ09OU1RSVVlFIFMuQS4xLDAqBgNVBAsMI1NlcnZp
+Y2lvcyBDb21lcmNpYWxlcyBFbGVjdHLDs25pY29zMR4wHAYDVQQDExVNRVNTQVVEIEVERVJZIFNF
+UkZBVFkxMDAuBgkqhkiG9w0BCQEWIWZyYW5jaXNjby56YW1icmFub0BpY29uc3RydXllLmNvbTCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvrWTFOyvmE88gdOh4vr6FZJqjOKHvGkeKX5LkUHU
+3ifaFUKhwR9rKFTd0aLZLYMReYf+VaqUuASWMJuHRRH9eVZifg5KG7hTSFYQbANSqE1fXPaaZ31t
+4VluAZ7IUXjobUig7zAgRKeB5+/gvkjavgnSeHQPPanBuOgvL9ylwa0CAwEAAaOCAqcwggKjMD0G
+CSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYGa5xWGr+AVAgFk
+AgEEMB0GA1UdDgQWBBRV6l3tgJAWAZRRkprUqrdhVTJ+iDALBgNVHQ8EBAMCBPAwHwYDVR0jBBgw
+FoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNl
+cnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcw
+AYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGg
+DBYKMTAwOTUyMjItSzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNV
+HSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNl
+cnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAAcwBpAGQAbwAgAHYAYQBsAGkA
+ZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBl
+AGQAYQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMA
+YQBkAG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3DQEB
+BQUAA4IBAQCUJ1m/AP71TdThjXkRdS9/yW7S8Yrm/ZJZGyzpqCZheRpH50NZdTphfZ1SUMp4KskO
+2j2kkjP4XR+ruypD58hmksPdKk+4tNPMZg7kTao2cPqC9nwyUc7mgSM6ufOffdBOhSsSKIP0Kxs7
+Qzv8Pb0SQL3cNyZkp3KyYOi38bcAzXpiv5uZfPB/gT1IRhv9kP1PRIoR3GQv1wCzuW5WTwxoTXpb
+Y8a3Rt1jIkhseZCD13BzoAnkDEtOaTgeYdKLrZ2m3V2ChH9p3XLpIo7N88ihyoq3sU4HYC5A0bld
+/oG53MWCpYlxp8xcB8Ra3rdPO9TQHP4BfRcRxbH5Ugcv3RGK
+</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>

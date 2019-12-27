@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+  <SetDTE ID="ID76339051-9__1__33__1102">
+    <Caratula version="1.0">
+      <RutEmisor>76339051-9</RutEmisor>
+      <RutEnvia>14681596-0</RutEnvia>
+      <RutReceptor>76407152-2</RutReceptor>
+      <FchResol>2014-08-22</FchResol>
+      <NroResol>80</NroResol>
+      <TmstFirmaEnv>2016-09-07T10:36:39</TmstFirmaEnv>
+      
+    <SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+    
+  <DTE version="1.0">
+      <Documento ID="F1102T33">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>1102</Folio>
+            <FchEmis>2016-08-31</FchEmis>
+            <FmaPago>1</FmaPago>
+            <MedioPago>EF</MedioPago>
+            <TermPagoGlosa>CONTADO</TermPagoGlosa>
+            <FchVenc>2016-08-31</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76339051-9</RUTEmisor>
+            <RznSoc>SOC. COMERCIALIZADORA Y DIST. SANTOMAR LIMITADA</RznSoc>
+            <GiroEmis>EST. SERVICIO</GiroEmis>
+            <Acteco>505000</Acteco>
+            <DirOrigen>RUTA F 30 E S/N MARBELLA PUCHUNCAVI</DirOrigen>
+            <CmnaOrigen>PUCHUNCAVI</CmnaOrigen>
+            <CiudadOrigen>VIÑA DEL MAR</CiudadOrigen>
+          </Emisor>
+          <RUTMandante>99520000-7</RUTMandante>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCION</GiroRecep>
+            <Contacto>.</Contacto>
+            <DirRecep>AV. PROVIDENCIA 2330, OF. 63</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+            <CiudadRecep>SANTIAGO</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>10339</MntNeto>
+            <MntExe>0</MntExe>
+            <TasaIVA>19.00</TasaIVA>
+            <IVA>1965</IVA>
+            <ImptoReten>
+              <TipoImp>28</TipoImp>
+              <MontoImp>2696</MontoImp>
+            </ImptoReten>
+            <MntTotal>15000</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <NmbItem>PETROLEO DIESEL (IEV al 03/08/2016)</NmbItem>
+          <DscItem>PETROLEO DIESEL (IEV al 03/08/2016)</DscItem>
+          <QtyItem>33.708000</QtyItem>
+          <Subcantidad>
+            <SubQty>11.125000</SubQty>
+            <SubCod>IEV</SubCod>
+          </Subcantidad>
+          <Subcantidad>
+            <SubQty>68.856000</SubQty>
+            <SubCod>MontoIE</SubCod>
+          </Subcantidad>
+          <PrcItem>306.722440</PrcItem>
+          <CodImpAdic>28</CodImpAdic>
+          <MontoItem>10339</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>50</TpoDocRef>
+          <FolioRef>22384</FolioRef>
+          <FchRef>2016-08-01</FchRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>76339051-9</RE>
+            <TD>33</TD>
+            <F>1102</F>
+            <FE>2016-08-31</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSORCIO HLI HYDROGROUP SPA</RSR>
+            <MNT>15000</MNT>
+            <IT1>PETROLEO DIESEL (IEV al 03/08/2016)</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76339051-9</RE>
+                <RS>SOCIEDAD COMERCIALIZADORA Y DISTRIBUIDOR</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>872</D>
+                  <H>1607</H>
+                </RNG>
+                <FA>2016-08-02</FA>
+                <RSAPK>
+                  <M>zSiS+OrwfUm9S2ujsb3oRLbHIbJqfoft09LYjjOKPkh5Pu1Nq9QFyCvUbVosfhqqFUF5lGalToKhu3B53o8yUw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">IH9fUWXiqvC7AuJTm6BkpOk286vCBLUsH/8+E3KKvrAtcA8h6fFS/KVouZifZCdzvkPFNH1XHM8TCXclWuubtg==</FRMA>
+            </CAF>
+            <TSTED>2016-09-01T13:38:53</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">wGZdMF73LB3nb3aG1AcwQFh26Jvqk23PQCe0/QkcriuoV8/HtAecr5e2PK1d0gcQcpc4kJqvPYp06Dsb4Ut/TA==</FRMT>
+        </TED>
+        <TmstFirma>2016-09-01T16:50:05</TmstFirma>
+      </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F1102T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>B/WuLsKXw0obl8UBbbQFH5hct5s=</DigestValue></Reference></SignedInfo><SignatureValue>
+Wrx4YbINH1pLdu4lkwjo5Bo5U4yRytMmVZW1SEBsjjFJurMAwK6ejQxML/MaUr2s
+z9hydDYRL5Riy40duEkHQuDLebmVAgxw8ZRMc5NVKyUYTNMw5tkQBDzpzay3RWNd
+YruGTg3EltGJcR5PO1Fx4T4wDs7Q+XNnrjN64peLJiM=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+rxo+jBjy7ZY88avO1nU49V6OvEotH0H5fqGYE+tB2U8q3zr2DFhqtiee94dnl9hB
+DxRZ/1kSLh8NxE0KgdVIQq+mijwffaVntt3wEYFVNtbta4CHCk86Ai4M+KadJ9tu
+jzqjXiTkxsKUTUtciAT0JXPWVKGoKkoqVUZ+ye0dNkk=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGfjCCBWagAwIBAgIKQuYnjQAAAAOb9jANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNjA0MDgxNzMzMTBaFw0xOTA0MDgxNzMzMTBaMIIB
+ADELMAkGA1UEBhMCQ0wxFTATBgNVBAgMDFZBTFBBUkHDjVNPIDETMBEGA1UEBxMK
+VmFscGFyYWlzbzFEMEIGA1UEChM7U29jaWVkYWQgQ29tZXJjaWFsaXphZG9yYSB5
+IERpc3RyaWJ1aWRvcmEgU2FudG9tYXIgTGltaXRhZGExLzAtBgNVBAsTJlZlbnRh
+IGRlIENvbWJ1c3RpYmxlcyBwYXJhIGF1dG9tb3RvcmVzMSYwJAYDVQQDEx1Sb2Ry
+aWdvIEFsZm9uc28gU2FuY2hleiBSYW1vczEmMCQGCSqGSIb3DQEJARYXZ2F0b3Nh
+bmNoZXpAaG90bWFpbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK8a
+PowY8u2WPPGrztZ1OPVejrxKLR9B+X6hmBPrQdlPKt869gxYarYnnveHZ5fYQQ8U
+Wf9ZEi4fDcRNCoHVSEKvpoo8H32lZ7bd8BGBVTbW7WuAhwpPOgIuDPimnSfbbo86
+o14k5MbClE1LXIgE9CVz1lShqCpKKlVGfsntHTZJAgMBAAGjggKnMIICozA9Bgkr
+BgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54U
+hqiCWAIBZAIBBDAdBgNVHQ4EFgQUu3H851suTcrHJSg/7mLgJQ4rYLAwCwYDVR0P
+BAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3
+MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNh
+RkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjEw
+MzQyMjE0LTAwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIB
+TQYDVR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0
+dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8e
+gewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABs
+AGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4AIABm
+AG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBk
+AG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzAN
+BgkqhkiG9w0BAQUFAAOCAQEAgd5jbKvrNYl00R3IPmu4v5v8QgMFAJtgSskVpGSv
+aBqyXbff34p1oxuY4iBxH1zHGdy49EIYx0Yg+2pUmXHDyt84f0U9Xnu1AK4kbDje
+BANSncGyiIdhR8EjPHnS4b9aulobpp43IdI2Ye6ttru9PyE8m7GcwZNdUwmfS511
+fXJ2NrdnkkwUjOTFMR9t/L/Zc8h18ArWFZh0EIFkYRFIvdlDA3F3sWFyjfAXH+2K
+FIt/8F9ulq7CZIz1x25EeJXQNAJJQiU9tk/Oz7TSipm86M1hV1LZkEloL5TB9/7K
+EG2atJymIBDWrqK700n11F+r8VpTR30RMXOGY3FpKTV93A==
+</X509Certificate></X509Data></KeyInfo></Signature>
+    </DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID76339051-9__1__33__1102"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qml5l+bjyxU/EggNCKaMhAVng3M=</DigestValue></Reference></SignedInfo><SignatureValue>
+gZbD/9k+gFmTJcZOwjAV0JzHuhtzga0Kd6pL2sWvDPRS73NvBNLDtgaboZNvLc6o
+7qXoJ8fRS8QEm9+uSC7rQBSBapo5cLy3b7a8Em9m/aCd519Do33pFbbrrCAZWxxz
+ukpomiCU/JEI1RgeVQlgDuUGXRbrURu+4n+cm/NaHE0=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+8Bz2AvaOWxBWnUwX3BWpu5TaX67DjyriV3syM6vgFd7YnLQrcB4FvVPXEzaozvbq
+SisEj8P3se5dtOChQHZEiXKSPif1z5EQf77mPCisGy5vKXo3WYKn6QRZQaeJuGHG
+NUglolQMT1dnoQFd2eyihK07A/5zoI6EDukmVSJ0NwM=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGUzCCBTugAwIBAgIKGCJ1VgAAAAK3mDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNTA4MjAxODA5NTJaFw0xODA4MTkxODA5NTJaMIHW
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMSYwJAYDVQQKEx1Tb3V0aCBDb25zdWx0aW5n
+IFNpZ25hdHVyZSBTQTEKMAgGA1UECwwBKjEnMCUGA1UEAxMeTWFyaW8gQXVndXN0
+byBGZXJuYW5kZXogQ3Vlc3RhMTIwMAYJKoZIhvcNAQkBFiNtYXJpby5mZXJuYW5k
+ZXpAc291dGhjb25zdWx0aW5nLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkC
+gYEA8Bz2AvaOWxBWnUwX3BWpu5TaX67DjyriV3syM6vgFd7YnLQrcB4FvVPXEzao
+zvbqSisEj8P3se5dtOChQHZEiXKSPif1z5EQf77mPCisGy5vKXo3WYKn6QRZQaeJ
+uGHGNUglolQMT1dnoQFd2eyihK07A/5zoI6EDukmVSJ0NwMCAwEAAaOCAqcwggKj
+MD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8
+YYGa5xWGr+AVAgFkAgEEMB0GA1UdDgQWBBRCF+KIxtcnajz+d3ZPivpheOFVkTAL
+BgNVHQ8EBAMCBPAwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYD
+VR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNo
+aWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDov
+L29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGg
+DBYKMTQ2ODE1OTYtMDAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgw
+LTUwggFNBgNVHSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcC
+ARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcC
+AjCB7x6B7ABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkA
+bQBwAGwAZQAuACAASABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUA
+bgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQA
+YQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIA
+aQBvMA0GCSqGSIb3DQEBBQUAA4IBAQAl2YIxlaWiRy7aCQYZ4tbDu2FJRA8xGtH1
+tQkMbeM+xTgj1lsYnaEVK3sih1FOa/EsPs6njtT1bNjeGRldzhBs7GPDzGMxV3sg
+dXNMxX7L/J3HlEhaR6attRXDE7/zLj9oy20j8wNMjERd6S6a22LjMxuoH+OquOdI
+oWjXZkfklaFIu4ZZQ9yy8XMyhxaSAIwbeSSnXejAxsqElBm8Dm+q30pumTRQqy9X
+/bW8hoIh/RfRp81glV7iUAIjdU+7zu5qU98kFIMZeg2XMvqfig+NUIQXz9HcGvBG
+uHg7iN3zXemlkQJBFzRSuaACu9ZYu9aRXW9GL4GUXs55Bxt0iw0H
+</X509Certificate></X509Data></KeyInfo></Signature>
+  
+</EnvioDTE>

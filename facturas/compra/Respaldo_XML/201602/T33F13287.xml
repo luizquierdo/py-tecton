@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F13287">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>13287</Folio>
+            <FchEmis>2016-02-17</FchEmis>
+            <TipoDespacho>1</TipoDespacho>
+            <FmaPago>1</FmaPago>
+            <FchVenc>2016-02-17</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>79904660-1</RUTEmisor>
+            <RznSoc>COMERCIAL CINTAMATRIX LTDA.</RznSoc>
+            <GiroEmis>COMPRA,VTA.Y DIST.DE INSUMOS COMP.MANT.Y REP.DE MAQ.DE OFIC.CONTAB.E INFORM.</GiroEmis>
+            <Acteco>519000</Acteco>
+            <DirOrigen>MARURI # 522</DirOrigen>
+            <CmnaOrigen>INDEPENDENCIA</CmnaOrigen>
+            <CiudadOrigen>SANTIAGO</CiudadOrigen>
+            <CdgVendedor>13</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <CdgIntRecep>18168</CdgIntRecep>
+            <RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCION</GiroRecep>
+            <DirRecep>AV. PROVIDENCIA # 2330 OF- 63</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+            <CiudadRecep>SANTIAGO</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>49970</MntNeto>
+            <MntExe>0</MntExe>
+            <TasaIVA>19</TasaIVA>
+            <IVA>9494</IVA>
+            <MntTotal>59464</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>INT1</TpoCodigo>
+            <VlrCodigo>7275</VlrCodigo>
+          </CdgItem>
+          <NmbItem>FPACK1202-P2 FullPack LaserTec BRO-HL1202(2LT-TN1060</NmbItem>
+          <QtyItem>1</QtyItem>
+          <UnmdItem>UNI</UnmdItem>
+          <PrcItem>49970.00</PrcItem>
+          <MontoItem>49970</MontoItem>
+        </Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>79904660-1</RE>
+            <TD>33</TD>
+            <F>13287</F>
+            <FE>2016-02-17</FE>
+            <RR>76407152-2</RR>
+            <RSR>HLI CONSTRUCCIONES SPA</RSR>
+            <MNT>59464</MNT>
+            <IT1>FPACK1202-P2 FullPack LaserTec BRO-HL120</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>79904660-1</RE>
+                <RS>COMERCIAL CINTAMATRIX LTDA</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>12203</D>
+                  <H>14002</H>
+                </RNG>
+                <FA>2015-12-23</FA>
+                <RSAPK>
+                  <M>m7i6nJlyRONZ6JwdRfLGNBVHEd8R6ezipni91t0mzs4iwxyhfwkhCeYgzTeajGzJoBan2S7F9/hm37tDS88WGQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">KnVI+gP0e3AqQKXzLKKuaoAKzv54lB7tG6RuPxfxO6AQEJR7XjEX8iymoi7uIlLHOSf6nSBxrp+F1oiUEuXHyQ==</FRMA>
+            </CAF>
+            <TSTED>2016-02-17T12:44:17</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">PCSVG3KPfDDDynP6y1P41w5ETv6Qw2wHfjYXokrF/2/m/vz9wEI5ZTsOUixdl/RftXjB2u3i1uNW
++H3gWgfzzw==</FRMT>
+        </TED>
+        <TmstFirma>2016-02-17T12:44:17</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<Reference URI="#T33F13287">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<DigestValue>TUKtkhdJZ+F6y1ZrcjqrZJTimYI=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>MIxdeH1gKsPVAdXnB0ywZq4VuGKc84IWnVQIZo71D/eKcgHrRt4KamKleGVtToOR3tV8NmxADCKG
+cAVW41miL3FVhVt5VPIYrUQo5C2GpRYkhM4gXK/vzClgGDKiFW2jCtzIG12KgM5MrgA12a9JL/zN
+KnZk0cmY+arkgrXM/rw=</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>yNC0TYiQchpPW3XhUv5ndyFsI0G2nOD3nYwYkJMjo9k+Dz/ZYN/Yb2dwTahK5I/7RwQ1JZywBAYd
+ousFIRDm34vcK9EPus6YiQGFgrhSB1TNg0bfT6yOrSdWslE1UtrniyruHPFk1fx1GFf98S3Mtfep
+eahs9uC6tmVkqHKoH50=</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIF0DCCBLigAwIBAgIDAP2jMA0GCSqGSIb3DQEBBQUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gVjIxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xNDEwMjMxMTMyMjJaFw0xNzEwMjMx
+MTMyMjJaMIGHMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSQwIgYDVQQD
+ExtFRFVBUkRPIEVOUklRVUUgUVVFUk8gUk9NQU4xJDAiBgkqhkiG9w0BCQEWFUVRVUVST0BDSU5U
+QU1BVFJJWC5DTDESMBAGA1UEBRMJNDc0OTg4Mi0xMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKB
+gQDI0LRNiJByGk9bdeFS/md3IWwjQbac4PedjBiQkyOj2T4PP9lg39hvZ3BNqErkj/tHBDUlnLAE
+Bh2i6wUhEObfi9wr0Q+6zpiJAYWCuFIHVM2DRt9PrI6tJ1ayUTVS2ueLKu4c8WTV/HUYV/3xLcy1
+96l5qGz24Lq2ZWSocqgfnQIDAQABo4ICpjCCAqIwHwYDVR0jBBgwFoAUQN/o9lYQ+XQanoTMIgjQ
+Nq0pJlEwHQYDVR0OBBYEFOsKxCUevUVi/Nw/zZNkw7/7XTMNMAsGA1UdDwQEAwIE8DAdBgNVHSUE
+FjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQDAgWgMIHyBgNVHSAEgeowgecw
+geQGCisGAQQBtWuHaQIwgdUwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuYWNlcHRhLmNvbS9DUFNW
+MjCBqQYIKwYBBQUHAgIwgZwwFhYPQWNlcHRhLmNvbSBTLkEuMAMCAQIagYFFbCB0aXR1bGFyIGhh
+IHNpZG8gdmFsaWRhZG8gZW4gZm9ybWEgcHJlc2VuY2lhbCwgcXVlZGFuZG8gaGFiaWxpdGFkbyBl
+bCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvLCBwYWdvcywgY29tZXJjaW8geSBvdHJv
+cy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUFBwgDoBgwFgwK
+OTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBeBgNVHREEVzBVoBcGCCsGAQQB
+wQEBoAsWCTQ3NDk4ODItMaAjBggrBgEFBQcIA6AXMBUMCTQ3NDk4ODItMQYIKwYBBAHBAQKBFUVR
+VUVST0BDSU5UQU1BVFJJWC5DTDA7BggrBgEFBQcBAQQvMC0wKwYIKwYBBQUHMAGGH2h0dHA6Ly9v
+Y3NwLmFjZXB0YS5jb20vQ2xhc2UzVjIwMwYDVR0fBCwwKjAooCagJIYiaHR0cDovL2NybC5hY2Vw
+dGEuY29tL0NsYXNlM1YyLmNybDANBgkqhkiG9w0BAQUFAAOCAQEAHm2uvmkS23C/VveIB1W37PUK
+5tSf/q8IO3zrzslja5RLLl0r7gNe5fzzBHt5zupP8Dpq89iLqd4mf83IikeLl16WAQIZCve2j1U0
+LhoGnXA+u0V/Cfa35T7lZtokM7CVIiID1Ecd50d1rFFmES/OOopqpRjxm5uQYiIwSHO+dVLR0vn6
+ZhuaCgmoOKDorHo9YGVlkxjaOaZYOkBZRZfB/5ioQg1nRJouomd/XFYmK98ngKLARWg8LsKm2+P4
+gRrgV053t3VES4hSWc6oB1q6YUgsFxprdB0rC4RfO+VQ9ICdV+qQwIax0mCvvQJ2+ZNu7jzga2z5
+WAJbVX75XrmZ8Q==</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE>

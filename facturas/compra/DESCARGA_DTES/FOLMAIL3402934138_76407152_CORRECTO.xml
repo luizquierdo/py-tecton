@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ResultadoConsumoFolios xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte ResultadoConsumoFolios_v10.xsd" version="1.0">
+    <DocumentoResultadoConsumoFolios ID="documento">
+        <Identificacion>
+            <Envio>
+                <TrackId>3402934138</TrackId>
+                <RutEmisor>76407152-2</RutEmisor>
+                <RutEnvia>13459205-2</RutEnvia>
+                <TmstRecepcion>2018-12-24T02:00:10</TmstRecepcion>
+                <TamanoArchivo>4554</TamanoArchivo>
+                <TipoEnvio>Automatico</TipoEnvio>
+            </Envio>
+            <CaratulaConsumoFolios>
+                <FchInicio>2018-12-23</FchInicio>
+                <FchFinal>2018-12-23</FchFinal>
+                <SecEnvio>1</SecEnvio>
+                <TmstFirmaEnv>2018-12-24 02:00:09.0</TmstFirmaEnv>
+            </CaratulaConsumoFolios>
+        </Identificacion>
+        <Resultado>
+            <Estado>CORRECTO</Estado>
+        </Resultado>
+    </DocumentoResultadoConsumoFolios>
+</ResultadoConsumoFolios>

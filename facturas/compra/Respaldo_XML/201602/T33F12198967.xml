@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F12198967">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>12198967</Folio>
+            <FchEmis>2016-02-12</FchEmis>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76568660-1</RUTEmisor>
+            <RznSoc>EASY RETAIL S A</RznSoc>
+            <GiroEmis>Comercial</GiroEmis>
+            <Acteco>521300</Acteco>
+            <DirOrigen>Av. Kennedy 9001, Piso 6</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+            <CdgVendedor>13480176</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCIONES</GiroRecep>
+            <DirRecep>AVDA PROVIDENCIA2330</DirRecep>
+            <CmnaRecep>STGO</CmnaRecep>
+            <DirPostal/>
+            <CmnaPostal/>
+          </Receptor>
+          <Totales>
+            <MntNeto>16378</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>3112</IVA>
+            <MntTotal>19490</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>831029</VlrCodigo>
+          </CdgItem>
+          <NmbItem>DIAM TURB 4 1 2</NmbItem>
+          <QtyItem>1.00</QtyItem>
+          <PrcItem>16378.151261</PrcItem>
+          <MontoItem>16378</MontoItem>
+        </Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>76568660-1</RE>
+            <TD>33</TD>
+            <F>12198967</F>
+            <FE>2016-02-12</FE>
+            <RR>76407152-2</RR>
+            <RSR>HLI CONSTRUCCIONES SPA</RSR>
+            <MNT>19490</MNT>
+            <IT1>DIAM TURB 4 1 2   </IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76568660-1</RE>
+                <RS>EASY RETAIL S.A. .-</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>12000001</D>
+                  <H>12570000</H>
+                </RNG>
+                <FA>2016-01-28</FA>
+                <RSAPK>
+                  <M>3NdO7NoOflq4nXTKIxkkvZNYOg8GjTPhGhfSiI01HnU7+CTtmshLYszku5cA2Xw6gKhXbc0MwkXnBLQgZeYgkw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">VVs/XD3BgCGEk9w8vs3bgfJYCfl5qUXuzhFqCXAB9o1jTf92TPuBxf9SWkhgrdTn1njdlT+kw3bHUXPdxluVxg==</FRMA>
+            </CAF>
+            <TSTED>2016-02-12T09:36:53</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">AUalPa+IZHZq0BV5piZNcCPktgwVOKr92jbaiH8/kTRNZmfmtOlWfnE6wdNR3zyt4d4SNSDriYMV
+GrWBG8ZIvw==</FRMT>
+        </TED>
+        <TmstFirma>2016-02-12T09:36:53</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<Reference URI="#T33F12198967">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<DigestValue>P6EtMG0NiM9oC8rWDwlBIqVGMDk=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>Ia+lIyZCS9Nsq1bvp2f4tt8dtqu5YrgsPTdjwDpL+4R7EO5eLBEYfkl3BbyuDly19Mgs0vmNKuMe
+NuL2WQpMgN216OCkbDUqDoiQDiOmgepk+XkCPglhXLSRIMWuAjctqE6kkji3qXIXB8KeBDdoEa+d
+TI2XxBS1U4dPapL9gm2IJOj9c4C/JALNIERxROxOJL07S19m6JDUV1OyTSfYWpq4Lzo+dCU2xuVK
+SqYCickqGeOSD/Xe8mH3jxKLCrr5kUmre76vi5kZdvKuJTS3y1OZzm3+EssKwJI6mFY1PH5gqPUO
+VD2MTTBQFYM3OGJ8oEJd7jKAyn3rSNf3IOy3NA==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>hyQYMgoP96GHgmnq2+2QXGLS1Zp50NN1pImqNF6yKEyqBG3Fbisa7asRmvuZtOnRLBkrLusp0nna
+aN/iyV/AOuPWgbGFxYqgDl4f8AH96FI7i+lB2E6wf3VyTNZAGzcVHPLQyZ4KV8d/lCpFsLpYQmiR
+HIqnqxPCcyMs7HNwIylkyGTZm/ckHG3E9NpnOnge3r61Eq0T8uIH65LFzBgvfSwnwbP9dINveSot
+J1zd4VkmHBUGfoGxYu8XY5r1Bp2qXdeF/Oa8YqddwSiUGZD1u2CapGde/05Bet76hTrFgVVlhT/j
+C9sHl1LTIkdrWtZX0VmftlBmRGxdaBvzLen/VQ==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIF6TCCBNGgAwIBAgICGc0wDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMiBQZXJzb25hIE5hdHVyYWwgLSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE2MDExODE1NTgzMloXDTE5MDExODE1
+NTgzMlowgZIxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKDAmBgNVBAMT
+H1JPRFJJR08gQ1JJU1RJQU4gTEFSUkFJTiBLQVBMQU4xKjAoBgkqhkiG9w0BCQEWG3JvZHJpZ28u
+bGFycmFpbkBjZW5jb3N1ZC5jbDETMBEGA1UEBRMKMTA5NzMxMzktMDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAIckGDIKD/ehh4Jp6tvtkFxi0tWaedDTdaSJqjResihMqgRtxW4rGu2r
+EZr7mbTp0SwZKy7rKdJ52mjf4slfwDrj1oGxhcWKoA5eH/AB/ehSO4vpQdhOsH91ckzWQBs3FRzy
+0MmeClfHf5QqRbC6WEJokRyKp6sTwnMjLOxzcCMpZMhk2Zv3JBxtxPTaZzp4Ht6+tRKtE/LiB+uS
+xcwYL30sJ8Gz/XSDb3kqLSdc3eFZJhwVBn6BsWLvF2Oa9Qadql3XhfzmvGKnXcEolBmQ9btgmqRn
+Xv9OQXre+oU6xYFVZYU/4wvbB5dS0yJHa1rWV9FZn7ZQZkRsXWgb8y3p/1UCAwEAAaOCAjEwggIt
+MB8GA1UdIwQYMBaAFEAkGj2pMXqFd3o9nnKTOYTlQDgZMB0GA1UdDgQWBBSmYGQBII2w6e0u0Fbb
+MvVPcCCVDDALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCG
+SAGG+EIBAQQEAwIFoDBuBgNVHSAEZzBlMGMGCisGAQQBtWuHagowVTAoBggrBgEFBQcCARYcaHR0
+cDovL3d3dy5hY2VwdGEuY29tL0NQUy1HMzApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5B
+LjADAgEJGgNUQkQwWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUF
+BwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBmBgNVHREEXzBd
+oBgGCCsGAQQBwQEBoAwWCjEwOTczMTM5LTCgJAYIKwYBBQUHCAOgGDAWDAoxMDk3MzEzOS0wBggr
+BgEEAcEBAoEbcm9kcmlnby5sYXJyYWluQGNlbmNvc3VkLmNsMD8GCCsGAQUFBwEBBDMwMTAvBggr
+BgEFBQcwAYYjaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTNCaW8tRzMwNwYDVR0fBDAwLjAs
+oCqgKIYmaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNlM0Jpby1HMy5jcmwwDQYJKoZIhvcNAQEF
+BQADggEBADCDeesrjKQxQSzOVp+uZjmzcSXUh+SXA2K7hASiYZLm7umb/dxrV2xCa6cWt/5rIQv8
+ivhqcu78ShBhH3h9NZitpqPeO2uhz7ZJ5nOp+kzOwYI71INJ28AyL6G8Z2X5eQqBRC63U0QsJ3f4
+AHdnJ5E+wwRNd4IKGvyf//7sPej0NTPDpAMvx401bmzkwJhMMGaSHrnrQxEqYAU6tu4qo4+QQmtJ
+T5wpvKsukHB2ahgbTaQv+hOOBj5r3KzkiiNCIMQP+N3OLRObIT6fQUpB+AhglyhgJlLbw/h+nPaz
+PY+WmtRG6PgABy8xRNo+M8/am9+zibTFg5dgyuDQ0XD6eoA=</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE>

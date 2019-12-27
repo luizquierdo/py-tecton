@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EnvioDTE-99520000-7-76407152-2-20181228-094358-440F0E63">
+<Caratula version="1.0">
+<RutEmisor>99520000-7</RutEmisor>
+<RutEnvia>5544700-4</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2010-04-01</FchResol>
+<NroResol>61</NroResol>
+<TmstFirmaEnv>2018-12-28T09:43:58</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F7349799">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>7349799</Folio>
+            <FchEmis>2018-12-28</FchEmis>
+            <TipoDespacho>1</TipoDespacho>
+            <FmaPago>2</FmaPago>
+            <TermPagoGlosa>SE Crédito</TermPagoGlosa>
+            <FchVenc>2018-12-27</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>99520000-7</RUTEmisor>
+            <RznSoc>COMPAÑIA DE PETROLEOS DE CHILE COPEC S.A.</RznSoc>
+            <GiroEmis>Distribución de Combustibles y exportación.</GiroEmis>
+            <CorreoEmisor>emisionfacturas@copec.cl</CorreoEmisor>
+            <Acteco>466100</Acteco>
+            <Sucursal>Caja Facturera Ped.I</Sucursal>
+            <CdgSIISucur>064222945</CdgSIISucur>
+            <DirOrigen>El Bosque Norte 0211 / Av. Isidora Goyenechea 2915, Piso 20</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <CdgIntRecep>76407152-2</CdgIntRecep>
+            <RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCION</GiroRecep>
+            <Contacto>NUEVA DE LYON 0124 OF 601</Contacto>
+            <CorreoRecep>acanada@cohh.cl;</CorreoRecep>
+            <DirRecep>NUEVA DE LYON 0124 OF 601</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+            <DirPostal>AV. PROVIDENCIA 2330 OF.63 PROVIDEN</DirPostal>
+            <CmnaPostal>PROVIDENCIA</CmnaPostal>
+          </Receptor>
+          <Totales>
+            <MntNeto>111248</MntNeto>
+            <MntExe>0</MntExe>
+            <TasaIVA>19</TasaIVA>
+            <IVA>21138</IVA>
+            <ImptoReten>
+              <TipoImp>28</TipoImp>
+              <TasaImp>1</TasaImp>
+              <MontoImp>21855</MontoImp>
+            </ImptoReten>
+            <ImptoReten>
+              <TipoImp>35</TipoImp>
+              <TasaImp>1</TasaImp>
+              <MontoImp>45759</MontoImp>
+            </ImptoReten>
+            <MntTotal>200000</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>INT1</TpoCodigo>
+            <VlrCodigo>103</VlrCodigo>
+          </CdgItem>
+          <NmbItem>GASOLINA S/P 93 OCTANOS NU 1203</NmbItem>
+          <QtyItem>128</QtyItem>
+          <Subcantidad>
+            <SubQty>67.37510</SubQty>
+            <SubCod>IEV|Fecha corte:02/01/2019</SubCod>
+          </Subcantidad>
+          <Subcantidad>
+            <SubQty>290.11800</SubQty>
+            <SubCod>IEF|Fecha corte:02/01/2019</SubCod>
+          </Subcantidad>
+          <Subcantidad>
+            <SubQty>781.00000</SubQty>
+            <SubCod>PBase</SubCod>
+          </Subcantidad>
+          <Subcantidad>
+            <SubQty>100000</SubQty>
+            <SubCod>SubTotal</SubCod>
+          </Subcantidad>
+          <UnmdItem>LT</UnmdItem>
+          <PrcItem>356.09375</PrcItem>
+          <CodImpAdic>35</CodImpAdic>
+          <MontoItem>45580</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>INT1</TpoCodigo>
+            <VlrCodigo>311</VlrCodigo>
+          </CdgItem>
+          <NmbItem>PETROLEO DIESEL GRADO B NU 1202</NmbItem>
+          <QtyItem>159</QtyItem>
+          <Subcantidad>
+            <SubQty>64.92360</SubQty>
+            <SubCod>IEV|Fecha corte:02/01/2019</SubCod>
+          </Subcantidad>
+          <Subcantidad>
+            <SubQty>72.52950</SubQty>
+            <SubCod>IEF|Fecha corte:02/01/2019</SubCod>
+          </Subcantidad>
+          <Subcantidad>
+            <SubQty>627.00000</SubQty>
+            <SubCod>PBase</SubCod>
+          </Subcantidad>
+          <Subcantidad>
+            <SubQty>100000</SubQty>
+            <SubCod>SubTotal</SubCod>
+          </Subcantidad>
+          <UnmdItem>LT</UnmdItem>
+          <PrcItem>413.00628</PrcItem>
+          <CodImpAdic>28</CodImpAdic>
+          <MontoItem>65668</MontoItem>
+        </Detalle>
+        <SubTotInfo>
+          <NroSTI>1</NroSTI>
+          <GlosaSTI>IEF|35|Total DTE|FCorte:2019-01-02</GlosaSTI>
+          <SubTotNetoSTI>37135</SubTotNetoSTI>
+        </SubTotInfo>
+        <SubTotInfo>
+          <NroSTI>2</NroSTI>
+          <GlosaSTI>IEV|35|Total DTE|FCorte:2019-01-02</GlosaSTI>
+          <SubTotNetoSTI>8624</SubTotNetoSTI>
+        </SubTotInfo>
+        <SubTotInfo>
+          <NroSTI>3</NroSTI>
+          <GlosaSTI>IEF|28|Total DTE|FCorte:2019-01-02</GlosaSTI>
+          <SubTotNetoSTI>11532</SubTotNetoSTI>
+        </SubTotInfo>
+        <SubTotInfo>
+          <NroSTI>4</NroSTI>
+          <GlosaSTI>IEV|28|Total DTE|FCorte:2019-01-02</GlosaSTI>
+          <SubTotNetoSTI>10323</SubTotNetoSTI>
+        </SubTotInfo>
+        <TED version="1.0">
+          <DD>
+            <RE>99520000-7</RE>
+            <TD>33</TD>
+            <F>7349799</F>
+            <FE>2018-12-28</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSORCIO HLI HYDROGROUP SPA</RSR>
+            <MNT>200000</MNT>
+            <IT1>GASOLINA S/P 93 OCTANOS NU 1203</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>99520000-7</RE>
+                <RS>COMPANIA DE PETROLEOS DE CHILE COPEC S A</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>7249698</D>
+                  <H>7439697</H>
+                </RNG>
+                <FA>2018-10-02</FA>
+                <RSAPK>
+                  <M>utBtulBO4vNmFaAbeTp1nOFxmV+NyvfDFzDIw4rkK89hjYBCe2WFEOEvDZxcE30YHoHpROHDlttd0Uk2qzAfAQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">eIxGuL55Bp3hLYvVHw2Ej1EpU+ZHyAlC+Yk0qZ0VnGYjQgP5rK2UDzzESyPNzM8n5rbPV8ygzA+d6S3ngDDNzw==</FRMA>
+            </CAF>
+            <TSTED>2018-12-28T09:39:08</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">fEVEJY45lCelSeO04YmqAf+YLcfhcCPjDAwg2f+J6+3UhGvG5lgLsgQjOTkZfC5xc931UNe3brBx
+QEqBv57t2w==</FRMT>
+        </TED>
+        <TmstFirma>2018-12-28T09:39:08</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+		<Reference URI="#T33F7349799">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+			<DigestValue>Z++q+Imt698rw8ZqBXDLbnF3sio=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>dkEP+S5/krOyRLTw/TDj34fpO5qVh15OnDEhv3kl3Zcj2hssorzmRawBJcLHc6XNvXgxrvrHpZNy
+9T0OSj2Y8lNxOqOLlPUgD82obrdf0olA64wjQjkBNM3MolYmXzc3scfheTqAYqNSYstHrjiI4C68
+zQOFTBczKQ++UmJynkAogDOLAtzc45I4GM7L4Tatdp1gf3NjqkMAbhFsADciwyPNF8C+KSyMpBFC
+EjUIz86JkFMQfE1chTXacyIvrHcOLkXP1l0j7IB2DwU0Yv4xRPuMA+BYcJJRcnyt6jZ2jHF9/y7Z
+5pJ8jXtTcj2uqWffVnQTN3q0GBg42Lq0pV6AoA==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>3oLgPoh6SnnII8InxLOsIQooiJ0fSM3qLE3AG5YWsEW8FKzzZFLT+yXOdYrn7bPDKCpzvVd4J04n
+2aUps8xjFUAmZH38pDu3xiF6PJNXKtnPk8MenxD8jY7Pn4NBu8tFdehA0+lB/VVJ5lXug3ywWYGS
+J6ZEzggKXGTzuYatpbdkJoqqJ3Ct6JtrEFbMPQbR8xuHaeyGaIMQVQl7BHxOX+L9DI9g8nAHA3Ww
+ftNiY5XCAyYK9t5aEebxrozPW2xs87C0KiSJubCALEk+wc3ExDYo7TrXiXbGl3zv8VITLazx/Cmm
+5K/1zd+c7HcK1HeLqYZyV7teSA5Ei3gq4xLQBQ==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIGdzCCBV+gAwIBAgICLFkwDQYJKoZIhvcNAQELBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwgLSBHNDEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE4MDUyNTE1NTUzN1oXDTIxMDUyNTE1
+NTUzN1owgYwxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKzApBgNVBAMT
+IlNFUkdJTyBHQUJSSUVMIFZJTExBR1JBIFZJTExBTE9CT1MxITAfBgkqhkiG9w0BCQEWElNWSUxM
+QUdSQUBDT1BFQy5DTDETMBEGA1UEBRMKMTA3MTMzNTUtMDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAN6C4D6Iekp5yCPCJ8SzrCEKKIidH0jN6ixNwBuWFrBFvBSs82RS0/slznWK5+2z
+wygqc71XeCdOJ9mlKbPMYxVAJmR9/KQ7t8YhejyTVyrZz5PDHp8Q/I2Oz5+DQbvLRXXoQNPpQf1V
+SeZV7oN8sFmBkiemRM4IClxk87mGraW3ZCaKqidwreibaxBWzD0G0fMbh2nshmiDEFUJewR8Tl/i
+/QyPYPJwBwN1sH7TYmOVwgMmCvbeWhHm8a6Mz1tsbPOwtCokibmwgCxJPsHNxMQ2KO0614l2xpd8
+7/FSEy2s8fwppuSv9c3fnOx3CtR3i6mGcle7XkgORIt4KuMS0AUCAwEAAaOCAsUwggLBMB8GA1Ud
+IwQYMBaAFKr9vcXpN032mU1XjsFxGvnrwwbjMB0GA1UdDgQWBBSNRViMjBn/yrAYOSIuUTCkEXaV
+pzALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIB
+AQQEAwIFoDCB+gYDVR0gBIHyMIHvMIHsBggrBgEEAbVrAjCB3zAxBggrBgEFBQcCARYlaHR0cHM6
+Ly9hY2c0LmFjZXB0YS5jb20vQ1BTLUFjZXB0YWNvbTCBqQYIKwYBBQUHAgIwgZwwFhYPQWNlcHRh
+LmNvbSBTLkEuMAMCAQIagYFFbCB0aXR1bGFyIGhhIHNpZG8gdmFsaWRhZG8gZW4gZm9ybWEgcHJl
+c2VuY2lhbCwgcXVlZGFuZG8gaGFiaWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmli
+dXRhcmlvLCBwYWdvcywgY29tZXJjaW8geSBvdHJvcy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAM
+Fgo5NjkxOTA1MC04oCQGCCsGAQUFBwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9A
+YWNlcHRhLmNvbTBdBgNVHREEVjBUoBgGCCsGAQQBwQEBoAwWCjEwNzEzMzU1LTCgJAYIKwYBBQUH
+CAOgGDAWDAoxMDcxMzM1NS0wBggrBgEEAcEBAoESU1ZJTExBR1JBQENPUEVDLkNMMEcGCCsGAQUF
+BwEBBDswOTA3BggrBgEFBQcwAYYraHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9vY3NwL0Ns
+YXNlMy1HNDA/BgNVHR8EODA2MDSgMqAwhi5odHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L2Ny
+bC9DbGFzZTMtRzQuY3JsMA0GCSqGSIb3DQEBCwUAA4IBAQC+eWjR8lnc7g39oBYjOVFSsyPR3OBM
+lyyk0uHerMyQivm1N1h55WyqjVc7Brlr6HGu0e5iJN+x7lClsycv/VALW0MrGoFIEFeaT2MOj6Q3
+5KuMo5xHHFGr4dCBdX5c2jmvRPbrhJcgXeJ/5kH+ajhCrvq82gg/TL8VkugObMLKRw8+2jG/ZnOX
+S+E2H1vgUtvGrFvwC9XBRPW2VvS7MaEbjlBGDbCz750gM1dWKd7HMKHfhbOeWq7A5T5QWsbYE54M
+UYQ+1f8kjB/EhAhrcDLRSQBzKVHcbYI+Ec9omOYJzBeaPaZXY0PPtKutzBzsqndg1MQMtg8AbAEN
+mj2AzjH8</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod><Reference URI="#EnvioDTE-99520000-7-76407152-2-20181228-094358-440F0E63"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod><DigestValue>ZWHPO5VeZ+bkLsSj4BZzYIlXQWg=</DigestValue></Reference></SignedInfo><SignatureValue>BqmNfIsB8ZS/sb+xiuL2u338fHIBjV0tQ7yKcBJDrNgCiWhQjjGKZ2MNJ2oAu/LlwbiyLzJYParM
+5lXc5jdpV58dK0mSqS0hgd8YzHyiEo7KCNQfL3kJUEhx++N5bnPqVGPZqkwLLyvdscTfbhgX6oI7
+AjI983RSgVKnnFdt0mCnFYR/V1yamHOwxb7ZXTGUnwTJgYj2dwp82parRLAUE9E573yw97TUOIQ3
+aIQlNrAgetoKgp1Anr3E6mSci2/i6tVv9ybl7QBQbKVqmPlEa8I/UC50dqLtBfnultmYbI/RDac9
+mlxQtwL3fX+QtPr8mXG2hGtWB3TjOpD5zkSFKw==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lFOmbrg9OkK2yG7URNP9kaVZQLRvqYF4llzwx5YsJJ9l7pmmkrQxzHNy3kGPdBtX2LIE6GdX11br
+qdGjBIs39SaptmIM0AHvQ5pe/5n/kKUw/hJebUo94RiNTaaKhYw3XcEZ2PcOkZkYNPRYGdNWGzyj
+/5dI5r6wi3JVZRGI2a1mgNFS96sG84nQstYz1PMts7MUuiEK+ibRnmgKAmBKAj2cbHKcqkn9BzEO
+8O83dYX6EQRxSyE2KRONqw7misVop0gcnVIiQm/vOs74rcGZ2t848X6vaVgrYsU+cQYETf7OrArh
+vUpFU+0Iv+br9fxXIR9bxnGFj+ZbaNgAPfaDZQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIF7zCCBNegAwIBAgIBFDANBgkqhkiG9w0BAQsFADCBpjELMAkGA1UEBhMCQ0wxGDAWBgNVBAoT
+D0FjZXB0YS5jb20gUy5BLjFIMEYGA1UEAxM/QWNlcHRhLmNvbSBBdXRvcmlkYWQgQ2VydGlmaWNh
+ZG9yYSBDbGFzZSAyIFBlcnNvbmEgTmF0dXJhbCAtIEc0MR4wHAYJKoZIhvcNAQkBFg9pbmZvQGFj
+ZXB0YS5jb20xEzARBgNVBAUTCjk2OTE5MDUwLTgwHhcNMTYxMDA3MTkxNzU4WhcNMTkxMDA3MTkx
+NzU4WjCBhjELMAkGA1UEBhMCQ0wxGDAWBgNVBAwTD1BFUlNPTkEgTkFUVVJBTDEfMB0GA1UEAxMW
+UEFCTE8gSVpRVUlFUkRPIFdBTEtFUjEoMCYGCSqGSIb3DQEJARYZcGFibG9penF1aWVyZG93QGdt
+YWlsLmNvbTESMBAGA1UEBRMJNTU0NDcwMC00MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAlFOmbrg9OkK2yG7URNP9kaVZQLRvqYF4llzwx5YsJJ9l7pmmkrQxzHNy3kGPdBtX2LIE6GdX
+11brqdGjBIs39SaptmIM0AHvQ5pe/5n/kKUw/hJebUo94RiNTaaKhYw3XcEZ2PcOkZkYNPRYGdNW
+Gzyj/5dI5r6wi3JVZRGI2a1mgNFS96sG84nQstYz1PMts7MUuiEK+ibRnmgKAmBKAj2cbHKcqkn9
+BzEO8O83dYX6EQRxSyE2KRONqw7misVop0gcnVIiQm/vOs74rcGZ2t848X6vaVgrYsU+cQYETf7O
+rArhvUpFU+0Iv+br9fxXIR9bxnGFj+ZbaNgAPfaDZQIDAQABo4ICRDCCAkAwHwYDVR0jBBgwFoAU
+ZaWrPj/ItlFtEX5fwwoH5kOgCLYwHQYDVR0OBBYEFKp8iBzLRiGHokqiR7ocmLIYH65iMAsGA1Ud
+DwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQDAgWg
+MHUGA1UdIARuMGwwagYIKwYBBAG1awIwXjAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0LmFjZXB0
+YS5jb20vQ1BTLUFjZXB0YWNvbTApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5BLjADAgEJ
+GgNUQkQwWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUFBwgDoBgw
+FgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBiBgNVHREEWzBZoBcGCCsG
+AQQBwQEBoAsWCTU1NDQ3MDAtNKAjBggrBgEFBQcIA6AXMBUMCTU1NDQ3MDAtNAYIKwYBBAHBAQKB
+GXBhYmxvaXpxdWllcmRvd0BnbWFpbC5jb20wRwYIKwYBBQUHAQEEOzA5MDcGCCsGAQUFBzABhito
+dHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0MD8GA1UdHwQ4MDYwNKAy
+oDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNlMi1HNC5jcmwwDQYJKoZI
+hvcNAQELBQADggEBAL0/jTzpAMmxX7v5w/dFYyQmTZPxN7fxWxKyf0np751stBTHnUExiFv+wqIv
+E3iE5Znr8tMoeWwpDz+V0hgKqQDUtZipGbN2XNW19yS6JgenoNbv6dUbVpJwuYJeYcjhtXoePo64
+AoP5cqM/xtcyVkePs2Y/fpBvehXC0qwq1zpxQkMNt+p+3UJqVH12qsMKBUw038Q+t4YIPG18W74c
+KObVaxGG5A/YyTWsGM2Nupmc10p/yXgAZLDptlWA4h7/HHFJT8wRvAdBzhXo1IRsDrfBZ4cI93ts
+fH0PdMlRqFg1zc3e+hA66nqxtua75CK21+fwx6cMP+rm7kRfVWA6tf4=</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>

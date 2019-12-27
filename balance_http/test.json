@@ -1,0 +1,8522 @@
+{
+  u
+  'additional_discount_percentage': 0.0,
+  u
+  'status': u
+  'Draft',
+  u
+  '__islocal': 1,
+  u
+  'numero_factura': 0,
+  u
+  'total_commission': 0.0,
+  u
+  'write_off_amount': 0.0,
+  u
+  'total_billing_amount': 0.0,
+  u
+  'contact_email': u
+  'jorge.munoz@eag.cl',
+  u
+  'naming_series': u
+  'SINV-',
+  u
+  'write_off_outstanding_amount_automatically': 0,
+  u
+  'total_advance': 0.0,
+  u
+  'conversion_rate': 1.0,
+  u
+  'owner': u
+  'lizquierdo@tecton.cl',
+  u
+  'posting_time': u
+  '21:24:59.030123',
+  u
+  'total': 1046315813.17,
+  u
+  'base_change_amount': 0.0,
+  u
+  'letter_head': u
+  'OC',
+  u
+  'customer_name': u
+  'Hidroel\xe9ctrica Array\xe1n SpA',
+  u
+  'base_write_off_amount': 0.0,
+  u
+  'plc_conversion_rate': 1.0,
+  u
+  'paid_amount': 0.0,
+  u
+  'price_list_currency': u
+  'CLP',
+  u
+  'update_stock': 0,
+  u
+  'packed_items': [],
+  u
+  'base_total': 1046315813.17,
+  u
+  'selling_price_list': u
+  'Venta est\xe1ndar',
+  u
+  'base_grand_total': 1245115817.7,
+  u
+  'contact_display': u
+  'Jorge Mu\xf1oz',
+  u
+  'timesheets': [],
+  u
+  'submit_on_creation': 0,
+  u
+  'docstatus': 0,
+  u
+  'territory': u
+  'Chile',
+  u
+  'taxes_and_charges': u
+  'IVA D\xe9bito Fiscal',
+  u
+  'payments': [],
+  u
+  'base_in_words': u
+  'CLP One Billion, Five Hundred And Sixty Four Million, Three Hundred And Forty Four Thousand, Six Hundred And Eighty only.',
+  u
+  'due_date': u
+  '2017-03-06',
+  u
+  'ignore_pricing_rule': 1,
+  u
+  'recurring_type': u
+  '',
+  u
+  'advances': [],
+  u
+  'company': u
+  'Consorcio HLI Hydrogroup SpA',
+  u
+  'is_opening': u
+  'No',
+  u
+  'grand_total': 1245115817.7,
+  u
+  'base_discount_amount': 0.0,
+  u
+  'outstanding_amount': 1245115817.7,
+  u
+  'base_rounded_total': 1245115818.0,
+  u
+  'change_amount': 0.0,
+  u
+  'base_total_taxes_and_charges': 198800004.53,
+  u
+  'posting_date': u
+  '2017-03-06',
+  u
+  'base_paid_amount': 0.0,
+  u
+  '__onload': {
+    u
+    'load_after_mapping': True
+  },
+  u
+  'c_form_applicable': u
+  'No',
+  u
+  'rut': u
+  '76013193-8',
+  u
+  'discount_amount': 0.0,
+  u
+  'customer': u
+  'Hidroel\xe9ctrica Array\xe1n SpA',
+  u
+  'commission_rate': 0.0,
+  u
+  'base_net_total': 1046315813.17,
+  u
+  'notify_by_email': 0,
+  u
+  'is_recurring': 0,
+  u
+  'idx': 1871,
+  u
+  'currency': u
+  'CLP',
+  u
+  'items': [
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 38506255.51,
+      u
+      'qty': 0.654,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 58878066.53,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '245e3e0381',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 58878066.53,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 38506255.51,
+      u
+      'net_rate': 58878066.53,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 01. Instalaci\xf3n faenas - T',
+      u
+      'base_rate': 58878066.53,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 38506255.51,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 1,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 38506255.51,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 11764881.6,
+      u
+      'qty': 0.654,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 17989115.6,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'fd28bfbb9b',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 17989115.6,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 11764881.6,
+      u
+      'net_rate': 17989115.6,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 02. Topograf\xeda - T',
+      u
+      'base_rate': 17989115.6,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 11764881.6,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 2,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 11764881.6,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 11299277.36,
+      u
+      'qty': 0.654,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 17277182.5,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'c609b95e41',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 17277182.5,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 11299277.36,
+      u
+      'net_rate': 17277182.5,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 03.01 Mantenci\xf3n Caminos - T',
+      u
+      'base_rate': 17277182.5,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 11299277.36,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 3,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 11299277.36,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 7487754.96,
+      u
+      'qty': 0.26,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 28799057.55,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '1b883b32d2',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 28799057.55,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 7487754.96,
+      u
+      'net_rate': 28799057.55,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 03.02 Excavaci\xf3n Camino Poniente - T',
+      u
+      'base_rate': 28799057.55,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 7487754.96,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 4,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 7487754.96,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 6726828.79,
+      u
+      'qty': 0.362,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 18582399.98,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '8c08960d50',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 18582399.98,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 6726828.79,
+      u
+      'net_rate': 18582399.98,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 03.03 Excavaci\xf3n Camino Oriente - T',
+      u
+      'base_rate': 18582399.98,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 6726828.79,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 5,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 6726828.79,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 6006072.65,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 7032871.96,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'e0b9ab50ec',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 7032871.96,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 6006072.65,
+      u
+      'net_rate': 7032871.96,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.01 Excavaciones y MT - T',
+      u
+      'base_rate': 7032871.96,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 6006072.65,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 6,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 6006072.65,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 3366724.2,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 3942300.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '3109da7cc1',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 3942300.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 3366724.2,
+      u
+      'net_rate': 3942300.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.02 Agotamiento Napa Fre\xe1tica - T',
+      u
+      'base_rate': 3942300.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 3366724.2,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 7,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 3366724.2,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 1616542.5,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1892906.91,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'd03e20a3df',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1892906.91,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 1616542.5,
+      u
+      'net_rate': 1892906.91,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.03 Relleno estructural compactado - T',
+      u
+      'base_rate': 1892906.91,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 1616542.5,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 8,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 1616542.5,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 913201.28,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1069322.34,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '0fc6067ac9',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1069322.34,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 913201.28,
+      u
+      'net_rate': 1069322.34,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.04 Emplantillado - T',
+      u
+      'base_rate': 1069322.34,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 913201.28,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 9,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 913201.28,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 2959877.72,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 3465898.97,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '9acad15d26',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 3465898.97,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 2959877.72,
+      u
+      'net_rate': 3465898.97,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.05.01 Hormig\xf3n Armado - Moldaje Fundaciones - T',
+      u
+      'base_rate': 3465898.97,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 2959877.72,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 10,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 2959877.72,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 10034759.18,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 11750303.49,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '2046c04eaf',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 11750303.49,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 10034759.18,
+      u
+      'net_rate': 11750303.49,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.05.02 Hormig\xf3n Armado - Moldaje Especial - T',
+      u
+      'base_rate': 11750303.49,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 10034759.18,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 11,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 10034759.18,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 33861655.62,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 39650650.61,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '5df3ade080',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 39650650.61,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 33861655.62,
+      u
+      'net_rate': 39650650.61,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.05.03 Hormig\xf3n Armado - Hormig\xf3n - T',
+      u
+      'base_rate': 39650650.61,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 33861655.62,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 12,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 33861655.62,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 0.0,
+      u
+      'qty': 1.0,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 0.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'b0cda6cdbd',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 0.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 0.0,
+      u
+      'net_rate': 0.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.06 Colocaci\xf3n insertos y piping Barrera Rubber-Dam - T',
+      u
+      'base_rate': 0.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 0.0,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 13,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 0.0,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 6400932.43,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 7495237.04,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '6f71484147',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 7495237.04,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 6400932.43,
+      u
+      'net_rate': 7495237.04,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.07 Montaje Rubber Dam - T',
+      u
+      'base_rate': 7495237.04,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 6400932.43,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 14,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 6400932.43,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 11128604.41,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 13031152.7,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '616031f1c5',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 13031152.7,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 11128604.41,
+      u
+      'net_rate': 13031152.7,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.08 Enrocado consolidado - T',
+      u
+      'base_rate': 13031152.7,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 11128604.41,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 15,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 11128604.41,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 19428113.62,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 22749547.57,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '038e8d611c',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 22749547.57,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 19428113.62,
+      u
+      'net_rate': 22749547.57,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.09 Enfierradura bocatoma - T',
+      u
+      'base_rate': 22749547.57,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 19428113.62,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 16,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 19428113.62,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 3479754.03,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 4074653.43,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'b3fa035bf3',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 4074653.43,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 3479754.03,
+      u
+      'net_rate': 4074653.43,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.01.10 Impermeabilizaciones - T',
+      u
+      'base_rate': 4074653.43,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 3479754.03,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 17,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 3479754.03,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 3354538.65,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 3928031.21,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'db1c9e364f',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 3928031.21,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 3354538.65,
+      u
+      'net_rate': 3928031.21,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.02.01 Excavaci\xf3n zanja tuber\xeda - T',
+      u
+      'base_rate': 3928031.21,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 3354538.65,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 18,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 3354538.65,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 877831.58,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1027905.83,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'b5f0dbcd8e',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1027905.83,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 877831.58,
+      u
+      'net_rate': 1027905.83,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.02.02 Cama de asiento - T',
+      u
+      'base_rate': 1027905.83,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 877831.58,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 19,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 877831.58,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 1118399.89,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1309601.74,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '3d087972fa',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1309601.74,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 1118399.89,
+      u
+      'net_rate': 1309601.74,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.02.03 Colocaci\xf3n tuber\xeda en zanja - T',
+      u
+      'base_rate': 1309601.74,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 1118399.89,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 20,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 1118399.89,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 3642912.68,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 4265705.72,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '8a725fa129',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 4265705.72,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 3642912.68,
+      u
+      'net_rate': 4265705.72,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.02.04 Relleno compactado - T',
+      u
+      'base_rate': 4265705.72,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 3642912.68,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 21,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 3642912.68,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 14503961.8,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 16983561.83,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'f3b51b8786',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 16983561.83,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 14503961.8,
+      u
+      'net_rate': 16983561.83,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.02.05 Tuber\xeda HDPE 1525 mm - T',
+      u
+      'base_rate': 16983561.83,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 14503961.8,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 22,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 14503961.8,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 1149680.31,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1346229.87,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'a1f8449143',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1346229.87,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 1149680.31,
+      u
+      'net_rate': 1346229.87,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 04.03.01 Caseta Control - T',
+      u
+      'base_rate': 1346229.87,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 1149680.31,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 23,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 1149680.31,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 1260917.82,
+      u
+      'qty': 0.243,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 5188962.24,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '32b188d1c1',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 5188962.24,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 1260917.82,
+      u
+      'net_rate': 5188962.24,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 05.01 Excavaciones - T',
+      u
+      'base_rate': 5188962.24,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 1260917.82,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 24,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 1260917.82,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 1328145.25,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1555205.21,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '17265da4e9',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1555205.21,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 1328145.25,
+      u
+      'net_rate': 1555205.21,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 05.02 Relleno estructural - T',
+      u
+      'base_rate': 1555205.21,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 1328145.25,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 25,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 1328145.25,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 269010.95,
+      u
+      'qty': 0.587,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 458281.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'e72b0df759',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 458281.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 269010.95,
+      u
+      'net_rate': 458281.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 05.04 Emplantillados - T',
+      u
+      'base_rate': 458281.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 269010.95,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 26,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 269010.95,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 18241301.91,
+      u
+      'qty': 0.763,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 23907341.95,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '1af0e4612a',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 23907341.95,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 18241301.91,
+      u
+      'net_rate': 23907341.95,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 05.05.01 Hormig\xf3n Armado - Moldaje Especial - T',
+      u
+      'base_rate': 23907341.95,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 18241301.91,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 27,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 18241301.91,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 19539625.81,
+      u
+      'qty': 0.763,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 25608946.01,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'dbf89ebf87',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 25608946.01,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 19539625.81,
+      u
+      'net_rate': 25608946.01,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 05.05.02 Hormig\xf3n Armado - Hormig\xf3n - T',
+      u
+      'base_rate': 25608946.01,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 19539625.81,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 28,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 19539625.81,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 8832344.65,
+      u
+      'qty': 0.611,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 14455555.89,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '3520865333',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 14455555.89,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 8832344.65,
+      u
+      'net_rate': 14455555.89,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 05.06 Enfierradura desarenador - T',
+      u
+      'base_rate': 14455555.89,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 8832344.65,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 29,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 8832344.65,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 3353358.31,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 3926649.07,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'e5ed787624',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 3926649.07,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 3353358.31,
+      u
+      'net_rate': 3926649.07,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 05.07 Impermeabilizaciones - T',
+      u
+      'base_rate': 3926649.07,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 3353358.31,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 30,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 3353358.31,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 6239662.18,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 7306396.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '58c73da34e',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 7306396.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 6239662.18,
+      u
+      'net_rate': 7306396.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 05.08 Gaviones - T',
+      u
+      'base_rate': 7306396.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 6239662.18,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 31,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 6239662.18,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 0.0,
+      u
+      'qty': 1.0,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 0.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '24fa2f98e6',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 0.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 0.0,
+      u
+      'net_rate': 0.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.01.01 Roce y despeje franja - T',
+      u
+      'base_rate': 0.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 0.0,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 32,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 0.0,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 55628253.95,
+      u
+      'qty': 0.847,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 65676805.14,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'a7c043905e',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 65676805.14,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 55628253.95,
+      u
+      'net_rate': 65676805.14,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.01.02 Excavaci\xf3n Mesa en TCN (0+000 a 0+910) - T',
+      u
+      'base_rate': 65676805.14,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 55628253.95,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 33,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 55628253.95,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 18216714.43,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 21331047.34,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'cd27671aab',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 21331047.34,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 18216714.43,
+      u
+      'net_rate': 21331047.34,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.01.03 Excavaci\xf3n Zanja en TCN (0+000 a 0+910) - T',
+      u
+      'base_rate': 21331047.34,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 18216714.43,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 34,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 18216714.43,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 68268751.47,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 79939990.01,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '5aa35f8963',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 79939990.01,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 68268751.47,
+      u
+      'net_rate': 79939990.01,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.01.04 Excavaci\xf3n Mesa en Roca (0+910 a 2+040) - T',
+      u
+      'base_rate': 79939990.01,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 68268751.47,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 35,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 68268751.47,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 47420499.41,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 55527516.87,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'af6c1f2d15',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 55527516.87,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 47420499.41,
+      u
+      'net_rate': 55527516.87,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.01.05 Excavaci\xf3n Zanja en Roca (0+910 a 2+040) - T',
+      u
+      'base_rate': 55527516.87,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 47420499.41,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 36,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 47420499.41,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 23464131.83,
+      u
+      'qty': 0.828,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 28338323.47,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'd761a4ac84',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 28338323.47,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 23464131.83,
+      u
+      'net_rate': 28338323.47,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.01.06 Excavaci\xf3n Mesa en TCN (2+040 a 2+380) - T',
+      u
+      'base_rate': 28338323.47,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 23464131.83,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 37,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 23464131.83,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 6806244.95,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 7969841.86,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'd4893b3943',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 7969841.86,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 6806244.95,
+      u
+      'net_rate': 7969841.86,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.01.07 Excavaci\xf3n Zanja en TCN (2+040 a 2+380) - T',
+      u
+      'base_rate': 7969841.86,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 6806244.95,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 38,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 6806244.95,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 10485210.47,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 12277764.02,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '6ab14af38f',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 12277764.02,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 10485210.47,
+      u
+      'net_rate': 12277764.02,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.02.01 HDPE - Cama de asiento - T',
+      u
+      'base_rate': 12277764.02,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 10485210.47,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 39,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 10485210.47,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 13371937.94,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 15658006.95,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'fea7410fde',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 15658006.95,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 13371937.94,
+      u
+      'net_rate': 15658006.95,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.02.02 HDPE - Colocaci\xf3n Tuber\xeda en Zanja - T',
+      u
+      'base_rate': 15658006.95,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 13371937.94,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 40,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 13371937.94,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 24453051.58,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 28633549.86,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '7d5f0a5254',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 28633549.86,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 24453051.58,
+      u
+      'net_rate': 28633549.86,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.02.03 HDPE - Relleno Compactado Zanja, Material Seleccionado - T',
+      u
+      'base_rate': 28633549.86,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 24453051.58,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 41,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 24453051.58,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 4890610.31,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 5726709.97,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'c9abf99848',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 5726709.97,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 4890610.31,
+      u
+      'net_rate': 5726709.97,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.02.04 HDPE - Relleno Compactado Zanja, Material Com\xfan - T',
+      u
+      'base_rate': 5726709.97,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 4890610.31,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 42,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 4890610.31,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 3560094.72,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 4168729.18,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '9b15ba8bd0',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 4168729.18,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 3560094.72,
+      u
+      'net_rate': 4168729.18,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.03.01 TA - Cama de asiento - T',
+      u
+      'base_rate': 4168729.18,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 3560094.72,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 43,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 3560094.72,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 8930969.71,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 10457809.97,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '49ccf51d59',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 10457809.97,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 8930969.71,
+      u
+      'net_rate': 10457809.97,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.03.02 TA - Colocaci\xf3n Tuber\xeda en Zanja - T',
+      u
+      'base_rate': 10457809.97,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 8930969.71,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 44,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 8930969.71,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 8333162.83,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 9757801.91,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'fd13615ebe',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 9757801.91,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 8333162.83,
+      u
+      'net_rate': 9757801.91,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.03.03 TA - Relleno Compactado Zanja, Material Seleccionado - T',
+      u
+      'base_rate': 9757801.91,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 8333162.83,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 45,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 8333162.83,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 1666632.56,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1951560.38,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '44f3d126e0',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1951560.38,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 1666632.56,
+      u
+      'net_rate': 1951560.38,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.03.04 TA - Relleno Compactado Zanja, Material Com\xfan - T',
+      u
+      'base_rate': 1951560.38,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 1666632.56,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 46,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 1666632.56,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 9103781.26,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 10660165.41,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '4d56745b52',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 10660165.41,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 9103781.26,
+      u
+      'net_rate': 10660165.41,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.04.01 Machones HDPE - T',
+      u
+      'base_rate': 10660165.41,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 9103781.26,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 47,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 9103781.26,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 8282748.9,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 9698769.2,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'dd5c1e329e',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 9698769.2,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 8282748.9,
+      u
+      'net_rate': 9698769.2,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.05.01 Machones tuber\xeda acero Hormig\xf3n Armado - T',
+      u
+      'base_rate': 9698769.2,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 8282748.9,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 48,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 8282748.9,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 673796.49,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 788988.87,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'c33573e614',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 788988.87,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 673796.49,
+      u
+      'net_rate': 788988.87,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.05.02 Machones tuber\xeda acero moldaje - T',
+      u
+      'base_rate': 788988.87,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 673796.49,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 49,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 673796.49,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 4676826.56,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 5476377.71,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '877c969d19',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 5476377.71,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 4676826.56,
+      u
+      'net_rate': 5476377.71,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 06.05.03 Machones tuber\xeda acero enfierradura - T',
+      u
+      'base_rate': 5476377.71,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 4676826.56,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 50,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 4676826.56,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 19794575.93,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 23178660.34,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'a3d4d19f06',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 23178660.34,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 19794575.93,
+      u
+      'net_rate': 23178660.34,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.01 Excavaciones y MT - T',
+      u
+      'base_rate': 23178660.34,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 19794575.93,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 51,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 19794575.93,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 5050086.3,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 5913450.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '6e1c167292',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 5913450.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 5050086.3,
+      u
+      'net_rate': 5913450.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.02 Agotamiento Napa Fre\xe1tica - T',
+      u
+      'base_rate': 5913450.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 5050086.3,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 52,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 5050086.3,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 12143042.29,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 14219019.07,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '1fe7e9519f',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 14219019.07,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 12143042.29,
+      u
+      'net_rate': 14219019.07,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.03 Rellenos estructurales compactados - T',
+      u
+      'base_rate': 14219019.07,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 12143042.29,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 53,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 12143042.29,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 978429.94,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1145702.51,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'ea4c9ea785',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1145702.51,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 978429.94,
+      u
+      'net_rate': 1145702.51,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.04 Emplantillados - T',
+      u
+      'base_rate': 1145702.51,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 978429.94,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 54,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 978429.94,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 114675.78,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 134280.77,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '1a4427b47d',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 134280.77,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 114675.78,
+      u
+      'net_rate': 134280.77,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.05.01 Moldaje Fundaciones - T',
+      u
+      'base_rate': 134280.77,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 114675.78,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 55,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 114675.78,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 20213781.35,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 23669533.2,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'b7f11ddb66',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 23669533.2,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 20213781.35,
+      u
+      'net_rate': 23669533.2,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.05.02 Moldaje especial - T',
+      u
+      'base_rate': 23669533.2,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 20213781.35,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 56,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 20213781.35,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 52887843.91,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 61929559.61,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '79bab5419b',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 61929559.61,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 52887843.91,
+      u
+      'net_rate': 61929559.61,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.05.03 Hormig\xf3n - T',
+      u
+      'base_rate': 61929559.61,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 52887843.91,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 57,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 52887843.91,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 25489685.08,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 29847406.42,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '5f4eb57c3f',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 29847406.42,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 25489685.08,
+      u
+      'net_rate': 29847406.42,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.06 Enfierradura Casa M\xe1quinas - T',
+      u
+      'base_rate': 29847406.42,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 25489685.08,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 58,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 25489685.08,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 2661395.48,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 3116388.15,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'a519aa646c',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 3116388.15,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 2661395.48,
+      u
+      'net_rate': 3116388.15,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.07 Impermeabilizaciones - T',
+      u
+      'base_rate': 3116388.15,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 2661395.48,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 59,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 2661395.48,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 2434918.53,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 2851192.66,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '636390d32a',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 2851192.66,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 2434918.53,
+      u
+      'net_rate': 2851192.66,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.08.01 Celos\xedas - T',
+      u
+      'base_rate': 2851192.66,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 2434918.53,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 60,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 2434918.53,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 647446.97,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 758134.62,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '3cdd2e03ac',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 758134.62,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 647446.97,
+      u
+      'net_rate': 758134.62,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.08.02 Escotilla - T',
+      u
+      'base_rate': 758134.62,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 647446.97,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 61,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 647446.97,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 548390.22,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 642143.12,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '2c0e580e4b',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 642143.12,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 548390.22,
+      u
+      'net_rate': 642143.12,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.08.03 Canaleta el\xe9ctrica - T',
+      u
+      'base_rate': 642143.12,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 548390.22,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 62,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 548390.22,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 322574.96,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 377722.43,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'e9702e6b91',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 377722.43,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 322574.96,
+      u
+      'net_rate': 377722.43,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.08.04 Canaleta aguas lluvias - T',
+      u
+      'base_rate': 377722.43,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 322574.96,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 63,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 322574.96,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 8470229.19,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 9918301.16,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '74e5ea125c',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 9918301.16,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 8470229.19,
+      u
+      'net_rate': 9918301.16,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.09.01 Escaleras y barandas - T',
+      u
+      'base_rate': 9918301.16,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 8470229.19,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 64,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 8470229.19,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 9787412.56,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 11460670.44,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '5d99bc305c',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 11460670.44,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 9787412.56,
+      u
+      'net_rate': 11460670.44,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.09.02 Monoriel interior - T',
+      u
+      'base_rate': 11460670.44,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 9787412.56,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 65,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 9787412.56,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 0.0,
+      u
+      'qty': 1.0,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 0.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'cb43539654',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 0.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 0.0,
+      u
+      'net_rate': 0.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.09.03 Monoriel exterior - T',
+      u
+      'base_rate': 0.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 0.0,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 66,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 0.0,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 650900.01,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 762178.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '9914525630',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 762178.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 650900.01,
+      u
+      'net_rate': 762178.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.09.04 Plataforma nivel 1044.00 - T',
+      u
+      'base_rate': 762178.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 650900.01,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 67,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 650900.01,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 7839833.39,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 9180132.78,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '068be49d52',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 9180132.78,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 7839833.39,
+      u
+      'net_rate': 9180132.78,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.10 Cubierta Liviana - T',
+      u
+      'base_rate': 9180132.78,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 7839833.39,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 68,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 7839833.39,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 11317372.89,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 13252193.08,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'ca88cec3c3',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 13252193.08,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 11317372.89,
+      u
+      'net_rate': 13252193.08,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.11 Montaje Mecanico y Electrico - T',
+      u
+      'base_rate': 13252193.08,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 11317372.89,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 69,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 11317372.89,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 0.0,
+      u
+      'qty': 1.0,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 0.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'd892238836',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 0.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 0.0,
+      u
+      'net_rate': 0.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.12 Hormigon 2 sacos - T',
+      u
+      'base_rate': 0.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 0.0,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 70,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 0.0,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 3218363.89,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 3768575.98,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'aaf8706001',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 3768575.98,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 3218363.89,
+      u
+      'net_rate': 3768575.98,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 07.13 Caseta Transformador - T',
+      u
+      'base_rate': 3768575.98,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 3218363.89,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 71,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 3218363.89,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 10400817.6,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 12178943.32,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'c9e008d7b9',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 12178943.32,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 10400817.6,
+      u
+      'net_rate': 12178943.32,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 08.01 Excavaci\xf3n zanja tuber\xeda - T',
+      u
+      'base_rate': 12178943.32,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 10400817.6,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 72,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 10400817.6,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 512068.42,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 599611.73,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'bfd6f6f9e1',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 599611.73,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 512068.42,
+      u
+      'net_rate': 599611.73,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 08.02 Cama de asiento - T',
+      u
+      'base_rate': 599611.73,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 512068.42,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 73,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 512068.42,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 911619.99,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1067470.72,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '018ed68c5e',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1067470.72,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 911619.99,
+      u
+      'net_rate': 1067470.72,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 08.03 Colocaci\xf3n tuberia de acero D=1800 mm en zanja - T',
+      u
+      'base_rate': 1067470.72,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 911619.99,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 74,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 911619.99,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 406032.98,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 475448.45,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '94af548986',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 475448.45,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 406032.98,
+      u
+      'net_rate': 475448.45,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 08.04 Relleno compactado zanja, Material selecionado - T',
+      u
+      'base_rate': 475448.45,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 406032.98,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 75,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 406032.98,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 5473855.9,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 6409667.33,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '4ad26b487f',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 6409667.33,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 5473855.9,
+      u
+      'net_rate': 6409667.33,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 08.05 Relleno compactado zanja, material com\xfan - T',
+      u
+      'base_rate': 6409667.33,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 5473855.9,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 76,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 5473855.9,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 3174948.71,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 3717738.54,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'db67bfe4b2',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 3717738.54,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 3174948.71,
+      u
+      'net_rate': 3717738.54,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 08.06 Mamposter\xeda (hormig\xf3n salida Tuber\xeda) - T',
+      u
+      'base_rate': 3717738.54,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 3174948.71,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 77,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 3174948.71,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 1035094.29,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 1212054.2,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '682279ba28',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 1212054.2,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 1035094.29,
+      u
+      'net_rate': 1212054.2,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 08.07 Enrocado Consolidado Roca 300 kg (base salida tuber\xeda) - T',
+      u
+      'base_rate': 1212054.2,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 1035094.29,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 78,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 1035094.29,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 5638814.14,
+      u
+      'qty': 0.854,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 6602826.86,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '2b91f91680',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 6602826.86,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 5638814.14,
+      u
+      'net_rate': 6602826.86,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 09. Instalaci\xf3n fibra \xf3ptica - T',
+      u
+      'base_rate': 6602826.86,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 5638814.14,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 79,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 5638814.14,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 0.0,
+      u
+      'qty': 1.0,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 0.0,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      'c883c8d3a3',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 0.0,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 0.0,
+      u
+      'net_rate': 0.0,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 10. Reparaci\xf3n puente acceso - T',
+      u
+      'base_rate': 0.0,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 0.0,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 80,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 0.0,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 162365663.98,
+      u
+      'qty': 0.796,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 203976964.8,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '00f0e684ae',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 203976964.8,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 162365663.98,
+      u
+      'net_rate': 203976964.8,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 12. Gastos Generales - T',
+      u
+      'base_rate': 203976964.8,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 162365663.98,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 81,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 162365663.98,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    },
+    {
+      u
+      '__islocal': 1,
+      u
+      'base_price_list_rate': 0.0,
+      u
+      'image': u
+      '',
+      u
+      'base_amount': 94899591.47,
+      u
+      'qty': 0.083,
+      u
+      'margin_rate_or_amount': 0.0,
+      u
+      'rate': 119220592.3,
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'cost_center': u
+      '',
+      u
+      'so_detail': u
+      '877b8dcbf3',
+      u
+      'actual_qty': 0.0,
+      u
+      'page_break': 0,
+      u
+      'base_net_rate': 119220592.3,
+      u
+      'discount_percentage': 0.0,
+      u
+      'item_name': u
+      'Item Partida Costo Directo Obra',
+      u
+      'base_net_amount': 94899591.47,
+      u
+      'net_rate': 119220592.3,
+      u
+      'stock_uom': u
+      'unidad',
+      u
+      'docstatus': 0,
+      u
+      'actual_batch_qty': 0.0,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'description': u
+      'MCA - 13. Utilidad e imprevistos - T',
+      u
+      'base_rate': 119220592.3,
+      u
+      'item_code': u
+      'Partida Costo Directo Obra',
+      u
+      'margin_type': u
+      '',
+      u
+      'expense_account': u
+      '5.1.1 Costo de Producci\xf3n Materiales - T',
+      u
+      'delivered_qty': 0.0,
+      u
+      'net_amount': 94899591.47,
+      u
+      'price_list_rate': 0.0,
+      u
+      'idx': 82,
+      u
+      'sales_order': u
+      'SO-00065',
+      u
+      'item_tax_rate': u
+      '{}',
+      u
+      'income_account': u
+      '4.1.1 Ingresos Facturados de Obra - T',
+      u
+      'item_group': u
+      '6 Productos',
+      u
+      'doctype': u
+      'Sales Invoice Item',
+      u
+      'amount': 94899591.47,
+      u
+      'is_sample_item': 0,
+      u
+      'delivered_by_supplier': 0,
+      u
+      'parentfield': u
+      'items',
+      u
+      'is_fixed_asset': 0,
+      u
+      'total_margin': 0.0
+    }
+  ],
+  u
+  'customer_group': u
+  'Comercial',
+  u
+  'apply_discount_on': u
+  'Grand Total',
+  u
+  'is_return': 0,
+  u
+  'doctype': u
+  'Sales Invoice',
+  u
+  'taxes': [
+    {
+      u
+      'charge_type': u
+      'On Net Total',
+      u
+      '__islocal': 1,
+      u
+      'base_tax_amount': 198800004.53,
+      u
+      'tax_amount': 198800004.53,
+      u
+      'description': u
+      'IVA D\xe9bito Fiscal',
+      u
+      'item_wise_tax_detail': u
+      '{"Partida Costo Directo Obra":[19.0,198800004.53]}',
+      u
+      'base_tax_amount_after_discount_amount': 198800004.53,
+      u
+      'base_total': 1245115817.7,
+      u
+      'parenttype': u
+      'Sales Invoice',
+      u
+      'doctype': u
+      'Sales Taxes and Charges',
+      u
+      'owner': u
+      'lizquierdo@tecton.cl',
+      u
+      'included_in_print_rate': 0,
+      u
+      'rate': 19.0,
+      u
+      'parentfield': u
+      'taxes',
+      u
+      'tax_amount_after_discount_amount': 198800004.53,
+      u
+      'docstatus': 0,
+      u
+      'cost_center': u
+      '',
+      u
+      'total': 1245115817.7,
+      u
+      'account_head': u
+      '2.1.4.1 IVA debito fiscal - T',
+      u
+      'idx': 1
+    }
+  ],
+  u
+  'project': u
+  'Central Hidroel\xe9ctrica de Pasada El Array\xe1n',
+  u
+  'net_total': 1046315813.17,
+  u
+  'is_pos': 0,
+  u
+  'rounded_total': 1245115818.0,
+  u
+  'repeat_on_day_of_month': 0,
+  u
+  'contact_person': u
+  'Jorge Mu\xf1oz-Hidroel\xe9ctrica Array\xe1n SpA',
+  u
+  'in_words': u
+  'CLP One Billion, Five Hundred And Sixty Four Million, Three Hundred And Forty Four Thousand, Six Hundred And Eighty only.',
+  u
+  'debit_to': u
+  '1.1.2.1 Clientes - T',
+  u
+  'sales_team': [],
+  u
+  'total_taxes_and_charges': 198800004.53
+}
+aa

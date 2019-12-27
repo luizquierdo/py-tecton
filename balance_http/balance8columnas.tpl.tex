@@ -1,0 +1,56 @@
+\documentclass[8pt, landscape]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[top=1in, bottom=1.25in, left=0.5in, right=0.5in]{geometry}
+\usepackage{longtable}
+\usepackage{graphicx}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{tikz}
+%\usepackage{lipsum}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\setlength\headheight{33pt}
+\rhead{\includegraphics[height=1cm]{logo.jpg}}
+\fancyfoot[C]{Consorcio HLI Hydrogroup SpA \\ Av. Providencia 2330 Of. 63, Providencia. F: +56 22 33 55 466 - mail@cohh.cl}
+\renewcommand{\headrulewidth}{0.4pt}% Default \headrulewidth is 0.4pt
+\renewcommand{\footrulewidth}{0.4pt}% Default \footrulewidth is 0pt
+\headheight = 8pt
+
+\begin{document}
+
+\begin{flushleft}
+{\small
+RAZON SOCIAL: CONSORCIO HLI HYDROGROUP SPA \\
+RUT: 76.407.152-2 \\
+DIRECCION: AV. PROVIDENCIA 2330, OF. 63 \\
+COMUNA: PROVIDENCIA } 
+\end{flushleft}
+
+\begin{center}
+\textbf{BALANCE GENERAL DEL $fecha_inicio AL $fecha_termino}
+\end{center}
+
+\begin{longtable}{l | r r | r r | r r | r r }
+\hline
+\textbf{Cuenta} & \textbf{Debitos} & \textbf{Creditos} & \textbf{Deudor} & \textbf{Acreedor} & \textbf{Activo} & \textbf{Pasivo} & \textbf{Perdida} & \textbf{Ganancia}\\
+\hline
+\endhead
+#for $r in $row
+$r['cuenta'] & $r['debitos'] & $r['creditos'] & $r['deudor'] & $r['acreedor'] & $r['activo'] & $r['pasivo'] & $r['perdida'] & $r['ganancia'] \\
+#end for
+\hline
+& & & & & & & &\\
+\hline
+Totales & $debitos & $creditos & $deudor & $acreedor & $activo & $pasivo & $perdida & $ganancia \\ 
+\hline
+Utilidad (Perdida) del Ejercicio & & & & & & $utilidad & $utilidad & \\ 
+\hline
+Totales Iguales & $debitos & $creditos & $deudor & $acreedor & $activo & $activo & $ganancia & $ganancia \\ 
+
+\end{longtable}
+\begin{tikzpicture}[remember picture,overlay,shift={(12.5,0)}]
+	\draw (-7,-3) -- node[below] {Representante Legal} ++(6,0);
+	\draw (1,-3) -- node[below] {Contador} ++(6,0);
+\end{tikzpicture}
+\end{document}

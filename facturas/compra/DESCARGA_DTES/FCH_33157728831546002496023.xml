@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EDTE4267468D524537773">
+<Caratula version="1.0">
+<RutEmisor>96511460-2</RutEmisor>
+<RutEnvia>10407900-8</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2006-06-15</FchResol>
+<NroResol>80</NroResol>
+<TmstFirmaEnv>2018-12-28T10:08:16</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+<Documento ID="S20181228T033F0015772883"><Encabezado><IdDoc><TipoDTE>33</TipoDTE><Folio>0015772883</Folio><FchEmis>2018-12-28</FchEmis><FmaPago>2</FmaPago><FchVenc>2019-01-27</FchVenc></IdDoc>			<Emisor>
+				<RUTEmisor>96511460-2</RUTEmisor>
+				<RznSoc>CONSTRUMART S A</RznSoc>
+				<GiroEmis>Distribuidora de materiales de construcción</GiroEmis>
+				<Telefono>4276000</Telefono>
+				<Acteco>514320</Acteco>
+				<Sucursal>Casa Matriz</Sucursal>
+				<DirOrigen>Avda. Las Americas 707</DirOrigen>
+				<CmnaOrigen>Conchali</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+<Receptor><RUTRecep>76407152-2</RUTRecep><CdgIntRecep>0076407152</CdgIntRecep><RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep><GiroRecep>CONSTRUCCION DE EDIFICIOS PARA USO RESID</GiroRecep><DirRecep>AVDA. PROVIDENCIA 2330 OF. 63</DirRecep><CmnaRecep>PROVIDENCIA</CmnaRecep><CiudadRecep>Santiago</CiudadRecep></Receptor><Transporte><Patente>PT15</Patente><DirDest>AVDA. PROVIDENCIA 2330 OF. 63</DirDest><CmnaDest>PROVIDENCIA</CmnaDest></Transporte><Totales><MntNeto>55384</MntNeto><TasaIVA>19.00</TasaIVA><IVA>10523</IVA><MntTotal>65907</MntTotal></Totales></Encabezado><Detalle><NroLinDet>1</NroLinDet><CdgItem><TpoCodigo>CM</TpoCodigo><VlrCodigo>24079</VlrCodigo></CdgItem><NmbItem>EXPANSOR MEZCLA INTRAPLAS BOLSA 0.85 KG</NmbItem><QtyItem>57.000</QtyItem><UnmdItem>C/U</UnmdItem><PrcItem>971.649</PrcItem><MontoItem>55384</MontoItem></Detalle><Referencia><NroLinRef>01</NroLinRef><TpoDocRef>801</TpoDocRef><FolioRef>04321</FolioRef><FchRef>2018-12-28</FchRef></Referencia><Referencia><NroLinRef>02</NroLinRef><TpoDocRef>52</TpoDocRef><FolioRef>0020932714</FolioRef><FchRef>2018-12-28</FchRef></Referencia>
+<TED version="1.0"><DD><RE>96511460-2</RE><TD>33</TD><F>0015772883</F><FE>2018-12-28</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>65907</MNT><IT1>EXPANSOR MEZCLA INTRAPLAS BOLSA 0.85 KG</IT1><CAF version="1.0"><DA><RE>96511460-2</RE><RS>CONSTRUMART S A</RS><TD>33</TD><RNG><D>15675414</D><H>15775413</H></RNG><FA>2018-02-19</FA><RSAPK><M>zos4M5BEju0+xF+a1/+h6LJ6/nAOO2femtgOr18kWLky/wQGfq76WYJLH6kA5t76fJxdKEPzWkUx8g2V45SW2Q==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">WOCA2pr2xRxIxy1vWTHRrMx16k7kHQN9cOPpPTfgEWIh70OfozCHk1b9VD2ruLylbM6HpTVRNQf6iZ1neUt+cQ==</FRMA></CAF><TSTED>2018-12-28T10:36:03</TSTED></DD><FRMT algoritmo="SHA1withRSA">y6fDJCbDGH8lju0yO+yrLSoImwDLIUzjbYe8Ti0zafmDJzJrWj5v94GDCArqJqRbap3Zd1s8SVak
+USKWO6igXw==
+</FRMT></TED>
+<TmstFirma>2018-12-28T10:36:03</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#S20181228T033F0015772883">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>ZbTo68Q4FeQ5CGHsOR7Px5EuvgM=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    lCS3QNQseMwAMhYJavnnLuGyVogSQQvPXiMXBrWQ0GP4Y/WSpY+pzj2kWj6+RBYG
+    yupgzU8aTYdmKhLI/q06xH14JwpvtIGOtRo7F7tDQ7MMzvm4IM2gSsSK39HB5Ico
+    eMFuJhuiFqTOrlq7Y+O7+xWhVENqtDkXbYWCgCp8ie0=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          rlP7b+oV9LiSA19+JikhvL3++r8GzaON088NAy8P/ROHinYBElFdnSiAnu7TWtmi
+          1FpXjB3SUHMVpKR7MqRnztd5oq9absVWXLH85zM0jSRItUcVQ8kZ9OUSgFPh8YIu
+          Lt9Puc707LklYKXaIHGDd63ebXVOOVFALlzI6t28GJE=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGRzCCBS+gAwIBAgIKQsYoJwAAAAhtmDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNzA3MjAxMzQyMTlaFw0yMDA3MTkxMzQyMTlaMIHK
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMRgwFgYDVQQKEw9DT05TVFJVTUFSVCBTLkEx
+        FTATBgNVBAsTDENPTlRBQklMSURBRDErMCkGA1UEAxMiR1VJTExFUk1PIEFOVE9O
+        SU8gIEVMR1VFVEEgU0FOQ0hFWjElMCMGCSqGSIb3DQEJARYWanZhbGRlc0Bjb25z
+        dHJ1bWFydC5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArlP7b+oV9LiS
+        A19+JikhvL3++r8GzaON088NAy8P/ROHinYBElFdnSiAnu7TWtmi1FpXjB3SUHMV
+        pKR7MqRnztd5oq9absVWXLH85zM0jSRItUcVQ8kZ9OUSgFPh8YIuLt9Puc707Lkl
+        YKXaIHGDd63ebXVOOVFALlzI6t28GJECAwEAAaOCAqcwggKjMD0GCSsGAQQBgjcV
+        BwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFk
+        AgEEMB0GA1UdDgQWBBR60DWTBzeTLnQdEV8awTtyNxk6NjALBgNVHQ8EBAMCBPAw
+        HwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGg
+        L4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3Js
+        MDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRj
+        aGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTA0MDc5MDAt
+        ODAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNVHSAE
+        ggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3
+        dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUA
+        cgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAA
+        SABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0A
+        YQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgA
+        YQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBkAG8A
+        IABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3
+        DQEBBQUAA4IBAQAIVEaWHkQ+LXWT6BeRCYHcS/27zuVFgOLASAZtW1WQNK2gdId+
+        u6Z/NRvqsrt1LOkmmwYIICCufQygGtlxpvAagOBkliGmcEc5OzeNc/1gAGHf0cRu
+        HZFoEA0hpSAXXnV9Ifnyml8kkqgf/zU/zjnMOgy+1DRBsaSJ5aPq79Nvs7LX567m
+        VhxGfbl22ycee2dLdpeaeOD7b4j4e1nM4hNgRBO3afcWUbakx7VjEMqOSodWJfWh
+        FY/Y2wQYEtxad60bBeFVeUt/Yvqfca1/D8K4wY51zuMPRmLdKLokGDM+MUohSoV8
+        p/mXgGGnLgt/RLPziOh1xLcoHZvfMTF3W3rt
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature>
+
+
+</DTE>
+
+</SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#EDTE4267468D524537773">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>2JcGKXB0C1/12ghb4b5f2KcTTpo=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    gG6tWdulAKbX6LxSKgubiJ14dAwRmdpUCbGbLjORTdP+2On4g33lZmL3HWp69NUg
+    dMihF24c7Smpvh9Ap3IuM6pHltxtIwlzQat7GJvPPE3AiH51DDQw7ZeYWnlR5FqF
+    U5SKwTWTbmYqxeTheN7a/U0Qe+MvEPa1QH3U7nC+jKE=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          rlP7b+oV9LiSA19+JikhvL3++r8GzaON088NAy8P/ROHinYBElFdnSiAnu7TWtmi
+          1FpXjB3SUHMVpKR7MqRnztd5oq9absVWXLH85zM0jSRItUcVQ8kZ9OUSgFPh8YIu
+          Lt9Puc707LklYKXaIHGDd63ebXVOOVFALlzI6t28GJE=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGRzCCBS+gAwIBAgIKQsYoJwAAAAhtmDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNzA3MjAxMzQyMTlaFw0yMDA3MTkxMzQyMTlaMIHK
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMRgwFgYDVQQKEw9DT05TVFJVTUFSVCBTLkEx
+        FTATBgNVBAsTDENPTlRBQklMSURBRDErMCkGA1UEAxMiR1VJTExFUk1PIEFOVE9O
+        SU8gIEVMR1VFVEEgU0FOQ0hFWjElMCMGCSqGSIb3DQEJARYWanZhbGRlc0Bjb25z
+        dHJ1bWFydC5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArlP7b+oV9LiS
+        A19+JikhvL3++r8GzaON088NAy8P/ROHinYBElFdnSiAnu7TWtmi1FpXjB3SUHMV
+        pKR7MqRnztd5oq9absVWXLH85zM0jSRItUcVQ8kZ9OUSgFPh8YIuLt9Puc707Lkl
+        YKXaIHGDd63ebXVOOVFALlzI6t28GJECAwEAAaOCAqcwggKjMD0GCSsGAQQBgjcV
+        BwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFk
+        AgEEMB0GA1UdDgQWBBR60DWTBzeTLnQdEV8awTtyNxk6NjALBgNVHQ8EBAMCBPAw
+        HwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGg
+        L4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3Js
+        MDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRj
+        aGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTA0MDc5MDAt
+        ODAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNVHSAE
+        ggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3
+        dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUA
+        cgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAA
+        SABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0A
+        YQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgA
+        YQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBkAG8A
+        IABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3
+        DQEBBQUAA4IBAQAIVEaWHkQ+LXWT6BeRCYHcS/27zuVFgOLASAZtW1WQNK2gdId+
+        u6Z/NRvqsrt1LOkmmwYIICCufQygGtlxpvAagOBkliGmcEc5OzeNc/1gAGHf0cRu
+        HZFoEA0hpSAXXnV9Ifnyml8kkqgf/zU/zjnMOgy+1DRBsaSJ5aPq79Nvs7LX567m
+        VhxGfbl22ycee2dLdpeaeOD7b4j4e1nM4hNgRBO3afcWUbakx7VjEMqOSodWJfWh
+        FY/Y2wQYEtxad60bBeFVeUt/Yvqfca1/D8K4wY51zuMPRmLdKLokGDM+MUohSoV8
+        p/mXgGGnLgt/RLPziOh1xLcoHZvfMTF3W3rt
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature></EnvioDTE>

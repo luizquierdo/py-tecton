@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F12274317">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>12274317</Folio>
+            <FchEmis>2016-02-12</FchEmis>
+            <FchVenc>2016-02-12</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76568660-1</RUTEmisor>
+            <RznSoc>EASY RETAIL S.A.</RznSoc>
+            <GiroEmis>Articulos para el hogar, Materiales para la construcción, Ferreteria, Accesorio</GiroEmis>
+            <Telefono>299 6900 - 212 1106</Telefono>
+            <Acteco>523410</Acteco>
+            <DirOrigen>Santiago</DirOrigen>
+            <CmnaOrigen>Santiago</CmnaOrigen>
+            <CiudadOrigen>Chile</CiudadOrigen>
+            <CdgVendedor>760 - Fernandez Acuña Felipe</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>HLI construcciones SPA</RznSocRecep>
+            <GiroRecep>CONTRUCCION</GiroRecep>
+            <DirRecep>AV ISIDIRA GOYENECHEA 3356 OF 41</DirRecep>
+            <CmnaRecep>LAS CONDES</CmnaRecep>
+            <CiudadRecep>LAS CONDES</CiudadRecep>
+            <DirPostal/>
+            <CmnaPostal/>
+          </Receptor>
+          <Totales>
+            <MntNeto>255366</MntNeto>
+            <TasaIVA>19.00</TasaIVA>
+            <IVA>48520</IVA>
+            <MntTotal>303886</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>SAP</TpoCodigo>
+            <VlrCodigo>772774</VlrCodigo>
+          </CdgItem>
+          <NmbItem>LANA VIDRIO LIBRE 50X1.2X12 M. 14.4 M2</NmbItem>
+          <QtyItem>6.00</QtyItem>
+          <PrcItem>22800.00</PrcItem>
+          <MontoItem>136800</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>SAP</TpoCodigo>
+            <VlrCodigo>488120</VlrCodigo>
+          </CdgItem>
+          <NmbItem>OSB STD 11.1X1220X2440MM</NmbItem>
+          <QtyItem>18.00</QtyItem>
+          <PrcItem>6587.00</PrcItem>
+          <MontoItem>118566</MontoItem>
+        </Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>76568660-1</RE>
+            <TD>33</TD>
+            <F>12274317</F>
+            <FE>2016-02-12</FE>
+            <RR>76407152-2</RR>
+            <RSR>HLI construcciones SPA</RSR>
+            <MNT>303886</MNT>
+            <IT1>LANA VIDRIO LIBRE 50X1.2X12 M. 14.4 M2</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76568660-1</RE>
+                <RS>EASY RETAIL S.A. .-</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>12000001</D>
+                  <H>12570000</H>
+                </RNG>
+                <FA>2016-01-28</FA>
+                <RSAPK>
+                  <M>3NdO7NoOflq4nXTKIxkkvZNYOg8GjTPhGhfSiI01HnU7+CTtmshLYszku5cA2Xw6gKhXbc0MwkXnBLQgZeYgkw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">VVs/XD3BgCGEk9w8vs3bgfJYCfl5qUXuzhFqCXAB9o1jTf92TPuBxf9SWkhgrdTn1njdlT+kw3bHUXPdxluVxg==</FRMA>
+            </CAF>
+            <TSTED>2016-02-12T10:27:36</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">KGuP3U7ZbuKXGb2wcUTDp6WZCkh7AwXXBQGinbBVpqIkiD7hSGrjXgo3IhcWb+Eii8JGza/e+ZJa
+x9VeQKj7YA==</FRMT>
+        </TED>
+        <TmstFirma>2016-02-12T10:27:36</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<Reference URI="#T33F12274317">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<DigestValue>zrNlRm8dIPWizKWfyysVulZG54M=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>gfpk9hHTLPhX0SOZI8KV2bogj26ksN85rBuXIhmSfnWi4bN2I7jSS87MxQAtcE0TVdZ9wKwoFxyP
+g9rqf3kewLhZXpN+KRkqK5UyzvBE7y/VCPedePgKFTjdS+2BuNXqeSj+d772Tj82OjRd2aRPWCQ+
+vPim1Lm1XGfb7bge3gqYY1Lm1hpH3pr6Nwt9rVlqyVLsUHE/DsIRX0AlErR/+S/zyoAjKgfM5eWF
+wJJ6z8/EG2EReyd/S9jZfPCEx9Ms655Dut4idQLQ+TTVKw6sK1ZWciPhCuVG+jErY/rPB16IpXhD
+q2n754VerRVGKvCaEFRB2/WiQw2sBX3U9t5Cgg==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>hyQYMgoP96GHgmnq2+2QXGLS1Zp50NN1pImqNF6yKEyqBG3Fbisa7asRmvuZtOnRLBkrLusp0nna
+aN/iyV/AOuPWgbGFxYqgDl4f8AH96FI7i+lB2E6wf3VyTNZAGzcVHPLQyZ4KV8d/lCpFsLpYQmiR
+HIqnqxPCcyMs7HNwIylkyGTZm/ckHG3E9NpnOnge3r61Eq0T8uIH65LFzBgvfSwnwbP9dINveSot
+J1zd4VkmHBUGfoGxYu8XY5r1Bp2qXdeF/Oa8YqddwSiUGZD1u2CapGde/05Bet76hTrFgVVlhT/j
+C9sHl1LTIkdrWtZX0VmftlBmRGxdaBvzLen/VQ==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIF6TCCBNGgAwIBAgICGc0wDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMiBQZXJzb25hIE5hdHVyYWwgLSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE2MDExODE1NTgzMloXDTE5MDExODE1
+NTgzMlowgZIxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKDAmBgNVBAMT
+H1JPRFJJR08gQ1JJU1RJQU4gTEFSUkFJTiBLQVBMQU4xKjAoBgkqhkiG9w0BCQEWG3JvZHJpZ28u
+bGFycmFpbkBjZW5jb3N1ZC5jbDETMBEGA1UEBRMKMTA5NzMxMzktMDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAIckGDIKD/ehh4Jp6tvtkFxi0tWaedDTdaSJqjResihMqgRtxW4rGu2r
+EZr7mbTp0SwZKy7rKdJ52mjf4slfwDrj1oGxhcWKoA5eH/AB/ehSO4vpQdhOsH91ckzWQBs3FRzy
+0MmeClfHf5QqRbC6WEJokRyKp6sTwnMjLOxzcCMpZMhk2Zv3JBxtxPTaZzp4Ht6+tRKtE/LiB+uS
+xcwYL30sJ8Gz/XSDb3kqLSdc3eFZJhwVBn6BsWLvF2Oa9Qadql3XhfzmvGKnXcEolBmQ9btgmqRn
+Xv9OQXre+oU6xYFVZYU/4wvbB5dS0yJHa1rWV9FZn7ZQZkRsXWgb8y3p/1UCAwEAAaOCAjEwggIt
+MB8GA1UdIwQYMBaAFEAkGj2pMXqFd3o9nnKTOYTlQDgZMB0GA1UdDgQWBBSmYGQBII2w6e0u0Fbb
+MvVPcCCVDDALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCG
+SAGG+EIBAQQEAwIFoDBuBgNVHSAEZzBlMGMGCisGAQQBtWuHagowVTAoBggrBgEFBQcCARYcaHR0
+cDovL3d3dy5hY2VwdGEuY29tL0NQUy1HMzApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5B
+LjADAgEJGgNUQkQwWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUF
+BwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBmBgNVHREEXzBd
+oBgGCCsGAQQBwQEBoAwWCjEwOTczMTM5LTCgJAYIKwYBBQUHCAOgGDAWDAoxMDk3MzEzOS0wBggr
+BgEEAcEBAoEbcm9kcmlnby5sYXJyYWluQGNlbmNvc3VkLmNsMD8GCCsGAQUFBwEBBDMwMTAvBggr
+BgEFBQcwAYYjaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTNCaW8tRzMwNwYDVR0fBDAwLjAs
+oCqgKIYmaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNlM0Jpby1HMy5jcmwwDQYJKoZIhvcNAQEF
+BQADggEBADCDeesrjKQxQSzOVp+uZjmzcSXUh+SXA2K7hASiYZLm7umb/dxrV2xCa6cWt/5rIQv8
+ivhqcu78ShBhH3h9NZitpqPeO2uhz7ZJ5nOp+kzOwYI71INJ28AyL6G8Z2X5eQqBRC63U0QsJ3f4
+AHdnJ5E+wwRNd4IKGvyf//7sPej0NTPDpAMvx401bmzkwJhMMGaSHrnrQxEqYAU6tu4qo4+QQmtJ
+T5wpvKsukHB2ahgbTaQv+hOOBj5r3KzkiiNCIMQP+N3OLRObIT6fQUpB+AhglyhgJlLbw/h+nPaz
+PY+WmtRG6PgABy8xRNo+M8/am9+zibTFg5dgyuDQ0XD6eoA=</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE>

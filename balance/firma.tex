@@ -1,0 +1,28 @@
+\documentclass[8pt, landscape]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[top=1in, bottom=1.25in, left=0.5in, right=0.5in]{geometry}
+\usepackage{longtable}
+\usepackage{graphicx}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\setlength\headheight{33pt}
+\rhead{\includegraphics[height=1cm]{logo.jpg}}
+\fancyfoot[C]{Constructora Tecton SpA \\ Nueva de Lyon 0124 Of. 601, Providencia. F: +56 229932420}
+\renewcommand{\headrulewidth}{0.4pt}% Default \headrulewidth is 0.4pt
+\renewcommand{\footrulewidth}{0.4pt}% Default \footrulewidth is 0pt
+\headheight = 8pt
+
+\begin{document}
+
+
+\begin{tikzpicture} %[>=stealth]
+	\draw (\textwidth/1,0) -- node[below] {Representante Legal} ++(\textwidth*3/8,0);
+	\draw (\textwidth*5/8,0) -- node[below] {Contador} ++(\textwidth*3/8,0);
+\end{tikzpicture}
+
+
+\end{document}

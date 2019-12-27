@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+<SetDTE ID="SetDoc">
+<Caratula version="1.0">
+  <RutEmisor>78110590-2</RutEmisor>
+  <RutEnvia>8546082-K</RutEnvia>
+  <RutReceptor>76407152-2</RutReceptor>
+  <FchResol>2009-12-02</FchResol>
+  <NroResol>179</NroResol>
+  <TmstFirmaEnv>2019-02-07T07:02:45</TmstFirmaEnv>
+  <SubTotDTE>
+    <TpoDTE>33</TpoDTE>
+    <NroDTE>1</NroDTE>
+  </SubTotDTE>
+</Caratula>
+<DTE version="1.0">
+<Documento ID="F170407T33">
+  <Encabezado>
+    <IdDoc>
+      <TipoDTE>33</TipoDTE>
+      <Folio>170407</Folio>
+      <FchEmis>2019-02-07</FchEmis>
+      <TipoDespacho>1</TipoDespacho>
+      <FmaPago>2</FmaPago>
+      <FchCancel>2019-03-09</FchCancel>
+      <MedioPago>EF</MedioPago>
+      <TermPagoCdg>FRF</TermPagoCdg>
+      <TermPagoDias>30</TermPagoDias>
+      <FchVenc>2019-03-09</FchVenc>
+    </IdDoc>
+    <Emisor>
+      <RUTEmisor>78110590-2</RUTEmisor>
+      <RznSoc>Pinto Glavich Ingenieria y Construccion S.A.</RznSoc>
+      <GiroEmis>Importacion de Maquinaria, equipos, accesorios y repuestos</GiroEmis>
+      <Acteco>515009</Acteco>
+      <Sucursal>FV</Sucursal>
+      <DirOrigen>Tranquilo 272</DirOrigen>
+      <CmnaOrigen>Pudahuel</CmnaOrigen>
+      <CiudadOrigen>Santiago</CiudadOrigen>
+      <CdgVendedor>Gerardo Pinto</CdgVendedor>
+    </Emisor>
+    <RUTMandante>76407152-2</RUTMandante>
+    <Receptor>
+      <RUTRecep>76407152-2</RUTRecep>
+      <CdgIntRecep>76407152</CdgIntRecep>
+      <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+      <GiroRecep>CONSTRUCCION</GiroRecep>
+      <Contacto>ANTONIO  CANADA</Contacto>
+      <DirRecep>AV   PROVIDENCIA  2330  OF 63</DirRecep>
+      <CmnaRecep>PROVIDENCIA</CmnaRecep>
+      <CiudadRecep>SANTIAGO</CiudadRecep>
+      <DirPostal>AV   PROVIDENCIA  2330  OF 63</DirPostal>
+      <CmnaPostal>PROVIDENCIA</CmnaPostal>
+      <CiudadPostal>SANTIAGO</CiudadPostal>
+    </Receptor>
+    <RUTSolicita>76407152-2</RUTSolicita>
+    <Transporte>
+      <DirDest>AV PASEO PIE ANDINO 3010</DirDest>
+      <CmnaDest>LO BARNECHEA</CmnaDest>
+      <CiudadDest>SANTIAGO,Chile</CiudadDest>
+    </Transporte>
+    <Totales>
+      <MntNeto>173898</MntNeto>
+      <MntBase>0</MntBase>
+      <TasaIVA>19</TasaIVA>
+      <IVA>33041</IVA>
+      <IVAProp>0</IVAProp>
+      <IVATerc>0</IVATerc>
+      <CredEC>0</CredEC>
+      <GrntDep>0</GrntDep>
+      <MntTotal>206939</MntTotal>
+    </Totales>
+  </Encabezado>
+  <Detalle>
+    <NroLinDet>1</NroLinDet>
+    <CdgItem>
+      <TpoCodigo>INT1</TpoCodigo>
+      <VlrCodigo>BOM1002140</VlrCodigo>
+    </CdgItem>
+    <CdgItem>
+      <TpoCodigo>EAN13</TpoCodigo>
+      <VlrCodigo>1</VlrCodigo>
+    </CdgItem>
+    <CdgItem>
+      <TpoCodigo>PUNIT</TpoCodigo>
+      <VlrCodigo>172169.00</VlrCodigo>
+    </CdgItem>
+    <CdgItem>
+      <TpoCodigo>PFINAL</TpoCodigo>
+      <VlrCodigo>172169.00</VlrCodigo>
+    </CdgItem>
+    <CdgItem>
+      <TpoCodigo>QBLI</TpoCodigo>
+      <VlrCodigo>0</VlrCodigo>
+    </CdgItem>
+    <NmbItem>BOMBA STM150  1.5 HP  220V</NmbItem>
+    <QtyRef>1</QtyRef>
+    <UnmdRef>UNID</UnmdRef>
+    <PrcRef>258900</PrcRef>
+    <QtyItem>1</QtyItem>
+    <Subcantidad>
+      <SubQty>.000001</SubQty>
+      <SubCod>0</SubCod>
+    </Subcantidad>
+    <FchElabor>2019-02-07</FchElabor>
+    <FchVencim>2019-02-07</FchVencim>
+    <UnmdItem>UNID</UnmdItem>
+    <PrcItem>258900</PrcItem>
+    <DescuentoPct>33.50</DescuentoPct>
+    <DescuentoMonto>86731</DescuentoMonto>
+    <MontoItem>172169</MontoItem>
+  </Detalle>
+  <Detalle>
+    <NroLinDet>2</NroLinDet>
+    <CdgItem>
+      <TpoCodigo>INT1</TpoCodigo>
+      <VlrCodigo>ACC0301010</VlrCodigo>
+    </CdgItem>
+    <CdgItem>
+      <TpoCodigo>EAN13</TpoCodigo>
+      <VlrCodigo>1</VlrCodigo>
+    </CdgItem>
+    <CdgItem>
+      <TpoCodigo>PUNIT</TpoCodigo>
+      <VlrCodigo>1729.00</VlrCodigo>
+    </CdgItem>
+    <CdgItem>
+      <TpoCodigo>PFINAL</TpoCodigo>
+      <VlrCodigo>1729.00</VlrCodigo>
+    </CdgItem>
+    <CdgItem>
+      <TpoCodigo>QBLI</TpoCodigo>
+      <VlrCodigo>0</VlrCodigo>
+    </CdgItem>
+    <NmbItem>VALVULA DE PIE 1p</NmbItem>
+    <QtyRef>1</QtyRef>
+    <UnmdRef>UNID</UnmdRef>
+    <PrcRef>2600</PrcRef>
+    <QtyItem>1</QtyItem>
+    <Subcantidad>
+      <SubQty>.000001</SubQty>
+      <SubCod>1</SubCod>
+    </Subcantidad>
+    <FchElabor>2019-02-07</FchElabor>
+    <FchVencim>2019-02-07</FchVencim>
+    <UnmdItem>UNID</UnmdItem>
+    <PrcItem>2600</PrcItem>
+    <DescuentoPct>33.50</DescuentoPct>
+    <DescuentoMonto>871</DescuentoMonto>
+    <MontoItem>1729</MontoItem>
+  </Detalle>
+  <Referencia>
+    <NroLinRef>1</NroLinRef>
+    <TpoDocRef>801</TpoDocRef>
+    <FolioRef>4592-2</FolioRef>
+    <FchRef>2019-02-07</FchRef>
+  </Referencia>
+  <Referencia>
+    <NroLinRef>2</NroLinRef>
+    <TpoDocRef>52</TpoDocRef>
+    <FolioRef>214218</FolioRef>
+    <FchRef>2019-02-07</FchRef>
+  </Referencia>
+  <Referencia>
+    <NroLinRef>3</NroLinRef>
+    <TpoDocRef>NV</TpoDocRef>
+    <FolioRef>222682</FolioRef>
+    <FchRef>2019-02-07</FchRef>
+  </Referencia>
+  <TED version="1.0">
+    <DD>
+      <RE>78110590-2</RE>
+      <TD>33</TD>
+      <F>170407</F>
+      <FE>2019-02-07</FE>
+      <RR>76407152-2</RR>
+      <RSR>CONSTRUCTORA TECTON SPA</RSR>
+      <MNT>206939</MNT>
+      <IT1>BOMBA STM150  1.5 HP  220V</IT1>
+      <CAF version="1.0">
+        <DA>
+          <RE>78110590-2</RE>
+          <RS>PINTO GLAVICH INGENIERIA Y CONSTRUCCION</RS>
+          <TD>33</TD>
+          <RNG>
+            <D>164359</D>
+            <H>185358</H>
+          </RNG>
+          <FA>2018-10-26</FA>
+          <RSAPK>
+            <M>zfTHZxhVjyGof3+yIBtp/ZtrQwj7zLrg+JTdpaxVCr6ycKuoO6rGUeDHDx19+WmXV3wLkEcsROTnZciTc2mfMw==</M>
+            <E>Aw==</E>
+          </RSAPK>
+          <IDK>300</IDK>
+        </DA>
+        <FRMA algoritmo="SHA1withRSA">SezToWGE+ppcLQ/Siy6P+yfzyLPW1q2UtQe5Jngh+KfXc3hH5FHTyxwi+tyN91kCyhF18aygPUUfWnwtWK3zqw==</FRMA>
+      </CAF>
+      <TSTED>2019-02-07T07:54:13</TSTED>
+    </DD>
+    <FRMT algoritmo="SHA1withRSA">EYL/71CDuyTpEyLVWDE6nX9GMdn51GOcrbwc1mWJa1ujISFsh/XJ/mc6oVYN5/5s9J+ne47+E9zkP3DLOBHjOw==</FRMT>
+  </TED>
+  <TmstFirma>2019-02-07T07:54:13</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#F170407T33">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>/YIZ0TJcq4GEfan6XpDK8cfCfP0=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>F5xFdGmWD9TIZYLhc/V4hALe8A3HG6A5MMv5vm38LyB6d57mhsln+3BnjJUPk6xOaTOy5h8yff6a/RVSu1BSTw15J6aQWW88Uij/USlrxABnDFF616Izz3ZdoHnHOXCRyppxD7XwdK/+ohbh/RONIvNEjYBlwDSmmRetsfzNbWk=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+mN9hIDlD3lQEQzsM1qu+NYOtvl+9PCV9JkCpfsFitF/yRvgCWaBLHRm79eECoY0gLXbazVk4p6no
+LiGLNdGulbY2peSUorWV9T768v/zPKRh30UUyPtZ0LVlOLVJCURbKnEGwyRzllC3R+2KuebyOEOV
+ifO9kEi4agb8iJcGSQk=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>MIIGXTCCBUWgAwIBAgIKNO4y6AAAAAhmWjANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA3MTcyMTExMjJaFw0xOTA3MTcyMTExMjJa
+MIHgMQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTzERMA8G
+A1UEBxMIU2FudGlhZ28xNzA1BgNVBAoMLlBJTlRPIEdMQVZJQ0ggSU5HRU5JRVLDjUEgWSBDT05T
+VFJVQ0NJw5NOIFMuQS4xGDAWBgNVBAsMD0FETUlOSVNUUkFDScOTTjEnMCUGA1UEAxMeQ0FSTE9T
+IEZSQU5DSVNDTyBQSU5UTyBCVUVORElBMR4wHAYJKoZIhvcNAQkBFg9NQ09SVEVaQFBHSUMuQ0ww
+gZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJjfYSA5Q95UBEM7DNarvjWDrb5fvTwlfSZAqX7B
+YrRf8kb4AlmgSx0Zu/XhAqGNIC122s1ZOKep6C4hizXRrpW2NqXklKK1lfU++vL/8zykYd9FFMj7
+WdC1ZTi1SQlEWypxBsMkc5ZQt0ftirnm8jhDlYnzvZBIuGoG/IiXBkkJAgMBAAGjggKnMIICozA9
+BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGDqudDh9PGDgIB
+ZAIBBDAdBgNVHQ4EFgQUD/aVVLY/i3xuDofMWOsmIkic2bcwCwYDVR0PBAQDAgTwMB8GA1UdIwQY
+MBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1j
+ZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUH
+MAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEB
+oAwWCjA4NTQ2MDgyLUswIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYD
+VR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1j
+ZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEA
+ZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABp
+AGQAYQBkAG8AIABlAG4AIABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUA
+ZQBkAGEAbgBkAG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0B
+AQUFAAOCAQEAoFrTW1D2ljTqzff4Q5gyxQUxZ/gH/qPiq1paBwsbCKCFV9pD9H+vYJPK0q5qI94g
+9m51nnb/PbHphTdV9C0k6LtcQk5LGUtzknU6NSaXbqNIpiMoInMsJ0zmwDhNux3M/fOHMKv3JHF2
+WaS86I8TUez8AqP4jhLyTVoL/QlXeL5VD5oiXJVXMY5D/vEloyq6BseuIGjJ9omNbzKDcRNgSoMT
+qa5yrf4Hs16Ga5xRzHUUQ0gEjUYPf2X6OtsziFwU8Ib+6vgusbOng8/BWliEZBhBsDuJurYq0dXj
+zxQSuz+f5GDw9+3+00vln2VglG57KvUVI6Efk32gqac7WEZgAQ==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+</SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#SetDoc">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>rtPBdvacYhoBUP33g7XC3aGxCgk=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>OKmdyT9+HA5aHxsGXnApfHiH7a7GBjl+F8NA2Tb81Q1/xcJCv5hOQrn2jfwZapHkoZ65Zsto4ehHleu8TWDXPc2G8XhFFsWcLiuqofpkpOlSsRYJMgvw9YPUJNg4tU5WfuBXtrL7Z7LdyiycS7PNyyDV9nlSKrPQep+uwSmUED0=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+mN9hIDlD3lQEQzsM1qu+NYOtvl+9PCV9JkCpfsFitF/yRvgCWaBLHRm79eECoY0gLXbazVk4p6no
+LiGLNdGulbY2peSUorWV9T768v/zPKRh30UUyPtZ0LVlOLVJCURbKnEGwyRzllC3R+2KuebyOEOV
+ifO9kEi4agb8iJcGSQk=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>MIIGXTCCBUWgAwIBAgIKNO4y6AAAAAhmWjANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA3MTcyMTExMjJaFw0xOTA3MTcyMTExMjJa
+MIHgMQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTzERMA8G
+A1UEBxMIU2FudGlhZ28xNzA1BgNVBAoMLlBJTlRPIEdMQVZJQ0ggSU5HRU5JRVLDjUEgWSBDT05T
+VFJVQ0NJw5NOIFMuQS4xGDAWBgNVBAsMD0FETUlOSVNUUkFDScOTTjEnMCUGA1UEAxMeQ0FSTE9T
+IEZSQU5DSVNDTyBQSU5UTyBCVUVORElBMR4wHAYJKoZIhvcNAQkBFg9NQ09SVEVaQFBHSUMuQ0ww
+gZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJjfYSA5Q95UBEM7DNarvjWDrb5fvTwlfSZAqX7B
+YrRf8kb4AlmgSx0Zu/XhAqGNIC122s1ZOKep6C4hizXRrpW2NqXklKK1lfU++vL/8zykYd9FFMj7
+WdC1ZTi1SQlEWypxBsMkc5ZQt0ftirnm8jhDlYnzvZBIuGoG/IiXBkkJAgMBAAGjggKnMIICozA9
+BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGDqudDh9PGDgIB
+ZAIBBDAdBgNVHQ4EFgQUD/aVVLY/i3xuDofMWOsmIkic2bcwCwYDVR0PBAQDAgTwMB8GA1UdIwQY
+MBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1j
+ZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUH
+MAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEB
+oAwWCjA4NTQ2MDgyLUswIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYD
+VR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1j
+ZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEA
+ZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABp
+AGQAYQBkAG8AIABlAG4AIABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUA
+ZQBkAGEAbgBkAG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0B
+AQUFAAOCAQEAoFrTW1D2ljTqzff4Q5gyxQUxZ/gH/qPiq1paBwsbCKCFV9pD9H+vYJPK0q5qI94g
+9m51nnb/PbHphTdV9C0k6LtcQk5LGUtzknU6NSaXbqNIpiMoInMsJ0zmwDhNux3M/fOHMKv3JHF2
+WaS86I8TUez8AqP4jhLyTVoL/QlXeL5VD5oiXJVXMY5D/vEloyq6BseuIGjJ9omNbzKDcRNgSoMT
+qa5yrf4Hs16Ga5xRzHUUQ0gEjUYPf2X6OtsziFwU8Ib+6vgusbOng8/BWliEZBhBsDuJurYq0dXj
+zxQSuz+f5GDw9+3+00vln2VglG57KvUVI6Efk32gqac7WEZgAQ==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>

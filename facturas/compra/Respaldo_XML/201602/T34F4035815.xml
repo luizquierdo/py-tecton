@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+ <Documento ID="S20160216T034F0004035815">
+  <Encabezado>
+   <IdDoc>
+    <TipoDTE>34</TipoDTE>
+    <Folio>4035815</Folio>
+    <FchEmis>2016-02-16</FchEmis>
+    <IndServicio>2</IndServicio>
+    <PeriodoDesde>2016-01-16</PeriodoDesde>
+    <PeriodoHasta>2016-02-11</PeriodoHasta>
+    <FchVenc>2016-03-01</FchVenc>
+   </IdDoc>
+   			<Emisor>
+				<RUTEmisor>96945440-8</RUTEmisor>
+				<RznSoc>SOC CONCESIONARIA AUTOPISTA CENTRAL S A</RznSoc>
+				<GiroEmis>CONCESION AUTOPISTAS</GiroEmis>
+				<Telefono>(02) 731 8163</Telefono>
+				<Acteco>111</Acteco>
+				<Sucursal>Casa Matriz</Sucursal>
+				<DirOrigen>San José 1135 San Bernardo Región Metropolitana Chile.</DirOrigen>
+				<CmnaOrigen>San Bernardo</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+<Receptor>
+    <RUTRecep>76407152-2</RUTRecep>
+    <CdgIntRecep>52826835</CdgIntRecep>
+    <RznSocRecep>HLI CONTRUCCIONES SPA</RznSocRecep>
+    <GiroRecep>CONTRUCION .</GiroRecep>
+    <Contacto>dtecohh@desis.cl;facturacion@facturachile.cl;raracena@hli.cl</Contacto>
+    <DirRecep>ISIDORA GOYENECHEA 3356</DirRecep>
+    <CmnaRecep>LAS CONDES</CmnaRecep>
+    <CiudadRecep>SANTIAGO</CiudadRecep>
+    <DirPostal>ISIDORA GOYENECHEA 3356</DirPostal>
+    <CmnaPostal>LAS CONDES</CmnaPostal>
+    <CiudadPostal>SANTIAGO</CiudadPostal>
+   </Receptor>
+   <Totales>
+    <MntNeto>0</MntNeto>
+    <MntExe>9156</MntExe>
+    <IVA>0</IVA>
+    <MntTotal>9156</MntTotal>
+    <VlrPagar>9156</VlrPagar>
+   </Totales>
+  </Encabezado>
+  <Detalle>
+   <NroLinDet>1</NroLinDet>
+   <IndExe>1</IndExe>
+   <NmbItem>Peaje Autopista Central</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>9156</PrcItem>
+   <MontoItem>9156</MontoItem>
+  </Detalle>
+<TED version="1.0"><DD><RE>96945440-8</RE><TD>34</TD><F>4035815</F><FE>2016-02-16</FE><RR>76407152-2</RR><RSR>HLI CONTRUCCIONES SPA</RSR><MNT>9156</MNT><IT1>Peaje Autopista Central</IT1><CAF version="1.0"><DA><RE>96945440-8</RE><RS>SOC CONCESIONARIA AUTOPISTA CENTRAL S A</RS><TD>34</TD><RNG><D>3800020</D><H>4200019</H></RNG><FA>2015-08-18</FA><RSAPK><M>yl+bIVayvAcOWYzTOWqmGiZrZKAPc8EV3Xs2GytHPbFCUChoc12xURV5Vr0ac9j0qQySdWkC/WmKd8HRHfWs9Q==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">aWz+CmlE38UYwa1qitAa1G2IGaLrpvt6rhtTSPGNJQ+tlJTnsuj5gxeTcnKg1wycbUyxmx5gmuctvUrH8fRPKg==</FRMA></CAF><TSTED>2016-02-16T10:44:15</TSTED></DD><FRMT algoritmo="SHA1withRSA">sZ26RuDvo4MYS7RiMRAb3nZbr6AkoHw0kCJmd6/7349IuIYS3Pf1yV5PZozFemSMX+zO5nmXHmge
+1zgG3PoVNw==
+</FRMT></TED>
+<TmstFirma>2016-02-16T10:44:15</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+    <Reference URI="#S20160216T034F0004035815">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+      <DigestValue>6TfAuwtKu7BBpFncM8KV75nr8vE=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    oYzKkkDDhI18AHPXDzTApbyJQtfP3FQbchnGxSodk2rfQS3Oscoit2EPo8PqZcmI
+    OeswBZFUGNbR5Wp3onksgWQUhfymbNan8AHZbvhQ0n6kwtcb0XoQwvEKVkQQyZq9
+    V7uun/53+W/QRTf9pQrZ8HLQRo5YR4OokFEtljGturc=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          smTryO2lb5HKRjyJirQtr9bbGU8Ptm9QiwlvKSE0OQaqfJzCUULRNDukr807milq
+          6wVsQlpqTNZkEhQwnPiGm40A0jS2c1XNzzsCIyQBrqfS4Eq14OLu9Ems0s9aAOnH
+          W+J7+DejHJ2Cw/FzeWPWHmI6nNhx3Afd8fzrtBAdlz8=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGYDCCBUigAwIBAgIKQ7tFswAAAAI5njANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNTAzMjcxNTU3NDlaFw0xODAzMjYxNTU3NDlaMIHj
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMTYwNAYDVQQKEy1TT0NJRURBRCBDT05DRVNJ
+        T05BUklBIEFVVE9QSVNUQSBDRU5UUkFMIFMuQS4xFDASBgNVBAsTC0NPTkNFU0lP
+        TkVTMSEwHwYDVQQDExhDTEFVRElBICBWQVNRVUVaIFNFR1VORE8xKzApBgkqhkiG
+        9w0BCQEWHGN2YXNxdWV6QGF1dG9waXN0YWNlbnRyYWwuY2wwgZ8wDQYJKoZIhvcN
+        AQEBBQADgY0AMIGJAoGBALJk68jtpW+RykY8iYq0La/W2xlPD7ZvUIsJbykhNDkG
+        qnycwlFC0TQ7pK/NO5opausFbEJaakzWZBIUMJz4hpuNANI0tnNVzc87AiMkAa6n
+        0uBKteDi7vRJrNLPWgDpx1vie/g3oxydgsPxc3lj1h5iOpzYcdwH3fH867QQHZc/
+        AgMBAAGjggKnMIICozA9BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOM
+        ZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAdBgNVHQ4EFgQUoZk/LsPUu3HT
+        NX/BL+RP9/qbSKwwCwYDVR0PBAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3N
+        MA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hp
+        bGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYB
+        BQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAa
+        oBgGCCsGAQQBwQEBoAwWCjEzMzIxNTY2LTIwIwYDVR0SBBwwGqAYBggrBgEEAcEB
+        AqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCC
+        AS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0
+        bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBp
+        AHIAbQBhACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABp
+        AGQAYQBkAG8AIABlAG4AIABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBs
+        ACwAIABxAHUAZQBkAGEAbgBkAG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBs
+        ACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdABy
+        AGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEAY7tS8tdnPwrvJMrs
+        wgGu+F5VIB2dhodvuNS1WwsNUt+Ch4yPyHe7bDhFlL7Vj9voLBBR3qnY3YZC2zYr
+        0LRe4KaCSYYYC3y4QemM1HyartgwPfGC0YkEYMyJaF+IbNjWsDHKROqliuQKL5NH
+        fslpnQbhqcbeCWqSMjqGZ5hiirDfeHtSddRl0u2DdNKPz/Ag2Z5G80Jb0GCfkD9N
+        ZyuQr3nYTfqiMClWCEcYev1aV4DtRz6zHDuy88w9AL3JUmHaA8MN82XnNYfCpKPj
+        Ism6B1jB6xcGiDNxvI6JgzM+OvO1GNkN559034ZUf6suIXw5/vp6Y3MTPiMyL8Go
+        50r4vw==
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature>
+</DTE>

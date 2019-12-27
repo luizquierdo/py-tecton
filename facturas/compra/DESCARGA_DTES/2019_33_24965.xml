@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+  <SetDTE ID="ID02665c643b0549a68e6dd63e5f12397a">
+    <Caratula version="1.0">
+      <RutEmisor>76084154-4</RutEmisor>
+      <RutEnvia>15876919-0</RutEnvia>
+      <RutReceptor>76407152-2</RutReceptor>
+      <FchResol>2014-08-22</FchResol>
+      <NroResol>80</NroResol>
+      <TmstFirmaEnv>2019-02-04T15:53:30</TmstFirmaEnv>
+      
+    <SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+    
+  <DTE version="1.0">
+      <Documento ID="F24965T33">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>24965</Folio>
+            <FchEmis>2019-01-31</FchEmis>
+            <TermPagoGlosa>A 30 DIAS</TermPagoGlosa>
+            <FchVenc>2019-03-02</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76084154-4</RUTEmisor>
+            <RznSoc>Cementos Bicentenario S.A.</RznSoc>
+            <GiroEmis>Exportacion de Materiales de Construccion</GiroEmis>
+            <Acteco>269510</Acteco>
+            <DirOrigen>Av. El Bosque Norte 0177, Piso 10 of. 1001</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+            <CdgVendedor>MARCELA QUINTANA</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+            <Extranjero />
+            <GiroRecep>CONSTRUCTORA</GiroRecep>
+            <Contacto>22428584 -</Contacto>
+            <DirRecep>NUEVA DE LYON  0124 OF. 601</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+            <CiudadRecep>R.M.</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>507600</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>96444</IVA>
+            <MntTotal>604044</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <NmbItem>CEMENTO ESPECIAL SACO 25 KG</NmbItem>
+          <QtyItem>216.00</QtyItem>
+          <UnmdItem>SC</UnmdItem>
+          <PrcItem>3175</PrcItem>
+          <DescuentoPct>2</DescuentoPct>
+          <DescuentoMonto>178200</DescuentoMonto>
+          <MontoItem>507600</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>50</TpoDocRef>
+          <FolioRef>44300</FolioRef>
+          <FchRef>2019-01-31</FchRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>76084154-4</RE>
+            <TD>33</TD>
+            <F>24965</F>
+            <FE>2019-01-31</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSTRUCTORA TECTON SPA</RSR>
+            <MNT>604044</MNT>
+            <IT1>CEMENTO ESPECIAL SACO 25 KG</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76084154-4</RE>
+                <RS>CEMENTOS BICENTENARIO S.A</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>22239</D>
+                  <H>25238</H>
+                </RNG>
+                <FA>2018-10-29</FA>
+                <RSAPK>
+                  <M>7LEig6IKQky/SgWa5evvG7M8uPlTlnP5vkmlEhaceAYL5PicB2ecGmi5b+vgrq1o1wcN/ATPRO6aZUQe+ujQWQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">kegJ1pQ8c1fYjb3mMixChtgbeA4aNreyEL3sJPVlXBmdlfshwdIvINC/jh3A/MtyT09AAGL6U9Aof1mG5nZKkw==</FRMA>
+            </CAF>
+            <TSTED>2019-02-04T11:05:33</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">wGFpi6/0AmLCJeLCZuJLq57287ZHzszRjjA0yDpfKr0+hbn5FTy+zs7LA3lmsNKTKh0kNSDAHxnyw8EbCCRUXA==</FRMT>
+        </TED>
+        <TmstFirma>2019-02-04T11:05:43</TmstFirma>
+      </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F24965T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>DpUqlHPmY3nfpRwzGApnhFVO7Kk=</DigestValue></Reference></SignedInfo><SignatureValue>
+Mis5e6jvz2UIJO5UKfT68zYG3Trkso8p0u1dkwEOJKf/fQ/UKVykKCvanjmIAJhI
+fQ9QVDNakCxllZ/aVkWjyqIeevsnmRqFKVfBqA05TQPytEqNhhZmcXU0RvPIs81g
+y3OAEPxNYVPli26HnY5TcxPOtQv4EiqVSTOIh/ssFrk=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+wr1vXxx59AizdJ2FYjzcu7teE4nCITd4x93hnAeXSei/L4+ugCy2C87x//FeihvO
+gs/cUobVXshCtup4Y6nZo06kmy3mgImQsmjaVspZWRrOkiLrKzyoyDTpmUi2xAtK
+VrZEFsHYEUos7fdxXmh8GKeaX0LIS/yzfpjBDN00KmU=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIF7zCCBNegAwIBAgICT+4wDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNM
+MRgwFgYDVQQKEw9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20g
+QXV0b3JpZGFkIENlcnRpZmljYWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwg
+LSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0BhY2VwdGEuY29tMRMwEQYDVQQFEwo5
+NjkxOTA1MC04MB4XDTE2MDkwNTIwMTEwMVoXDTE5MDkwNTIwMTEwMVowgZcxCzAJ
+BgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKDAmBgNVBAMTH05B
+VEFMSSBKT0NFTFlOIFNBTiBNQVJUSU4gQkFFWkExLzAtBgkqhkiG9w0BCQEWIG5h
+dGFsaS5zYW5tYXJ0aW5AY2VtZW50b3Nic2EuY29tMRMwEQYDVQQFEwoxNTg3Njkx
+OS0wMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCvW9fHHn0CLN0nYViPNy7
+u14TicIhN3jH3eGcB5dJ6L8vj66ALLYLzvH/8V6KG86Cz9xShtVeyEK26nhjqdmj
+TqSbLeaAiZCyaNpWyllZGs6SIusrPKjINOmZSLbEC0pWtkQWwdgRSizt93FeaHwY
+p5pfQshL/LN+mMEM3TQqZQIDAQABo4ICtjCCArIwHwYDVR0jBBgwFoAUtruLE7k3
+Z9/wTcfVuFaZ32aakc4wHQYDVR0OBBYEFMHxQiTVHleQslPNn5O/QyXcTr7XMAsG
+A1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZI
+AYb4QgEBBAQDAgWgMIHzBgNVHSAEgeswgegwgeUGCisGAQQBtWuHagIwgdYwKAYI
+KwYBBQUHAgEWHGh0dHA6Ly93d3cuYWNlcHRhLmNvbS9DUFMtRzMwgakGCCsGAQUF
+BwICMIGcMBYWD0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBz
+aWRvIHZhbGlkYWRvIGVuIGZvcm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmls
+aXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJpbywgcGFnb3Ms
+IGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5
+MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9p
+bmZvQGFjZXB0YS5jb20wawYDVR0RBGQwYqAYBggrBgEEAcEBAaAMFgoxNTg3Njkx
+OS0woCQGCCsGAQUFBwgDoBgwFgwKMTU4NzY5MTktMAYIKwYBBAHBAQKBIG5hdGFs
+aS5zYW5tYXJ0aW5AY2VtZW50b3Nic2EuY29tMDwGCCsGAQUFBwEBBDAwLjAsBggr
+BgEFBQcwAYYgaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTMtRzMwNAYDVR0f
+BC0wKzApoCegJYYjaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNlMy1HMy5jcmww
+DQYJKoZIhvcNAQEFBQADggEBAEaWKHEwNVY0tELyOJ10+rKi+sb8Nfcdchis6OxU
+BueveMQ8vxLRa9OruKSCKvJPSZ8oGunjGVxRxwgvmz3sdv96BksoHTKz/icKkLfV
+9dRgXq3PcvtXhcB7UNexeDl5Vvc5/GBz9Gp9N/sypKCcbg58liF33bVzDdwbP8nn
+7Gk1RqXMOxpWfz5hGYjnDoEGYU3VWs9fZuUqv6IDeUUoBdFp7ja7HBF0L5sYJzri
+eI6ASDRm7rJivGBN0H1wC3q+F5OG7f8iGvte5INb0hhp/qO+ydA8J5DCqUL/FsAE
+24ntNtucbd7ulURHPt0jLweMg/3fAJXsbsbcp51JSPop/IM=
+</X509Certificate></X509Data></KeyInfo></Signature>
+    </DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID02665c643b0549a68e6dd63e5f12397a"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>/nrRlvAXf1/N2rCj44DxTWXXfvM=</DigestValue></Reference></SignedInfo><SignatureValue>
+XhTJPZUygmadea+jNQWxLyizx1i9u0NyRHW6KC/Cbj9bTm4/zd4LMIS25oD8WPd/
+Ldhxo1MHEGEUwo/N6RtS+TjVhig54w1la0iPfsNfPxGk142w4UJP9r+RQqxm0U62
+Kb3RpBaQ5NuJPtsHMaLsYQXP1078dSzOt32ylr5kY5w=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+wr1vXxx59AizdJ2FYjzcu7teE4nCITd4x93hnAeXSei/L4+ugCy2C87x//FeihvO
+gs/cUobVXshCtup4Y6nZo06kmy3mgImQsmjaVspZWRrOkiLrKzyoyDTpmUi2xAtK
+VrZEFsHYEUos7fdxXmh8GKeaX0LIS/yzfpjBDN00KmU=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIF7zCCBNegAwIBAgICT+4wDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNM
+MRgwFgYDVQQKEw9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20g
+QXV0b3JpZGFkIENlcnRpZmljYWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwg
+LSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0BhY2VwdGEuY29tMRMwEQYDVQQFEwo5
+NjkxOTA1MC04MB4XDTE2MDkwNTIwMTEwMVoXDTE5MDkwNTIwMTEwMVowgZcxCzAJ
+BgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKDAmBgNVBAMTH05B
+VEFMSSBKT0NFTFlOIFNBTiBNQVJUSU4gQkFFWkExLzAtBgkqhkiG9w0BCQEWIG5h
+dGFsaS5zYW5tYXJ0aW5AY2VtZW50b3Nic2EuY29tMRMwEQYDVQQFEwoxNTg3Njkx
+OS0wMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCvW9fHHn0CLN0nYViPNy7
+u14TicIhN3jH3eGcB5dJ6L8vj66ALLYLzvH/8V6KG86Cz9xShtVeyEK26nhjqdmj
+TqSbLeaAiZCyaNpWyllZGs6SIusrPKjINOmZSLbEC0pWtkQWwdgRSizt93FeaHwY
+p5pfQshL/LN+mMEM3TQqZQIDAQABo4ICtjCCArIwHwYDVR0jBBgwFoAUtruLE7k3
+Z9/wTcfVuFaZ32aakc4wHQYDVR0OBBYEFMHxQiTVHleQslPNn5O/QyXcTr7XMAsG
+A1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZI
+AYb4QgEBBAQDAgWgMIHzBgNVHSAEgeswgegwgeUGCisGAQQBtWuHagIwgdYwKAYI
+KwYBBQUHAgEWHGh0dHA6Ly93d3cuYWNlcHRhLmNvbS9DUFMtRzMwgakGCCsGAQUF
+BwICMIGcMBYWD0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBz
+aWRvIHZhbGlkYWRvIGVuIGZvcm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmls
+aXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJpbywgcGFnb3Ms
+IGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5
+MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9p
+bmZvQGFjZXB0YS5jb20wawYDVR0RBGQwYqAYBggrBgEEAcEBAaAMFgoxNTg3Njkx
+OS0woCQGCCsGAQUFBwgDoBgwFgwKMTU4NzY5MTktMAYIKwYBBAHBAQKBIG5hdGFs
+aS5zYW5tYXJ0aW5AY2VtZW50b3Nic2EuY29tMDwGCCsGAQUFBwEBBDAwLjAsBggr
+BgEFBQcwAYYgaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTMtRzMwNAYDVR0f
+BC0wKzApoCegJYYjaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNlMy1HMy5jcmww
+DQYJKoZIhvcNAQEFBQADggEBAEaWKHEwNVY0tELyOJ10+rKi+sb8Nfcdchis6OxU
+BueveMQ8vxLRa9OruKSCKvJPSZ8oGunjGVxRxwgvmz3sdv96BksoHTKz/icKkLfV
+9dRgXq3PcvtXhcB7UNexeDl5Vvc5/GBz9Gp9N/sypKCcbg58liF33bVzDdwbP8nn
+7Gk1RqXMOxpWfz5hGYjnDoEGYU3VWs9fZuUqv6IDeUUoBdFp7ja7HBF0L5sYJzri
+eI6ASDRm7rJivGBN0H1wC3q+F5OG7f8iGvte5INb0hhp/qO+ydA8J5DCqUL/FsAE
+24ntNtucbd7ulURHPt0jLweMg/3fAJXsbsbcp51JSPop/IM=
+</X509Certificate></X509Data></KeyInfo></Signature>
+  
+</EnvioDTE>

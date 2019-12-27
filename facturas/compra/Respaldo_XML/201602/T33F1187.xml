@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+  <!-- O Win32 Firefox 44 plugin -->
+<Documento ID="MiPE76198155-11568">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>1187</Folio>
+        <FchEmis>2016-02-26</FchEmis>
+        <MntPagos>
+          <FchPago>2016-03-26</FchPago>
+          <MntPago>31345</MntPago>
+          <GlosaPagos>Crédito 30 días</GlosaPagos>
+        </MntPagos>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76198155-2</RUTEmisor>
+        <RznSoc>SEPARADORES Y PRODUCTOS DE HORMIGON LIMITADA</RznSoc>
+        <GiroEmis>COMPRA Y VENTA DE MATERIALES PARA CONSTRUCCION</GiroEmis>
+        <Acteco>514320</Acteco>
+        <CdgSIISucur>77031274</CdgSIISucur>
+        <DirOrigen>Francisco Javier 468</DirOrigen>
+        <CmnaOrigen>QUINTA NORMAL</CmnaOrigen>
+        <CiudadOrigen>STGO</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76407152-2</RUTRecep>
+        <RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+        <GiroRecep>OBRAS MENORES EN CONSTRUCCION (CONTRATIS</GiroRecep>
+        <DirRecep>AV. PROVIDENCIA 2330  63</DirRecep>
+        <CmnaRecep>PROVIDENCIA</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>26340</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>5005</IVA>
+        <MntTotal>31345</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>SM</TpoCodigo>
+        <VlrCodigo>C25</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Sep. Moldaje Cono 5/8</NmbItem>
+      <QtyItem>3000.00</QtyItem>
+      <UnmdItem>unid</UnmdItem>
+      <PrcItem>8.78</PrcItem>
+      <MontoItem>26340</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>52</TpoDocRef>
+      <FolioRef>544</FolioRef>
+      <FchRef>2016-02-24</FchRef>
+    </Referencia>
+    <Referencia>
+      <NroLinRef>2</NroLinRef>
+      <TpoDocRef>801</TpoDocRef>
+      <FolioRef>496</FolioRef>
+      <FchRef>2016-02-22</FchRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76198155-2</RE><TD>33</TD><F>1187</F><FE>2016-02-26</FE><RR>76407152-2</RR><RSR>CONSORCIO HLI HYDROGROUP SPA</RSR><MNT>31345</MNT><IT1>Sep. Moldaje Cono 5/8</IT1><CAF version="1.0"><DA><RE>76198155-2</RE><RS>SEPARADORES Y PRODUCTOS DE HORMIGON LIMI</RS><TD>33</TD><RNG><D>1187</D><H>1187</H></RNG><FA>2016-02-26</FA><RSAPK><M>z0fDKcw4/H0g2H1C7ihbjB7LhfhJOOzhtuUZffCAY+iUSpJ/5soBWiyrOo73avISEW53MPPd2JMyJOiP8GMJsQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">YLePPwzXGhOFvVw883R+PsZdfX/33yVhQtWB1IAfJBYliEV5lyqDnzVwu/XVyUymkiLG+sBVbWwlojpEwgFZhw==</FRMA></CAF><TSTED>2016-02-26T15:07:02</TSTED></DD><FRMT algoritmo="SHA1withRSA">J5Vn2QuNrLDcDfqmcA14aWM5Q8UsQ6A2p5+c9xZMLTcBkmC3ewITGvhv57HGBrVf7RGUgVqbk/s5b5GvosCvrQ==</FRMT></TED>
+    <TmstFirma>2016-02-26T15:07:02</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#MiPE76198155-11568"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>e6utzgpVFyc7swhIDHMkjD7ZkZc=</DigestValue></Reference></SignedInfo>
+<SignatureValue>yvWZoLSP0SPg3UZHqTfJidYGf96ljKxhol9OPdsH8ZM4T91TZtb/KYLN8ZW3jxvU00uXVjbo2zhSRtg0ViMLICKq86KOaegz9Xc+C078KxNgYG9ZUXbXEgkK8R1f+BpQ7mIQ3b/d5VGAwebsDLtQkoAo5wR3sirym7O3xUbRqKWWkbVZwADggVCXeyoCSpQFqyP1MrN5d3HN2SQRvdigsAfqeg5EI6fqGlOJM3eyY8LOQ5vTTzJqcivh9yekgJs31Y++1h8jgSJeiR5nMbHO0yalWJGWoXce51Jwg39iZ8X52FFpc1q2unsbOrSFOiHLIGgP+DTCjas0Js5iBJ3ywA==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>2J2lPt9AFMbhTjVptbwKw6Fh7Ysl82oKkic13oGyNkDra69Lkql9vNVRI3s8LLVuj6T5YW3Ai2YB9YrgdrGZrXjgtf+tnX6nMHx9HeARd6dUqx58g0yPEft179RiwudOEMAft4dGLHn9xzxtib0tW2qboM5U1ifTl50+SrN1lKm49BDa/X7uqfW2JYwqq5RImSkOghsiMzRIt0yu7oegdU4UC/mqBi7x+F7xyOEJrp9HiHYzbL09Jt/c+w3AwVb8zbkn46CSwOUFkBL3Js6gYyysJCuzVyAHoF8Ho09cea0/oPPnqu8a+isEa+Zrd55lpVfFtW1Ov8o2Vjgu4YKKNw==</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGWjCCBUKgAwIBAgIQJpEW7iHkmZv8KT1WE70piDANBgkqhkiG9w0BAQUFADCBqDELMAkGA1UE
+BhMCQ0wxFDASBgNVBAoTC0UtU2lnbiBTLkEuMR8wHQYDVQQLExZTeW1hbnRlYyBUcnVzdCBOZXR3
+b3JrMUEwPwYDVQQDEzhFLVNpZ24gU0MgQ2xhc3MgMiBDb25zdW1lciBJbmRpdmlkdWFsIFN1YnNj
+cmliZXIgQ0EgLSBHMjEfMB0GCSqGSIb3DQEJARYQZS1zaWduQGUtc2lnbi5jbDAeFw0xNDEyMTgw
+MDAwMDBaFw0xNjEyMTcyMzU5NTlaMIIBIjEUMBIGA1UEChMLRS1TaWduIFMuQS4xLTArBgNVBAsT
+JFRlcm1pbm9zIGRlIHVzbyBlbiB3d3cuZS1zaWduLmNsL3JwYTElMCMGA1UECxMcQXV0aGVudGlj
+YXRlZCBieSBFLVNpZ24gUy5BLjEnMCUGA1UECxMeTWVtYmVyLCBTeW1hbnRlYyBUcnVzdCBOZXR3
+b3JrMRswGQYDVQQLExJEaWdpdGFsIElEIENsYXNzIDIxGTAXBgNVBAsUEFJVVCAtIDE2OTMyOTE0
+LTExJjAkBgNVBAMMHVRhbWFyYSBWYWxlcmlhIENhdmllcmVzIE1hcmluMSswKQYJKoZIhvcNAQkB
+Fhx0YW1hcmFjYXZpZXJlc0BzcGhvcm1pZ29uLmNsMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA2J2lPt9AFMbhTjVptbwKw6Fh7Ysl82oKkic13oGyNkDra69Lkql9vNVRI3s8LLVuj6T5
+YW3Ai2YB9YrgdrGZrXjgtf+tnX6nMHx9HeARd6dUqx58g0yPEft179RiwudOEMAft4dGLHn9xzxt
+ib0tW2qboM5U1ifTl50+SrN1lKm49BDa/X7uqfW2JYwqq5RImSkOghsiMzRIt0yu7oegdU4UC/mq
+Bi7x+F7xyOEJrp9HiHYzbL09Jt/c+w3AwVb8zbkn46CSwOUFkBL3Js6gYyysJCuzVyAHoF8Ho09c
+ea0/oPPnqu8a+isEa+Zrd55lpVfFtW1Ov8o2Vjgu4YKKNwIDAQABo4ICATCCAf0wIwYDVR0RBBww
+GqAYBggrBgEEAcEBAaAMFgoxNjkzMjkxNC0xMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgWgME8GA1Ud
+HwRIMEYwRKBCoECGPmh0dHA6Ly9vbnNpdGVjcmwudmVyaXNpZ24uY29tL0VTaWduU0FDU0NDbGFz
+czJHMi9MYXRlc3RDUkwuY3JsMB8GA1UdIwQYMBaAFNvPd2JYCzg2JS0a0mrEVAGybkwOMB0GA1Ud
+DgQWBBSHMSCjetMyer+hoJXx6ccrD4rMcjA7BggrBgEFBQcBAQQvMC0wKwYIKwYBBQUHMAGGH2h0
+dHA6Ly9vbnNpdGUtb2NzcC52ZXJpc2lnbi5jb20wgZgGA1UdIASBkDCBjTCBigYLYIZIAYb4RQEH
+FwIwezAxBggrBgEFBQcCARYlaHR0cHM6Ly93d3cuZS1zaWduLmNsL3JlcG9zaXRvcmlvLmh0bTBG
+BggrBgEFBQcCAjA6GjhDZXJ0aWZpY2FkbyBwYXJhIHVzbyBUcmlidXRhcmlvLCBDb21lcmNpbywg
+UGFnb3MgeSBPdHJvczARBglghkgBhvhCAQEEBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsG
+AQUFBwMEMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTk1NTE3NDAtSzANBgkqhkiG9w0BAQUF
+AAOCAQEAINEVwCSChBbJ9eLxZayz5bIgQmq4P66s7uCXiQHHF2xE0TFFZqk4uYaeIjp/L6K+7wOZ
+zvF9c7ID5Xj/qClMByUV9zGWUDgbFKbVDZFOVoZrJmRWbppKRaw2sPeAY2Td5JUxbxyJmtv67GvB
+ka0AdBbVdUjqJUrJ+feo8TjhmgMpCVNTVNmrNDFLWQbqkjnQ2y/qmhmHDGBjq1BPBAG06LLqTN5e
+0Nfl6LGEzrWCe5KddDE3USRrG4OsPG4v0mEjM1HNndBmG5Uy4bGw7HVP6sJLY6wXEnU3+QdvFl7N
+BVe/wpEanjIirrg84rGOwsOcxw7238CTjbXDdgbmg7J0pw==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

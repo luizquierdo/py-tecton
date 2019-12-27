@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EDTE5015641D525675384">
+<Caratula version="1.0">
+<RutEmisor>96511460-2</RutEmisor>
+<RutEnvia>10407900-8</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2006-06-15</FchResol>
+<NroResol>80</NroResol>
+<TmstFirmaEnv>2019-01-09T15:28:00</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+	<Documento ID="DOCT33F16435799P295905">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>16435799</Folio>
+				<FchEmis>2019-01-09</FchEmis>
+				<IndServicio>2</IndServicio>
+				<TpoTranVenta>1</TpoTranVenta>
+				<FmaPago>1</FmaPago>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>96511460-2</RUTEmisor>
+				<RznSoc>Construmart S.A.</RznSoc>
+				<GiroEmis>VENTA, DISTRIBUCION E INSTALACION DE MATERIALES DE CONSTRUCCION</GiroEmis>
+				<Acteco>514320</Acteco>
+				<CdgSIISucur>13341804</CdgSIISucur>
+				<DirOrigen>PANAMERICANA NORTE 9275</DirOrigen>
+				<CmnaOrigen>QUILICURA</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>76407152-2</RUTRecep>
+				<RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+				<GiroRecep>410010 CONSTRUCCI N DE EDIF</GiroRecep>
+				<DirRecep>AVDA. PROVIDENCIA 2330 OF. 63</DirRecep>
+				<CmnaRecep>PROVIDENCIA</CmnaRecep>
+				<CiudadRecep>Santiago</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>24017</MntNeto>
+				<MntExe>0</MntExe>
+				<TasaIVA>19.0</TasaIVA>
+				<IVA>4563</IVA>
+				<MntTotal>28580</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<NmbItem>SILICONA NEU C/F 300ML SIKASIL C, BLANCO</NmbItem>
+			<DscItem>1.0 x 1 C/U $4290 Bruto/$3605.0 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>1.0</QtyItem>
+			<PrcItem>3605.0</PrcItem>
+			<MontoItem>3605</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<NmbItem>SILICONA ACET S/F 300ML TRANS SIKASIL AC</NmbItem>
+			<DscItem>5.0 x 1 C/U $2690 Bruto/$2260.8 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>5.0</QtyItem>
+			<PrcItem>2260.8</PrcItem>
+			<MontoItem>11304</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>3</NroLinDet>
+			<NmbItem>BE FRAGUE 1 KG, BLANCO</NmbItem>
+			<DscItem>1.0 x 1 C/U $1420 Bruto/$1193.0 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>1.0</QtyItem>
+			<PrcItem>1193.0</PrcItem>
+			<MontoItem>1193</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>4</NroLinDet>
+			<NmbItem>DILUYENTE DUCO PLUS 1 LT PASSOL</NmbItem>
+			<DscItem>1.0 x 1 C/U $2490 Bruto/$2092.0 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>1.0</QtyItem>
+			<PrcItem>2092.0</PrcItem>
+			<MontoItem>2092</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>5</NroLinDet>
+			<NmbItem>LIJA AL AGUA PLIEGO, GR 150</NmbItem>
+			<DscItem>1.0 x 1 C/U $350 Bruto/$294.0 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>1.0</QtyItem>
+			<PrcItem>294.0</PrcItem>
+			<MontoItem>294</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>6</NroLinDet>
+			<NmbItem>LIJA AL AGUA PLIEGO, GR 280</NmbItem>
+			<DscItem>1.0 x 1 C/U $350 Bruto/$294.0 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>1.0</QtyItem>
+			<PrcItem>294.0</PrcItem>
+			<MontoItem>294</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>7</NroLinDet>
+			<NmbItem>LIJA AL AGUA PLIEGO, GR 100</NmbItem>
+			<DscItem>1.0 x 1 C/U $350 Bruto/$294.0 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>1.0</QtyItem>
+			<PrcItem>294.0</PrcItem>
+			<MontoItem>294</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>8</NroLinDet>
+			<NmbItem>BARNIZ SPRAY POLIURETANO MARSON, NATURAL</NmbItem>
+			<DscItem>1.0 x 1 C/U $3890 Bruto/$3269.0 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>1.0</QtyItem>
+			<PrcItem>3269.0</PrcItem>
+			<MontoItem>3269</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>9</NroLinDet>
+			<NmbItem>HUAIPE SIMUNIZADO BLANCO LIZCAL 250 GR</NmbItem>
+			<DscItem>1.0 x 1 C/U $1990 Bruto/$1672.0 Neto</DscItem>
+			<UnmdRef>C/U</UnmdRef>
+			<QtyItem>1.0</QtyItem>
+			<PrcItem>1672.0</PrcItem>
+			<MontoItem>1672</MontoItem>
+		</Detalle>
+		<TED version="1.0"><DD><RE>96511460-2</RE><TD>33</TD><F>16435799</F><FE>2019-01-09</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>28580</MNT><IT1>SILICONA NEU C/F 300ML SIKASIL C, BLANCO</IT1><CAF version="1.0"><DA><RE>96511460-2</RE><RS>CONSTRUMART S A</RS><TD>33</TD><RNG><D>16325414</D><H>16445413</H></RNG><FA>2018-09-17</FA><RSAPK><M>pY4YuqmswBLxog3PM6w83g3rC+389aNwl5ifAYqRyW3Y83qdwTgBCtN15s0QJEjHtPIBm23Dc6KPdiiJ6fMJ4Q==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">Ho+FBpUdJsz+6hiqp9mJUyZOaD8FfdoyRbQCbxyYbSObof6XqWWndLrbthJAJDlY+UJoa9tQ+G+rmfQ/8QuZDw==</FRMA></CAF><TSTED>2019-01-09T15:20:40</TSTED></DD><FRMT algoritmo="SHA1withRSA">bPAh9fk6PWDCAkKYn3+KhQNykERUnNMCw0GHXk1nXSCNEZ0LUoJRDmNWsGvtxxlLMmHv9o9sQenF
+zz4AtfdfAw==</FRMT></TED>
+		<TmstFirma>2019-01-09T15:20:40</TmstFirma>
+	</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#DOCT33F16435799P295905"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AIV9CSa9Qor3z61TYmwa0beMqf0=</DigestValue></Reference></SignedInfo><SignatureValue>LL1kvRBJQayYOn5594IRUVyK1WWt2WIFmPnT3GVpFGXTurOmLpVT0+g3GtB8YkvWbj3Gq2J4MV9E
+A0Zv+ZkS+KZQhgCt6baAPNmKui0Af0DX4w1I79uJbBXxEBbCLgmPPYGzECJr6Joet1uOgi2Et5cq
+Zpe7J6VYZ3u2ElQXNRc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rlP7b+oV9LiSA19+JikhvL3++r8GzaON088NAy8P/ROHinYBElFdnSiAnu7TWtmi1FpXjB3SUHMV
+pKR7MqRnztd5oq9absVWXLH85zM0jSRItUcVQ8kZ9OUSgFPh8YIuLt9Puc707LklYKXaIHGDd63e
+bXVOOVFALlzI6t28GJE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGRzCCBS+gAwIBAgIKQsYoJwAAAAhtmDANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA3MjAxMzQyMTlaFw0yMDA3MTkxMzQyMTla
+MIHKMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRgwFgYDVQQKEw9DT05TVFJVTUFSVCBTLkExFTATBgNVBAsTDENPTlRB
+QklMSURBRDErMCkGA1UEAxMiR1VJTExFUk1PIEFOVE9OSU8gIEVMR1VFVEEgU0FOQ0hFWjElMCMG
+CSqGSIb3DQEJARYWanZhbGRlc0Bjb25zdHJ1bWFydC5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAw
+gYkCgYEArlP7b+oV9LiSA19+JikhvL3++r8GzaON088NAy8P/ROHinYBElFdnSiAnu7TWtmi1FpX
+jB3SUHMVpKR7MqRnztd5oq9absVWXLH85zM0jSRItUcVQ8kZ9OUSgFPh8YIuLt9Puc707LklYKXa
+IHGDd63ebXVOOVFALlzI6t28GJECAwEAAaOCAqcwggKjMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQB
+gjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFkAgEEMB0GA1UdDgQWBBR60DWTBzeT
+LnQdEV8awTtyNxk6NjALBgNVHQ8EBAMCBPAwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykH
+s1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxl
+Y2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRj
+aGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTA0MDc5MDAtODAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNVHSAEggFEMIIBQDCCATwGCCsGAQQB
+w1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8
+BggrBgEFBQcCAjCB7x6B7ABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkA
+bQBwAGwAZQAuACAASABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwBy
+AG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgAYQBiAGkA
+bABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBz
+AG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3DQEBBQUAA4IBAQAIVEaWHkQ+LXWT6BeR
+CYHcS/27zuVFgOLASAZtW1WQNK2gdId+u6Z/NRvqsrt1LOkmmwYIICCufQygGtlxpvAagOBkliGm
+cEc5OzeNc/1gAGHf0cRuHZFoEA0hpSAXXnV9Ifnyml8kkqgf/zU/zjnMOgy+1DRBsaSJ5aPq79Nv
+s7LX567mVhxGfbl22ycee2dLdpeaeOD7b4j4e1nM4hNgRBO3afcWUbakx7VjEMqOSodWJfWhFY/Y
+2wQYEtxad60bBeFVeUt/Yvqfca1/D8K4wY51zuMPRmLdKLokGDM+MUohSoV8p/mXgGGnLgt/RLPz
+iOh1xLcoHZvfMTF3W3rt</X509Certificate></X509Data></KeyInfo></Signature>
+	
+
+</DTE>
+
+
+
+</SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#EDTE5015641D525675384">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>LPohbMCEIvxENRQIR7dAMbcbFVU=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    EFceCQ1yCjd+K8W55+I/hE4rNRKULCzc8qWwbiFShoe7IaU7AjrzMzkeh9xczqyb
+    e51O4Z+JsDyDCf8xY1bfjhSRP5Bf7+/fYp0cwi3Ct58H/nfqjQwAnvnawG7WTS8b
+    tVWf0lIJyExBWlPcPyIZj7yHLTZc4oQ4Xph1DJTwo58=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          rlP7b+oV9LiSA19+JikhvL3++r8GzaON088NAy8P/ROHinYBElFdnSiAnu7TWtmi
+          1FpXjB3SUHMVpKR7MqRnztd5oq9absVWXLH85zM0jSRItUcVQ8kZ9OUSgFPh8YIu
+          Lt9Puc707LklYKXaIHGDd63ebXVOOVFALlzI6t28GJE=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGRzCCBS+gAwIBAgIKQsYoJwAAAAhtmDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNzA3MjAxMzQyMTlaFw0yMDA3MTkxMzQyMTlaMIHK
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMRgwFgYDVQQKEw9DT05TVFJVTUFSVCBTLkEx
+        FTATBgNVBAsTDENPTlRBQklMSURBRDErMCkGA1UEAxMiR1VJTExFUk1PIEFOVE9O
+        SU8gIEVMR1VFVEEgU0FOQ0hFWjElMCMGCSqGSIb3DQEJARYWanZhbGRlc0Bjb25z
+        dHJ1bWFydC5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArlP7b+oV9LiS
+        A19+JikhvL3++r8GzaON088NAy8P/ROHinYBElFdnSiAnu7TWtmi1FpXjB3SUHMV
+        pKR7MqRnztd5oq9absVWXLH85zM0jSRItUcVQ8kZ9OUSgFPh8YIuLt9Puc707Lkl
+        YKXaIHGDd63ebXVOOVFALlzI6t28GJECAwEAAaOCAqcwggKjMD0GCSsGAQQBgjcV
+        BwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFk
+        AgEEMB0GA1UdDgQWBBR60DWTBzeTLnQdEV8awTtyNxk6NjALBgNVHQ8EBAMCBPAw
+        HwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGg
+        L4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3Js
+        MDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRj
+        aGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTA0MDc5MDAt
+        ODAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNVHSAE
+        ggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3
+        dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUA
+        cgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAA
+        SABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0A
+        YQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgA
+        YQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBkAG8A
+        IABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3
+        DQEBBQUAA4IBAQAIVEaWHkQ+LXWT6BeRCYHcS/27zuVFgOLASAZtW1WQNK2gdId+
+        u6Z/NRvqsrt1LOkmmwYIICCufQygGtlxpvAagOBkliGmcEc5OzeNc/1gAGHf0cRu
+        HZFoEA0hpSAXXnV9Ifnyml8kkqgf/zU/zjnMOgy+1DRBsaSJ5aPq79Nvs7LX567m
+        VhxGfbl22ycee2dLdpeaeOD7b4j4e1nM4hNgRBO3afcWUbakx7VjEMqOSodWJfWh
+        FY/Y2wQYEtxad60bBeFVeUt/Yvqfca1/D8K4wY51zuMPRmLdKLokGDM+MUohSoV8
+        p/mXgGGnLgt/RLPziOh1xLcoHZvfMTF3W3rt
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature></EnvioDTE>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+<Documento ID="E000000005T033F0074195477">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>74195477</Folio>
+<FchEmis>2016-02-23</FchEmis>
+<FmaPago>1</FmaPago>
+<FchVenc>2016-02-23</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>96792430-K</RUTEmisor>
+<RznSoc>SODIMAC S.A.</RznSoc>
+<GiroEmis>DISTRIBUIDORA DE MATERIALES DE CONSTRUCCION</GiroEmis>
+<Acteco>61514</Acteco>
+<Sucursal>Parque Arauco (HS)</Sucursal>
+<CdgSIISucur>65515501</CdgSIISucur>
+<DirOrigen>PDTE KENNEDY 5601</DirOrigen>
+<CmnaOrigen>Las Condes</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+<CdgVendedor>.</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<CdgIntRecep>0</CdgIntRecep>
+<RznSocRecep>CONSORCIO HLI HYDROGROUP</RznSocRecep>
+<GiroRecep>OBRAS MENORES EN CONSTRUCCION</GiroRecep>
+<DirRecep>AN PROVIDENCIA 2330</DirRecep>
+<CmnaRecep>PROVIDENCIA</CmnaRecep>
+<CiudadRecep>SANTIAGO</CiudadRecep>
+</Receptor>
+<RUTSolicita>76407152-2</RUTSolicita>
+<Totales>
+<MntNeto>14025</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>2665</IVA>
+<MntTotal>16690</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1307746</VlrCodigo>
+</CdgItem>
+<NmbItem>TEE FUSION 20MM CCS CUN03Cd</NmbItem>
+<PrcRef>231</PrcRef>
+<QtyItem>7</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>231.09</PrcItem>
+<MontoItem>1618</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1307711</VlrCodigo>
+</CdgItem>
+<NmbItem>CODO 90 FUSION 20MM CCS CUN03C</NmbItem>
+<PrcRef>231</PrcRef>
+<QtyItem>27</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>231.09</PrcItem>
+<MontoItem>6239</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>3</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1307762</VlrCodigo>
+</CdgItem>
+<NmbItem>TEE FUSION 32MM CCS CUN03Cd</NmbItem>
+<PrcRef>471</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>470.58</PrcItem>
+<MontoItem>471</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>4</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1308092</VlrCodigo>
+</CdgItem>
+<NmbItem>CODO 90 HI FUSION 20X1/2 CCS</NmbItem>
+<PrcRef>1269</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>1268.9</PrcItem>
+<MontoItem>1269</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>5</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1307991</VlrCodigo>
+</CdgItem>
+<NmbItem>TERMINAL HI FUSION 20X1/2 CCS</NmbItem>
+<PrcRef>3504</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>3504.2</PrcItem>
+<MontoItem>3504</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>6</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1307657</VlrCodigo>
+</CdgItem>
+<NmbItem>COPLA SIMPLE FUSION 20MM CCS</NmbItem>
+<PrcRef>231</PrcRef>
+<QtyItem>4</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>231.09</PrcItem>
+<MontoItem>924</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>96792430-K</RE><TD>33</TD><F>74195477</F><FE>2016-02-23</FE><RR>76407152-2</RR><RSR>CONSORCIO HLI HYDROGROUP</RSR><MNT>16690</MNT><IT1>TEE FUSION 20MM CCS CUN03Cd</IT1><CAF version="1.0"><DA><RE>96792430-K</RE><RS>SODIMAC S A</RS><TD>33</TD><RNG><D>73509033</D><H>74509031</H></RNG><FA>2015-10-26</FA><RSAPK><M>satlee92RpzCLjXkk1lvj0tT8WLvcnQbYhyt+phqrh/nFnARNQ+UHFHpCzvjeOegDuE4OTZHdONAvUsjQ1Dbyw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">RN13AYZsunEgr/h0yip+imikDQmNvEzjNlxF8irX+cqECSTZrc1bZSmxDN2HBq+3ZrexDFt8fzshOP48XTfrMA==</FRMA></CAF><TSTED>2016-02-23T10:25:53</TSTED></DD><FRMT algoritmo="SHA1withRSA">dsy9N4evlEbZp80Uokq7KKN/nkXqF8NTJ/5LpO2UjhKJw1zX3l3GHYjot2azxoJpEJb5IHo0LI7q2E5/JByT0g==</FRMT></TED><TmstFirma>2016-02-23T11:30:56</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000005T033F0074195477">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>p/quq7JjS1yRrvw0LplAcK9pcCo=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>k0aD/APoG90wvfHzaFRyKX9kQm8vZnqE8fYUFW8Fq1Hg/5feHOBlYtQAvU3D33WJhE1R1kEZfFX1+Em4XWjL/PLStl4Zr0/Z9jx0Jk81U5e/t0rSUX8eghpLXGRp4sL7x2Laq9ugC18xRDnFwh8s5rN11rD+hqzWLa2bs2SX14U=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+mZYiJXm3rhK/6B3TVhfLO4jV6hk9Sid5qcq7WbgyMEAtISBrLmuiIOyWqt16aG6r
+nmIOj0J6jaSJ+sdyosDaa9VKF3D+P40BkXY1ByP54FRa2imQwsDoEgZCVMZwdGZs
+nhlJnnELUzU+b1z1wzMfFWabo8JZDJflTueTVJ2GAFU=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGSjCCBTKgAwIBAgIKEVPNGwAAAAJOVDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNTA0MjMxODM0MzVaFw0xODA0MjIxODM0MzVaMIHN
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMSowKAYDVQQKEyFDcmlzdGlhbiBBbGZyZWRv
+IEdvbnphbGV6IFJ1YmlsYXIxCjAIBgNVBAsMASoxKjAoBgNVBAMTIUNyaXN0aWFu
+IEFsZnJlZG8gR29uemFsZXogUnViaWxhcjEiMCAGCSqGSIb3DQEJARYTcnZlcmdh
+cmFAc29kaW1hYy5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmZYiJXm3
+rhK/6B3TVhfLO4jV6hk9Sid5qcq7WbgyMEAtISBrLmuiIOyWqt16aG6rnmIOj0J6
+jaSJ+sdyosDaa9VKF3D+P40BkXY1ByP54FRa2imQwsDoEgZCVMZwdGZsnhlJnnEL
+UzU+b1z1wzMfFWabo8JZDJflTueTVJ2GAFUCAwEAAaOCAqcwggKjMAsGA1UdDwQE
+AwIE8DAdBgNVHQ4EFgQUIX3b71J4EjPpks/1yhDPdREm2/cwHwYDVR0jBBgwFoAU
+eOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2Ny
+bC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEB
+BC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3Nw
+MD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8
+YYHLnhSGqIJYAgFkAgEEMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTMwNDc3
+MDAtMzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNV
+HSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDov
+L3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABD
+AGUAcgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAu
+ACAASABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwBy
+AG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAg
+AGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqG
+SIb3DQEBBQUAA4IBAQCgNrIiSJ5Xuxaz2Oq3vHlg4bVP+twqTfAk8sbH3qCuROje
+cx1AuXAFXqA3pGCl9gNeiIIKXD2saUIY6FbRSsj6hgTD2Rc13z0S658nH3qllZT2
+T0B82ehWsbYUcyX4h9BmYoXMQBPxFab+jGM73I6SLbu1sRKS/KrgpDz0lGnTXncG
+aviVexinY+tWCxSMSOD39Ki7pCvRr7gWNbMr6Bp54GRKtbXOkoIbbjFBso9UPIsV
+zNQJ4uItZ5Ww3p2x1nJSxivUBs+61SftbB5/YBGeBCHsRDlDVxWevWLNGZAGpdji
+erVrNY2F01Ra1Gao9QB/65R42T1vHxi3Yjun9SwR
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+<Documento ID="E000000005T033F0074177639">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>74177639</Folio>
+<FchEmis>2016-02-18</FchEmis>
+<FmaPago>1</FmaPago>
+<FchVenc>2016-02-18</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>96792430-K</RUTEmisor>
+<RznSoc>SODIMAC S.A.</RznSoc>
+<GiroEmis>DISTRIBUIDORA DE MATERIALES DE CONSTRUCCION</GiroEmis>
+<Acteco>61514</Acteco>
+<Sucursal>Parque Arauco (HS)</Sucursal>
+<CdgSIISucur>65515501</CdgSIISucur>
+<DirOrigen>PDTE KENNEDY 5601</DirOrigen>
+<CmnaOrigen>Las Condes</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+<CdgVendedor>.</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<CdgIntRecep>0</CdgIntRecep>
+<RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+<GiroRecep>OBRAS MENORES EN CONSTRUCCION</GiroRecep>
+<DirRecep>AN PROVIDENCIA 2330</DirRecep>
+<CmnaRecep>PROVIDENCIA</CmnaRecep>
+<CiudadRecep>SANTIAGO</CiudadRecep>
+</Receptor>
+<RUTSolicita>76407152-2</RUTSolicita>
+<Totales>
+<MntNeto>28782</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>5469</IVA>
+<MntTotal>34251</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>655473</VlrCodigo>
+</CdgItem>
+<NmbItem>TOPEX ADH POLVO NORMAL 25KG CU</NmbItem>
+<PrcRef>1635</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>1635.29</PrcItem>
+<MontoItem>1635</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>212059</VlrCodigo>
+</CdgItem>
+<NmbItem>CJ DERIV C/INSERT TABIQUE NARC</NmbItem>
+<PrcRef>279</PrcRef>
+<QtyItem>7</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>278.99</PrcItem>
+<MontoItem>1953</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>3</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>276812</VlrCodigo>
+</CdgItem>
+<NmbItem>CODO PVC-P 90O 40MM CEM CUN13</NmbItem>
+<PrcRef>235</PrcRef>
+<QtyItem>4</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>235.29</PrcItem>
+<MontoItem>941</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>4</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>2091720</VlrCodigo>
+</CdgItem>
+<NmbItem>PLACA 3 TOMAS 10A TECHNIK NAT</NmbItem>
+<PrcRef>7895</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>7894.95</PrcItem>
+<MontoItem>7895</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>5</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1308041</VlrCodigo>
+</CdgItem>
+<NmbItem>CODO 90 HE FUSION 20X1/2 CCS</NmbItem>
+<PrcRef>2466</PrcRef>
+<QtyItem>5</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>2466.38</PrcItem>
+<MontoItem>12332</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>6</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>2262088</VlrCodigo>
+</CdgItem>
+<NmbItem>PILETA DE AC INOX 10 X 10CM CU</NmbItem>
+<PrcRef>3424</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>3424.36</PrcItem>
+<MontoItem>3424</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>7</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>278521</VlrCodigo>
+</CdgItem>
+<NmbItem>TERM PVC-P 50MMX1 1/2 CEM/HI..</NmbItem>
+<PrcRef>602</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>602.21</PrcItem>
+<MontoItem>602</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>96792430-K</RE><TD>33</TD><F>74177639</F><FE>2016-02-18</FE><RR>76407152-2</RR><RSR>HLI CONSTRUCCIONES SPA</RSR><MNT>34251</MNT><IT1>TOPEX ADH POLVO NORMAL 25KG CU</IT1><CAF version="1.0"><DA><RE>96792430-K</RE><RS>SODIMAC S A</RS><TD>33</TD><RNG><D>73509033</D><H>74509031</H></RNG><FA>2015-10-26</FA><RSAPK><M>satlee92RpzCLjXkk1lvj0tT8WLvcnQbYhyt+phqrh/nFnARNQ+UHFHpCzvjeOegDuE4OTZHdONAvUsjQ1Dbyw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">RN13AYZsunEgr/h0yip+imikDQmNvEzjNlxF8irX+cqECSTZrc1bZSmxDN2HBq+3ZrexDFt8fzshOP48XTfrMA==</FRMA></CAF><TSTED>2016-02-18T12:34:15</TSTED></DD><FRMT algoritmo="SHA1withRSA">pGG1dFOx/L/zJMSKatG2WV+3j4srg4S3Ma7IOQBdeCaUGZXIyEfIX6XLB1f1/TfoZLCtb5sQK1CvJtfxJU7t/A==</FRMT></TED><TmstFirma>2016-02-18T13:40:41</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000005T033F0074177639">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>e7Gc9BqLhKxVkQYmK19hEfUFF8U=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>VDsKwqMjH6u8nRANApn9jb4ozgfRMYjUxPHXpTYJzUqTxo38D1kq+cpqN50z7rwzXztvnC5d7SEtcn86UNj5JjCF+symydg5LfYIWmtMYjgheqKB8IR3TFIXIsEJe+CiI07Ssz4wj4f1ye3SQvL3BcImaE/295nYkD7NzEh5nrk=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+mZYiJXm3rhK/6B3TVhfLO4jV6hk9Sid5qcq7WbgyMEAtISBrLmuiIOyWqt16aG6r
+nmIOj0J6jaSJ+sdyosDaa9VKF3D+P40BkXY1ByP54FRa2imQwsDoEgZCVMZwdGZs
+nhlJnnELUzU+b1z1wzMfFWabo8JZDJflTueTVJ2GAFU=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGSjCCBTKgAwIBAgIKEVPNGwAAAAJOVDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNTA0MjMxODM0MzVaFw0xODA0MjIxODM0MzVaMIHN
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMSowKAYDVQQKEyFDcmlzdGlhbiBBbGZyZWRv
+IEdvbnphbGV6IFJ1YmlsYXIxCjAIBgNVBAsMASoxKjAoBgNVBAMTIUNyaXN0aWFu
+IEFsZnJlZG8gR29uemFsZXogUnViaWxhcjEiMCAGCSqGSIb3DQEJARYTcnZlcmdh
+cmFAc29kaW1hYy5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmZYiJXm3
+rhK/6B3TVhfLO4jV6hk9Sid5qcq7WbgyMEAtISBrLmuiIOyWqt16aG6rnmIOj0J6
+jaSJ+sdyosDaa9VKF3D+P40BkXY1ByP54FRa2imQwsDoEgZCVMZwdGZsnhlJnnEL
+UzU+b1z1wzMfFWabo8JZDJflTueTVJ2GAFUCAwEAAaOCAqcwggKjMAsGA1UdDwQE
+AwIE8DAdBgNVHQ4EFgQUIX3b71J4EjPpks/1yhDPdREm2/cwHwYDVR0jBBgwFoAU
+eOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2Ny
+bC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEB
+BC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3Nw
+MD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8
+YYHLnhSGqIJYAgFkAgEEMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTMwNDc3
+MDAtMzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNV
+HSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDov
+L3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABD
+AGUAcgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAu
+ACAASABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwBy
+AG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAg
+AGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqG
+SIb3DQEBBQUAA4IBAQCgNrIiSJ5Xuxaz2Oq3vHlg4bVP+twqTfAk8sbH3qCuROje
+cx1AuXAFXqA3pGCl9gNeiIIKXD2saUIY6FbRSsj6hgTD2Rc13z0S658nH3qllZT2
+T0B82ehWsbYUcyX4h9BmYoXMQBPxFab+jGM73I6SLbu1sRKS/KrgpDz0lGnTXncG
+aviVexinY+tWCxSMSOD39Ki7pCvRr7gWNbMr6Bp54GRKtbXOkoIbbjFBso9UPIsV
+zNQJ4uItZ5Ww3p2x1nJSxivUBs+61SftbB5/YBGeBCHsRDlDVxWevWLNGZAGpdji
+erVrNY2F01Ra1Gao9QB/65R42T1vHxi3Yjun9SwR
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

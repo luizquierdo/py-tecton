@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+      <Documento ID="F65660T33">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>65660</Folio>
+            <FchEmis>2016-02-22</FchEmis>
+            <TermPagoGlosa>A 30 DIAS</TermPagoGlosa>
+            <FchVenc>2016-03-23</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>99507430-3</RUTEmisor>
+            <RznSoc>HORMIGONES BICENTENARIO S.A.</RznSoc>
+            <GiroEmis>Exportacion de Materiales de Construccion</GiroEmis>
+            <Acteco>269510</Acteco>
+            <DirOrigen>Av. El Bosque Norte 0177, Piso 10 of. 1002</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+            <CdgVendedor>MARCELA QUINTANA</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+            <Extranjero/>
+            <GiroRecep>CONSTRUCTORA</GiroRecep>
+            <Contacto>22428584 -</Contacto>
+            <DirRecep>ISIDORA GOYENECHEA 3356 OF. 41</DirRecep>
+            <CmnaRecep>LAS CONDES</CmnaRecep>
+            <CiudadRecep>REGION METROPOLITANA</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>380160</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>72230</IVA>
+            <MntTotal>452390</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <NmbItem>HN25.0(90)20/08</NmbItem>
+          <QtyItem>8.00</QtyItem>
+          <UnmdItem>M3</UnmdItem>
+          <PrcItem>102745.840000</PrcItem>
+          <DescuentoPct>53.75</DescuentoPct>
+          <DescuentoMonto>441807</DescuentoMonto>
+          <MontoItem>380160</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>52</TpoDocRef>
+          <FolioRef>1757106</FolioRef>
+          <FchRef>2016-02-17</FchRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>99507430-3</RE>
+            <TD>33</TD>
+            <F>65660</F>
+            <FE>2016-02-22</FE>
+            <RR>76407152-2</RR>
+            <RSR>HLI CONSTRUCCIONES SPA</RSR>
+            <MNT>452390</MNT>
+            <IT1>HN25.0(90)20/08</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>99507430-3</RE>
+                <RS>HORMIGONES BICENTENARIO S.A.</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>61801</D>
+                  <H>95300</H>
+                </RNG>
+                <FA>2016-02-01</FA>
+                <RSAPK>
+                  <M>oRxlGUPr5HuzTT2u1xwQteS8OBpoGUhHEAaw9H8/euAkBUvgMnGGKINach1i6nBq88pqxoEE/hwuZqKqkDZW+w==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">KhKHV8TVsGvozRfGaEPMnLzyKXg9ZLMyvfz198Li7GuscLSwQxA+Zc70bc+ymVz7UmkDH+m0p7s4n2x+ZqGv9A==</FRMA>
+            </CAF>
+            <TSTED>2016-02-22T11:54:28</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">BD3gJiTDS31SOsND9rYgpC/Rrd/l2w20NK6z5IX35LwR3mTdtrAunK+tdgKueF2dDFe/Kkml+wAxa9sGB8erGQ==</FRMT>
+        </TED>
+        <TmstFirma>2016-02-22T11:54:32</TmstFirma>
+      </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#F65660T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>O/LHsoLBt9WEnN7ZpOxeUqxp7ic=</DigestValue></Reference></SignedInfo><SignatureValue>
+ayJEAqnwGoDZx3qOCvtfE31MYWJjVPC5WlHLuSUdGDhYUqeZ6YC8ctl42Ec8vo6p
+oinOguQweF9YtthxDpcWxzS+ITOqjG5i4VKvf3sAZUkBPFA7mxhr9/8ugBBx4Zcd
+tdoGRP4pZPxE77VusooAHhXiLIpdXot5RJkaMROk4+hZ826Z+141uzNnjfz9dVWu
+KNyFmR+AgR3bqsyqSTa9SRnEm6foT7DGFVM6w5FGbDox/OBQqQ3cz6U5Y15F8lJe
+2bisLVASqSBTzBc3Py+sRSC5uv/N1HQX6tSairItC74+BoZa4ovPZK3xWt8WobhM
+cYkQAS29nN5IRVAjkEFqYg==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+stJGIAC/uO3Td2Z8XfSPvqYqVS/rPoGPgNFYhl3bnzEwUP+PAeTchKbWgWTl7t/H
+av0VjXhSgRdQCYit5gHVilxxkWPOX2NRnoeTIvjEcytDAR1VYdlJXYUjuXq+sVJQ
+JdC8yWlI39n2U8mNTjaDX59lF3GY0NsdBrTd0wREmEEJjBhJEfInbi+NpIjKy7vU
+qMLJlq5WFqov2M/DXUwU+bTKjkCG63raaL5L960G+nMvjW2Xx9RUduy+1KNUjjqb
+Ts+Cu8BvQiGMeDhi7SWlGKF62/3PmCuX8pvkItJKieekOY2NZTPwcITlucow+MsG
+G2v5VHOjAkrSFgHLHYNh/Q==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGcTCCBVmgAwIBAgIDAPMyMA0GCSqGSIb3DQEBBQUAMIGmMQswCQYDVQQGEwJD
+TDEYMBYGA1UEChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29t
+IEF1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFs
+IC0gVjIxHjAcBgkqhkiG9w0BCQEWD2luZm9AYWNlcHRhLmNvbTETMBEGA1UEBRMK
+OTY5MTkwNTAtODAeFw0xNDA5MDQxOTI3MjhaFw0xNjA5MDQxODI3MjhaMIGXMQsw
+CQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSgwJgYDVQQDEx9O
+QVRBTEkgSk9DRUxZTiBTQU4gTUFSVElOIEJBRVpBMS8wLQYJKoZIhvcNAQkBFiBu
+YXRhbGkuc2FubWFydGluQGNlbWVudG9zYnNhLmNvbTETMBEGA1UEBRMKMTU4NzY5
+MTktMDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALLSRiAAv7jt03dm
+fF30j76mKlUv6z6Bj4DRWIZd258xMFD/jwHk3ISm1oFk5e7fx2r9FY14UoEXUAmI
+reYB1YpccZFjzl9jUZ6HkyL4xHMrQwEdVWHZSV2FI7l6vrFSUCXQvMlpSN/Z9lPJ
+jU42g1+fZRdxmNDbHQa03dMERJhBCYwYSRHyJ24vjaSIysu71KjCyZauVhaqL9jP
+w11MFPm0yo5Ahut62mi+S/etBvpzL41tl8fUVHbsvtSjVI46m07PgrvAb0IhjHg4
+Yu0lpRihetv9z5grl/Kb5CLSSonnpDmNjWUz8HCE5bnKMPjLBhtr+VRzowJK0hYB
+yx2DYf0CAwEAAaOCArMwggKvMB8GA1UdIwQYMBaAFEDf6PZWEPl0Gp6EzCII0Dat
+KSZRMB0GA1UdDgQWBBSkw3hrnpS1U0Pem7gpl0N55ZN5yDALBgNVHQ8EBAMCBPAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIF
+oDCB8gYDVR0gBIHqMIHnMIHkBgorBgEEAbVrh2kCMIHVMCcGCCsGAQUFBwIBFhto
+dHRwOi8vd3d3LmFjZXB0YS5jb20vQ1BTVjIwgakGCCsGAQUFBwICMIGcMBYWD0Fj
+ZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRv
+IGVuIGZvcm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2Vy
+dGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJpbywgcGFnb3MsIGNvbWVyY2lvIHkg
+b3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAtOKAkBggr
+BgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9pbmZvQGFjZXB0YS5j
+b20wawYDVR0RBGQwYqAYBggrBgEEAcEBAaAMFgoxNTg3NjkxOS0woCQGCCsGAQUF
+BwgDoBgwFgwKMTU4NzY5MTktMAYIKwYBBAHBAQKBIG5hdGFsaS5zYW5tYXJ0aW5A
+Y2VtZW50b3Nic2EuY29tMDsGCCsGAQUFBwEBBC8wLTArBggrBgEFBQcwAYYfaHR0
+cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTNWMjAzBgNVHR8ELDAqMCigJqAkhiJo
+dHRwOi8vY3JsLmFjZXB0YS5jb20vQ2xhc2UzVjIuY3JsMA0GCSqGSIb3DQEBBQUA
+A4IBAQBZy8tWfUABmyJKzjKvMA2IEj9kDaVG2By84a7BZciGFC2VXLNs29WguFtU
+Doa4LHWhflbchQGB0I6P2w5KtKm+y7uJV15zJ/5DDBlBK9sxKbKHeEgjHP1TMFHR
+UUyG5xIX0cU1NHvHd61zWOr52DTDy1av02d9XaVeVyL8ADR0c4uIieSmqXpwdd4N
+EDH64Q2Jx1J1CV+O3jY30SWC0RPSYjr5mkxe9lK79MVhoYPVpdRk4CIR1EHB4u2x
+KHparXRXA1Nigo5VdlGg1DBwSMyRanV003Mc/358g5tG08jq0e4BYm5LDz/PYL23
+guc9jQ1wPFxmWguuLR++qJXezAcE
+</X509Certificate></X509Data></KeyInfo></Signature>
+    </DTE>

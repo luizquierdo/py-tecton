@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+<SetDTE ID="SDTE702107788">
+  <Caratula version="1.0">
+    <RutEmisor>78637400-6</RutEmisor>
+    <RutEnvia>48080155-5</RutEnvia>
+    <RutReceptor>76407152-2</RutReceptor>
+    <FchResol>2014-10-21</FchResol>
+    <NroResol>99</NroResol>
+    <TmstFirmaEnv>2019-01-14T16:21:22</TmstFirmaEnv>
+    <SubTotDTE>
+      <TpoDTE>33</TpoDTE>
+      <NroDTE>1</NroDTE>
+    </SubTotDTE>
+  </Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+  <!-- O Win32 Chrome 71 central VERSION: v20170209 -->
+<Documento ID="MiPE78637400-25071">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>3965</Folio>
+        <FchEmis>2019-01-14</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>1</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>78637400-6</RUTEmisor>
+        <RznSoc>EMPRESA DE SERVICIOS INGENIERIA    ELECTRICA COLCHAGUA LTDA</RznSoc>
+        <GiroEmis>COMPRA VENTA DE MAT. ELECTRICOS</GiroEmis>
+        <Telefono>72 2824370</Telefono>
+        <CorreoEmisor>VENTASESIELCO@GMAIL.COM</CorreoEmisor>
+        <Acteco>477399</Acteco>
+        <CdgSIISucur>031022851</CdgSIISucur>
+        <DirOrigen>RAMON SANFURGO 176</DirOrigen>
+        <CmnaOrigen>SANTA CRUZ</CmnaOrigen>
+        <CiudadOrigen>SANTA CRUZ</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76407152-2</RUTRecep>
+        <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+        <GiroRecep>CONSTRUCCION DE EDIFICIOS PARA USO RESID</GiroRecep>
+        <DirRecep>NUEVA DE LYON 124  601</DirRecep>
+        <CmnaRecep>PROVIDENCIA</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>21597</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>4103</IVA>
+        <MntTotal>25700</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Tubo Met. Flexible 1 C/T.</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <UnmdItem>mt.</UnmdItem>
+      <PrcItem>2186.00</PrcItem>
+      <MontoItem>2186</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <NmbItem>Prensa Conexión Bimetal</NmbItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>1236.00</PrcItem>
+      <MontoItem>7416</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <NmbItem>Terminal Comp. N°4 AWG</NmbItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>260.00</PrcItem>
+      <MontoItem>1560</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <NmbItem>Tubo Met. Flex. 3/4 C/2T.</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <UnmdItem>mt.</UnmdItem>
+      <PrcItem>2227.00</PrcItem>
+      <MontoItem>2227</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <NmbItem>Copla Galv. 3/4 Pulg.</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>504.00</PrcItem>
+      <MontoItem>504</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <NmbItem>Copla Galv. 1 Pulg.</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>714.00</PrcItem>
+      <MontoItem>714</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>7</NroLinDet>
+      <NmbItem>Terminal EMT 3/4 Pulg.</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>235.00</PrcItem>
+      <MontoItem>235</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>8</NroLinDet>
+      <NmbItem>Terminal EMT 1 Pulg.</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>294.00</PrcItem>
+      <MontoItem>294</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>9</NroLinDet>
+      <NmbItem>Tubería EMT 1 X 3 mt.</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>2261.00</PrcItem>
+      <MontoItem>2261</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>10</NroLinDet>
+      <NmbItem>Prensa Estopa PG 16</NmbItem>
+      <QtyItem>20.00</QtyItem>
+      <PrcItem>210.00</PrcItem>
+      <MontoItem>4200</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>78637400-6</RE><TD>33</TD><F>3965</F><FE>2019-01-14</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>25700</MNT><IT1>Tubo Met. Flexible 1 C/T.</IT1><CAF version="1.0"><DA><RE>78637400-6</RE><RS>EMPRESA DE SERVICIOS INGENIERIA    ELECT</RS><TD>33</TD><RNG><D>3965</D><H>3965</H></RNG><FA>2019-01-14</FA><RSAPK><M>o7GwwrAua4nIPLW9M41zTkFvffmyKJpXcJnu7SXFMC6iDyZUTnnrPN1621w13E1zqANz/S9iSNtGW7Qv2pk8fw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">LL2+lnQfIxPJ5hGKoND0tqozC7HTFMsGLOjkggjXSo2j4Hx+VKc6IlZmjisH/HVKaSNzEMVWPtZN2WBGNGQU8g==</FRMA></CAF><TSTED>2019-01-14T16:21:12</TSTED></DD><FRMT algoritmo="SHA1withRSA">IxXIFPW/YAMvrog4ESzpikvtXOOwBYccpT/FHPumjyeLJN7jfpwJ6wl+Mu6z69MV6XV3Jp8zJcsfciubGkJPSg==</FRMT></TED>
+    <TmstFirma>2019-01-14T16:21:12</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE78637400-25071">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>HNiejxpopnAEH3c5lYktPgf0kFg=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+aik8HNTRMjkcQ/T+EUeJBYl8Km2hRVXrjcS5t/NLyIXsIIeYIAQGZ/Yhm/DrxKEBzWLvHw6XW8No
+QeuyjzivNsAWJ80y0Z4oCp3NvgzHlEtjL7uanp1wD9+GXHKX/iMsCXHNoYmmH0ZVxQODlbkO+VCt
+4WhAuaEp/vbnJ/4eHIis2b1vNsc5BNsAfYwOdbhILmUKRArnIQz/QM1TOdnCywhR8WmR4BOifJWA
+KEIiInktT8eOsJkRyb1YMqDY/nhlQDszNeEIXBMp480KhU5H/0gsKdVZFczSkhtz+aDIMzBei24e
+aa0HkPxHdiUkelHCFdH8jGlqGT/A+sj33L+DtA==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+r69kCtvbKMjJg1Eo0qfbLt3CyLIbjPWFh/S99AOf2sJn6mjhuN8uOfTwCciB4ljQ0uAbDknmdVJU
+yhhiWBHg0oHzerS/qbUCUtI/w5M8NeEEfiD7WQNPrG0OoiklMu1U8yXTYr0QkfF8+AW0NzP9YGNw
+X1j9cIP1SL1yqT1pFlm95YtweRKHYtLzaySnstqFXonHX2HTyeh2Jwt1lnFI/K4Can/vTN2pZ2zR
+sJnbcAQPTfNyc2xwEBBAuBIYBwNDbtH+ifYJ09xp5wDfFDBNgR6B3N48uJvxpL6U+nHG0hZIslXa
+LmMHZ9fGkssC3TSrgRcls8ykv8HJ67gB92HZoQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIF7zCCBNegAwIBAgICPtswDQYJKoZIhvcNAQELBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMiBQZXJzb25hIE5hdHVyYWwgLSBHNDEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE3MDExOTE1Mzg1MFoXDTIwMDExOTE1
+Mzg1MFowgYcxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxIjAgBgNVBAMT
+GUpPU0UgVEVPQkFMRE8gVVJJQkUgUklGRk8xJjAkBgkqhkiG9w0BCQEWF2pvc2VjZXJ0aTIwMTdA
+Z21haWwuY29tMRIwEAYDVQQFEwk1ODg3MzQwLTMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCvr2QK29soyMmDUSjSp9su3cLIshuM9YWH9L30A5/awmfqaOG43y459PAJyIHiWNDS4BsO
+SeZ1UlTKGGJYEeDSgfN6tL+ptQJS0j/Dkzw14QR+IPtZA0+sbQ6iKSUy7VTzJdNivRCR8Xz4BbQ3
+M/1gY3BfWP1wg/VIvXKpPWkWWb3li3B5Eodi0vNrJKey2oVeicdfYdPJ6HYnC3WWcUj8rgJqf+9M
+3alnbNGwmdtwBA9N83JzbHAQEEC4EhgHA0Nu0f6J9gnT3GnnAN8UME2BHoHc3jy4m/GkvpT6ccbS
+FkiyVdouYwdn18aSywLdNKuBFyWzzKS/wcnruAH3YdmhAgMBAAGjggJCMIICPjAfBgNVHSMEGDAW
+gBRlpas+P8i2UW0Rfl/DCgfmQ6AItjAdBgNVHQ4EFgQUcoRv1ZypufwDEdO3RkQARExVBF0wCwYD
+VR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhCAQEEBAMC
+BaAwdQYDVR0gBG4wbDBqBggrBgEEAbVrAjBeMDEGCCsGAQUFBwIBFiVodHRwczovL2FjZzQuYWNl
+cHRhLmNvbS9DUFMtQWNlcHRhY29tMCkGCCsGAQUFBwICMB0wFhYPQWNlcHRhLmNvbSBTLkEuMAMC
+AQkaA1RCRDBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYBBQUHCAOg
+GDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29tMGAGA1UdEQRZMFegFwYI
+KwYBBAHBAQGgCxYJNTg4NzM0MC0zoCMGCCsGAQUFBwgDoBcwFQwJNTg4NzM0MC0zBggrBgEEAcEB
+AoEXam9zZWNlcnRpMjAxN0BnbWFpbC5jb20wRwYIKwYBBQUHAQEEOzA5MDcGCCsGAQUFBzABhito
+dHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0MD8GA1UdHwQ4MDYwNKAy
+oDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNlMi1HNC5jcmwwDQYJKoZI
+hvcNAQELBQADggEBAJetLcRXHNwkv7v3wErLN4lUFQU8ZhAum9gOUEepoWd1ibjc8OK4WtSt5+JD
+cp1wHrz1lGeVdt5a1jpiyg8Ex6aKDu54LxerKM18m4wW/LW/aSMWqzUl3AVVcsuGlhzDnt3vHzdl
+3RTA2zJnU0vk5z1px4GQp+L2Pzv4YfX0U2uk8/bufZPJHyx7qcbfmQ8cxrOX8d4/d7PsAbSLoN8J
+0pd735GV1U4tpR6wQcD0KD1qNbbQeUOJ9TyOX5PqigQ8ZPMhePnoq9OGgMcZHLlOVclCaZ+XA+xY
+rBEVBcxgRmvP99KEnaNp1CWUJwOuqC3pSeB4QPfk8J01l0uaHvUZOO8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#SDTE702107788">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>NlY+ybbqcJHxcGuwWtshFPggMws=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>gY6VBdMXsIAELA7FN9V3oiSwvK/9gnRTQi3M+BgCfThNynRBSaqjyceRfXXnl/he
+lqW/jS2wWlJ5MDUqKlA1Y+Kq8Y3Qq2SJY+lPngEc0hHeSjXMYeljSEnna0XRReQK
+ok6/zob2Dy1bMh5bNTS82sHlNRE2LAtPQa9kk62roVrw7jh5+HCVS/P8sUAchbO8
+xYcX74E3iZLVZbU/1yGFCyz2sJDKp6fcQfgket9MenCnjVW+mwdmM40Qgd5lcKYk
+mwkKB1Jw5wj8fSTgtFLQxg7YiG5uGgjbAmlnSskjyVqQPcoTyUFqY/JeyJE4EPsg
+Ro51Wglk2WIvhFitQciwwA==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+vUSZwnTtsvIdpQ5q2hq53klOqJpf4xEXdId5mZBsDiCC7rYW17IXZsRmULwNbg80
+I+8op1lw3tG/f7wnAD70SbiF+XtAmpDtFWxBuifOA7yt5LQ61UYeZUumdBhcoWGP
+FXXmQCHHEyhZzl264AhbyKhReae6+KG1tk3YDcdNXwCbzdp90+3r4Jj9iNgxKpE3
+KWYmJQtQ9mWqZlDKVef1PdHzVtALOJrI72hG6A4FV9tGRQ8xluTByCqw+hx4fkXZ
+irF1DT3uQsF3l79nGrtU6520DRTPoNWimzUkeVsEp8auTbU6KMjj4Umk4rbVo5kw
+gRP4WlsONi0RBkMa7uRsnQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIEZDCCA0ygAwIBAgIBRDANBgkqhkiG9w0BAQUFADCBpTEUMBIGA1UEAxMLU0lJ
+LUNBLTIwMTM
+xGjAYBgNVBAcTEVNhbnRpYWdvIGRlIENoaWxlMR0wGwYDVQQIExRS
+ZWdpb24gTWV0cm9wb2xpdG
+FuYTELMAkGA1UEBhMCQ0wxHDAaBgkqhkiG9w0BCQEW
+DXNpaS1jYUBzaWkuY2wxJzAlBgNVBAoTH
+lNlcnZpY2lvIGRlIEltcHVlc3RvcyBJ
+bnRlcm5vczAeFw0xNzAzMjIxNjMwMjdaFw0xOTAzMjIx
+NjMwMjdaMIHRMSQwIgYD
+VQQLExtTdWJkaXJlY2Npb24gZGUgSW5mb3JtYXRpY2ExJzAlBgNVBAo
+THlNlcnZp
+Y2lvIGRlIEltcHVlc3RvcyBJbnRlcm5vczELMAkGA1UEBhMCQ0wxHTAbBgNVBAgT
+F
+FJlZ2lvbiBNZXRyb3BvbGl0YW5hMRowGAYDVQQHExFTYW50aWFnbyBkZSBDaGls
+ZTEeMBwGCSqG
+SIb3DQEJARYPbWxhY29zdGVAc2lpLmNsMRgwFgYDVQQDEw9GQUNU
+VVJBQ0lPTiBTSUkwggEiMA0
+GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9RJnC
+dO2y8h2lDmraGrneSU6oml/jERd0h3mZkG
+wOIILuthbXshdmxGZQvA1uDzQj7yin
+WXDe0b9/vCcAPvRJuIX5e0CakO0VbEG6J84DvK3ktDrVR
+h5lS6Z0GFyhYY8VdeZA
+IccTKFnOXbrgCFvIqFF5p7r4obW2TdgNx01fAJvN2n3T7evgmP2I2DEq
+kTcpZiYl
+C1D2ZapmUMpV5/U90fNW0As4msjvaEboDgVX20ZFDzGW5MHIKrD6HHh+RdmKsXUN
+Pe
+5CwXeXv2cau1TrnbQNFM+g1aKbNSR5WwSnxq5NtTooyOPhSaTittWjmTCBE/ha
+Ww42LREGQxru5
+GydAgMBAAGjcTBvMAkGA1UdEwQCMAAwPQYDVR0RBDYwNKAYBggr
+BgEEAcEBAaAMEwo0ODA4MDE1
+NS01oBgGCCsGAQQBwQEDoAwTCjYwODAzMDAwLUsw
+IwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMEwo
+2MDgwMzAwMC1LMA0GCSqGSIb3DQEB
+BQUAA4IBAQCltLIBMlvpHbdSttl+QC6pZPBsl2U2VKLThg
+IEE4lCDGCIB7UoPb3k
+evEY2AepxKxNy64SvqXKpsXwfRIcdudcQOIIhk77WnsWP3x0HiyAqmn4U
+Ri7DNa0
+Hk4bcQXsdAGHGYqPUisQltPeaqzoGyhlATLfo8XyaMeB3/1jlAGyWaczWCP8Fv40
+rO4
+QEUqIqUf5XFeC2TiJPfFp/LB5zYkZKNeAVnqZXZtQAaRHrqxnDd4DNy8BAe6c
+Al/YZsDh/1JWRb
+gySVQK2M4HOU172feqEGkLOoy3bcMSKxj9Wqxsjg3kzcm+Uo0F
+ymekuMCa1XFJ1OWVu0E2zB2Xp
+dIMZTjU
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>

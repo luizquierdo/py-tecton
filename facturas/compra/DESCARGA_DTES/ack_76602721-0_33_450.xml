@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RespuestaDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte RespuestaEnvioDTE_v10.xsd">
+  <Resultado ID="ID_9861e47febfe480f9670a900b05b8659">
+    <Caratula version="1.0">
+      <RutResponde>76602721-0</RutResponde>
+      <RutRecibe>76407152-2</RutRecibe>
+      <IdRespuesta>450</IdRespuesta>
+      <NroDetalles>1</NroDetalles>
+      <NmbContacto>Plataforma Energía</NmbContacto>
+      <MailContacto>administracion@efizity.cl</MailContacto>
+      <TmstFirmaResp>2018-12-27T21:35:02</TmstFirmaResp>
+    </Caratula>
+    <RecepcionEnvio>
+      <NmbEnvio>056b848c189a4b6aa121863df843e8d3.xml</NmbEnvio>
+      <FchRecep>2018-12-27T21:35:02</FchRecep>
+      <CodEnvio>3470856894</CodEnvio>
+      <EnvioDTEID>056b848c189a4b6aa121863df843e8d3</EnvioDTEID>
+      <Digest>npwmBofTXI0zmIsizbrrvPVx/2s=</Digest>
+      <RutEmisor>76407152-2</RutEmisor>
+      <RutReceptor>76602721-0</RutReceptor>
+      <EstadoRecepEnv>0</EstadoRecepEnv>
+      <RecepEnvGlosa>Envío Recibido Conforme</RecepEnvGlosa>
+      <NroDTE>1</NroDTE>
+      <RecepcionDTE>
+        <TipoDTE>33</TipoDTE>
+        <Folio>450</Folio>
+        <FchEmis>2018-12-27</FchEmis>
+        <RUTEmisor>76407152-2</RUTEmisor>
+        <RUTRecep>76602721-0</RUTRecep>
+        <MntTotal>5946179</MntTotal>
+        <EstadoRecepDTE>0</EstadoRecepDTE>
+        <RecepDTEGlosa>DTE Recibido OK</RecepDTEGlosa>
+      </RecepcionDTE>
+    </RecepcionEnvio>
+  </Resultado>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID_9861e47febfe480f9670a900b05b8659"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>YuhL9PjSfPSBWwsRz4i9vVCEM1U=</DigestValue></Reference></SignedInfo><SignatureValue>
+IA/UywIj+YWsx7k1oJXm3QC4OcCxqLTOmLCESSSOfrgofyRPOtC3GnlW1WsevyWz
++3rTCdHGvMBWgzlb4h7l5UUvTb0mKaAL3ZRjVcj3kya2gtdzPuJw2gxXcMFShA58
+04xCsmDFx6Gbha9NdxZzj7BmVKy3mzbRxDv09QREe1T72mGTGkB1P1l6Zr6drZU2
+mi6mmCapo4b92G878aJHm7DheOwDjZB3pBWfJUOUj5x0uKy0Bvsra8sVSneoGIa4
+H3F2Um6H0g6CICEfr0u0i68z5TPIRoAHTWRTFH54/2PDj3kK7snBgtSLovCqGS9V
+/8yCoN3ttmPe9a8/UYArqQ==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+p2aqOMocWNKXsNCrxzlqTLOD8VXE9qZPM2+wd8r9eY7Q8jnreXr81IpGPvnHvFca
+LxOtjTs4GX8fYTX/EhShAiv3KEHsM5SwsR21Y/MZIw7aCVWy3uuwmval3nQ1sgVy
+dv/Kl1IfzFlnTJyJei/SJxjHUA7vW7qr/aEXargwZCSw0C4VUfBSf+3kOYyrkT5H
+OZr5Cx1Pm08UlgiKWjQwFOG7la0CE27E+Nu3e3YMcK747tGOhLaKs1VZHwLeCyuw
+S914tzwK1dqo0uaDnyTpVWyHTjPbPND/nbM4IroYUxX5maaB20VxxHZ8xQ5zN4cI
+8MskcpkS9mjJ3CNtnP9tFQ==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGdjCCBV6gAwIBAgICKlMwDQYJKoZIhvcNAQELBQAwgaYxCzAJBgNVBAYTAkNM
+MRgwFgYDVQQKEw9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20g
+QXV0b3JpZGFkIENlcnRpZmljYWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwg
+LSBHNDEeMBwGCSqGSIb3DQEJARYPaW5mb0BhY2VwdGEuY29tMRMwEQYDVQQFEwo5
+NjkxOTA1MC04MB4XDTE4MDQxNjEyMjAwMloXDTIxMDQxNjEyMjAwMlowgYgxCzAJ
+BgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxJDAiBgNVBAMTG0NS
+SVNUSUFOIFdPTExFVEVSIEVHVUlHVVJFTjEkMCIGCSqGSIb3DQEJARYVQ1dPTExF
+VEVSQEVGSVpJVFkuQ09NMRMwEQYDVQQFEwoxMzg4MjMwMS02MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2aqOMocWNKXsNCrxzlqTLOD8VXE9qZPM2+w
+d8r9eY7Q8jnreXr81IpGPvnHvFcaLxOtjTs4GX8fYTX/EhShAiv3KEHsM5SwsR21
+Y/MZIw7aCVWy3uuwmval3nQ1sgVydv/Kl1IfzFlnTJyJei/SJxjHUA7vW7qr/aEX
+argwZCSw0C4VUfBSf+3kOYyrkT5HOZr5Cx1Pm08UlgiKWjQwFOG7la0CE27E+Nu3
+e3YMcK747tGOhLaKs1VZHwLeCyuwS914tzwK1dqo0uaDnyTpVWyHTjPbPND/nbM4
+IroYUxX5maaB20VxxHZ8xQ5zN4cI8MskcpkS9mjJ3CNtnP9tFQIDAQABo4ICyDCC
+AsQwHwYDVR0jBBgwFoAUqv29xek3TfaZTVeOwXEa+evDBuMwHQYDVR0OBBYEFPI1
+LTgoUH9ZRhb+cllxvhIUSKmvMAsGA1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEF
+BQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQDAgWgMIH6BgNVHSAEgfIwge8w
+gewGCCsGAQQBtWsCMIHfMDEGCCsGAQUFBwIBFiVodHRwczovL2FjZzQuYWNlcHRh
+LmNvbS9DUFMtQWNlcHRhY29tMIGpBggrBgEFBQcCAjCBnDAWFg9BY2VwdGEuY29t
+IFMuQS4wAwIBAhqBgUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxpZGFkbyBlbiBmb3Jt
+YSBwcmVzZW5jaWFsLCBxdWVkYW5kbyBoYWJpbGl0YWRvIGVsIENlcnRpZmljYWRv
+IHBhcmEgdXNvIHRyaWJ1dGFyaW8sIHBhZ29zLCBjb21lcmNpbyB5IG90cm9zLjBa
+BgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYBBQUHCAOg
+GDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29tMGAGA1Ud
+EQRZMFegGAYIKwYBBAHBAQGgDBYKMTM4ODIzMDEtNqAkBggrBgEFBQcIA6AYMBYM
+CjEzODgyMzAxLTYGCCsGAQQBwQECgRVDV09MTEVURVJARUZJWklUWS5DT00wRwYI
+KwYBBQUHAQEEOzA5MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNv
+bS9hY2c0L29jc3AvQ2xhc2UzLUc0MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8v
+YWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNlMy1HNC5jcmwwDQYJKoZIhvcN
+AQELBQADggEBAGGSNi1SyYdneXrv/fk6MXftWXiNIemu5jXMrt6M/1fHyAmwXPcj
+xIVpWVrxZFt/4MP+3TAwrp8lio+8fbBci9wRw9isIAFYSqErdMuexIz5t7IFXm5A
+TELJHGoJseoUSM0/qMlRK5NbrVbrFdk5E/MZ8XOnl6qLoXk5z+sEpyvUJwDwqMhJ
+oXoAd/lBaFwIqqoQ7D9QlcXnqOzwQVZ8Nn85FRc76XgVFZSlXzl0NmNoidoURnv/
+vnS7mCirN2VpBgrpUAj9Pg2wsgTKUxPrjD9MiTWjshtn3KMJRA0ywVvj5QiWZlSf
+xob8UG77ilWV0U5jsWGXZ4LISH7AMWLKOgw=
+</X509Certificate></X509Data></KeyInfo></Signature>
+</RespuestaDTE>

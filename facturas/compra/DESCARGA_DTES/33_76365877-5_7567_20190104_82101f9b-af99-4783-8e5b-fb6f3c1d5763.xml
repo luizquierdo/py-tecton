@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+	<SetDTE ID="IDf52bf7a1a540434eb99f97a7e8eea062">
+		<Caratula version="1.0">
+			<RutEmisor>76365877-5</RutEmisor>
+			<RutEnvia>13037526-K</RutEnvia>
+			<RutReceptor>76407152-2</RutReceptor>
+			<FchResol>2014-08-22</FchResol>
+			<NroResol>80</NroResol>
+			<TmstFirmaEnv>2019-01-04T17:44:20</TmstFirmaEnv>			
+		<SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+	<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+			<Documento ID="T33F7567">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>33</TipoDTE>
+						<Folio>7567</Folio>
+						<FchEmis>2019-01-04</FchEmis>
+						<TipoDespacho>2</TipoDespacho>
+						<TpoTranVenta>1</TpoTranVenta>
+						<FmaPago>2</FmaPago>
+						<FchVenc>2019-03-05</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>76365877-5</RUTEmisor>
+						<RznSoc>RSMAQ SPA</RznSoc>
+						<GiroEmis>Arriendo y venta de equipos para la construcción</GiroEmis>
+						<Acteco>513100</Acteco>
+						<Acteco>514320</Acteco>
+						<Acteco>515004</Acteco>
+						<Acteco>515009</Acteco>
+						<Sucursal>Local</Sucursal>
+						<DirOrigen>Local</DirOrigen>
+						<CmnaOrigen>Recoleta</CmnaOrigen>
+						<CdgVendedor>NOELIA</CdgVendedor>
+					</Emisor>
+					<Receptor>
+						<RUTRecep>76407152-2</RUTRecep>
+						<CdgIntRecep>76.407.152-2</CdgIntRecep>
+						<RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+						<GiroRecep>CONSTRUCCION DE EDIF. COMPLETOS</GiroRecep>
+						<DirRecep>AV. PROVIDENCIA 2330 63</DirRecep>
+						<CmnaRecep>PROVIDENCIA</CmnaRecep>
+						<CiudadRecep>SANTIAGO</CiudadRecep>
+						<DirPostal>AV. PROVIDENCIA 2330 63</DirPostal>
+						<CmnaPostal>PROVIDENCIA</CmnaPostal>
+						<CiudadPostal>SANTIAGO</CiudadPostal>
+					</Receptor>
+
+					<Totales>
+						<MntNeto>125900</MntNeto>
+						<TasaIVA>19.00</TasaIVA>
+						<IVA>23921</IVA>
+						<MntTotal>149821</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>BOT-PVC39</VlrCodigo>
+					</CdgItem>
+					<NmbItem>BOTA PVC IND. NEGRA C/PUNTA Y PLANTA T 39</NmbItem>
+					<DscItem>BOTA PVC PUNTA/PLANTA</DscItem>
+					<QtyItem>2.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>6490.000000</PrcItem>
+					<MontoItem>12980</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>2</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>BOT-PVC40</VlrCodigo>
+					</CdgItem>
+					<NmbItem>BOTA PVC IND. NEGRA C/PUNTA Y PLANTA T 40</NmbItem>
+					<QtyItem>2.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>6490.000000</PrcItem>
+					<MontoItem>12980</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>3</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>BOT-PVC41</VlrCodigo>
+					</CdgItem>
+					<NmbItem>BOTA PVC IND. NEGRA C/PUNTA Y PLANTA T 41</NmbItem>
+					<DscItem>BOTA PVC</DscItem>
+					<QtyItem>3.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>6490.000000</PrcItem>
+					<MontoItem>19470</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>4</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>BOT-PVC42</VlrCodigo>
+					</CdgItem>
+					<NmbItem>BOTA PVC IND. NEGRA C/PUNTA Y PLANTA T 42</NmbItem>
+					<DscItem>BOTA PVC</DscItem>
+					<QtyItem>3.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>6490.000000</PrcItem>
+					<MontoItem>19470</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>5</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>7200045</VlrCodigo>
+					</CdgItem>
+					<NmbItem>GUANTE LATEX ALBAÑIL REFORZADO (STEEL PRO)</NmbItem>
+					<DscItem>GUANTE ALBAÑIL STEELPRO</DscItem>
+					<QtyItem>10.000000</QtyItem>
+					<UnmdItem>par</UnmdItem>
+					<PrcItem>490.000000</PrcItem>
+					<MontoItem>4900</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>6</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>840198</VlrCodigo>
+					</CdgItem>
+					<NmbItem>GUANTE NITRILO PUÑO TEJIDO</NmbItem>
+					<DscItem>GUANTE NITRILO</DscItem>
+					<QtyItem>10.000000</QtyItem>
+					<UnmdItem>par</UnmdItem>
+					<PrcItem>1190.000000</PrcItem>
+					<MontoItem>11900</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>7</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>451950461356</VlrCodigo>
+					</CdgItem>
+					<NmbItem>BUZO DESECHABLE STEELGEN BLANCO L</NmbItem>
+					<QtyItem>15.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>890.000000</PrcItem>
+					<MontoItem>13350</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>8</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>570900</VlrCodigo>
+					</CdgItem>
+					<NmbItem>RODILLERA PROFESIONAL POLIESTER PLUS BLACK</NmbItem>
+					<DscItem>RODILLERA PROFESIONAL</DscItem>
+					<QtyItem>3.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>4200.000000</PrcItem>
+					<MontoItem>12600</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>9</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>300070</VlrCodigo>
+					</CdgItem>
+					<NmbItem>FONO SAMURAI 26DB ADOSABLE AL CASCO MARCA: STEELPRO</NmbItem>
+					<DscItem>VENTA</DscItem>
+					<QtyItem>5.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>3650.000000</PrcItem>
+					<MontoItem>18250</MontoItem>
+				</Detalle>
+				<Referencia>
+					<NroLinRef>1</NroLinRef>
+					<TpoDocRef>52</TpoDocRef>
+					<FolioRef>15280</FolioRef>
+					<FchRef>2019-01-02</FchRef>
+				</Referencia>
+				<Referencia>
+					<NroLinRef>2</NroLinRef>
+					<TpoDocRef>801</TpoDocRef>
+					<FolioRef>OC-04336</FolioRef>
+					<FchRef>2019-01-02</FchRef>
+					<RazonRef>OBRA:GUVE 25</RazonRef>
+				</Referencia>
+				<Referencia>
+					<NroLinRef>3</NroLinRef>
+					<TpoDocRef>52</TpoDocRef>
+					<FolioRef>15322</FolioRef>
+					<FchRef>2019-01-04</FchRef>
+				</Referencia>
+				<TED version="1.0"><DD><RE>76365877-5</RE><TD>33</TD><F>7567</F><FE>2019-01-04</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>149821</MNT><IT1>BOTA PVC IND. NEGRA C-PUNTA Y PLANTA T </IT1><CAF version="1.0">
+<DA>
+<RE>76365877-5</RE>
+<RS>RSMAQ SPA</RS>
+<TD>33</TD>
+<RNG><D>7551</D><H>7850</H></RNG>
+<FA>2018-12-20</FA>
+<RSAPK><M>03y8laF/Wv1KGWOAyqNQ7HZwzxN5szP5TXOzGYp4e7nD2acs839QBn/eJqhcCO5M5D952XJXXk7Okjftyqjdrw==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">JbzvPyyKYwKXUVT0smnhaNd5we2FHbHp84C+T08d0z68AKt0w2i8UcNHiHx8QaYo7xqmCD7CvGz8LXGkLZ5FOg==</FRMA>
+</CAF><TSTED>2019-01-04T17:44:58</TSTED></DD><FRMT algoritmo="SHA1withRSA">JE6YwFG/+KqF8Hah6a5/Vb/MvwPEne4QbpdITr4MLn0+DtpzrQ28fCdoilkvqzE/aMZrg0eQfurZbTEe0fXXtQ==</FRMT></TED>
+				<TmstFirma>2019-01-04T17:44:19</TmstFirma>
+			</Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#T33F7567"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qNYs3G5NHKMsGXxany4coN5lWvc=</DigestValue></Reference></SignedInfo><SignatureValue>
+kk8yxQSE+RsEbkaZBlFcRrc2RFaGFWYwch49C95yUrjXwpMCYfq2g1KJwZB2SvtU
+kdaxervNglvZt4HFmiiz312eBQKKEB5bGRTZupTMadPOL8+hfV6kJPAlQGyvUyIP
+9RapQkmlAl7uMnDgrIzOJm4EgVqiq4ZFf3hskfzZSbwpiHu6NdBD9puwLeM0xVlp
+5yuZtwFketPmG9lbOHZdFQC9vQRH4MjzmM4Uj4vqpfXBoBZeytpaB/hygAXpZwd5
+511NGxvhcHjlFG1C2XNJxC8IXZmw6ZzN47M3kdsTokIyZfkBz5kgeZylmdUVtjRD
+aC80bezKVdVeUL68K+Xc/g==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+t3xYqwLSKRh381g+EI/rT2Vg5gLreP1vtGuZlNj2UqL9/yRqgSfXcvadNjNCNioh
+Sfi6GzKCclpaZzCCPjn04uLPFCnU7KQVC93TvkC3y0Z5/Ign7d3nMhnEk6qOYlv+
+QmdwNrkvpArodZ9zIwJCh7KLQGXW0A1PqQyEHTAM4k/SjX4+loXMR0TEt9ze4l7o
+8qIL7MacIH1iICs5QiyUReC5t2yaGgk7yIX2CpiqW02EJ6PqZsTms6QMwp5WSElv
+pKSB/oBMjDUvqc+QlUkdISvtQExJ8UdsimDgFMzlDYcmC9OK4GsoyL9eXTcleOJu
+UoU0Nt2xVOqUjCf2OfxKWw==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGgDCCBWigAwIBAgIDAg2MMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJD
+TDEYMBYGA1UEChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29t
+IEF1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFs
+IC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9AYWNlcHRhLmNvbTETMBEGA1UEBRMK
+OTY5MTkwNTAtODAeFw0xODA0MTYxNDEzNDRaFw0xOTA0MTYxNDEzNDRaMIGSMQsw
+CQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSowKAYDVQQDEyFO
+T0VMSUEgQU5HRUxJTkEgUklRVUVMTUUgWkFNT1JBTk8xKDAmBgkqhkiG9w0BCQEW
+GW5vZWxpYS5yaXF1ZWxtZUByc21hcS5jb20xEzARBgNVBAUTCjEzMDM3NTI2LUsw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3fFirAtIpGHfzWD4Qj+tP
+ZWDmAut4/W+0a5mU2PZSov3/JGqBJ9dy9p02M0I2KiFJ+LobMoJyWlpnMII+OfTi
+4s8UKdTspBUL3dO+QLfLRnn8iCft3ecyGcSTqo5iW/5CZ3A2uS+kCuh1n3MjAkKH
+sotAZdbQDU+pDIQdMAziT9KNfj6WhcxHRMS33N7iXujyogvsxpwgfWIgKzlCLJRF
+4Lm3bJoaCTvIhfYKmKpbTYQno+pmxOazpAzCnlZISW+kpIH+gEyMNS+pz5CVSR0h
+K+1ATEnxR2yKYOAUzOUNhyYL04rgayjIv15dNyV44m5ShTQ23bFU6pSMJ/Y5/Epb
+AgMBAAGjggLHMIICwzAfBgNVHSMEGDAWgBRlpas+P8i2UW0Rfl/DCgfmQ6AItjAd
+BgNVHQ4EFgQUP9wlYv8JDbtXc+h7ojuMLyzLoJ4wCwYDVR0PBAQDAgTwMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhCAQEEBAMCBaAwgfUG
+A1UdIASB7TCB6jCB5wYIKwYBBAG1awIwgdowMQYIKwYBBQUHAgEWJWh0dHBzOi8v
+YWNnNC5hY2VwdGEuY29tL0NQUy1BY2VwdGFjb20wgaQGCCsGAQUFBwICMIGXMBYW
+D0FjZXB0YS5jb20gUy5BLjADAgEJGn1FbCB0aXR1bGFyIGhhIHNpZG8gdmFsaWRh
+ZG8gZW4gZm9ybWEgb25saW5lLCBxdWVkYW5kbyBoYWJpbGl0YWRvIGVsIENlcnRp
+ZmljYWRvIHBhcmEgdXNvIHRyaWJ1dGFyaW8sIHBhZ29zLCBjb21lcmNpbyB5IG90
+cm9zLjBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYB
+BQUHCAOgGDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29t
+MGQGA1UdEQRdMFugGAYIKwYBBAHBAQGgDBYKMTMwMzc1MjYtS6AkBggrBgEFBQcI
+A6AYMBYMCjEzMDM3NTI2LUsGCCsGAQQBwQECgRlub2VsaWEucmlxdWVsbWVAcnNt
+YXEuY29tMEcGCCsGAQUFBwEBBDswOTA3BggrBgEFBQcwAYYraHR0cHM6Ly9hY2c0
+LmFjZXB0YS5jb20vYWNnNC9vY3NwL0NsYXNlMi1HNDA/BgNVHR8EODA2MDSgMqAw
+hi5odHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L2NybC9DbGFzZTItRzQuY3Js
+MA0GCSqGSIb3DQEBCwUAA4IBAQCUUb7yxQrEhkhu/VtF8WqXgg4+Xr4BTIzM9OPU
+si0oUjkuW9DyKq+ZDRD2HrW7dhdJeWbRbf+qWgKzxlj1dEldEWP/Yak0pcKxslSp
+pc0EHJyJChsFPw15Ydfb2NM37YqbqcBmglHmATtMl/yGwcTqdvvl8guNvXfYWy1+
+BqM1xCTU1fHxUF8AzLJzdfDx8a7TvVnv+wIO7ELqVaeAwG0MjEF/TPwueAsAZBLb
+mccrohu2v6CY4IbeK+oe6ljsJuiHhoXZRyjnv/4W/Wu3N/yQClOFdRIXuawPHaML
+qeBxOwaiIpPNQ7T2/e3nFYB/IqAEHFqiTY+QJCHmh0cvHwCO
+</X509Certificate></X509Data></KeyInfo></Signature>
+		</DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#IDf52bf7a1a540434eb99f97a7e8eea062"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pPsFerkIVPl8IGgs/HZOQ/b8/SI=</DigestValue></Reference></SignedInfo><SignatureValue>
+e5xHVNFqGnBsbu3ia5bSpbdIBpk1XCxilNK9oTIF3nm5n+q4NOWiaiiWKI2u0Eg0
+RL8WRujpOwCjsqjSS3xuIZHH1C0jgmVuB0xisglmrL3NzXd0AtqOEGbqfPRhw2PG
+44p5mjakwwdVLKkxMn1k00ufnLK9H2LDIjaXfXKEUehrKjGDN4M9U7TqwAF7TnBs
+DqUmbojxMbXZnGhWbjIWtIYf4RwJ/5gaBs6H2MhDR4SKNFUkC4WYpw/xCnO25Jp2
+Q47lPLLhFzX//YdmJl0yDynL+fa1eHEsFY3LQ+aQoFbDz3nrNZJywgw4dbSkmG5K
+kZID8w0Xe4Fjzgv+5kqB2g==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+t3xYqwLSKRh381g+EI/rT2Vg5gLreP1vtGuZlNj2UqL9/yRqgSfXcvadNjNCNioh
+Sfi6GzKCclpaZzCCPjn04uLPFCnU7KQVC93TvkC3y0Z5/Ign7d3nMhnEk6qOYlv+
+QmdwNrkvpArodZ9zIwJCh7KLQGXW0A1PqQyEHTAM4k/SjX4+loXMR0TEt9ze4l7o
+8qIL7MacIH1iICs5QiyUReC5t2yaGgk7yIX2CpiqW02EJ6PqZsTms6QMwp5WSElv
+pKSB/oBMjDUvqc+QlUkdISvtQExJ8UdsimDgFMzlDYcmC9OK4GsoyL9eXTcleOJu
+UoU0Nt2xVOqUjCf2OfxKWw==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGgDCCBWigAwIBAgIDAg2MMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJD
+TDEYMBYGA1UEChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29t
+IEF1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFs
+IC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9AYWNlcHRhLmNvbTETMBEGA1UEBRMK
+OTY5MTkwNTAtODAeFw0xODA0MTYxNDEzNDRaFw0xOTA0MTYxNDEzNDRaMIGSMQsw
+CQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSowKAYDVQQDEyFO
+T0VMSUEgQU5HRUxJTkEgUklRVUVMTUUgWkFNT1JBTk8xKDAmBgkqhkiG9w0BCQEW
+GW5vZWxpYS5yaXF1ZWxtZUByc21hcS5jb20xEzARBgNVBAUTCjEzMDM3NTI2LUsw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3fFirAtIpGHfzWD4Qj+tP
+ZWDmAut4/W+0a5mU2PZSov3/JGqBJ9dy9p02M0I2KiFJ+LobMoJyWlpnMII+OfTi
+4s8UKdTspBUL3dO+QLfLRnn8iCft3ecyGcSTqo5iW/5CZ3A2uS+kCuh1n3MjAkKH
+sotAZdbQDU+pDIQdMAziT9KNfj6WhcxHRMS33N7iXujyogvsxpwgfWIgKzlCLJRF
+4Lm3bJoaCTvIhfYKmKpbTYQno+pmxOazpAzCnlZISW+kpIH+gEyMNS+pz5CVSR0h
+K+1ATEnxR2yKYOAUzOUNhyYL04rgayjIv15dNyV44m5ShTQ23bFU6pSMJ/Y5/Epb
+AgMBAAGjggLHMIICwzAfBgNVHSMEGDAWgBRlpas+P8i2UW0Rfl/DCgfmQ6AItjAd
+BgNVHQ4EFgQUP9wlYv8JDbtXc+h7ojuMLyzLoJ4wCwYDVR0PBAQDAgTwMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhCAQEEBAMCBaAwgfUG
+A1UdIASB7TCB6jCB5wYIKwYBBAG1awIwgdowMQYIKwYBBQUHAgEWJWh0dHBzOi8v
+YWNnNC5hY2VwdGEuY29tL0NQUy1BY2VwdGFjb20wgaQGCCsGAQUFBwICMIGXMBYW
+D0FjZXB0YS5jb20gUy5BLjADAgEJGn1FbCB0aXR1bGFyIGhhIHNpZG8gdmFsaWRh
+ZG8gZW4gZm9ybWEgb25saW5lLCBxdWVkYW5kbyBoYWJpbGl0YWRvIGVsIENlcnRp
+ZmljYWRvIHBhcmEgdXNvIHRyaWJ1dGFyaW8sIHBhZ29zLCBjb21lcmNpbyB5IG90
+cm9zLjBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYB
+BQUHCAOgGDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29t
+MGQGA1UdEQRdMFugGAYIKwYBBAHBAQGgDBYKMTMwMzc1MjYtS6AkBggrBgEFBQcI
+A6AYMBYMCjEzMDM3NTI2LUsGCCsGAQQBwQECgRlub2VsaWEucmlxdWVsbWVAcnNt
+YXEuY29tMEcGCCsGAQUFBwEBBDswOTA3BggrBgEFBQcwAYYraHR0cHM6Ly9hY2c0
+LmFjZXB0YS5jb20vYWNnNC9vY3NwL0NsYXNlMi1HNDA/BgNVHR8EODA2MDSgMqAw
+hi5odHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L2NybC9DbGFzZTItRzQuY3Js
+MA0GCSqGSIb3DQEBCwUAA4IBAQCUUb7yxQrEhkhu/VtF8WqXgg4+Xr4BTIzM9OPU
+si0oUjkuW9DyKq+ZDRD2HrW7dhdJeWbRbf+qWgKzxlj1dEldEWP/Yak0pcKxslSp
+pc0EHJyJChsFPw15Ydfb2NM37YqbqcBmglHmATtMl/yGwcTqdvvl8guNvXfYWy1+
+BqM1xCTU1fHxUF8AzLJzdfDx8a7TvVnv+wIO7ELqVaeAwG0MjEF/TPwueAsAZBLb
+mccrohu2v6CY4IbeK+oe6ljsJuiHhoXZRyjnv/4W/Wu3N/yQClOFdRIXuawPHaML
+qeBxOwaiIpPNQ7T2/e3nFYB/IqAEHFqiTY+QJCHmh0cvHwCO
+</X509Certificate></X509Data></KeyInfo></Signature>
+</EnvioDTE>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SetDTE ID="ENVIO_456108">
+<Caratula version="1.0">
+<RutEmisor>76174639-1</RutEmisor>
+<RutEnvia>6327045-8</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2014-08-22</FchResol>
+<NroResol>80</NroResol>
+<TmstFirmaEnv>2019-02-04T16:12:21</TmstFirmaEnv><SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0">
+  <Documento ID="T33F6989I236302">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>6989</Folio>
+        <FchEmis>2019-02-04</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76174639-1</RUTEmisor>
+        <RznSoc>LEON DIAGONAL ORIENTE S.A.</RznSoc>
+        <GiroEmis>MANTENIMIENTO Y REPARACION DE VEHICULOS AUTOMOTORES</GiroEmis>
+        <Acteco>502080</Acteco>
+        <DirOrigen>IRARRAZAVAL 4770</DirOrigen>
+        <CmnaOrigen>ÑUÑOA</CmnaOrigen>
+        <CiudadOrigen>SANTIAGO</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76407152-2</RUTRecep>
+        <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+        <GiroRecep>CONSTRUCCION</GiroRecep>
+        <Contacto>CONSORCIO  HLI HYDROGROUP</Contacto>
+        <DirRecep>NUEVA LYON  124</DirRecep>
+        <CmnaRecep>PROVIDENCIA</CmnaRecep>
+        <CiudadRecep>Santiago</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>169748</MntNeto>
+        <TasaIVA>19</TasaIVA>
+        <IVA>32252</IVA>
+        <MntTotal>202000</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>NEG_11</TpoCodigo>
+        <VlrCodigo>FLT01</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FLT01 Filtro Aceite Metalico</NmbItem>
+      <QtyItem>1</QtyItem>
+      <UnmdItem>UNI</UnmdItem>
+      <PrcItem>5042</PrcItem>
+      <MontoItem>5042</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>NEG_11</TpoCodigo>
+        <VlrCodigo>LUB13</VlrCodigo>
+      </CdgItem>
+      <NmbItem>LUB13 Aceite Sint???tico 5W30 ACDelco</NmbItem>
+      <QtyItem>7</QtyItem>
+      <UnmdItem>UNI</UnmdItem>
+      <PrcItem>9244</PrcItem>
+      <MontoItem>64708</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>NEG_4</TpoCodigo>
+        <VlrCodigo>AFG17</VlrCodigo>
+      </CdgItem>
+      <NmbItem>AFG17 Filtro Combustible</NmbItem>
+      <QtyItem>1</QtyItem>
+      <UnmdItem>UNI</UnmdItem>
+      <PrcItem>42857</PrcItem>
+      <MontoItem>42857</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>NEG_3</TpoCodigo>
+        <VlrCodigo>FRT24</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FRT24 Regulaci???n Limpieza</NmbItem>
+      <QtyItem>1</QtyItem>
+      <UnmdItem>UNI</UnmdItem>
+      <PrcItem>21008</PrcItem>
+      <MontoItem>21008</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>NEG_3</TpoCodigo>
+        <VlrCodigo>FRO12</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FRO12 Cambio Liquido de Frenos</NmbItem>
+      <QtyItem>1</QtyItem>
+      <UnmdItem>UNI</UnmdItem>
+      <PrcItem>21008</PrcItem>
+      <MontoItem>21008</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>NEG_9</TpoCodigo>
+        <VlrCodigo>ALT</VlrCodigo>
+      </CdgItem>
+      <NmbItem>ALT Alineacion Total 4 ruedas</NmbItem>
+      <QtyItem>1</QtyItem>
+      <UnmdItem>UNI</UnmdItem>
+      <PrcItem>15126</PrcItem>
+      <MontoItem>15126</MontoItem>
+    </Detalle>
+    <TED version="1.0">
+      <DD>
+        <RE>76174639-1</RE>
+        <TD>33</TD>
+        <F>6989</F>
+        <FE>2019-02-04</FE>
+        <RR>76407152-2</RR>
+        <RSR>CONSTRUCTORA TECTON SPA</RSR>
+        <MNT>202000</MNT>
+        <IT1>FLT01 Filtro Aceite Metalico</IT1>
+        <CAF version="1.0">
+          <DA>
+            <RE>76174639-1</RE>
+            <RS>LEON DIAGONAL ORIENTE S.A</RS>
+            <TD>33</TD>
+            <RNG>
+              <D>6476</D>
+              <H>8475</H>
+            </RNG>
+            <FA>2018-11-08</FA>
+            <RSAPK>
+              <M>yBdNWgaE3ULzMj8CQSyfX/a1e0xeziEiRnNdzvPfxFQLLi+rD7t88BgqX/Htr/mOw4ErcmaHbm5A7R+AbKVnsQ==</M>
+              <E>Aw==</E>
+            </RSAPK>
+            <IDK>300</IDK>
+          </DA>
+          <FRMA algoritmo="SHA1withRSA">D0PZWjHPYCPxN7ti39NSw8ztm5q2KO9Yf7ZXub5GtIop9bKL/rrhZa2RhHhQncNIvKbp+fSZsMXW5PjKI5QIiQ==</FRMA>
+        </CAF>
+        <TSTED>2019-02-04T16:01:18</TSTED>
+      </DD>
+      <FRMT algoritmo="SHA1withRSA">Nx003bdw5bjVzu16WDjidUnDNslfNNJp3u1GkmdBGzQ4ks5g2Xvioem79+v/5KJt+OldmMcN+E+3BDJcbgTUVg==</FRMT>
+    </TED>
+  <TmstFirma>2019-02-04T16:01:18</TmstFirma></Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#T33F6989I236302">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>3HQsQnWC+ZLhEYS6Oh1E3fdY1XE=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+rT4WXu9COT6VdsvWo7zzcGptdVDc5ImS/+SD+Sq5aSWyCRKX/KxYaNUkDyg7zrCfIP2Wm571C5g0
+NnglyD4BvsaoUxskcW9KZhoPdParmwIkd57mQkMtwYwtUTOxFvDsdoWk1oinjKJB0ne/wNosI0cL
+rhtyOsrGu1RxuW2ippE=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+rwKaAy1joY5/hTDnqM7GeJJ+aAGsKmnRtP4FpAMoDQJBAD+QOAmLCihxlVffkgmUWClsmzPmpQ3G
+bD8J5SHaiflfA/wG39W2ZDe1JSfhtuAU8240Ey/hLvSh7H3pQI1zMES+3rKgYXLWld5sS7qv0BpT
+BHaklldcCQCRHb5ZiIc=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTjCCBTagAwIBAgIKWghF7wAAAAjk0jANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA5MTIxOTA4NDBaFw0yMDA5MTExOTA4NDBa
+MIHRMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMSMwIQYDVQQKExpMRU9OIERJQUdPTkFMIE9SSUVOVEUgUy5BLjEcMBoG
+A1UECxMTU0VSVklDSU8gQVVUT01PVFJJWjEgMB4GA1UEAxMXTUFSSU8gVUJJTExBIEZVRU5aQUxJ
+REExJTAjBgkqhkiG9w0BCQEWFnJyb2phc0Bmb2NveWdlc3Rpb24uY2wwgZ8wDQYJKoZIhvcNAQEB
+BQADgY0AMIGJAoGBAK8CmgMtY6GOf4Uw56jOxniSfmgBrCpp0bT+BaQDKA0CQQA/kDgJiwoocZVX
+35IJlFgpbJsz5qUNxmw/CeUh2on5XwP8Bt/VtmQ3tSUn4bbgFPNuNBMv4S70oex96UCNczBEvt6y
+oGFy1pXebEu6r9AaUwR2pJZXXAkAkR2+WYiHAgMBAAGjggKnMIICozA9BgkrBgEEAYI3FQcEMDAu
+BiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBmucVhq/gFQIBZAIBBDAdBgNVHQ4EFgQU
+ioEs7kWUiBBDYTNgpk7UD9LnrigwCwYDVR0PBAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3N
+MA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNl
+cnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA2MzI3MDQ1LTgw
+IwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8
+BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBh
+ACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4A
+IABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8AIABo
+AGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIA
+YQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEAiL6qeCQL
+BTQd9I8pKxpiiVbn92QhSRawKNeKfohXflpVrEifzqOjBxsl0UB7CxkIvoAW338v3dKu8KUhrBDW
+D5GWHpX6aENikoCWlnVMQ0yJTitP4duK+jH4Yt0zxOy77hW3uvhxaDgeN4wcCUGQ+/D0bXXtGaDa
+/tkJ5GoMlzWN5LAjJ4rLNCkJRfpIwXs4flKzpScCazGqMIuL3NU+2WUCn7t9YGAq7loNOtf9i81A
+9UXXxNvKuNh2XIRjMJvXjIrmhMjK2HHgzpvVx5Q7IBEUp3oY6+zqEaeBG8dICxa28ufjNO26glDU
+PL1qY9Trwg+96ZOd7t5a7lHpC8bgrg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#ENVIO_456108">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>SG/IhDK3IuKIBb4T/KcoljEBIps=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+CvPk4MQpXeCF10pa/qcdldrd9WFRbx3R2HIjyZRNuLiyoFnIWsmdPDKB6J1aYZEuRR6Cnxl5HwZM
+Rlxp904ObCoppDH4Xce9jcMu7e0NlVotATFp2wATmEAOlSiVwfXVxl1BLEBxdApO5WcD8zQVzDAo
+1msDx8mM3edla1L32Cc=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+rwKaAy1joY5/hTDnqM7GeJJ+aAGsKmnRtP4FpAMoDQJBAD+QOAmLCihxlVffkgmUWClsmzPmpQ3G
+bD8J5SHaiflfA/wG39W2ZDe1JSfhtuAU8240Ey/hLvSh7H3pQI1zMES+3rKgYXLWld5sS7qv0BpT
+BHaklldcCQCRHb5ZiIc=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTjCCBTagAwIBAgIKWghF7wAAAAjk0jANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA5MTIxOTA4NDBaFw0yMDA5MTExOTA4NDBa
+MIHRMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMSMwIQYDVQQKExpMRU9OIERJQUdPTkFMIE9SSUVOVEUgUy5BLjEcMBoG
+A1UECxMTU0VSVklDSU8gQVVUT01PVFJJWjEgMB4GA1UEAxMXTUFSSU8gVUJJTExBIEZVRU5aQUxJ
+REExJTAjBgkqhkiG9w0BCQEWFnJyb2phc0Bmb2NveWdlc3Rpb24uY2wwgZ8wDQYJKoZIhvcNAQEB
+BQADgY0AMIGJAoGBAK8CmgMtY6GOf4Uw56jOxniSfmgBrCpp0bT+BaQDKA0CQQA/kDgJiwoocZVX
+35IJlFgpbJsz5qUNxmw/CeUh2on5XwP8Bt/VtmQ3tSUn4bbgFPNuNBMv4S70oex96UCNczBEvt6y
+oGFy1pXebEu6r9AaUwR2pJZXXAkAkR2+WYiHAgMBAAGjggKnMIICozA9BgkrBgEEAYI3FQcEMDAu
+BiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBmucVhq/gFQIBZAIBBDAdBgNVHQ4EFgQU
+ioEs7kWUiBBDYTNgpk7UD9LnrigwCwYDVR0PBAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3N
+MA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNl
+cnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA2MzI3MDQ1LTgw
+IwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8
+BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBh
+ACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4A
+IABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8AIABo
+AGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIA
+YQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEAiL6qeCQL
+BTQd9I8pKxpiiVbn92QhSRawKNeKfohXflpVrEifzqOjBxsl0UB7CxkIvoAW338v3dKu8KUhrBDW
+D5GWHpX6aENikoCWlnVMQ0yJTitP4duK+jH4Yt0zxOy77hW3uvhxaDgeN4wcCUGQ+/D0bXXtGaDa
+/tkJ5GoMlzWN5LAjJ4rLNCkJRfpIwXs4flKzpScCazGqMIuL3NU+2WUCn7t9YGAq7loNOtf9i81A
+9UXXxNvKuNh2XIRjMJvXjIrmhMjK2HHgzpvVx5Q7IBEUp3oY6+zqEaeBG8dICxa28ufjNO26glDU
+PL1qY9Trwg+96ZOd7t5a7lHpC8bgrg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>

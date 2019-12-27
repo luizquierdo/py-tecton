@@ -1,0 +1,23 @@
+Resultado de Validacion de Envio de Consumo de Folios
+=====================================================
+Identificador de Envio      : 3424507180
+Rut de Empresa Emisora      : 76407152-2
+Rut que Realizo el Envio    : 13459205-2
+Fecha de Recepcion          : 2019-01-04T01:58:42
+Tamano del archivo          : 4554
+Tipo de Envio               : Automatico
+Informacion acerca de Resumen
+=============================
+
+Fecha Primer dia del resumen: 2019-01-03
+Fecha ultimo dia del resumen: 2019-01-03
+Secuencia de envio          : 1
+Fecha firma                 : 2019-01-04 01:58:40.0
+
+
+Resultado de envio           
+=============================
+Estado del envio            : CORRECTO
+Errores                     : 0
+Reparos                     : 0
+

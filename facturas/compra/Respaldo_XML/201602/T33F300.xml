@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+  <!-- O Win32 Trident 7 plugin -->
+<Documento ID="MiPE78731490-23308">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>300</Folio>
+        <FchEmis>2016-02-18</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>78731490-2</RUTEmisor>
+        <RznSoc>CONSTRUCCIONES CUMBRE LIMITADA</RznSoc>
+        <GiroEmis>CONSTRUCCION-VENTA Y ARRIENDO DE CONTENEDORES Y ANDAMIOS,ALQU DE VEH</GiroEmis>
+        <Acteco>454000</Acteco>
+        <CdgSIISucur>006792752</CdgSIISucur>
+        <DirOrigen>BALMACEDA 1922</DirOrigen>
+        <CmnaOrigen>PENAFLOR</CmnaOrigen>
+        <CiudadOrigen>SANTIAGO</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76407152-2</RUTRecep>
+        <RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+        <GiroRecep>OBRAS MENORES EN CONSTRUCCION (CONTRATIS</GiroRecep>
+        <Contacto>ANTONIO CAÑADA</Contacto>
+        <DirRecep>AV. PROVIDENCIA 2330  63</DirRecep>
+        <CmnaRecep>PROVIDENCIA</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>100000</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>19000</IVA>
+        <MntTotal>119000</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>ARRIENDO CONT. OFICINA 20</NmbItem>
+      <DscItem>CON AIRE ACONDICIONADO 
+ (12-01-16 A 12-02-16)  
+OBRA: LAS PIRCAS</DscItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>100000.00</PrcItem>
+      <MontoItem>100000</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>78731490-2</RE><TD>33</TD><F>300</F><FE>2016-02-18</FE><RR>76407152-2</RR><RSR>CONSORCIO HLI HYDROGROUP SPA</RSR><MNT>119000</MNT><IT1>ARRIENDO CONT. OFICINA 20</IT1><CAF version="1.0"><DA><RE>78731490-2</RE><RS>CONSTRUCCIONES CUMBRE LIMITADA</RS><TD>33</TD><RNG><D>300</D><H>300</H></RNG><FA>2016-02-18</FA><RSAPK><M>7lfYw2p3o/VVvTaO+avuxe9PFyftuFfiwkSpUqOftWJQf22ZC7VFSSDj42VcQ8g6e1fgfoUdR8NfERB9HUMOGw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">KQ4k1LGs2acImEiXaS7iaDlB8+XYuD41lAcndkQwBBbg5sGq9MpvKodNTRETJwEmHuqErKvyQGLx2/nbOLA7ng==</FRMA></CAF><TSTED>2016-02-18T15:44:16</TSTED></DD><FRMT algoritmo="SHA1withRSA">qhDUOq0b2bKXqLoCPWaQnozySzKL462+Aq5XBY3nrJSzL5nBuamZEAXP+PnDlEIoxeKfdJttkc2rGEsRrpJ4dw==</FRMT></TED>
+    <TmstFirma>2016-02-18T15:44:16</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#MiPE78731490-23308"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>xTHPViWK6eQzUgzozPoHlX+hT74=</DigestValue></Reference></SignedInfo>
+<SignatureValue>K18Mf6hj7DWeBEZxAghoskaPpSDaYJA04fdhiIAJLiVlUY7euHw6dkuUcZwWuVBxEJLmP5noiBBMeF4xeh0sj6EvgY159ZWkNIlBY/sdG1M5d2JT7Ew+j2t0t7EoqvnCzoshha4VUJ9CphD6yK1bdR5LL2r8hKTooYE9IWdWYDzrGJb6H9PiSzzxkPS9WJoKmZD0YC+qhTJaIQPTItVGgDOoGXUMdS78qihqQhCWtOVz+K1zulh93EW/aN8QGWbwTfGWsMvZM5RKKGkGLV6OinwKuirjgQK53iZ48Pp9AJEWezKJqnkPpd0GmdBe+hxaxyvxyxgUbPjadeBjQs4VeA==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>uWoc8YR3URa5JG6CrZydGsl5JKLKHpfTKOarGR87xdjt2w06DDja1bHbvi9fQmB4u2Ah2Whp9agbrI2L01L/SJ3yj3GijAROD2gb3YB5P3ArAlZYfCnao46f/fw/I0ICsBd0h9LXxhHSnpdkyXYwsikcoZg7m2SxQpuzr1ouuJKeLcRDBOveWgndu7Fa3tvDk4ZX5lfn9UxUsU0XupM+DsNooSzm0Cfx7dy/KDnPXUP8+D9mgJMux4iZt1E0bJnlnyf/T1UUD5whKWWG93sFDkpxKvr74cpWar0sUZHTDT542aQTsd5FD9rsxjNYLhlEoS2sD9Sn/qlfrsm7CYSApw==</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGUTCCBTmgAwIBAgIQHiItOXYFds4i9mjPok6ExTANBgkqhkiG9w0BAQUFADCBqDELMAkGA1UE
+BhMCQ0wxFDASBgNVBAoTC0UtU2lnbiBTLkEuMR8wHQYDVQQLExZTeW1hbnRlYyBUcnVzdCBOZXR3
+b3JrMUEwPwYDVQQDEzhFLVNpZ24gU0MgQ2xhc3MgMiBDb25zdW1lciBJbmRpdmlkdWFsIFN1YnNj
+cmliZXIgQ0EgLSBHMjEfMB0GCSqGSIb3DQEJARYQZS1zaWduQGUtc2lnbi5jbDAeFw0xNTEwMjAw
+MDAwMDBaFw0xODEwMTkyMzU5NTlaMIIBGjEUMBIGA1UEChMLRS1TaWduIFMuQS4xLTArBgNVBAsT
+JFRlcm1pbm9zIGRlIHVzbyBlbiB3d3cuZS1zaWduLmNsL3JwYTElMCMGA1UECxMcQXV0aGVudGlj
+YXRlZCBieSBFLVNpZ24gUy5BLjEnMCUGA1UECxMeTWVtYmVyLCBTeW1hbnRlYyBUcnVzdCBOZXR3
+b3JrMRswGQYDVQQLExJEaWdpdGFsIElEIENsYXNzIDIxGDAWBgNVBAsUD1JVVCAtIDcwMDI5MDMt
+MDEgMB4GA1UEAwwXQW5kcmVzIE1vcmVubyBCZW5hdmVudGUxKjAoBgkqhkiG9w0BCQEWG2FuZHJl
+cy5tb3Jlbm9AY3VtYnJlbHRkYS5jbDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALlq
+HPGEd1EWuSRugq2cnRrJeSSiyh6X0yjmqxkfO8XY7dsNOgw42tWx274vX0JgeLtgIdloafWoG6yN
+i9NS/0id8o9xoowETg9oG92AeT9wKwJWWHwp2qOOn/38PyNCArAXdIfS18YR0p6XZMl2MLIpHKGY
+O5tksUKbs69aLriSni3EQwTr3loJ3buxWt7bw5OGV+ZX5/VMVLFNF7qTPg7DaKEs5tAn8e3cvyg5
+z11D/Pg/ZoCTLseImbdRNGyZ5Z8n/09VFA+cISllhvd7BQ5KcSr6++HKVmq9LFGR0w0+eNmkE7He
+RQ/a7MYzWC4ZRKEtrA/Up/6pX67JuwmEgKcCAwEAAaOCAgAwggH8MCIGA1UdEQQbMBmgFwYIKwYB
+BAHBAQGgCxYJNzAwMjkwMy0wMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgWgME8GA1UdHwRIMEYwRKBC
+oECGPmh0dHA6Ly9vbnNpdGVjcmwudmVyaXNpZ24uY29tL0VTaWduU0FDU0NDbGFzczJHMi9MYXRl
+c3RDUkwuY3JsMB8GA1UdIwQYMBaAFNvPd2JYCzg2JS0a0mrEVAGybkwOMB0GA1UdDgQWBBQJs8/s
+T53E8PanF9sDEL1Avpm09jA7BggrBgEFBQcBAQQvMC0wKwYIKwYBBQUHMAGGH2h0dHA6Ly9vbnNp
+dGUtb2NzcC52ZXJpc2lnbi5jb20wgZgGA1UdIASBkDCBjTCBigYLYIZIAYb4RQEHFwIwezAxBggr
+BgEFBQcCARYlaHR0cHM6Ly93d3cuZS1zaWduLmNsL3JlcG9zaXRvcmlvLmh0bTBGBggrBgEFBQcC
+AjA6GjhDZXJ0aWZpY2FkbyBwYXJhIHVzbyBUcmlidXRhcmlvLCBDb21lcmNpbywgUGFnb3MgeSBP
+dHJvczARBglghkgBhvhCAQEEBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMCMG
+A1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTk1NTE3NDAtSzANBgkqhkiG9w0BAQUFAAOCAQEAT6LE
+044JEqiSB+fONSl2GKNaM3aJez0hJx610N4L70qPK9HLw76ZgoA/eE1FKPW6wskTA4cn9K0rkEPJ
+z8H0h1ynO90jTdQLZxof3AxNmRC9/Q1l0E5IXyKxYLaUQ1gkgR0Kr93bM4/iKtUVAyZzfrx58akm
+bMnbzZsOx/gJFSaRPAlW8zjToyIbvsOec2yGjoxOs0Sc6aufDRijm9if0nw50U1rpQ0d76CQS2sn
+DUvW0CrLfFP0/3IUykGB9xHqcrbiuWdZ0N785TmteYgPFaoWHa2XEoBxDw6pr7tgQt0UTmSLKcgQ
+Z9lqhFytfdv6S/9iBjzBx1GURjYTxJ3W4A==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

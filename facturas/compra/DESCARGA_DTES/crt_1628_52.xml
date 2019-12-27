@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RespuestaDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte RespuestaEnvioDTE_v10.xsd">
+        <Resultado ID="RespuestaDTE-89802500-4-76407152-2-20190109-2495461348">
+                        <Caratula version="1.0">
+                                <RutResponde>89802500-4</RutResponde>
+                                <RutRecibe>76407152-2</RutRecibe>
+                                <IdRespuesta>2495461348</IdRespuesta>
+                                <NroDetalles>1</NroDetalles>
+                                <TmstFirmaResp>2019-01-09T16:01:36</TmstFirmaResp>
+                        </Caratula>
+                <RecepcionEnvio>
+                        <NmbEnvio>dte3435710510.xml</NmbEnvio>
+                        <FchRecep>2019-01-09T16:01:36</FchRecep>
+                        <CodEnvio>2495461348</CodEnvio>
+                        <EnvioDTEID>dte3435710510</EnvioDTEID>
+                        <Digest>pmiKXLkqhz/t1drEeX8EthG9Kg8=</Digest>
+                        <RutEmisor>76407152-2</RutEmisor>
+                        <RutReceptor>89802500-4</RutReceptor>
+                        <EstadoRecepEnv>0</EstadoRecepEnv>
+                        <RecepEnvGlosa>Envio Recibido Conforme</RecepEnvGlosa>
+                        <NroDTE>1</NroDTE>
+                        <RecepcionDTE><TipoDTE>52</TipoDTE><Folio>1628</Folio><FchEmis>2019-01-09</FchEmis><RUTEmisor>76407152-2</RUTEmisor><RUTRecep>89802500-4</RUTRecep><MntTotal>0</MntTotal><EstadoRecepDTE>0</EstadoRecepDTE><RecepDTEGlosa>Envio Recibido Conforme</RecepDTEGlosa></RecepcionDTE>
+                </RecepcionEnvio>
+        </Resultado>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#RespuestaDTE-89802500-4-76407152-2-20190109-2495461348"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>aIucEvjPUkaS0/jsNPpyeMBq+BY=</DigestValue></Reference></SignedInfo><SignatureValue>X8xUyuEx3dhISzOlXEukmHWa6MOI3xUvtAkuHsmyO/FO0vct4OQESyz2+/OuPWM1D2qpxSVVtmI1
+WPG31Of70EW0Xsb67d68Ssg12OJMMei/wRqZZIK2W39S+81K6SiwD7cn2rnC59fKjOUi07aAvAqw
+sylT8ZxcGc0XSKFVF/HUj/2AD49y1UT5g5uVQxsaXoM7h+7qxegPl81XQFW9+LVSrmroRGsVN+P5
+5ua+sWmslPcBFnHIvoN2WA0gw7hpKDv8bg2xjYZXtI+ESA1sLoHrzr2ngG3i1m0pR7zM0hpYrMqQ
+3Tj4M6MNg+0itSaBLrwL3g0MpKaDtGp/29JXGw==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vFcAcV5gfBmNMdyqYl+0VI6s76wCAwbI6PWMZaGglaFhYYd3shhCGIBU4gtv0AbNiqi44RnRwTkD
+VvJ4m9JcU9LrWkv1Ed9yTsAE321eZpoUYfYwNsQ4N/DJlKP6UlqDHBtGT6UDPGcOK/2GJC8iIzk7
+NF1izi1hHJN7upXa2TfO07+8AIW7AtcQJ7GqjN6YA1jXirVMycYjQYUjeGOfoo7GbNzYE3nvHqvc
+4coT2MKbg5Q4vUaI9JQikkf7ymHqOt1XWXc3EbqqSWDnWmscfiH4qPSyLcLtrtOak0dJFGyPgdhU
+HJf/C4frHEpIB4SZaopra1NCRLcTtoiX6YBrCw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIF9zCCBN+gAwIBAgIBEzANBgkqhkiG9w0BAQsFADCBpjELMAkGA1UEBhMCQ0wxGDAWBgNVBAoT
+D0FjZXB0YS5jb20gUy5BLjFIMEYGA1UEAxM/QWNlcHRhLmNvbSBBdXRvcmlkYWQgQ2VydGlmaWNh
+ZG9yYSBDbGFzZSAyIFBlcnNvbmEgTmF0dXJhbCAtIEc0MR4wHAYJKoZIhvcNAQkBFg9pbmZvQGFj
+ZXB0YS5jb20xEzARBgNVBAUTCjk2OTE5MDUwLTgwHhcNMTYxMDA3MTgzMjQwWhcNMTkxMDA3MTgz
+MjQwWjCBizELMAkGA1UEBhMCQ0wxGDAWBgNVBAwTD1BFUlNPTkEgTkFUVVJBTDEiMCAGA1UEAxMZ
+QUxWQVJPIEdPTlpBTEVaIFJJRURFTUFOTjEpMCcGCSqGSIb3DQEJARYaYWx2YXJvLmdvbnphbGV6
+QGFjZXB0YS5jb20xEzARBgNVBAUTCjEzMjcyNjk4LTEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC8VwBxXmB8GY0x3KpiX7RUjqzvrAIDBsjo9YxloaCVoWFhh3eyGEIYgFTiC2/QBs2K
+qLjhGdHBOQNW8nib0lxT0utaS/UR33JOwATfbV5mmhRh9jA2xDg38MmUo/pSWoMcG0ZPpQM8Zw4r
+/YYkLyIjOTs0XWLOLWEck3u6ldrZN87Tv7wAhbsC1xAnsaqM3pgDWNeKtUzJxiNBhSN4Y5+ijsZs
+3NgTee8eq9zhyhPYwpuDlDi9Roj0lCKSR/vKYeo63VdZdzcRuqpJYOdaaxx+Ifio9LItwu2u05qT
+R0kUbI+B2FQcl/8Lh+scSkgHhJlqimtrU0JEtxO2iJfpgGsLAgMBAAGjggJHMIICQzAfBgNVHSME
+GDAWgBRlpas+P8i2UW0Rfl/DCgfmQ6AItjAdBgNVHQ4EFgQUyh2fhOBhnlVGwTznOvB+y2tHmgkw
+CwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhCAQEE
+BAMCBaAwdQYDVR0gBG4wbDBqBggrBgEEAbVrAjBeMDEGCCsGAQUFBwIBFiVodHRwczovL2FjZzQu
+YWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMCkGCCsGAQUFBwICMB0wFhYPQWNlcHRhLmNvbSBTLkEu
+MAMCAQkaA1RCRDBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYBBQUH
+CAOgGDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29tMGUGA1UdEQReMFyg
+GAYIKwYBBAHBAQGgDBYKMTMyNzI2OTgtMaAkBggrBgEFBQcIA6AYMBYMCjEzMjcyNjk4LTEGCCsG
+AQQBwQECgRphbHZhcm8uZ29uemFsZXpAYWNlcHRhLmNvbTBHBggrBgEFBQcBAQQ7MDkwNwYIKwYB
+BQUHMAGGK2h0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvb2NzcC9DbGFzZTItRzQwPwYDVR0f
+BDgwNjA0oDKgMIYuaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9jcmwvQ2xhc2UyLUc0LmNy
+bDANBgkqhkiG9w0BAQsFAAOCAQEAvlrMZ25rD567BX60SPygz2pc4d8JmbRbkCZsG8BJK+/SxIcr
+lS5osKMD2rxYGKMlSiL1By/+qT0gxF4FP7z1z034rKDmpNlqu+N6VxTYMQKE6bsihu4/a0Gqt7vS
+SIcRMpaXLJqKyuThyDTH7z5n59mZ/W+LUuKZ6OKMnMBLvE4cEZyZqFLVSdqaCxtu/jfxKRH6RYpj
+Y2+/NXf5S1ilN2BYooZilfPLxY8m649q3UxxCrFhOMazp8UlrOqF6veXva4ae11Pl3RCvkmf+H2F
+VUB/PM7S9kptQsHzrjQZt3LpyswMg5qUpWj5mHLcXKKlZYOlfNFpoeIW+D8pgi1hMg==</X509Certificate></X509Data></KeyInfo></Signature></RespuestaDTE>

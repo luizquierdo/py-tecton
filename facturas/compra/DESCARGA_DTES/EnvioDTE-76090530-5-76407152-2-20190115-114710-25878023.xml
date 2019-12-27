@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EnvioDTE-76090530-5-76407152-2-20190115-114710-25878023">
+<Caratula version="1.0">
+<RutEmisor>76090530-5</RutEmisor>
+<RutEnvia>13272698-1</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2014-08-22</FchResol>
+<NroResol>80</NroResol>
+<TmstFirmaEnv>2019-01-15T11:47:10</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F211761">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>211761</Folio>
+            <FchEmis>2019-01-14</FchEmis>
+            <TpoTranVenta>1</TpoTranVenta>
+            <FmaPago>1</FmaPago>
+            <FchVenc>2019-01-14</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76090530-5</RUTEmisor>
+            <RznSoc>Sociedad Importadora Maritex Spa</RznSoc>
+            <GiroEmis>Importacion y Comercializadora de Ropa de Trabajo</GiroEmis>
+            <Acteco>513100</Acteco>
+            <DirOrigen>Avenida El Salto 1979</DirOrigen>
+            <CmnaOrigen>Recoleta</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+            <CdgVendedor>08</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <CdgIntRecep>76407152-2</CdgIntRecep>
+            <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+            <GiroRecep>construcci&amp;amp;oacute;n</GiroRecep>
+            <Contacto>Felipe Sobarzo</Contacto>
+            <DirRecep>Av. Nueva de Lyon # 0124</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+            <CiudadRecep>SANTIAGO</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>390542</MntNeto>
+            <MntExe>0</MntExe>
+            <TasaIVA>19</TasaIVA>
+            <IVA>74203</IVA>
+            <MntTotal>464745</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>PRODUCTO</TpoCodigo>
+        <VlrCodigo>110221</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Polo M/L Gris 175 T/S</NmbItem>
+      <DscItem>110221</DscItem>
+      <QtyItem>6</QtyItem>
+      <UnmdItem>UN</UnmdItem>
+      <PrcItem>2086</PrcItem>
+      <MontoItem>12516</MontoItem>
+    </Detalle>
+        <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>PRODUCTO</TpoCodigo>
+        <VlrCodigo>110222</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Polo M/L Gris 175 T/M</NmbItem>
+      <DscItem>110222</DscItem>
+      <QtyItem>15</QtyItem>
+      <UnmdItem>UN</UnmdItem>
+      <PrcItem>2086</PrcItem>
+      <MontoItem>31290</MontoItem>
+    </Detalle>
+        <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>PRODUCTO</TpoCodigo>
+        <VlrCodigo>110223</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Polo M/L Gris 175 T/L</NmbItem>
+      <DscItem>110223</DscItem>
+      <QtyItem>20</QtyItem>
+      <UnmdItem>UN</UnmdItem>
+      <PrcItem>2086</PrcItem>
+      <MontoItem>41720</MontoItem>
+    </Detalle>
+        <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>PRODUCTO</TpoCodigo>
+        <VlrCodigo>110224</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Polo M/L Gris 175 T/XL</NmbItem>
+      <DscItem>110224</DscItem>
+      <QtyItem>20</QtyItem>
+      <UnmdItem>UN</UnmdItem>
+      <PrcItem>2086</PrcItem>
+      <MontoItem>41720</MontoItem>
+    </Detalle>
+        <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>PRODUCTO</TpoCodigo>
+        <VlrCodigo>590921</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Camisa Outdoor Beige T/S</NmbItem>
+      <DscItem>590921</DscItem>
+      <QtyItem>4</QtyItem>
+      <UnmdItem>UN</UnmdItem>
+      <PrcItem>11968</PrcItem>
+      <MontoItem>47872</MontoItem>
+    </Detalle>
+        <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>PRODUCTO</TpoCodigo>
+        <VlrCodigo>590922</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Camisa Outdoor Beige T/M</NmbItem>
+      <DscItem>590922</DscItem>
+      <QtyItem>6</QtyItem>
+      <UnmdItem>UN</UnmdItem>
+      <PrcItem>11968</PrcItem>
+      <MontoItem>71808</MontoItem>
+    </Detalle>
+        <Detalle>
+      <NroLinDet>7</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>PRODUCTO</TpoCodigo>
+        <VlrCodigo>590923</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Camisa Outdoor Beige T/L</NmbItem>
+      <DscItem>590923</DscItem>
+      <QtyItem>6</QtyItem>
+      <UnmdItem>UN</UnmdItem>
+      <PrcItem>11968</PrcItem>
+      <MontoItem>71808</MontoItem>
+    </Detalle>
+        <Detalle>
+      <NroLinDet>8</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>PRODUCTO</TpoCodigo>
+        <VlrCodigo>590924</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Camisa Outdoor Beige T/XL</NmbItem>
+      <DscItem>590924</DscItem>
+      <QtyItem>6</QtyItem>
+      <UnmdItem>UN</UnmdItem>
+      <PrcItem>11968</PrcItem>
+      <MontoItem>71808</MontoItem>
+    </Detalle>
+        <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>801</TpoDocRef>
+      <FolioRef>609</FolioRef>
+      <FchRef>2019-01-08</FchRef>
+    </Referencia>
+        <Referencia>
+      <NroLinRef>2</NroLinRef>
+      <TpoDocRef>802</TpoDocRef>
+      <FolioRef>0000000970</FolioRef>
+      <FchRef>2019-01-08</FchRef>
+    </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>76090530-5</RE>
+            <TD>33</TD>
+            <F>211761</F>
+            <FE>2019-01-14</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSTRUCTORA TECTON SPA</RSR>
+            <MNT>464745</MNT>
+            <IT1>Polo M/L Gris 175 T/S</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76090530-5</RE>
+                <RS>SOCIEDAD IMPORTADORA MARITEX  SPA</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>211579</D>
+                  <H>221578</H>
+                </RNG>
+                <FA>2019-01-11</FA>
+                <RSAPK>
+                  <M>wjTbQyiElULQ9k46dXCbSmfAWafhqeHWW2xXNMJgFhsDtftHefl2mnr+c5XwyC0OOPNzGQ4UzoWpYKF5TWP+aQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">jLbivLRxE36tkNXAks/eH2HeGSr121ZEB+BxJBX1XGzVjmEmEgYuEjHeuAQPp2Ujhbhv8N9F2DgVJJoI00zi8w==</FRMA>
+            </CAF>
+            <TSTED>2019-01-14T12:36:58</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">scqym9itU/7d61oTMmbWjmoFYw78tvrHwhuybkNOgmFpCBtfClJb+iNb+QB9qtoL7oOc7U3WZPJF
+K3ITVBFKRQ==</FRMT>
+        </TED>
+        <TmstFirma>2019-01-14T12:36:58</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+		<Reference URI="#T33F211761">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+			<DigestValue>+QBFK133IKruRBRsSWD+9JGB4cA=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>aM33kh7H1wiXg7dvSyMjpqP+F9YcuWbru/A19QVlOY1u+ZUkAmV2MaRiMCNR4+DNXYRKnkWwSSWN
+XGaffN4ZjKWvJfERUAjLzUsAAxZLgnBeLfXttVaEBgm0gDMUoMMCscXUNYgY3/BzwJ6lqjrHlQam
+hFcZprGAv4G+fj5v0EAGCTq6XmpMcAE/EN3CoGq6NsA0pGdlr7KnuG0e6FVSDlgJ++2wYkNcVodS
+L93NTPM/Gf4SefjV1DeNEJecEAFCNBn+40biaxms1kt08dR6V6Cm/OEvHVjTBacZFYgCzCbHmjM9
+W0AzqHlfzyBvZqATWUiRTnfv6cESRl2NSelrrg==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>wsNh48nTUxw4j4MGrmJgIsEGBIM8SzGhtUN+mwaGaz8fkodpWsLBPKFduylEYTZ3ViM9knUbAFbV
+cMBQApE4Dhh54eOYeRw3rHwZnxCbCaYPsDMbPEJC+Mm6QtCpCdituCSdbv0nao1P/rF7oH2RuOjy
+hzrjPddOVLmrvLxxCgJifmG/MIB/F5eICOxYoIpJ3IwCGLyUtrUTFk0gmSlBLbnQoWzElp0AJ6aA
+IuHwFSUSxFJBdewlWU+gXlm1jkj4n763o7180SsBgJ5kWX1cRS9yOe5iAy8S2Tu/MqVWj8nJK5GI
+jJFsg88r+uIp4q7YIwWtudm3fdqWJFEMaTpeXw==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIGaTCCBVGgAwIBAgIDArItMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xODExMjExMzU3MjlaFw0yMTExMjEx
+MzU3MjlaMIGFMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSYwJAYDVQQD
+Ex1NQVJJTyBBTlRPTklPIENIT01BTEkgTVVTQUxFTTEgMB4GCSqGSIb3DQEJARYRY2xvcGV6QG1h
+cml0ZXguY2wxEjAQBgNVBAUTCTc3MjU3NDUtNDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMLDYePJ01McOI+DBq5iYCLBBgSDPEsxobVDfpsGhms/H5KHaVrCwTyhXbspRGE2d1YjPZJ1
+GwBW1XDAUAKROA4YeeHjmHkcN6x8GZ8QmwmmD7AzGzxCQvjJukLQqQnYrbgknW79J2qNT/6xe6B9
+kbjo8oc64z3XTlS5q7y8cQoCYn5hvzCAfxeXiAjsWKCKSdyMAhi8lLa1ExZNIJkpQS250KFsxJad
+ACemgCLh8BUlEsRSQXXsJVlPoF5ZtY5I+J++t6O9fNErAYCeZFl9XEUvcjnuYgMvEtk7vzKlVo/J
+ySuRiIyRbIPPK/riKeKu2CMFrbnZt33aliRRDGk6Xl8CAwEAAaOCAr0wggK5MB8GA1UdIwQYMBaA
+FGWlqz4/yLZRbRF+X8MKB+ZDoAi2MB0GA1UdDgQWBBQeU/xS6pqqhb97zmzaA2DoU/0xAjALBgNV
+HQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIF
+oDCB9QYDVR0gBIHtMIHqMIHnBggrBgEEAbVrAjCB2jAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0
+LmFjZXB0YS5jb20vQ1BTLUFjZXB0YWNvbTCBpAYIKwYBBQUHAgIwgZcwFhYPQWNlcHRhLmNvbSBT
+LkEuMAMCAQkafUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxpZGFkbyBlbiBmb3JtYSBvbmxpbmUsIHF1
+ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJpbywgcGFn
+b3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAt
+OKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9pbmZvQGFjZXB0YS5jb20w
+WgYDVR0RBFMwUaAXBggrBgEEAcEBAaALFgk3NzI1NzQ1LTSgIwYIKwYBBQUHCAOgFzAVDAk3NzI1
+NzQ1LTQGCCsGAQQBwQECgRFjbG9wZXpAbWFyaXRleC5jbDBHBggrBgEFBQcBAQQ7MDkwNwYIKwYB
+BQUHMAGGK2h0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvb2NzcC9DbGFzZTItRzQwPwYDVR0f
+BDgwNjA0oDKgMIYuaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9jcmwvQ2xhc2UyLUc0LmNy
+bDANBgkqhkiG9w0BAQsFAAOCAQEAe4MBBsRi4R+hiwQARpmxZE6XqBgzel1T2cj3egN4eVauUge1
+oShKeRQgHXryR3P8MAY1wiW/VrOgwnhwzoqXycR0xVqQ7KcaP7Zt/0dVfWQl7ECdk3gIPllsHXS5
+XLjzOjhjSpovCG0fYaoxwmyvINvyntLovGhfNxObADozJvqeWayISjKL3w2lVXIv7JvfT/gW3ZQ8
+lqeMjcYZK85dDfdevCdtyLNspWqfR/pFzxXu6Qi4KbsxVf6pQ1SaGWOdwdtf/iUO7ClIiv17t97P
+PtoamXDPPypz693VzyKtvSpb1QY7BNeOyEw9J78tekWeqQsGeTYvSk8lCjPiSJdAWw==</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod><Reference URI="#EnvioDTE-76090530-5-76407152-2-20190115-114710-25878023"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod><DigestValue>hRXGt/wfAXNIUhLI8o7qPCDe39Q=</DigestValue></Reference></SignedInfo><SignatureValue>ZV7i3VjZ0+b9B4uFDIKI2e01l+Ea/UbHhypQC0QdIEJ4XvysL+7i7NRlC/ecay/TFJUu01WcIe/K
+NYYCdLOCWG8L9e39Y+BV4AuBg1fLcDsDa+1ldzDUgdTl7FYPhOZrLnLgLWzKeSaeZhaC+iSS2/JK
+MWFmjdJPUQcWRnXy/7ueEZTeBAr/i0rVaOBXWZBPLLDVuMils4sALx/P+R26Zy0OFjtDIh2AkUGJ
+5cXS+AN1fSXe9QU5CRtzyf7pSiOTcngbVWG5qiafJKKxN34PbJsrEptI+w0JGJPCV1oD5R81Xynl
+QqOk3LCHKiMSRp48vEmx2WLF0U6FiA5LZGaP/g==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vFcAcV5gfBmNMdyqYl+0VI6s76wCAwbI6PWMZaGglaFhYYd3shhCGIBU4gtv0AbNiqi44RnRwTkD
+VvJ4m9JcU9LrWkv1Ed9yTsAE321eZpoUYfYwNsQ4N/DJlKP6UlqDHBtGT6UDPGcOK/2GJC8iIzk7
+NF1izi1hHJN7upXa2TfO07+8AIW7AtcQJ7GqjN6YA1jXirVMycYjQYUjeGOfoo7GbNzYE3nvHqvc
+4coT2MKbg5Q4vUaI9JQikkf7ymHqOt1XWXc3EbqqSWDnWmscfiH4qPSyLcLtrtOak0dJFGyPgdhU
+HJf/C4frHEpIB4SZaopra1NCRLcTtoiX6YBrCw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIF9zCCBN+gAwIBAgIBEzANBgkqhkiG9w0BAQsFADCBpjELMAkGA1UEBhMCQ0wxGDAWBgNVBAoT
+D0FjZXB0YS5jb20gUy5BLjFIMEYGA1UEAxM/QWNlcHRhLmNvbSBBdXRvcmlkYWQgQ2VydGlmaWNh
+ZG9yYSBDbGFzZSAyIFBlcnNvbmEgTmF0dXJhbCAtIEc0MR4wHAYJKoZIhvcNAQkBFg9pbmZvQGFj
+ZXB0YS5jb20xEzARBgNVBAUTCjk2OTE5MDUwLTgwHhcNMTYxMDA3MTgzMjQwWhcNMTkxMDA3MTgz
+MjQwWjCBizELMAkGA1UEBhMCQ0wxGDAWBgNVBAwTD1BFUlNPTkEgTkFUVVJBTDEiMCAGA1UEAxMZ
+QUxWQVJPIEdPTlpBTEVaIFJJRURFTUFOTjEpMCcGCSqGSIb3DQEJARYaYWx2YXJvLmdvbnphbGV6
+QGFjZXB0YS5jb20xEzARBgNVBAUTCjEzMjcyNjk4LTEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC8VwBxXmB8GY0x3KpiX7RUjqzvrAIDBsjo9YxloaCVoWFhh3eyGEIYgFTiC2/QBs2K
+qLjhGdHBOQNW8nib0lxT0utaS/UR33JOwATfbV5mmhRh9jA2xDg38MmUo/pSWoMcG0ZPpQM8Zw4r
+/YYkLyIjOTs0XWLOLWEck3u6ldrZN87Tv7wAhbsC1xAnsaqM3pgDWNeKtUzJxiNBhSN4Y5+ijsZs
+3NgTee8eq9zhyhPYwpuDlDi9Roj0lCKSR/vKYeo63VdZdzcRuqpJYOdaaxx+Ifio9LItwu2u05qT
+R0kUbI+B2FQcl/8Lh+scSkgHhJlqimtrU0JEtxO2iJfpgGsLAgMBAAGjggJHMIICQzAfBgNVHSME
+GDAWgBRlpas+P8i2UW0Rfl/DCgfmQ6AItjAdBgNVHQ4EFgQUyh2fhOBhnlVGwTznOvB+y2tHmgkw
+CwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhCAQEE
+BAMCBaAwdQYDVR0gBG4wbDBqBggrBgEEAbVrAjBeMDEGCCsGAQUFBwIBFiVodHRwczovL2FjZzQu
+YWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMCkGCCsGAQUFBwICMB0wFhYPQWNlcHRhLmNvbSBTLkEu
+MAMCAQkaA1RCRDBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYBBQUH
+CAOgGDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29tMGUGA1UdEQReMFyg
+GAYIKwYBBAHBAQGgDBYKMTMyNzI2OTgtMaAkBggrBgEFBQcIA6AYMBYMCjEzMjcyNjk4LTEGCCsG
+AQQBwQECgRphbHZhcm8uZ29uemFsZXpAYWNlcHRhLmNvbTBHBggrBgEFBQcBAQQ7MDkwNwYIKwYB
+BQUHMAGGK2h0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvb2NzcC9DbGFzZTItRzQwPwYDVR0f
+BDgwNjA0oDKgMIYuaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9jcmwvQ2xhc2UyLUc0LmNy
+bDANBgkqhkiG9w0BAQsFAAOCAQEAvlrMZ25rD567BX60SPygz2pc4d8JmbRbkCZsG8BJK+/SxIcr
+lS5osKMD2rxYGKMlSiL1By/+qT0gxF4FP7z1z034rKDmpNlqu+N6VxTYMQKE6bsihu4/a0Gqt7vS
+SIcRMpaXLJqKyuThyDTH7z5n59mZ/W+LUuKZ6OKMnMBLvE4cEZyZqFLVSdqaCxtu/jfxKRH6RYpj
+Y2+/NXf5S1ilN2BYooZilfPLxY8m649q3UxxCrFhOMazp8UlrOqF6veXva4ae11Pl3RCvkmf+H2F
+VUB/PM7S9kptQsHzrjQZt3LpyswMg5qUpWj5mHLcXKKlZYOlfNFpoeIW+D8pgi1hMg==</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>

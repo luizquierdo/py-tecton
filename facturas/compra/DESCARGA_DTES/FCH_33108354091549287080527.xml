@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EDTE14498704D62270900">
+<Caratula version="1.0">
+<RutEmisor>81201000-K</RutEmisor>
+<RutEnvia>14732528-2</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2005-03-22</FchResol>
+<NroResol>36</NroResol>
+<TmstFirmaEnv>2019-02-04T10:31:20</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+	<Documento ID="DOCT33F10835409P3">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>10835409</Folio>
+				<FchEmis>2019-02-04</FchEmis>
+				<IndServicio>3</IndServicio>
+				<FmaPago>1</FmaPago>
+				<FchVenc>2019-02-04</FchVenc>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>81201000-K</RUTEmisor>
+				<RznSoc>CENCOSUD RETAIL S.A.</RznSoc>
+				<GiroEmis>Comercial</GiroEmis>
+				<Acteco>471100</Acteco>
+				<Sucursal>669</Sucursal>
+				<DirOrigen>AVDA. PROVIDENCIA 2178</DirOrigen>
+				<CmnaOrigen>PROVIDENCIA</CmnaOrigen>
+				<CiudadOrigen>METROPOLITANA</CiudadOrigen>
+				<CdgVendedor>3</CdgVendedor>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>76407152-2</RUTRecep>
+				<CdgIntRecep>764071522</CdgIntRecep>
+				<RznSocRecep>CONSTRUCTORATECTONSPA</RznSocRecep>
+				<GiroRecep>CONSTRUCCION</GiroRecep>
+				<DirRecep>NUEVA DE LYON 0124</DirRecep>
+				<CmnaRecep>PROVIDENCIA</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>26202</MntNeto>
+				<MntExe>0</MntExe>
+				<TasaIVA>19.0</TasaIVA>
+				<IVA>4979</IVA>
+		<ImptoReten>
+			<TipoImp>27</TipoImp>
+			<TasaImp>10.0</TasaImp>
+			<MontoImp>170</MontoImp>
+		</ImptoReten>
+				<MntTotal>31351</MntTotal>
+				<MontoNF>0</MontoNF>
+				<MontoPeriodo>0</MontoPeriodo>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7807910021926</VlrCodigo>
+			</CdgItem>
+			<NmbItem>SUC LIM SANT 500 S </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>537.0</PrcItem>
+			<MontoItem>537</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7802920423814</VlrCodigo>
+			</CdgItem>
+			<NmbItem>QUESO COLUN REGGIA </NmbItem>
+			<QtyItem>2.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>1150.5</PrcItem>
+			<MontoItem>2301</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>3</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7807910025566</VlrCodigo>
+			</CdgItem>
+			<NmbItem>ESP ANAT HOMECARX3 </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>671.0</PrcItem>
+			<MontoItem>672</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>4</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7806540001865</VlrCodigo>
+			</CdgItem>
+			<NmbItem>TOALLA FAVORITA </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>1209.0</PrcItem>
+			<MontoItem>1209</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>5</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7801875058072</VlrCodigo>
+			</CdgItem>
+			<NmbItem>HIER MENT SUP 20 B </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>545.0</PrcItem>
+			<MontoItem>545</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>6</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7806500221326</VlrCodigo>
+			</CdgItem>
+			<NmbItem>SERV ELITE COC 200 </NmbItem>
+			<QtyItem>2.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>1000.0</PrcItem>
+			<MontoItem>2000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>7</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7805000148539</VlrCodigo>
+			</CdgItem>
+			<NmbItem>CIF GEL CL LIM 900 </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>1361.0</PrcItem>
+			<MontoItem>1360</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>8</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>0021000026791</VlrCodigo>
+			</CdgItem>
+			<NmbItem>MAYONESA SQUEEZE 528</NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>2520.0</PrcItem>
+			<MontoItem>2520</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>9</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7807910012238</VlrCodigo>
+			</CdgItem>
+			<NmbItem>AZUCAR S.ISABEL 1K </NmbItem>
+			<QtyItem>2.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>545.5</PrcItem>
+			<MontoItem>1091</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>10</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7801875069368</VlrCodigo>
+			</CdgItem>
+			<NmbItem>BOLSA BASURA ROLL </NmbItem>
+			<QtyItem>2.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>873.0</PrcItem>
+			<MontoItem>1746</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>11</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7802800578894</VlrCodigo>
+			</CdgItem>
+			<NmbItem>ZUKO MELON TU 25G </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>170.0</PrcItem>
+			<CodImpAdic>27</CodImpAdic>
+			<MontoItem>170</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>12</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7802800578832</VlrCodigo>
+			</CdgItem>
+			<NmbItem>ZUKO MANZANA 25G </NmbItem>
+			<QtyItem>4.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>169.75</PrcItem>
+			<CodImpAdic>27</CodImpAdic>
+			<MontoItem>679</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>13</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7802800578825</VlrCodigo>
+			</CdgItem>
+			<NmbItem>ZUKO PINA 25G </NmbItem>
+			<QtyItem>3.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>169.6667</PrcItem>
+			<CodImpAdic>27</CodImpAdic>
+			<MontoItem>509</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>14</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7802800578856</VlrCodigo>
+			</CdgItem>
+			<NmbItem>ZUKO FRAMBUESA 25G </NmbItem>
+			<QtyItem>2.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>170.0</PrcItem>
+			<CodImpAdic>27</CodImpAdic>
+			<MontoItem>339</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>15</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7801875058065</VlrCodigo>
+			</CdgItem>
+			<NmbItem>HIER MANZ SUP 20 B </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>613.0</PrcItem>
+			<MontoItem>613</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>16</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7790520508607</VlrCodigo>
+			</CdgItem>
+			<NmbItem>RAID MZ SIN AROMAT </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>2772.0</PrcItem>
+			<MontoItem>2772</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>17</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7802300024662</VlrCodigo>
+			</CdgItem>
+			<NmbItem>KETCHUP MALLOA DOY </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>1655.0</PrcItem>
+			<MontoItem>1655</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>18</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7805040000576</VlrCodigo>
+			</CdgItem>
+			<NmbItem>AROM 225GR JARDIN </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>832.0</PrcItem>
+			<MontoItem>832</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>19</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7805040313003</VlrCodigo>
+			</CdgItem>
+			<NmbItem>LUSTRA MUEBLES 250 </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>1050.0</PrcItem>
+			<MontoItem>1050</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>20</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7793253025601</VlrCodigo>
+			</CdgItem>
+			<NmbItem>LIMPIADOR LIQUIDO </NmbItem>
+			<QtyItem>2.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>1091.5</PrcItem>
+			<MontoItem>2183</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>21</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>7805040000620</VlrCodigo>
+			</CdgItem>
+			<NmbItem>AROM 225GR VAINILL </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>832.0</PrcItem>
+			<MontoItem>832</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>22</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>2090001258003</VlrCodigo>
+			</CdgItem>
+			<NmbItem>BOLS.REUT.LAMIN </NmbItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>587.0</PrcItem>
+			<MontoItem>587</MontoItem>
+		</Detalle>
+		<SubTotInfo>
+			<NroSTI>1</NroSTI>
+			<GlosaSTI>SUBTOTAL</GlosaSTI>
+			<ValSubtotSTI>31351</ValSubtotSTI>
+		</SubTotInfo>
+		<TED version="1.0"><DD><RE>81201000-K</RE><TD>33</TD><F>10835409</F><FE>2019-02-04</FE><RR>76407152-2</RR><RSR>CONSTRUCTORATECTONSPA</RSR><MNT>31351</MNT><IT1>SUC LIM SANT 500 S </IT1><CAF version="1.0"><DA><RE>81201000-K</RE><RS>CENCOSUD RETAIL S.A.</RS><TD>33</TD><RNG><D>10834579</D><H>10854578</H></RNG><FA>2019-01-22</FA><RSAPK><M>tufrBBGKz06moI69Bry2PsJSm9shPT4NQL0J0eC4nsZ7qZNpnnCqK9Lmr2XGE85RWEXNSgeDee3gCjHX5FvtEQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">TQVAs+0fDuTCKu/4IYcF19FdvIAqKUUJYFRCOOFy1IrfqShZHaXz/W/hDuudDh+KfMkmrls0AXzkJ42S++04wA==</FRMA></CAF><TSTED>2019-02-04T10:30:06</TSTED></DD><FRMT algoritmo="SHA1withRSA">L6qz1iksm9kSwXLKfvbVjWVjRPzPmf0UvJoH1vYc4bWBr2sE62Qn1UpKtB/2bWPOiDyt2eiChGDY
+IScs6AmUag==</FRMT></TED>
+		<TmstFirma>2019-02-04T10:30:06</TmstFirma>
+	</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#DOCT33F10835409P3"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>S+KNvNX1nAUnCSc56Qp8wDl1G2Q=</DigestValue></Reference></SignedInfo><SignatureValue>BaUHkCwFbAosSRQqakYZQkFrRcWWnT1ifv3dreLhajVkEEJtTVvDtjHmYBICDYFL9gPf/+TR7kwL
+KPDhSHpgoNrHmVtJSDtnZOYFPupWqzxxMdzWm/lrFI1ZHax4iJ5qxFSOH1zdGFZ5S05m3E8wAI2y
+ovToX7QmKhI1yrqK7a2fAlC9lGr5+jW3+fqU8XmU0z3OWNu0PUcI/YGL9AcJ+mLcVdPo/m2LdHB6
+6PRbTqa7yJB/1Q1B1m0L3e4vR124aPXyZZtgO2C/UCMNxnejeRvAzlxxmpjBlye+iA10gNdiuvpO
+UAPtLBNWlFaaUstWGTuHCYSOYneGY4p3RqoTsw==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>9acFmMmKC1NGycs8ucIWKlhHZxk/3/gsVnwQxn8PpiOVTA6leXale1TACwEfBSBAwZIKgm6qL9ky
+gSoF/BsBorDTTvbZL6VjvZxyhYN3UJLgK9mUliqzDqT2T4qur9/69+GQuc4ACwFbkbBN8C3SoqCT
+BNR0ZmcHFTPP55LkD9w+dvGs/BiZQ1pk2mGtPQ1LosrkIWofhDfV4SFX3fIPF47mu8CoFJ+uWM5R
+JDJD86HlWtAnrkRfIIFc851bBlOImFr5GxZxWG8l8kB18muFyzJcN04Zxab29mKkZyVVrqo4dfAb
+0bmd6Vbfjnxvy+hQqqTsTYI3LgxXC4LL9aCEsw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGjTCCBXWgAwIBAgIKc+MlfQABAAA3ADANBgkqhkiG9w0BAQsFADCB0DELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzESMBAGA1UE
+ChMJUEFQRVJMRVNTMSAwHgYDVQQLExdBdXRvcmlkYWQgQ2VydGlmaWNhZG9yYTEuMCwGA1UEAxMl
+UEFQRVJMRVNTIENBIEZJUk1BIEVMRUNUUk9OSUNBIFNJTVBMRTEpMCcGCSqGSIb3DQEJARYaY29t
+dW5pY2FjaW9uZXNAcGtpY2hpbGUuY2wwHhcNMTcwNzE0MjIyNDAzWhcNMjAwNzEzMjIyNDAzWjCB
+0jELMAkGA1UEBhMCQ0wxKjAoBgNVBAgMIVJFR0nDk04gTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TzERMA8GA1UEBxMIU0FOVElBR08xHTAbBgNVBAoTFENFTkNPU1VEIFJFVEFJTCBTLkEuMRYwFAYD
+VQQLEw1SRVBSRVNFTlRBTlRFMSIwIAYDVQQDExlOSUNPTEFTIEFMRUpBTkRSTyBMQVJDTyAuMSkw
+JwYJKoZIhvcNAQkBFhpNQVJDRUxPLlJPTUVST0BDRU5DT1NVRC5DTDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAPWnBZjJigtTRsnLPLnCFipYR2cZP9/4LFZ8EMZ/D6YjlUwOpXl2pXtU
+wAsBHwUgQMGSCoJuqi/ZMoEqBfwbAaKw00722S+lY72ccoWDd1CS4CvZlJYqsw6k9k+Krq/f+vfh
+kLnOAAsBW5GwTfAt0qKgkwTUdGZnBxUzz+eS5A/cPnbxrPwYmUNaZNphrT0NS6LK5CFqH4Q31eEh
+V93yDxeO5rvAqBSfrljOUSQyQ/Oh5VrQJ65EXyCBXPOdWwZTiJha+RsWcVhvJfJAdfJrhcsyXDdO
+GcWm9vZipGclVa6qOHXwG9G5nelW3458b8voUKqk7E2CNy4MVwuCy/WghLMCAwEAAaOCAmMwggJf
+MD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILMzj6C+M0d2Ysego+FV4TOlTWBEIK+jX6GzI1I
+AgFkAgECMIIBhQYDVR0gBIIBfDCCAXgwggF0BggrBgEEAYLENzCCAWYwggFiBggrBgEFBQcCAjCC
+AVQeggFQAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQByAGEAIAB1AHMAbwAgAFQAcgBpAGIA
+dQB0AGEAcgBpAG8ALgAgAFAAUwBDACAAUABhAHAAZQByAGwAZQBzAHMAIABhAGMAcgBlAGQAaQB0
+AGEAZABvACAAcwBlAGcA+gBuACAAUgAuAEEALgAgAEUAeABlAG4AdABhACAATgC6ACAAMQA3ADIA
+LAAgAGQAZQAgADMAMAAgAGQAZQAgAGUAbgBlAHIAbwAgAGQAZQAgADIAMAAxADMALAAgAGQAZQAg
+AGwAYQAgAFMAdQBiAHMAZQBjAHIAZQB0AGEAcgDtAGEAIABkAGUAIABFAGMAbwBuAG8AbQDtAGEA
+LAAgAHkAIABFAG0AcAByAGUAcwBhAHMAIABkAGUAIABNAGUAbgBvAHIAIABUAGEAbQBhAPEAbwAu
+MB0GA1UdDgQWBBRlWy/cza+gzn75k//IS/oA0EdCgjALBgNVHQ8EBAMCBPAwHwYDVR0jBBgwFoAU
+lOSvN2VmXelnzD68nW9xGsuMi+wwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgoxNDczMjUyOC0y
+MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MTUzMTAtNjANBgkqhkiG9w0BAQsFAAOCAQEA
+mF1GEuiB9IV3siyWE13ILyFfBZCkNEXX0kQVXsq1hH1qbwHlPElJ+kpevB6KFjFM0fIjK9UYPWle
+trgAMKAdsZFLaYYqSRgdd3x2Uoo5wY3NglNvQz8QNanMrlcUbxK8hx4xIJv+Nfn8UaTazq0HT73n
+uh2ycXe8vC1AQhYfpJNLSbBNlv3S0g094hfCr5903WrnZJC0va6Rkmp85GydNGMdXDtlys2ZG3ls
+fTLiQnDGr8Yhb3JDkvJ3BsLYg2rsh/QHdcmCENLzBDbuAZ1BcZCT/QbGHhKoqE9BXnOdV+txnR9d
+Y+5QgsqTdYlCl5uzNCiKnli9Szik0Qie4DsUaA==</X509Certificate></X509Data></KeyInfo></Signature>
+	
+
+</DTE>
+</SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#EDTE14498704D62270900">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>BUwQv4xthIVJCd0u+Wq1zIdr/AI=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    VBpOzEFY5JJp+EiTx5BAQ+tmSSKM+ufWzbK8c8a2wnVsvTXU82e/Di+YiP8vc7rB
+    7H0DmINErWwachWIHzW6PHpISmT8Z591+MpqaTmjxSZW/7pNi2UPqUqMiD7M1saH
+    b70X5e7FbS34phIm5OQZSRlLTxqXTJfnJ6nGCPE0hhEbY0BomNBMDl9ShLxcC3Zj
+    URAdI7nJaGuqskvQPVJL2FYNQZ0Jw0JgiWYbh0arSZpZ4DFSgX+l7cu0Xo1yxpiy
+    lvh7tPv5SnNfQURRPPEXJ/Td1f+L3VBj2QOdY3gKDu68WMXisDqUiD4D6HoywO2+
+    D4xGPJgYqWCzRrSvSU+0JQ==
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          9acFmMmKC1NGycs8ucIWKlhHZxk/3/gsVnwQxn8PpiOVTA6leXale1TACwEfBSBA
+          wZIKgm6qL9kygSoF/BsBorDTTvbZL6VjvZxyhYN3UJLgK9mUliqzDqT2T4qur9/6
+          9+GQuc4ACwFbkbBN8C3SoqCTBNR0ZmcHFTPP55LkD9w+dvGs/BiZQ1pk2mGtPQ1L
+          osrkIWofhDfV4SFX3fIPF47mu8CoFJ+uWM5RJDJD86HlWtAnrkRfIIFc851bBlOI
+          mFr5GxZxWG8l8kB18muFyzJcN04Zxab29mKkZyVVrqo4dfAb0bmd6Vbfjnxvy+hQ
+          qqTsTYI3LgxXC4LL9aCEsw==
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGjTCCBXWgAwIBAgIKc+MlfQABAAA3ADANBgkqhkiG9w0BAQsFADCB0DELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzESMBAGA1UEChMJUEFQRVJMRVNTMSAwHgYDVQQLExdBdXRvcmlk
+        YWQgQ2VydGlmaWNhZG9yYTEuMCwGA1UEAxMlUEFQRVJMRVNTIENBIEZJUk1BIEVM
+        RUNUUk9OSUNBIFNJTVBMRTEpMCcGCSqGSIb3DQEJARYaY29tdW5pY2FjaW9uZXNA
+        cGtpY2hpbGUuY2wwHhcNMTcwNzE0MjIyNDAzWhcNMjAwNzEzMjIyNDAzWjCB0jEL
+        MAkGA1UEBhMCQ0wxKjAoBgNVBAgMIVJFR0nDk04gTUVUUk9QT0xJVEFOQSBERSBT
+        QU5USUFHTzERMA8GA1UEBxMIU0FOVElBR08xHTAbBgNVBAoTFENFTkNPU1VEIFJF
+        VEFJTCBTLkEuMRYwFAYDVQQLEw1SRVBSRVNFTlRBTlRFMSIwIAYDVQQDExlOSUNP
+        TEFTIEFMRUpBTkRSTyBMQVJDTyAuMSkwJwYJKoZIhvcNAQkBFhpNQVJDRUxPLlJP
+        TUVST0BDRU5DT1NVRC5DTDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+        APWnBZjJigtTRsnLPLnCFipYR2cZP9/4LFZ8EMZ/D6YjlUwOpXl2pXtUwAsBHwUg
+        QMGSCoJuqi/ZMoEqBfwbAaKw00722S+lY72ccoWDd1CS4CvZlJYqsw6k9k+Krq/f
+        +vfhkLnOAAsBW5GwTfAt0qKgkwTUdGZnBxUzz+eS5A/cPnbxrPwYmUNaZNphrT0N
+        S6LK5CFqH4Q31eEhV93yDxeO5rvAqBSfrljOUSQyQ/Oh5VrQJ65EXyCBXPOdWwZT
+        iJha+RsWcVhvJfJAdfJrhcsyXDdOGcWm9vZipGclVa6qOHXwG9G5nelW3458b8vo
+        UKqk7E2CNy4MVwuCy/WghLMCAwEAAaOCAmMwggJfMD0GCSsGAQQBgjcVBwQwMC4G
+        JisGAQQBgjcVCILMzj6C+M0d2Ysego+FV4TOlTWBEIK+jX6GzI1IAgFkAgECMIIB
+        hQYDVR0gBIIBfDCCAXgwggF0BggrBgEEAYLENzCCAWYwggFiBggrBgEFBQcCAjCC
+        AVQeggFQAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQByAGEAIAB1AHMAbwAg
+        AFQAcgBpAGIAdQB0AGEAcgBpAG8ALgAgAFAAUwBDACAAUABhAHAAZQByAGwAZQBz
+        AHMAIABhAGMAcgBlAGQAaQB0AGEAZABvACAAcwBlAGcA+gBuACAAUgAuAEEALgAg
+        AEUAeABlAG4AdABhACAATgC6ACAAMQA3ADIALAAgAGQAZQAgADMAMAAgAGQAZQAg
+        AGUAbgBlAHIAbwAgAGQAZQAgADIAMAAxADMALAAgAGQAZQAgAGwAYQAgAFMAdQBi
+        AHMAZQBjAHIAZQB0AGEAcgDtAGEAIABkAGUAIABFAGMAbwBuAG8AbQDtAGEALAAg
+        AHkAIABFAG0AcAByAGUAcwBhAHMAIABkAGUAIABNAGUAbgBvAHIAIABUAGEAbQBh
+        APEAbwAuMB0GA1UdDgQWBBRlWy/cza+gzn75k//IS/oA0EdCgjALBgNVHQ8EBAMC
+        BPAwHwYDVR0jBBgwFoAUlOSvN2VmXelnzD68nW9xGsuMi+wwIwYDVR0RBBwwGqAY
+        BggrBgEEAcEBAaAMFgoxNDczMjUyOC0yMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKg
+        DBYKOTY5MTUzMTAtNjANBgkqhkiG9w0BAQsFAAOCAQEAmF1GEuiB9IV3siyWE13I
+        LyFfBZCkNEXX0kQVXsq1hH1qbwHlPElJ+kpevB6KFjFM0fIjK9UYPWletrgAMKAd
+        sZFLaYYqSRgdd3x2Uoo5wY3NglNvQz8QNanMrlcUbxK8hx4xIJv+Nfn8UaTazq0H
+        T73nuh2ycXe8vC1AQhYfpJNLSbBNlv3S0g094hfCr5903WrnZJC0va6Rkmp85Gyd
+        NGMdXDtlys2ZG3lsfTLiQnDGr8Yhb3JDkvJ3BsLYg2rsh/QHdcmCENLzBDbuAZ1B
+        cZCT/QbGHhKoqE9BXnOdV+txnR9dY+5QgsqTdYlCl5uzNCiKnli9Szik0Qie4DsU
+        aA==
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature></EnvioDTE>

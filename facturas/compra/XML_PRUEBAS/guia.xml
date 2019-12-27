@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+  <SetDTE ID="ID96691060-7__1__52__170756">
+    <Caratula version="1.0">
+      <RutEmisor>96691060-7</RutEmisor>
+      <RutEnvia>14681596-0</RutEnvia>
+      <RutReceptor>76407152-2</RutReceptor>
+      <FchResol>2006-11-27</FchResol>
+      <NroResol>153</NroResol>
+      <TmstFirmaEnv>2016-09-01T09:16:16</TmstFirmaEnv>
+      
+    <SubTotDTE><TpoDTE>52</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+    
+  <DTE version="1.0">
+      <Documento ID="F170756T52">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>52</TipoDTE>
+            <Folio>170756</Folio>
+            <FchEmis>2016-09-01</FchEmis>
+            <TipoDespacho>3</TipoDespacho>
+            <IndTraslado>1</IndTraslado>
+            <NumCtaPago>OV184157</NumCtaPago>
+            <BcoPago>KSB_TERR</BcoPago>
+            <TermPagoGlosa>60 DIAS FECHA FACTURA</TermPagoGlosa>
+            <TermPagoDias>1</TermPagoDias>
+            <FchVenc>2016-09-01</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>96691060-7</RUTEmisor>
+            <RznSoc>KSB CHILE S.A.</RznSoc>
+            <GiroEmis>IMP,COM,ENS Y FAB DE B.HIDRA</GiroEmis>
+            <CorreoEmisor>op401@ksb.cl</CorreoEmisor>
+            <Acteco>515009</Acteco>
+            <Sucursal>00STGO</Sucursal>
+            <DirOrigen>AV. LAS ESTERAS SUR 2851QUILICURA</DirOrigen>
+            <CmnaOrigen>QUILICURA</CmnaOrigen>
+            <CiudadOrigen>SANTIAGO</CiudadOrigen>
+            <CdgVendedor>Christian Cariaga(UHC72)</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <CdgIntRecep>106165</CdgIntRecep>
+            <RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCION</GiroRecep>
+            <Contacto>ANTONIO CAÑADA/990786160</Contacto>
+            <CorreoRecep>acanada@tecton.cl</CorreoRecep>
+            <DirRecep>PROVIDENCIA 2330</DirRecep>
+            <CmnaRecep>SANTIAGO</CmnaRecep>
+            <CiudadRecep>SANTIAGO</CiudadRecep>
+          </Receptor>
+          <Transporte>
+            <Patente>TW-7387</Patente>
+            <RUTTrans>96691060-7</RUTTrans>
+            <Chofer>
+              <RUTChofer>7621627-4</RUTChofer>
+              <NombreChofer>VICTOR CARDENAS</NombreChofer>
+            </Chofer>
+            <DirDest>LAS VIOLETAS No 5926  AT. LUIS RIVERA</DirDest>
+            <CmnaDest>CERRILLOS</CmnaDest>
+            <CiudadDest>CERRILLOS</CiudadDest>
+          </Transporte>
+          <Totales>
+            <MntNeto>1159095</MntNeto>
+            <TasaIVA>19.00</TasaIVA>
+            <MntTotal>1159095</MntTotal>
+          </Totales>
+          <OtraMoneda>
+            <TpoMoneda>OTRAS MONEDAS</TpoMoneda>
+            <MntTotOtrMnda>1.0000</MntTotOtrMnda>
+          </OtraMoneda>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>INT1</TpoCodigo>
+            <VlrCodigo>211708</VlrCodigo>
+          </CdgItem>
+          <CdgItem>
+            <TpoCodigo>QBLI</TpoCodigo>
+            <VlrCodigo>1</VlrCodigo>
+          </CdgItem>
+          <CdgItem>
+            <TpoCodigo>QBPO</TpoCodigo>
+            <VlrCodigo>7241</VlrCodigo>
+          </CdgItem>
+          <NmbItem>GRUPO MOVITEC VF 10/15 B + 5,50 KW IE3</NmbItem>
+          <QtyItem>1.000000</QtyItem>
+          <UnmdItem>UN</UnmdItem>
+          <PrcItem>1159095.000000</PrcItem>
+          <MontoItem>1159095</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>801</TpoDocRef>
+          <FolioRef>7241</FolioRef>
+          <FchRef>2016-09-01</FchRef>
+          <RazonRef>7241</RazonRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>96691060-7</RE>
+            <TD>52</TD>
+            <F>170756</F>
+            <FE>2016-09-01</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSORCIO HLI HYDROGROUP SPA</RSR>
+            <MNT>1159095</MNT>
+            <IT1>GRUPO MOVITEC VF 10/15 B + 5,50 KW IE3</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>96691060-7</RE>
+                <RS>KSB CHILE S A</RS>
+                <TD>52</TD>
+                <RNG>
+                  <D>170000</D>
+                  <H>174999</H>
+                </RNG>
+                <FA>2016-08-18</FA>
+                <RSAPK>
+                  <M>uef4aK6knomsNdg1Dqq0yOjLSb4vmG4trUPUxN0jmLGesk0MQyTM4ygniSsPevjeIRXfq77PvZsovI+aRZBIZw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">NziJNx9KIqE0rBfwQ9SWamzEYXDbwjz74bz/UanWcd4vDL/In3u/ogBaA93d/rQlG446PEWGXdwCSgqwMEyI+A==</FRMA>
+            </CAF>
+            <TSTED>2016-09-01T09:44:59</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">KsmotVLa0vSXR5V0O+yI16oNBJIp97IsfFNvQ9TYHj1rzobRaB92thN+GWRDrpJe0WJkPpsdBA4ICMLOo47V/w==</FRMT>
+        </TED>
+        <TmstFirma>2016-09-01T09:45:03</TmstFirma>
+      </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F170756T52"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>bWnAo6XTWB4nV/oHwiFwR0TrfhA=</DigestValue></Reference></SignedInfo><SignatureValue>
+M4n2V9R+KuYpDlHYns0qbdfRsir8VpXkAoaB8YABmR/kkFxsrmRDn/xSxG7iRqRv
+x+VFQVVyWyIPGry6EEwDveT8g48pNlArb/u8k4okIZkwjAFfA3BjPWegJ8X6PLQV
+1KQn1r/aAK3K96z7LANErSfIXCs5j0SiNDVyD6w6mS0=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+ylRrfpaeUeP8FmqDhJtGzoibGZddb2X6sXRzA07YKMDj25tVt0f453xXHFEM6BO1
+TNw2IfLZv1MQzMDK5VcerJp33PHRG4g4GR1CyRSLaZJQ6RmvYH+b30omyC5Bjj2E
+Sj/rkedzQFB/ZWgW7ATlo+X5eX/ipxteu5OYAf9agak=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGODCCBSCgAwIBAgIKbTcN2gAAAAJenjANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNTA1MTQxNzE3MDZaFw0xODA1MTMxNzE3MDZaMIG7
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMRcwFQYDVQQKEw5LU0IgQ0hJTEUgUy5BLjEY
+MBYGA1UECxMPR0VSRU5URSBHRU5FUkFMMR0wGwYDVQQDExRIQU5TICBCQVVNQU5O
+IFdFUk5FUjEiMCAGCSqGSIb3DQEJARYTaGFucy5iYXVtYW5uQGtzYi5jbDCBnzAN
+BgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAylRrfpaeUeP8FmqDhJtGzoibGZddb2X6
+sXRzA07YKMDj25tVt0f453xXHFEM6BO1TNw2IfLZv1MQzMDK5VcerJp33PHRG4g4
+GR1CyRSLaZJQ6RmvYH+b30omyC5Bjj2ESj/rkedzQFB/ZWgW7ATlo+X5eX/ipxte
+u5OYAf9agakCAwEAAaOCAqcwggKjMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcV
+CILcgy+Fk4xmhdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFkAgEEMB0GA1UdDgQWBBRr
+G0qEy0ZVacYQTMqVGuRCyd9TUjALBgNVHQ8EBAMCBPAwHwYDVR0jBBgwFoAUeOE+
+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5l
+LWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4w
+LDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMG
+A1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMDgwNTMxMjYtNTAjBgNVHRIEHDAaoBgG
+CCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNVHSAEggFEMIIBQDCCATwGCCsG
+AQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5j
+bC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAAcwBpAGQAbwAg
+AHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBu
+AGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBk
+AG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBz
+AG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3DQEBBQUAA4IBAQClLJ+c
+LH7/C/bYEJCKUqB/SgCrpyrhMzWrfuu+gV4sqIH/Qm7Xn5wKDpSIShpWdPwbueAm
+rbzdxrkZ9fkYhhsuF/HBmUzW4mFTfH+UDsazxkDFvvTzHH47CyfBa/UUngskaynM
+d0y9gnCwcG7uj1PbbXkJ4TYD16QmKUa+X7AG76BgLvdiEJcaZKlMxjefiIL9XMP4
+T9F2+Laq3VUDF3sip3A3kNe8yxtvA/kE7lM750DItKhWaEB0wdyMTkk4Q7MaGwBx
+VM5gKMt5bjROLkKXrowonhGb4A8QSMgOrGmYYWklFA6/GUkhVzIWmjQDtg83A07x
+44t3rUuCCy6Ixd2o
+</X509Certificate></X509Data></KeyInfo></Signature>
+    </DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID96691060-7__1__52__170756"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>5/TpEQqKGJStg4+AuJhJL2kD/bM=</DigestValue></Reference></SignedInfo><SignatureValue>
+tOkCvo64dHSwLjN2lGnCtY5ixEWNaKTHNybp3j3Mq/dXkfyABtig9UQr12nbNuxV
+JlC1IoGuCVFYPeyuuhzvOHn4o7OhvKW1Pj+NBzQVKH2FjtJWWYdvXCGHzO1v9zKd
+xam+Okcuma6XZ3hKzeCxcD69Q+GrF2nEan1VkXNbMFQ=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+8Bz2AvaOWxBWnUwX3BWpu5TaX67DjyriV3syM6vgFd7YnLQrcB4FvVPXEzaozvbq
+SisEj8P3se5dtOChQHZEiXKSPif1z5EQf77mPCisGy5vKXo3WYKn6QRZQaeJuGHG
+NUglolQMT1dnoQFd2eyihK07A/5zoI6EDukmVSJ0NwM=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGUzCCBTugAwIBAgIKGCJ1VgAAAAK3mDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNTA4MjAxODA5NTJaFw0xODA4MTkxODA5NTJaMIHW
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMSYwJAYDVQQKEx1Tb3V0aCBDb25zdWx0aW5n
+IFNpZ25hdHVyZSBTQTEKMAgGA1UECwwBKjEnMCUGA1UEAxMeTWFyaW8gQXVndXN0
+byBGZXJuYW5kZXogQ3Vlc3RhMTIwMAYJKoZIhvcNAQkBFiNtYXJpby5mZXJuYW5k
+ZXpAc291dGhjb25zdWx0aW5nLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkC
+gYEA8Bz2AvaOWxBWnUwX3BWpu5TaX67DjyriV3syM6vgFd7YnLQrcB4FvVPXEzao
+zvbqSisEj8P3se5dtOChQHZEiXKSPif1z5EQf77mPCisGy5vKXo3WYKn6QRZQaeJ
+uGHGNUglolQMT1dnoQFd2eyihK07A/5zoI6EDukmVSJ0NwMCAwEAAaOCAqcwggKj
+MD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8
+YYGa5xWGr+AVAgFkAgEEMB0GA1UdDgQWBBRCF+KIxtcnajz+d3ZPivpheOFVkTAL
+BgNVHQ8EBAMCBPAwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYD
+VR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNo
+aWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDov
+L29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGg
+DBYKMTQ2ODE1OTYtMDAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgw
+LTUwggFNBgNVHSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcC
+ARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcC
+AjCB7x6B7ABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkA
+bQBwAGwAZQAuACAASABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUA
+bgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQA
+YQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIA
+aQBvMA0GCSqGSIb3DQEBBQUAA4IBAQAl2YIxlaWiRy7aCQYZ4tbDu2FJRA8xGtH1
+tQkMbeM+xTgj1lsYnaEVK3sih1FOa/EsPs6njtT1bNjeGRldzhBs7GPDzGMxV3sg
+dXNMxX7L/J3HlEhaR6attRXDE7/zLj9oy20j8wNMjERd6S6a22LjMxuoH+OquOdI
+oWjXZkfklaFIu4ZZQ9yy8XMyhxaSAIwbeSSnXejAxsqElBm8Dm+q30pumTRQqy9X
+/bW8hoIh/RfRp81glV7iUAIjdU+7zu5qU98kFIMZeg2XMvqfig+NUIQXz9HcGvBG
+uHg7iN3zXemlkQJBFzRSuaACu9ZYu9aRXW9GL4GUXs55Bxt0iw0H
+</X509Certificate></X509Data></KeyInfo></Signature>
+  
+</EnvioDTE>

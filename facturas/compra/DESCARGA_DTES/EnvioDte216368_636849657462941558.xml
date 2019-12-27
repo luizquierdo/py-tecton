@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EnvioDte216368_636849657462941558">
+<Caratula version="1.0">
+<RutEmisor>91755000-K</RutEmisor>
+<RutEnvia>7544038-3</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2004-05-14</FchResol>
+<NroResol>49</NroResol>
+<TmstFirmaEnv>2019-02-05T12:15:46</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+<Documento ID="R91755000F2596742T33">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>2596742</Folio>
+<FchEmis>2019-02-05</FchEmis>
+<FmaPago>2</FmaPago>
+<TermPagoCdg>Z030</TermPagoCdg>
+<TermPagoDias>030</TermPagoDias>
+<FchVenc>2019-03-07</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>91755000-K</RUTEmisor>
+<RznSoc>CEMENTOS BIO BIO S.A.</RznSoc>
+<GiroEmis>Comercialización de Cemento, Hormigón y Otros Productos para la construcción.</GiroEmis>
+<Acteco>036921</Acteco>
+<Sucursal>Ready Mix S.A.</Sucursal>
+<CdgSIISucur>059350243</CdgSIISucur>
+<DirOrigen>Lira 2320</DirOrigen>
+<CmnaOrigen>SAN JOAQUIN</CmnaOrigen>
+<CiudadOrigen>SANTIAGO</CiudadOrigen>
+<CdgVendedor>11641106</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<CdgIntRecep>00000000000000241987</CdgIntRecep>
+<RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+<GiroRecep>CONSTRUCCION DE EDIFICIOS COMPLETOS O DE</GiroRecep>
+<DirRecep>AVENIDA PROVIDENCIA 2330 OF. 63</DirRecep>
+<CmnaRecep>Providencia</CmnaRecep>
+<CiudadRecep>PROVIDENCIA</CiudadRecep>
+<DirPostal>AVENIDA PROVIDENCIA 2330 OF. 63</DirPostal>
+<CmnaPostal>Providencia</CmnaPostal>
+<CiudadPostal>PROVIDENCIA</CiudadPostal>
+</Receptor>
+<Totales>
+<MntNeto>1938453</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>368306</IVA>
+<MntTotal>2306759</MntTotal>
+<MontoNF>0</MontoNF>
+<MontoPeriodo>2306759</MontoPeriodo>
+<SaldoAnterior>0</SaldoAnterior>
+<VlrPagar>2306759</VlrPagar>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>0001</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>351626</VlrCodigo>
+</CdgItem>
+<NmbItem>H025(90)-20-10-28-B-PADP</NmbItem>
+<QtyRef>34</QtyRef>
+<UnmdRef>M3</UnmdRef>
+<PrcRef>2.07</PrcRef>
+<QtyItem>34</QtyItem>
+<UnmdItem>M3</UnmdItem>
+<PrcItem>110170.68</PrcItem>
+<OtrMnda>
+<PrcOtrMon>4.00</PrcOtrMon>
+<Moneda>UF</Moneda>
+</OtrMnda>
+<DescuentoPct>4.83</DescuentoPct>
+<DescuentoMonto>1807350</DescuentoMonto>
+<MontoItem>1938453</MontoItem>
+</Detalle>
+<Referencia>
+<NroLinRef>0001</NroLinRef>
+<TpoDocRef>801</TpoDocRef>
+<FolioRef>OC-04356/OC-04486</FolioRef>
+<FchRef>2019-02-05</FchRef>
+</Referencia>
+<Referencia>
+<NroLinRef>0002</NroLinRef>
+<TpoDocRef>OBR</TpoDocRef>
+<FolioRef>0000267300</FolioRef>
+<FchRef>2019-02-05</FchRef>
+<RazonRef>CASAS VALLE ESCONDIDO</RazonRef>
+</Referencia>
+<Referencia>
+<NroLinRef>0003</NroLinRef>
+<TpoDocRef>50</TpoDocRef>
+<FolioRef>7183100</FolioRef>
+<FchRef>2019-02-04</FchRef>
+</Referencia>
+<Referencia>
+<NroLinRef>0004</NroLinRef>
+<TpoDocRef>50</TpoDocRef>
+<FolioRef>7184305</FolioRef>
+<FchRef>2019-02-04</FchRef>
+</Referencia>
+<Referencia>
+<NroLinRef>0005</NroLinRef>
+<TpoDocRef>50</TpoDocRef>
+<FolioRef>7184307</FolioRef>
+<FchRef>2019-02-04</FchRef>
+</Referencia>
+<Referencia>
+<NroLinRef>0006</NroLinRef>
+<TpoDocRef>50</TpoDocRef>
+<FolioRef>7184312</FolioRef>
+<FchRef>2019-02-04</FchRef>
+</Referencia>
+<Referencia>
+<NroLinRef>0007</NroLinRef>
+<TpoDocRef>50</TpoDocRef>
+<FolioRef>7184320</FolioRef>
+<FchRef>2019-02-04</FchRef>
+</Referencia>
+<Referencia>
+<NroLinRef>0008</NroLinRef>
+<TpoDocRef>50</TpoDocRef>
+<FolioRef>7184327</FolioRef>
+<FchRef>2019-02-04</FchRef>
+</Referencia>
+<Referencia>
+<NroLinRef>9</NroLinRef>
+<TpoDocRef>I01</TpoDocRef>
+<FolioRef>I01</FolioRef>
+<FchRef>2019-02-05</FchRef>
+<RazonRef>Venta por cuenta de:Ready Mix Hormigones Ltda. RUT: 87580800-1/93859875</RazonRef>
+</Referencia>
+<Referencia>
+<NroLinRef>10</NroLinRef>
+<TpoDocRef>I22</TpoDocRef>
+<FolioRef>I22</FolioRef>
+<FchRef>2019-02-05</FchRef>
+<RazonRef>GUIAS: 7183100 7184305 7184307 7184312 7184320 7184327</RazonRef>
+</Referencia>
+<Referencia>
+<NroLinRef>11</NroLinRef>
+<TpoDocRef>I02</TpoDocRef>
+<FolioRef>I02</FolioRef>
+<FchRef>2019-02-05</FchRef>
+<RazonRef>Providencia HLI HYDROG 241987/|CASAS VALLE ESCONDIDO|Directas/Stoc</RazonRef>
+</Referencia>
+<Referencia>
+<NroLinRef>12</NroLinRef>
+<TpoDocRef>I03</TpoDocRef>
+<FolioRef>I03</FolioRef>
+<FchRef>2019-02-05</FchRef>
+<RazonRef>40496892|OC-04356/O|Treinta días|UF : 27542.67 Con Fecha 04.02.2019</RazonRef>
+</Referencia>
+<TED version="1.0"><DD><RE>91755000-K</RE><TD>33</TD><F>2596742</F><FE>2019-02-05</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>2306759</MNT><IT1>H025(90)-20-10-28-B-PADP</IT1><CAF version="1.0"><DA><RE>91755000-K</RE><RS>CEMENTOS BIO BIO S A</RS><TD>33</TD><RNG><D>2519981</D><H>2719980</H></RNG><FA>2018-09-26</FA><RSAPK><M>t+ev7tRcT4IXX6ljz/CAgcMM9LYGlFVf8Q0Nz2varbFLQCdpWZoan+MJfJTo61D5FtbwOt3WMAgBMOpuTD5EdQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">faJfHKlE5v0OmKOWPTP9EQP4IHWXVjvO/UXHbHZkl8/NKOKzPpJ00BdYQTKY4afrAnKGVKzJiMHu7gKrOzxvBA==</FRMA></CAF><TSTED>2019-02-05T10:59:24</TSTED></DD><FRMT algoritmo="SHA1withRSA">qwtUhzUoslnZZy6cIOVn5ErvoiymRmVpomjJqemqYLklyX+a291nJkvyHscrfErbjjSJbBW2tRMiTBCmhM3SQw==</FRMT></TED><TmstFirma>2019-02-05T10:59:24</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#R91755000F2596742T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>VPt7x8axIQsC8RmlC19x4g652+c=</DigestValue></Reference></SignedInfo><SignatureValue>
+LjMeZD58Ojz6gi3GAlP43XWwd+EewCJ9AGhuoeU2Xewp/UMv215oFs5HpAiYX+hjRJiU+cd+XpXY
+8K8aH32EnbDTEWNbdihVJKizSx29XJKUz32fWR/W3fyN+GHkdRmXYUqz6vk/8wWy9SE2hPhtdGfH
+4OT85xIVG7eA71/wzaE=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rImqwVWGqkU5Aje2yuJzDQgGfqxt4MGepJYmN0lDruoAQlnsOfaiA3cCrYpQuLLFn0owaz/8PANx+X4HEs94IAJqSc0/hpmZ63+rXYsB9PNIF5zGD8itNU/Blu1v2zvbcBUav3rNZj8TK6wy2KOCXvEAM2ZmEbKHwnfciPaQVd8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGZTCCBU2gAwIBAgIKImzoIQAAAAqEwTANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xODAzMTMxMjQxMzZaFw0yMTAzMTIxMjQxMzZa
+MIHoMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRgwFgYDVQQKEw9JQ09OU1RSVVlFIFMuQS4xLDAqBgNVBAsMI1NlcnZp
+Y2lvcyBDb21lcmNpYWxlcyBFbGVjdHLDs25pY29zMScwJQYDVQQDEx5MVUlTIE1BUkNFTE8gREUg
+UEVUUklTIFpBTkVUVEExMDAuBgkqhkiG9w0BCQEWIWZyYW5jaXNjby56YW1icmFub0BpY29uc3Ry
+dXllLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArImqwVWGqkU5Aje2yuJzDQgGfqxt
+4MGepJYmN0lDruoAQlnsOfaiA3cCrYpQuLLFn0owaz/8PANx+X4HEs94IAJqSc0/hpmZ63+rXYsB
+9PNIF5zGD8itNU/Blu1v2zvbcBUav3rNZj8TK6wy2KOCXvEAM2ZmEbKHwnfciPaQVd8CAwEAAaOC
+AqcwggKjMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYGa
+5xWGr+AVAgFkAgEEMB0GA1UdDgQWBBTMFS3IKu9cdLcmgMYey/9EnMl3ojALBgNVHQ8EBAMCBPAw
+HwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDov
+L2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAq
+BggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYI
+KwYBBAHBAQGgDBYKMDc1NDQwMzgtMzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgw
+LTUwggFNBgNVHSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDov
+L3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAAcwBpAGQAbwAg
+AHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwA
+LAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0
+AGkAZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0G
+CSqGSIb3DQEBBQUAA4IBAQBIU2nUo8U2fFXPp0X26Rh27/FeRxlQbi71SqVobn76TGtYKWORswMg
+E5M0d93C/WMdzDHAfwq1QUF3WYErjQGbgrRCsE7+moVKy0qzTlkrUPiIcOSBsXqx+dNJ5whtT0ns
+8W3TYeTB/zqmX/AGLSo1J3+E2R7G9SL90UypULHzJnPgKy3Wl1a/j+oPbqhsOFpiTq2bz954BIdD
+F+bqcOB7rmsiJJTDm6xpRBXyAAyiriYweOQL4s5MP1Hcue+aFE4yAtZ1EZdey3Qk8c7BWL5lPknJ
+Ay02zTNO0zGh8v/ZFHO1b8Hzs0cpa+N2J4T8IdNL7qtdVyKMyALhI3/enTkj
+</X509Certificate></X509Data></KeyInfo></Signature></DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#EnvioDte216368_636849657462941558"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>itSg+blA2Zh+gDzzjGKUud8rDvs=</DigestValue></Reference></SignedInfo><SignatureValue>
+kBzv2UldnQCcwBgdUwiE1WNOc5Lj0ra52VG2nBZTB++qpEsX7MzFOkeKCtGgweWDPAXY4EJnbnTU
+qPS5nhjtvQx4tF73Ly8EAkcYcVadj/kHWynRzUU8zqcClHIhxcEM/0627t2vrlr2sGwx6VcGkhCB
+eN+UA7sN7gvPgsuJqZI=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rImqwVWGqkU5Aje2yuJzDQgGfqxt4MGepJYmN0lDruoAQlnsOfaiA3cCrYpQuLLFn0owaz/8PANx+X4HEs94IAJqSc0/hpmZ63+rXYsB9PNIF5zGD8itNU/Blu1v2zvbcBUav3rNZj8TK6wy2KOCXvEAM2ZmEbKHwnfciPaQVd8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGZTCCBU2gAwIBAgIKImzoIQAAAAqEwTANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xODAzMTMxMjQxMzZaFw0yMTAzMTIxMjQxMzZa
+MIHoMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRgwFgYDVQQKEw9JQ09OU1RSVVlFIFMuQS4xLDAqBgNVBAsMI1NlcnZp
+Y2lvcyBDb21lcmNpYWxlcyBFbGVjdHLDs25pY29zMScwJQYDVQQDEx5MVUlTIE1BUkNFTE8gREUg
+UEVUUklTIFpBTkVUVEExMDAuBgkqhkiG9w0BCQEWIWZyYW5jaXNjby56YW1icmFub0BpY29uc3Ry
+dXllLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArImqwVWGqkU5Aje2yuJzDQgGfqxt
+4MGepJYmN0lDruoAQlnsOfaiA3cCrYpQuLLFn0owaz/8PANx+X4HEs94IAJqSc0/hpmZ63+rXYsB
+9PNIF5zGD8itNU/Blu1v2zvbcBUav3rNZj8TK6wy2KOCXvEAM2ZmEbKHwnfciPaQVd8CAwEAAaOC
+AqcwggKjMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYGa
+5xWGr+AVAgFkAgEEMB0GA1UdDgQWBBTMFS3IKu9cdLcmgMYey/9EnMl3ojALBgNVHQ8EBAMCBPAw
+HwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDov
+L2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAq
+BggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMGA1UdEQQcMBqgGAYI
+KwYBBAHBAQGgDBYKMDc1NDQwMzgtMzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgw
+LTUwggFNBgNVHSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDov
+L3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAAcwBpAGQAbwAg
+AHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwA
+LAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0
+AGkAZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0G
+CSqGSIb3DQEBBQUAA4IBAQBIU2nUo8U2fFXPp0X26Rh27/FeRxlQbi71SqVobn76TGtYKWORswMg
+E5M0d93C/WMdzDHAfwq1QUF3WYErjQGbgrRCsE7+moVKy0qzTlkrUPiIcOSBsXqx+dNJ5whtT0ns
+8W3TYeTB/zqmX/AGLSo1J3+E2R7G9SL90UypULHzJnPgKy3Wl1a/j+oPbqhsOFpiTq2bz954BIdD
+F+bqcOB7rmsiJJTDm6xpRBXyAAyiriYweOQL4s5MP1Hcue+aFE4yAtZ1EZdey3Qk8c7BWL5lPknJ
+Ay02zTNO0zGh8v/ZFHO1b8Hzs0cpa+N2J4T8IdNL7qtdVyKMyALhI3/enTkj
+</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>

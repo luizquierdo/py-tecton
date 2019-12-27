@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+	<Documento ID="DOCT33F24545600P8">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>24545600</Folio>
+				<FchEmis>2016-02-24</FchEmis>
+				<FchVenc>2016-02-24</FchVenc>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76134946-5</RUTEmisor>
+				<RznSoc>ADMIN. DE SUPERMERCADOS EXPRESS LIMITADA</RznSoc>
+				<GiroEmis>GRANDES ESTABLECIMIENTOS-VENTA DE ALIM.</GiroEmis>
+				<Acteco>521</Acteco>
+				<Sucursal>647</Sucursal>
+				<DirOrigen>RUTA F-30 E</DirOrigen>
+				<CmnaOrigen>MAITENCILLO</CmnaOrigen>
+				<CiudadOrigen>PUCHUNCAVI</CiudadOrigen>
+				<CdgVendedor>9</CdgVendedor>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>76407152-2</RUTRecep>
+				<CdgIntRecep>7640715202</CdgIntRecep>
+				<RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+				<GiroRecep>CONSTRUCCIONES</GiroRecep>
+				<DirRecep>ISIDORA GOYENECHEA 3356 41</DirRecep>
+				<CmnaRecep>LAS CONDES</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>5076</MntNeto>
+				<MntExe>0</MntExe>
+				<TasaIVA>19.0</TasaIVA>
+				<IVA>964</IVA>
+				<IVATerc>964</IVATerc>
+				<MntTotal>6040</MntTotal>
+				<VlrPagar>0</VlrPagar>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>07804619440058</VlrCodigo>
+			</CdgItem>
+			<NmbItem>ZAPALLO CAMO</NmbItem>
+			<DscItem>0000</DscItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>1336.0</PrcItem>
+			<MontoItem>1336</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>07809611702555</VlrCodigo>
+			</CdgItem>
+			<NmbItem>CHORIZO DE C</NmbItem>
+			<DscItem>0000</DscItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>3185.0</PrcItem>
+			<MontoItem>3185</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>3</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>EAN13</TpoCodigo>
+				<VlrCodigo>07802575004635</VlrCodigo>
+			</CdgItem>
+			<NmbItem>FID VTA TALL</NmbItem>
+			<DscItem>0000</DscItem>
+			<QtyItem>1.0</QtyItem>
+			<UnmdItem>Und</UnmdItem>
+			<PrcItem>555.0</PrcItem>
+			<MontoItem>555</MontoItem>
+		</Detalle>
+		<TED version="1.0"><DD><RE>76134946-5</RE><TD>33</TD><F>24545600</F><FE>2016-02-24</FE><RR>76407152-2</RR><RSR>HLI CONSTRUCCIONES SPA</RSR><MNT>6040</MNT><IT1>ZAPALLO CAMO</IT1><CAF version="1.0"><DA><RE>76134946-5</RE><RS>ADMINISTRADORA DE SUPERMERCADOS EXPRESS</RS><TD>33</TD><RNG><D>24009977</D><H>25009975</H></RNG><FA>2011-07-24</FA><RSAPK><M>27+KA5HKVNOYh16LHlRmDTKcHDHXECuFhQ0nlTDAfpfmnh3IopnOOv2/l1dNptEm/VNwYLGD/Ida51BHs7rsMQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">R6Rb+BRodPdDxqLt/wov735g9vIc7P/Zt0TLOJNeFuEYrsYaNCmnMRu7xVjBy9rAXc8cK2k6NDNL4S28Pf/KDQ==</FRMA></CAF><TSTED>2016-02-24T12:53:17</TSTED></DD><FRMT algoritmo="SHA1withRSA">QuGkRioMFt8fls+3V/5rrpZ5JdY2GDlx/iaz+QDDizLr7b9L5sVe6qbA3QQxP1FgNGBmP4EOgdDj
+AsFksC6j4Q==</FRMT></TED>
+		<TmstFirma>2016-02-24T12:53:17</TmstFirma>
+	</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#DOCT33F24545600P8"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>THK+tS4qxlhdXupUAohNbvceIm8=</DigestValue></Reference></SignedInfo><SignatureValue>2+GAhzNHFBPTeopRfeoFOrW5b/zaswfWQMbUuqL7VcOFRuTy9bnyT7WxEWiquuduXkhMVE0pE760
+hscT5kiILVLP8iNfLzmiwaij1jJqdmjHPDAVCIEJtNxli8S8HCUzK5B3faLatYDxIZDxiqcHWDAS
+LnSnhfp/1LeSPaWdV+ZI+NZlevOUlfV6DvQv8rEgCkNNCHfd6xMLiu1ar+Q+ojvHKIYKKQcGaXqF
+RBkNbpZj5lYKJb0CPnL3u3Qbfvn0FDF2KbUPJoJOs9P6ha5VpVmQ4ycAYdmGaHXLF3KCVjXD1093
+Xox0+VOV42VD0za4kC80sUjVGuz1OOmg5WuU4A==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5+i7U8aeMq7nzBhkYDGHm9Nze9gHwXYdspDt3bxMMXMM+iG3sE/xgPUkNojF9pAyg6zkyw7R2D/S
+RUT2SdQv7RgZo/dzMOMF4fn7ZFj9VGFgTG5GNhdmunPIR2FEdEdVNOMHBwXJnlXl5Jy0QowZEm/J
+x8x9GNDElikJgJ3WibDsfbCMapAdBcfZImWAaTDq5thjnRjV6h1qclXwm55pdWXm9ERnIQGK6czD
+Xc5m2rXC+ssFIlRyZY5yFFBQqv4rOm3y9NYRcOY0M9xb9vLLGvQrjE8K/XUwnOQ+90cQmmEniNbo
+GgHth9a9vEWJnmJkZfgVXnzOkY/PSLPfw+EYSw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGljCCBX6gAwIBAgIKJ/cLowAAAAABJDANBgkqhkiG9w0BAQUFADCB0DELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzESMBAGA1UE
+ChMJUEFQRVJMRVNTMSAwHgYDVQQLExdBdXRvcmlkYWQgQ2VydGlmaWNhZG9yYTEuMCwGA1UEAxMl
+UEFQRVJMRVNTIENBIEZJUk1BIEVMRUNUUk9OSUNBIFNJTVBMRTEpMCcGCSqGSIb3DQEJARYaY29t
+dW5pY2FjaW9uZXNAcGtpY2hpbGUuY2wwHhcNMTQwOTMwMTcxNDMzWhcNMTcwOTI5MTcxNDMzWjCB
+2zELMAkGA1UEBhMCQ0wxKjAoBgNVBAgMIVJFR0nDk04gTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TzERMA8GA1UEBxMIU0FOVElBR08xJTAjBgNVBAoTHFdhbE1hcnQgQ2hpbGUgQ29tZXJjaWFsIEx0
+ZGExFDASBgNVBAsTC1N1YiBHZXJlbnRlMSMwIQYDVQQDExpDQVJMT1MgU0VQVUxWRURBIEFMTUVO
+RFJBUzErMCkGCSqGSIb3DQEJARYcQ2FybG9zLlNlcHVsdmVkYUB3YWxtYXJ0LmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAOfou1PGnjKu58wYZGAxh5vTc3vYB8F2HbKQ7d28TDFz
+DPoht7BP8YD1JDaIxfaQMoOs5MsO0dg/0kVE9knUL+0YGaP3czDjBeH5+2RY/VRhYExuRjYXZrpz
+yEdhRHRHVTTjBwcFyZ5V5eSctEKMGRJvycfMfRjQxJYpCYCd1omw7H2wjGqQHQXH2SJlgGkw6ubY
+Y50Y1eodanJV8JueaXVl5vREZyEBiunMw13OZtq1wvrLBSJUcmWOchRQUKr+Kzpt8vTWEXDmNDPc
+W/byyxr0K4xPCv11MJzkPvdHEJphJ4jW6BoB7YfWvbxFiZ5iZGX4FV58zpGPz0iz38PhGEsCAwEA
+AaOCAmMwggJfMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILMzj6C+M0d2Ysego+FV4TOlTWB
+EIK+jX6GzI1IAgFkAgECMIIBhQYDVR0gBIIBfDCCAXgwggF0BggrBgEEAYLENzCCAWYwggFiBggr
+BgEFBQcCAjCCAVQeggFQAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQByAGEAIAB1AHMAbwAg
+AFQAcgBpAGIAdQB0AGEAcgBpAG8ALgAgAFAAUwBDACAAUABhAHAAZQByAGwAZQBzAHMAIABhAGMA
+cgBlAGQAaQB0AGEAZABvACAAcwBlAGcA+gBuACAAUgAuAEEALgAgAEUAeABlAG4AdABhACAATgC6
+ACAAMQA3ADIALAAgAGQAZQAgADMAMAAgAGQAZQAgAGUAbgBlAHIAbwAgAGQAZQAgADIAMAAxADMA
+LAAgAGQAZQAgAGwAYQAgAFMAdQBiAHMAZQBjAHIAZQB0AGEAcgDtAGEAIABkAGUAIABFAGMAbwBu
+AG8AbQDtAGEALAAgAHkAIABFAG0AcAByAGUAcwBhAHMAIABkAGUAIABNAGUAbgBvAHIAIABUAGEA
+bQBhAPEAbwAuMB0GA1UdDgQWBBSfuSKPlUOR+rn+7uaGqsOj60R4MTALBgNVHQ8EBAMCBPAwHwYD
+VR0jBBgwFoAUlOSvN2VmXelnzD68nW9xGsuMi+wwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgox
+MjQ2MTczOC0zMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MTUzMTAtMDANBgkqhkiG9w0B
+AQUFAAOCAQEAZa2WTuX3yzRyIcYAj3AUv3xN6A//22kx+wb1OjzLot8VhkyY2DDOSLrE4Zk3A1uJ
+fisZO9Qa+oKbA6++TYqWR57JPp2afOsVuSkOe0yukjimvHatgt4idYGwCCfhMJIJTLtIYBz6USjL
+WULtEO2mTFjoAn6t/PufAVzXPHMziO/MDSDFpeG6n2gcwCow2gNThDKnsOJyjaSUNoa9dFE87E8B
++OdIKMDv+UmnrmCnGY+f37U8fs3NPXX38SZoq8sDinlrARk+NrjzEAA6FStkVvkSvYuj4SenBys3
+ETNSfwAouzJ2rVc9kPsYBsVrAH4Rc+WYxdkzcruwCxeeMjAB6g==</X509Certificate></X509Data></KeyInfo></Signature>
+	
+
+</DTE>

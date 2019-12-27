@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+<SetDTE ID="E001738868">
+<Caratula version="1.0">
+<RutEmisor>84708300-K</RutEmisor>
+<RutEnvia>12860541-K</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2008-02-29</FchResol>
+<NroResol>27</NroResol>
+<TmstFirmaEnv>2019-01-08T18:23:36</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>52</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0">
+<Documento ID="E000000001T052F0000632801">
+<Encabezado>
+<IdDoc>
+<TipoDTE>52</TipoDTE>
+<Folio>632801</Folio>
+<FchEmis>2019-01-08</FchEmis>
+<TipoDespacho>2</TipoDespacho>
+<IndTraslado>1</IndTraslado>
+</IdDoc>
+<Emisor>
+<RUTEmisor>84708300-K</RUTEmisor>
+<RznSoc>Hilti Chile Ltda</RznSoc>
+<GiroEmis>Vta por Mayor de Maq. Herramientas y Materiales N.C.P.</GiroEmis>
+<Acteco>515009</Acteco>
+<DirOrigen>Apoquindo 4501 Piso 13</DirOrigen>
+<CmnaOrigen>Las Condes</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+<CdgVendedor>Rivera</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<CdgIntRecep>0025205058</CdgIntRecep>
+<RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+<GiroRecep>OBRAS MENORES EN LA CONSTRUCCION</GiroRecep>
+<DirRecep>ALCANTARA 360</DirRecep>
+<CmnaRecep>LAS CONDES</CmnaRecep>
+<CiudadRecep>SANTIAGO</CiudadRecep>
+</Receptor>
+<Transporte>
+<DirDest>NUEVA DE LYON 0124 OF 601</DirDest>
+<CmnaDest>PROVIDENCIA</CmnaDest>
+<CiudadDest>SANTIAGO</CiudadDest>
+</Transporte>
+<Totales>
+<MntNeto>130472</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19</TasaIVA>
+<IVA>24790</IVA>
+<MntTotal>155262</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>2114681</VlrCodigo>
+</CdgItem>
+<NmbItem>Mart. rompedor TE 1000-AVR 230V s/cable/</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<MontoItem>0</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>372017</VlrCodigo>
+</CdgItem>
+<NmbItem>Visual/function check</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<MontoItem>0</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>3</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>2093942</VlrCodigo>
+</CdgItem>
+<NmbItem>Juego de juntas TE 1000_02</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>23200</PrcItem>
+<MontoItem>23200</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>4</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>3124023</VlrCodigo>
+</CdgItem>
+<NmbItem>LUBRICACION Y LIMPIEZA</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>6610</PrcItem>
+<MontoItem>6610</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>5</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>203086</VlrCodigo>
+</CdgItem>
+<NmbItem>Hilti Grease 50ml</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>7950</PrcItem>
+<MontoItem>7950</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>6</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>2166577</VlrCodigo>
+</CdgItem>
+<NmbItem>NFC Label 25mm x 25mm robust</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>1</PrcItem>
+<MontoItem>1</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>7</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>2078527</VlrCodigo>
+</CdgItem>
+<NmbItem>Cable de red TE 1000-AVR 220V 5m</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>56520</PrcItem>
+<MontoItem>56520</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>8</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>330696</VlrCodigo>
+</CdgItem>
+<NmbItem>Junta t¢rica 75X2.5</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>386</PrcItem>
+<MontoItem>386</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>9</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>330930</VlrCodigo>
+</CdgItem>
+<NmbItem>Junta t¢rica 56X2</NmbItem>
+<QtyItem>2</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>1140</PrcItem>
+<MontoItem>2280</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>10</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>333718</VlrCodigo>
+</CdgItem>
+<NmbItem>Mano de obra martillos rompedores</NmbItem>
+<QtyItem>3</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>6175</PrcItem>
+<MontoItem>18525</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>11</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>413689</VlrCodigo>
+</CdgItem>
+<NmbItem>Pantalla guardapolvo 2T embal.</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>PCE</UnmdItem>
+<PrcItem>6500</PrcItem>
+<MontoItem>6500</MontoItem>
+</Detalle>
+<DscRcgGlobal>
+<NroLinDR>1</NroLinDR>
+<TpoMov>R</TpoMov>
+<GlosaDR>Flete</GlosaDR>
+<TpoValor>$</TpoValor>
+<ValorDR>8500</ValorDR>
+</DscRcgGlobal>
+<TED version="1.0"><DD><RE>84708300-K</RE><TD>52</TD><F>632801</F><FE>2019-01-08</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>155262</MNT><IT1>Mart. rompedor TE 1000-AVR 230V s/cable/</IT1><CAF version="1.0"><DA><RE>84708300-K</RE><RS>HILTI CHILE LIMITADA</RS><TD>52</TD><RNG><D>623501</D><H>723500</H></RNG><FA>2018-10-31</FA><RSAPK><M>32JI8ouGVEYP9ab4qK3V/L/FAfcC/n0zXe+SAguVJrzKP4WTtCIWWGziGI7yde2wljd0IrO8ivwURUmXtelg7w==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">OyK5j+U9URep5CI42JQ1zszw5IIWpgo+D4zx5Nb1IG7B8fNLVEdsI047kVVh7uYU/h8SiAgvvA8v/PK84wrlxQ==</FRMA></CAF><TSTED>2019-01-08T18:22:43</TSTED></DD><FRMT algoritmo="SHA1withRSA">Y+NY3bSAF0vwTToussVpJ1bFB4aI3GE+bIryo3U2Py2ukuUzCtz/spoQ14JKU/QMe3n9whF/U7Cq+xXHK7bpww==</FRMT></TED><TmstFirma>2019-01-08T18:22:40</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000001T052F0000632801">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>hxs15yZDr18Cfd7ziIgBJImPrvo=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>H2g+Y1EBYzz2cDvxoLJQsZlVF/sc/VsWHWX+fkH1QC4RVfXmT5w/aUGvjMK+IWiJuoYQ/flKKkDAnbTE1pmp7PHmj5m9P5nmyzVX3n3x3i9mQ44XIq7SpkJMNRZ9SKE0adnBDUrnMbmuq2xzpLQMzesYyEvnKToPa8+f1B7MH6yB/28D75qKyxcnAv9ENuW03ioDvgGhrEsnVbuvUV/Rs+XucOHAOyjomSUUiltWeiS5TyaGUx+5wBipMqigYodXfbCHMrAvmHbw/FTAmgiLSRV+0HV50gAfaI/xa2LT94W5LCd1bQ0GX2ol4tCPFYcg6SsXkdOrShgnHhH7jrr+Mw==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+tr/d03Zial+KP3P4wIZOl5uDsRTJKUBgL9u5BoKjmcUnwOgXmzrRMJFGnvqt4hBG
+tA/oaAJnEeEq+mgUGM67JpJ5t3d6bcIIOlFrweuHj9FaW3OAmWmCiJiu1SxiB92r
++gPG1Fj13QcEQ/stWkx5NdZl3aGt7F6lWPuGZfR3fyAUiTQN6YGnHs0/JqdtEDI/
+7zzItb0/ZExqefeVmQ5xt6LP35RfaSpXaV4JvQVDSISpx3HmHptxnoxwEchNtMrR
+be7xNgFFYhslLCCmG6atOq3uXL39OjD8iQkMELAyjNrMHDofZ6GB7MiqIM52qPEL
+4MVqW8M4KvQJZAXeoyHLzQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGUDCCBTigAwIBAgIIbuhlF321g50wDQYJKoZIhvcNAQELBQAwga8xCzAJBgNV
+BAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5MDcGA1UECwwwVGVybXMgb2Yg
+dXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJkb3RlcmNlcm9zMSswKQYDVQQD
+DCJFLVNpZ24gQ2xhc3MgMiBGaXJtYSBUcmlidXRhcmlhIENBMSIwIAYJKoZIhvcN
+AQkBFhNlLXNpZ25AZXNpZ24tbGEuY29tMB4XDTE4MTAyNDE4NTQwMFoXDTIxMTAy
+MzE4NTQwMFowga8xCzAJBgNVBAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5
+MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJk
+b3RlcmNlcm9zMSgwJgYDVQQDDB9DQVJPTCBBTEVKQU5EUkEgR0FMVkVaIENBUlJB
+U0NPMSUwIwYJKoZIhvcNAQkBFhZjYXJvbC5nYWx2ZXpAaGlsdGkuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtr/d03Zial+KP3P4wIZOl5uDsRTJ
+KUBgL9u5BoKjmcUnwOgXmzrRMJFGnvqt4hBGtA/oaAJnEeEq+mgUGM67JpJ5t3d6
+bcIIOlFrweuHj9FaW3OAmWmCiJiu1SxiB92r+gPG1Fj13QcEQ/stWkx5NdZl3aGt
+7F6lWPuGZfR3fyAUiTQN6YGnHs0/JqdtEDI/7zzItb0/ZExqefeVmQ5xt6LP35Rf
+aSpXaV4JvQVDSISpx3HmHptxnoxwEchNtMrRbe7xNgFFYhslLCCmG6atOq3uXL39
+OjD8iQkMELAyjNrMHDofZ6GB7MiqIM52qPEL4MVqW8M4KvQJZAXeoyHLzQIDAQAB
+o4ICbDCCAmgwgYAGCCsGAQUFBwEBBHQwcjBKBggrBgEFBQcwAoY+aHR0cDovL3Br
+aS5lc2lnbi1sYS5jb20vY2FjZXJ0cy9wa2lDbGFzczJGaXJtYVRyaWJ1dGFyaWFD
+QS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmVzaWduLWxhLmNvbTAdBgNV
+HQ4EFgQURBTNZNcPlUQbjibHgsloRlkthc8wDAYDVR0TAQH/BAIwADAfBgNVHSME
+GDAWgBT5SvrCx27C5xKcV0U1hBptKOlKpDCByAYDVR0gBIHAMIG9MIG6BgwrBgEE
+AYLKagEEAQIwgakwfgYIKwYBBQUHAgIwch5wAEMAZQByAHQAaQBmAGkAYwBhAGQA
+bwAgAHAAYQByAGEAIAB1AHMAbwAgAFQAcgBpAGIAdQB0AGEAcgBpAG8ALAAgAEMA
+bwBtAGUAcgBjAGkAbwAsACAAUABhAGcAbwBzACAAeQAgAE8AdAByAG8AczAnBggr
+BgEFBQcCARYbaHR0cDovL3d3dy5lc2lnbi1sYS5jb20vY3BzMFEGA1UdHwRKMEgw
+RqBEoEKGQGh0dHA6Ly9wa2kuZXNpZ24tbGEuY29tL2NybC9wa2lDbGFzczJGaXJt
+YVRyaWJ1dGFyaWEvZW5kdXNlci5jcmwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMCBggrBgEFBQcDBDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwW
+CjEyODYwNTQxLUswIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5OTU1MTc0MC1L
+MA0GCSqGSIb3DQEBCwUAA4IBAQABcYOLDL1Cp3Kzno/ZZrBjw46i38GRf5plsWFC
+UWTq5w1baFyVOLzv7uDWqyyIcQ1EQeJLzCpLfHbB21oIJizxrHZ5uj7nqQOC5LOp
+pbdhNhMcdZB6qwBWDsPqF1BzqUd8eL5ee1Bu92R1vztz97ybm8yDkSrwP5ebqOcr
+PI87Fam6jSMktEvctRhw2aWqCRbv8wU7/ziPOHpmnKrQCbSu88nGp1BjLtlkMstU
+0lcK1h8nuTigBiQJHnF8QLzEIm1lujEO9ZpoKbU7scu+eyUZkciViL0FHvDZHjh1
+Sv22lC+9wSO4fHcPD2GWnN79clN3ib4IuwgBSMdnAk355Dj1
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+</SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E001738868">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>XRcVZESkxAuqRMSBSfycth/hkG0=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>cgjTmKcBnVDgptzdqPbBsJtHgcjyJFm8fNIuWOxDuCAGBG/Wy+GKZkmHlOVspxnS3WwgiOyZvpNBpyObmIXtvsu+Ey8H55bWQfddeJMmQIup0/PT4oIJ6OI3Si3+VQs+Hz89IeyLUuLvU8fyEUZvo8lZJSlksyqW9gZOU8wmPxuLgp0FBulLwtWaWXnvLgj7Z7OH7c4grIWIp/2ZEUkcCLTPIMIeabj6eYRVP4f4SDmUpqdoCKhy8e9NigaC3Ur3zzv6e3YMz3FgXayrw5ewKjE/IgGh3ucUNpK43wYhFLQjdWuHUfO35SR8DXZU7+gne1x574TPsIxxs1M868/Q0Q==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+tr/d03Zial+KP3P4wIZOl5uDsRTJKUBgL9u5BoKjmcUnwOgXmzrRMJFGnvqt4hBG
+tA/oaAJnEeEq+mgUGM67JpJ5t3d6bcIIOlFrweuHj9FaW3OAmWmCiJiu1SxiB92r
++gPG1Fj13QcEQ/stWkx5NdZl3aGt7F6lWPuGZfR3fyAUiTQN6YGnHs0/JqdtEDI/
+7zzItb0/ZExqefeVmQ5xt6LP35RfaSpXaV4JvQVDSISpx3HmHptxnoxwEchNtMrR
+be7xNgFFYhslLCCmG6atOq3uXL39OjD8iQkMELAyjNrMHDofZ6GB7MiqIM52qPEL
+4MVqW8M4KvQJZAXeoyHLzQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGUDCCBTigAwIBAgIIbuhlF321g50wDQYJKoZIhvcNAQELBQAwga8xCzAJBgNV
+BAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5MDcGA1UECwwwVGVybXMgb2Yg
+dXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJkb3RlcmNlcm9zMSswKQYDVQQD
+DCJFLVNpZ24gQ2xhc3MgMiBGaXJtYSBUcmlidXRhcmlhIENBMSIwIAYJKoZIhvcN
+AQkBFhNlLXNpZ25AZXNpZ24tbGEuY29tMB4XDTE4MTAyNDE4NTQwMFoXDTIxMTAy
+MzE4NTQwMFowga8xCzAJBgNVBAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5
+MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJk
+b3RlcmNlcm9zMSgwJgYDVQQDDB9DQVJPTCBBTEVKQU5EUkEgR0FMVkVaIENBUlJB
+U0NPMSUwIwYJKoZIhvcNAQkBFhZjYXJvbC5nYWx2ZXpAaGlsdGkuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtr/d03Zial+KP3P4wIZOl5uDsRTJ
+KUBgL9u5BoKjmcUnwOgXmzrRMJFGnvqt4hBGtA/oaAJnEeEq+mgUGM67JpJ5t3d6
+bcIIOlFrweuHj9FaW3OAmWmCiJiu1SxiB92r+gPG1Fj13QcEQ/stWkx5NdZl3aGt
+7F6lWPuGZfR3fyAUiTQN6YGnHs0/JqdtEDI/7zzItb0/ZExqefeVmQ5xt6LP35Rf
+aSpXaV4JvQVDSISpx3HmHptxnoxwEchNtMrRbe7xNgFFYhslLCCmG6atOq3uXL39
+OjD8iQkMELAyjNrMHDofZ6GB7MiqIM52qPEL4MVqW8M4KvQJZAXeoyHLzQIDAQAB
+o4ICbDCCAmgwgYAGCCsGAQUFBwEBBHQwcjBKBggrBgEFBQcwAoY+aHR0cDovL3Br
+aS5lc2lnbi1sYS5jb20vY2FjZXJ0cy9wa2lDbGFzczJGaXJtYVRyaWJ1dGFyaWFD
+QS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmVzaWduLWxhLmNvbTAdBgNV
+HQ4EFgQURBTNZNcPlUQbjibHgsloRlkthc8wDAYDVR0TAQH/BAIwADAfBgNVHSME
+GDAWgBT5SvrCx27C5xKcV0U1hBptKOlKpDCByAYDVR0gBIHAMIG9MIG6BgwrBgEE
+AYLKagEEAQIwgakwfgYIKwYBBQUHAgIwch5wAEMAZQByAHQAaQBmAGkAYwBhAGQA
+bwAgAHAAYQByAGEAIAB1AHMAbwAgAFQAcgBpAGIAdQB0AGEAcgBpAG8ALAAgAEMA
+bwBtAGUAcgBjAGkAbwAsACAAUABhAGcAbwBzACAAeQAgAE8AdAByAG8AczAnBggr
+BgEFBQcCARYbaHR0cDovL3d3dy5lc2lnbi1sYS5jb20vY3BzMFEGA1UdHwRKMEgw
+RqBEoEKGQGh0dHA6Ly9wa2kuZXNpZ24tbGEuY29tL2NybC9wa2lDbGFzczJGaXJt
+YVRyaWJ1dGFyaWEvZW5kdXNlci5jcmwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMCBggrBgEFBQcDBDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwW
+CjEyODYwNTQxLUswIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5OTU1MTc0MC1L
+MA0GCSqGSIb3DQEBCwUAA4IBAQABcYOLDL1Cp3Kzno/ZZrBjw46i38GRf5plsWFC
+UWTq5w1baFyVOLzv7uDWqyyIcQ1EQeJLzCpLfHbB21oIJizxrHZ5uj7nqQOC5LOp
+pbdhNhMcdZB6qwBWDsPqF1BzqUd8eL5ee1Bu92R1vztz97ybm8yDkSrwP5ebqOcr
+PI87Fam6jSMktEvctRhw2aWqCRbv8wU7/ziPOHpmnKrQCbSu88nGp1BjLtlkMstU
+0lcK1h8nuTigBiQJHnF8QLzEIm1lujEO9ZpoKbU7scu+eyUZkciViL0FHvDZHjh1
+Sv22lC+9wSO4fHcPD2GWnN79clN3ib4IuwgBSMdnAk355Dj1
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>

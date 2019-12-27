@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="SetDoc">
+ <Caratula version="1.0">
+  <RutEmisor>95002000-8</RutEmisor>
+  <RutEnvia>7811775-3</RutEnvia>
+  <RutReceptor>76407152-2</RutReceptor>
+  <FchResol>2013-11-29</FchResol>
+  <NroResol>100</NroResol>
+  <TmstFirmaEnv>2019-01-14T10:44:14</TmstFirmaEnv>
+  <SubTotDTE>
+    <TpoDTE>52</TpoDTE>
+    <NroDTE>1</NroDTE>
+  </SubTotDTE>
+ </Caratula>
+<DTE version="1.0">        <Documento ID="F555538T52">
+            <Encabezado>
+                <IdDoc>
+                   <TipoDTE>52</TipoDTE>
+                   <Folio>555538</Folio>
+                   <FchEmis>2019-01-14</FchEmis>
+                   <TipoDespacho>2</TipoDespacho>
+                   <IndTraslado>1</IndTraslado>
+                </IdDoc>
+                <Emisor>
+                   <RUTEmisor>95002000-8</RUTEmisor>
+                   <RznSoc>PINA HERMANOS S.A.</RznSoc>
+                   <GiroEmis>FERRETERIA</GiroEmis>
+                   <Acteco>514320</Acteco>
+                   <DirOrigen>10 DE JULIO 1192</DirOrigen>
+                   <CmnaOrigen>SANTIAGO</CmnaOrigen>
+                   <CiudadOrigen>SANTIAGO</CiudadOrigen>
+                </Emisor>
+                <Receptor>
+                   <RUTRecep>76407152-2</RUTRecep>
+                   <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+                   <GiroRecep>CONSTRUCCIONES</GiroRecep>      
+                   <DirRecep>AVDA PROVIDENCIA 2330 63</DirRecep>     
+                   <CmnaRecep>SANTIAGO</CmnaRecep>       
+                   <CiudadRecep>SANTIAGO</CiudadRecep>     
+                </Receptor>
+                <Totales>
+                   <MntNeto>138768</MntNeto>
+                   <TasaIVA>19</TasaIVA>
+                   <IVA>26366</IVA>
+                   <MntTotal>165134</MntTotal>
+                </Totales>
+            </Encabezado>
+            <Detalle>
+                <NroLinDet>1</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>1CIN100470</VlrCodigo>
+                </CdgItem>
+                <NmbItem>CINTA PINTA FACIL (24mm) 1  MEDIANA</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>14</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>307</PrcItem>
+                <MontoItem>4298</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>2</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>1CIN100471</VlrCodigo>
+                </CdgItem>
+                <NmbItem>CINTA PINTA FACIL (50mm) 2  GRANDE</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>30</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>679</PrcItem>
+                <MontoItem>20370</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>3</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>4ESM254751</VlrCodigo>
+                </CdgItem>
+                <NmbItem>ESMALTE ACRILICO SPRAY ROJO PASSOL 235 grs</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>12</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>1232</PrcItem>
+                <MontoItem>14784</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>4</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>4ESM254751</VlrCodigo>
+                </CdgItem>
+                <NmbItem>ESMALTE ACRILICO SPRAY ROJO PASSOL 235 grs</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>12</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>1232</PrcItem>
+                <MontoItem>14784</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>5</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>4ESM254755</VlrCodigo>
+                </CdgItem>
+                <NmbItem>ESMALTE ACRILICO SPRAY AMARILLO PASSOL 235g</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>12</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>1232</PrcItem>
+                <MontoItem>14784</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>6</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>4LIE397190</VlrCodigo>
+                </CdgItem>
+                <NmbItem>LIENZA ALGODON  2.0 MM  ( 320 )</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>200</QtyItem>
+                <UnmdItem>MT</UnmdItem>
+                <PrcItem>90</PrcItem>
+                <MontoItem>18000</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>7</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>3HUI231480</VlrCodigo>
+                </CdgItem>
+                <NmbItem>HUINCHA STANLEY 8.0 MTS 33-428 METALICA</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>2</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>11224</PrcItem>
+                <MontoItem>22448</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>8</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>4CAL396040</VlrCodigo>
+                </CdgItem>
+                <NmbItem>CAL PINTACAL (Saco)</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>10</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>2930</PrcItem>
+                <MontoItem>29300</MontoItem>
+            </Detalle>
+<TED version="1.0"><DD><RE>95002000-8</RE><TD>52</TD><F>555538</F><FE>2019-01-14</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>165134</MNT><IT1>CINTA PINTA FACIL (24mm) 1  MEDIANA</IT1><CAF version="1.0"><DA><RE>95002000-8</RE><RS>PINA HERMANOS SA</RS><TD>52</TD><RNG><D>555001</D><H>562000</H></RNG><FA>2018-12-29</FA><RSAPK><M>53CBTqZuT5WNLm8R3iavLcmDN2qHcc5KuER4KPCqpaRMDfgZsDyG+cwJrTYVTiR24ViH+6kt3SZ//e+2D1HCmw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">OBGWchsQq8JRr4nHEbRi7oBe+BIM/jPJ3Kbe3PeEqd0uF0nNN0/8Po1xfACMgym6TKzH/YAshY8lYoJa6dUU6w==</FRMA></CAF><TSTED>2019-01-14T10:54:07</TSTED></DD><FRMT algoritmo="SHA1withRSA">m69arQ0mZl/ADzalI+Qelot0GJ3OrsU99aCI6yBKPKSQ0P9EPq8+pIeQfTHXgt+C
+zec5XRJdOsLyKs20fF9hHA==</FRMT></TED>
+<TmstFirma>2019-01-14T10:54:08</TmstFirma>
+        </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#F555538T52">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>g40lR9Oyk/kC9QHVwuk706fFcoU=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+Fs/D8YA2owfZpZKtak5a+E5NNDbGF7PEOnbeU97XtTi+BQC4KvT8gH9ysFvrLTe87jhBA+dddaui
+f1qYQqfbpeJ/Di+AKsIO2BqktAnVnn+2EIoGQL49a6IIUSeVJ5f9UjSPykJxlZahRvtZKPAohOsg
+kOe7Tcsv8ocFzXdb7qM=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+u3TEBPAMy5X47fU5sgoh0fczhbbv71s7yc8jA3RYON6RAtj48/QgoclIQqF3aTw79mEcEJdBU7bA
+NUw82mWup9ayBuOOQ+WmT7lr0BIEQ6KoQ1yIPsRkt+c3q4XRF0DkO2L0VbOlQg16QkLRA5gQZN2D
+0RCv2yQc63Sbl0mX4uc=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTjCCBTagAwIBAgIKJJxDZgAAAAUtUTANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNjA4MzExMjI0MjlaFw0xOTA4MzExMjI0Mjla
+MIHRMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRowGAYDVQQKDBFQacOxYSBIZXJtYW5vcyBTQTEkMCIGA1UECwwbTWF0
+ZXJpYWxlcyBkZSBDb25zdHJ1Y2Npw7NuMSswKQYDVQQDDCJSYXVsIEFudG9uaW8gUGnDsWEgQWVk
+byBQacOxYSBBZWRvMRswGQYJKoZIhvcNAQkBFgxycGluYUBtdHMuY2wwgZ8wDQYJKoZIhvcNAQEB
+BQADgY0AMIGJAoGBALt0xATwDMuV+O31ObIKIdH3M4W27+9bO8nPIwN0WDjekQLY+PP0IKHJSEKh
+d2k8O/ZhHBCXQVO2wDVMPNplrqfWsgbjjkPlpk+5a9ASBEOiqENciD7EZLfnN6uF0RdA5Dti9FWz
+pUINekJC0QOYEGTdg9EQr9skHOt0m5dJl+LnAgMBAAGjggKnMIICozA9BgkrBgEEAYI3FQcEMDAu
+BiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBmucVhq/gFQIBZAIBBDAdBgNVHQ4EFgQU
+6zJKWcE9AzfIAc774iakD66gN50wCwYDVR0PBAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3N
+MA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNl
+cnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA3ODExNzc1LTMw
+IwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8
+BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBh
+ACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4A
+IABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8AIABo
+AGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIA
+YQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEADooQ0plM
+ldeA984iHSEiHcf0H9sCShtMdjNRyJFrpV0ftrUHM8CKJsb2dFFaBLdpR7NM7yRlb+2Vsn5kdVI0
+EePdi6yIUqJuDhw37ouD3wwA28/7ILjYUWG7KIiphbCv+hXp0JBQZDhXKL4D6lWIoZ9tdMeyvpi6
+vS5lhZKFEzaf06QvaH1SJbonTkeDkC5kO3Wa1Br71jvhrqN3CA2/90szgmu7ynIZIVyKqL7oPuSt
+2UPK47dIjcsJ8a01CrV+cX6NNgSuV5KHpXO7e0rEv1j8YOPHlaxyd0h2K0kJCy+WEEbOlAQSmcae
+5whDSPaFrsLGJgy4h2/Hg9Vrvk1deg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#SetDoc">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>R2Gbkst+4t3FIHVjdPYWuOhh5GY=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+P1z7gIbQotp9p5PWtazvg7aiIPrKLjV2QzNQe7Mv7hBefRRQxkBqj6Qghiog+u1g2mI/wdPme7zM
+OIJgAifZWlmIGCUVLKV/dRHoM27iPxnvgFcdTOuDdnluwzhvl0Sx+BEdaCtHRu6irl1ezDMp5d5r
+qfmBa+qXUW8QFWKC0g0=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+u3TEBPAMy5X47fU5sgoh0fczhbbv71s7yc8jA3RYON6RAtj48/QgoclIQqF3aTw79mEcEJdBU7bA
+NUw82mWup9ayBuOOQ+WmT7lr0BIEQ6KoQ1yIPsRkt+c3q4XRF0DkO2L0VbOlQg16QkLRA5gQZN2D
+0RCv2yQc63Sbl0mX4uc=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTjCCBTagAwIBAgIKJJxDZgAAAAUtUTANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNjA4MzExMjI0MjlaFw0xOTA4MzExMjI0Mjla
+MIHRMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRowGAYDVQQKDBFQacOxYSBIZXJtYW5vcyBTQTEkMCIGA1UECwwbTWF0
+ZXJpYWxlcyBkZSBDb25zdHJ1Y2Npw7NuMSswKQYDVQQDDCJSYXVsIEFudG9uaW8gUGnDsWEgQWVk
+byBQacOxYSBBZWRvMRswGQYJKoZIhvcNAQkBFgxycGluYUBtdHMuY2wwgZ8wDQYJKoZIhvcNAQEB
+BQADgY0AMIGJAoGBALt0xATwDMuV+O31ObIKIdH3M4W27+9bO8nPIwN0WDjekQLY+PP0IKHJSEKh
+d2k8O/ZhHBCXQVO2wDVMPNplrqfWsgbjjkPlpk+5a9ASBEOiqENciD7EZLfnN6uF0RdA5Dti9FWz
+pUINekJC0QOYEGTdg9EQr9skHOt0m5dJl+LnAgMBAAGjggKnMIICozA9BgkrBgEEAYI3FQcEMDAu
+BiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBmucVhq/gFQIBZAIBBDAdBgNVHQ4EFgQU
+6zJKWcE9AzfIAc774iakD66gN50wCwYDVR0PBAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3N
+MA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNl
+cnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA3ODExNzc1LTMw
+IwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8
+BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBh
+ACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4A
+IABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8AIABo
+AGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIA
+YQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEADooQ0plM
+ldeA984iHSEiHcf0H9sCShtMdjNRyJFrpV0ftrUHM8CKJsb2dFFaBLdpR7NM7yRlb+2Vsn5kdVI0
+EePdi6yIUqJuDhw37ouD3wwA28/7ILjYUWG7KIiphbCv+hXp0JBQZDhXKL4D6lWIoZ9tdMeyvpi6
+vS5lhZKFEzaf06QvaH1SJbonTkeDkC5kO3Wa1Br71jvhrqN3CA2/90szgmu7ynIZIVyKqL7oPuSt
+2UPK47dIjcsJ8a01CrV+cX6NNgSuV5KHpXO7e0rEv1j8YOPHlaxyd0h2K0kJCy+WEEbOlAQSmcae
+5whDSPaFrsLGJgy4h2/Hg9Vrvk1deg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>

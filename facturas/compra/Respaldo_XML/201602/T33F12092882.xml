@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F12092882">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>12092882</Folio>
+            <FchEmis>2016-02-03</FchEmis>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76568660-1</RUTEmisor>
+            <RznSoc>EASY RETAIL S A</RznSoc>
+            <GiroEmis>Comercial</GiroEmis>
+            <Acteco>521300</Acteco>
+            <DirOrigen>Av. Kennedy 9001, Piso 6</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+            <CdgVendedor>18044992</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCIONES</GiroRecep>
+            <DirRecep>ISIDORA GOYENECHEA 3356 OF 41</DirRecep>
+            <CmnaRecep>LAS CONDES</CmnaRecep>
+            <DirPostal/>
+            <CmnaPostal/>
+          </Receptor>
+          <Totales>
+            <MntNeto>101841</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>19350</IVA>
+            <MntTotal>121191</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>118787</VlrCodigo>
+          </CdgItem>
+          <NmbItem>GRAV SACO 40KG APP</NmbItem>
+          <QtyItem>15.00</QtyItem>
+          <PrcItem>722.689076</PrcItem>
+          <MontoItem>10840</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>162090</VlrCodigo>
+          </CdgItem>
+          <NmbItem>BEKRON 25 KG POLVO</NmbItem>
+          <QtyItem>2.00</QtyItem>
+          <PrcItem>1806.722689</PrcItem>
+          <MontoItem>3613</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>3</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>560566</VlrCodigo>
+          </CdgItem>
+          <NmbItem>CR 3X1 0 NJO</NmbItem>
+          <QtyItem>30.00</QtyItem>
+          <PrcItem>563.025210</PrcItem>
+          <MontoItem>16891</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>4</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780737000794</VlrCodigo>
+          </CdgItem>
+          <NmbItem>TOMA TRIPLE 2P T 1</NmbItem>
+          <QtyItem>1.00</QtyItem>
+          <PrcItem>2092.436975</PrcItem>
+          <MontoItem>2092</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>5</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780737000362</VlrCodigo>
+          </CdgItem>
+          <NmbItem>ENC MAC3P 10A BLAN</NmbItem>
+          <QtyItem>1.00</QtyItem>
+          <PrcItem>1252.100840</PrcItem>
+          <MontoItem>1252</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>6</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780985000525</VlrCodigo>
+          </CdgItem>
+          <NmbItem>CAJA UNIVERSAL SOB</NmbItem>
+          <QtyItem>1.00</QtyItem>
+          <PrcItem>1042.016807</PrcItem>
+          <MontoItem>1042</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>7</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617950033</VlrCodigo>
+          </CdgItem>
+          <NmbItem>ADHESIVO POTE 250</NmbItem>
+          <QtyItem>6.00</QtyItem>
+          <PrcItem>1705.882353</PrcItem>
+          <MontoItem>10235</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>8</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780982420409</VlrCodigo>
+          </CdgItem>
+          <NmbItem>LIJA METAL G 100</NmbItem>
+          <QtyItem>4.00</QtyItem>
+          <PrcItem>302.521008</PrcItem>
+          <MontoItem>1210</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>9</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617951370</VlrCodigo>
+          </CdgItem>
+          <NmbItem>TUBO 40MMX1MT</NmbItem>
+          <QtyItem>5.00</QtyItem>
+          <PrcItem>831.932773</PrcItem>
+          <MontoItem>4160</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>10</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780550201050</VlrCodigo>
+          </CdgItem>
+          <NmbItem>TUBO 50MMX1MT</NmbItem>
+          <QtyItem>1.00</QtyItem>
+          <PrcItem>1000.000000</PrcItem>
+          <MontoItem>1000</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>11</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780550201110</VlrCodigo>
+          </CdgItem>
+          <NmbItem>TUBO 110MMX 1MT</NmbItem>
+          <QtyItem>6.00</QtyItem>
+          <PrcItem>1263.025210</PrcItem>
+          <MontoItem>7578</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>12</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780550201075</VlrCodigo>
+          </CdgItem>
+          <NmbItem>TUBO 75MMX1MT</NmbItem>
+          <QtyItem>2.00</QtyItem>
+          <PrcItem>905.882353</PrcItem>
+          <MontoItem>1812</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>13</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617920438</VlrCodigo>
+          </CdgItem>
+          <NmbItem>COPLA GRI SOLD 75</NmbItem>
+          <QtyItem>2.00</QtyItem>
+          <PrcItem>386.554622</PrcItem>
+          <MontoItem>773</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>14</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617920674</VlrCodigo>
+          </CdgItem>
+          <NmbItem>VEE SA GRIS 110X50</NmbItem>
+          <QtyItem>6.00</QtyItem>
+          <PrcItem>1672.268908</PrcItem>
+          <MontoItem>10034</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>15</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617920449</VlrCodigo>
+          </CdgItem>
+          <NmbItem>CODO 87 5  SAN 75</NmbItem>
+          <QtyItem>2.00</QtyItem>
+          <PrcItem>470.588235</PrcItem>
+          <MontoItem>941</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>16</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780550240830</VlrCodigo>
+          </CdgItem>
+          <NmbItem>VEE SA GRIS 110X40</NmbItem>
+          <QtyItem>5.00</QtyItem>
+          <PrcItem>1420.168067</PrcItem>
+          <MontoItem>7101</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>17</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780550240881</VlrCodigo>
+          </CdgItem>
+          <NmbItem>VEE GRIS 110X110</NmbItem>
+          <QtyItem>4.00</QtyItem>
+          <PrcItem>2394.957983</PrcItem>
+          <MontoItem>9580</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>18</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617920453</VlrCodigo>
+          </CdgItem>
+          <NmbItem>REDUCCION 110X75</NmbItem>
+          <QtyItem>2.00</QtyItem>
+          <PrcItem>1193.277311</PrcItem>
+          <MontoItem>2387</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>19</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617920431</VlrCodigo>
+          </CdgItem>
+          <NmbItem>COPLA SAN GRIS 110</NmbItem>
+          <QtyItem>2.00</QtyItem>
+          <PrcItem>1050.420168</PrcItem>
+          <MontoItem>2101</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>20</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617920439</VlrCodigo>
+          </CdgItem>
+          <NmbItem>CODO 87 5  SOL110</NmbItem>
+          <QtyItem>6.00</QtyItem>
+          <PrcItem>1034.453782</PrcItem>
+          <MontoItem>6207</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>21</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780617920106</VlrCodigo>
+          </CdgItem>
+          <NmbItem>CODO 87 5  GRIS40</NmbItem>
+          <QtyItem>5.00</QtyItem>
+          <PrcItem>146.218487</PrcItem>
+          <MontoItem>731</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>22</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>780550270442</VlrCodigo>
+          </CdgItem>
+          <NmbItem>CODO 87 5  SOLD 50</NmbItem>
+          <QtyItem>1.00</QtyItem>
+          <PrcItem>261.344538</PrcItem>
+          <MontoItem>261</MontoItem>
+        </Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>76568660-1</RE>
+            <TD>33</TD>
+            <F>12092882</F>
+            <FE>2016-02-03</FE>
+            <RR>76407152-2</RR>
+            <RSR>HLI CONSTRUCCIONES SPA</RSR>
+            <MNT>121191</MNT>
+            <IT1>GRAV SACO 40KG APP</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76568660-1</RE>
+                <RS>EASY RETAIL S.A. .-</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>12000001</D>
+                  <H>12570000</H>
+                </RNG>
+                <FA>2016-01-28</FA>
+                <RSAPK>
+                  <M>3NdO7NoOflq4nXTKIxkkvZNYOg8GjTPhGhfSiI01HnU7+CTtmshLYszku5cA2Xw6gKhXbc0MwkXnBLQgZeYgkw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">VVs/XD3BgCGEk9w8vs3bgfJYCfl5qUXuzhFqCXAB9o1jTf92TPuBxf9SWkhgrdTn1njdlT+kw3bHUXPdxluVxg==</FRMA>
+            </CAF>
+            <TSTED>2016-02-03T13:10:35</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">sMy1XHtkgDuqjPlB53hDVSeh9iNvz/J206Wcv7VO153zI9ofeOMxIxx/efEAchPn+64+ysvE4bUB
+GPNafHTqZw==</FRMT>
+        </TED>
+        <TmstFirma>2016-02-03T13:10:35</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<Reference URI="#T33F12092882">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<DigestValue>R+x9ZxdSkNid+o3o/qnDAq/t8sA=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>JMrIwzycxFtNRHdtZWwwnfItrHtgDA7UJeOaMoT8zbhbVVJ9sduddptIsvQ01djLSzIsi6+Yyivl
+3s86NhFSQBsVTtMH4mS8GYL5TmRkiIIWs5GQD3uWbcZQqANWdjsJKky0FJdnt8/av9NtAKfIQqZi
+YAinfbRfp6fRiyQw8IEqsm7AMXH3ALh1ASwjiSZZlWmiswSZhS7T46yJxcuCHGiyIUwK3Fw5Gd9K
+3aKDnuTmztJUYtDUZKM2GjWHcYw6wkD0QwqN2S4sXc+iEoEWlO6DWG5QEsxpbTiAbyNuv0/HiJ2n
+lW+RAiPxMIOA43cz8DR62MH6yt7Bx7aU0iBfKg==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>hyQYMgoP96GHgmnq2+2QXGLS1Zp50NN1pImqNF6yKEyqBG3Fbisa7asRmvuZtOnRLBkrLusp0nna
+aN/iyV/AOuPWgbGFxYqgDl4f8AH96FI7i+lB2E6wf3VyTNZAGzcVHPLQyZ4KV8d/lCpFsLpYQmiR
+HIqnqxPCcyMs7HNwIylkyGTZm/ckHG3E9NpnOnge3r61Eq0T8uIH65LFzBgvfSwnwbP9dINveSot
+J1zd4VkmHBUGfoGxYu8XY5r1Bp2qXdeF/Oa8YqddwSiUGZD1u2CapGde/05Bet76hTrFgVVlhT/j
+C9sHl1LTIkdrWtZX0VmftlBmRGxdaBvzLen/VQ==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIF6TCCBNGgAwIBAgICGc0wDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMiBQZXJzb25hIE5hdHVyYWwgLSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE2MDExODE1NTgzMloXDTE5MDExODE1
+NTgzMlowgZIxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKDAmBgNVBAMT
+H1JPRFJJR08gQ1JJU1RJQU4gTEFSUkFJTiBLQVBMQU4xKjAoBgkqhkiG9w0BCQEWG3JvZHJpZ28u
+bGFycmFpbkBjZW5jb3N1ZC5jbDETMBEGA1UEBRMKMTA5NzMxMzktMDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAIckGDIKD/ehh4Jp6tvtkFxi0tWaedDTdaSJqjResihMqgRtxW4rGu2r
+EZr7mbTp0SwZKy7rKdJ52mjf4slfwDrj1oGxhcWKoA5eH/AB/ehSO4vpQdhOsH91ckzWQBs3FRzy
+0MmeClfHf5QqRbC6WEJokRyKp6sTwnMjLOxzcCMpZMhk2Zv3JBxtxPTaZzp4Ht6+tRKtE/LiB+uS
+xcwYL30sJ8Gz/XSDb3kqLSdc3eFZJhwVBn6BsWLvF2Oa9Qadql3XhfzmvGKnXcEolBmQ9btgmqRn
+Xv9OQXre+oU6xYFVZYU/4wvbB5dS0yJHa1rWV9FZn7ZQZkRsXWgb8y3p/1UCAwEAAaOCAjEwggIt
+MB8GA1UdIwQYMBaAFEAkGj2pMXqFd3o9nnKTOYTlQDgZMB0GA1UdDgQWBBSmYGQBII2w6e0u0Fbb
+MvVPcCCVDDALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCG
+SAGG+EIBAQQEAwIFoDBuBgNVHSAEZzBlMGMGCisGAQQBtWuHagowVTAoBggrBgEFBQcCARYcaHR0
+cDovL3d3dy5hY2VwdGEuY29tL0NQUy1HMzApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5B
+LjADAgEJGgNUQkQwWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUF
+BwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBmBgNVHREEXzBd
+oBgGCCsGAQQBwQEBoAwWCjEwOTczMTM5LTCgJAYIKwYBBQUHCAOgGDAWDAoxMDk3MzEzOS0wBggr
+BgEEAcEBAoEbcm9kcmlnby5sYXJyYWluQGNlbmNvc3VkLmNsMD8GCCsGAQUFBwEBBDMwMTAvBggr
+BgEFBQcwAYYjaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTNCaW8tRzMwNwYDVR0fBDAwLjAs
+oCqgKIYmaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNlM0Jpby1HMy5jcmwwDQYJKoZIhvcNAQEF
+BQADggEBADCDeesrjKQxQSzOVp+uZjmzcSXUh+SXA2K7hASiYZLm7umb/dxrV2xCa6cWt/5rIQv8
+ivhqcu78ShBhH3h9NZitpqPeO2uhz7ZJ5nOp+kzOwYI71INJ28AyL6G8Z2X5eQqBRC63U0QsJ3f4
+AHdnJ5E+wwRNd4IKGvyf//7sPej0NTPDpAMvx401bmzkwJhMMGaSHrnrQxEqYAU6tu4qo4+QQmtJ
+T5wpvKsukHB2ahgbTaQv+hOOBj5r3KzkiiNCIMQP+N3OLRObIT6fQUpB+AhglyhgJlLbw/h+nPaz
+PY+WmtRG6PgABy8xRNo+M8/am9+zibTFg5dgyuDQ0XD6eoA=</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE>

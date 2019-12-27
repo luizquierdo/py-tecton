@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+	<SetDTE ID="SetDte">
+		<Caratula version="1.0">
+			<RutEmisor>77721980-4</RutEmisor>
+			<RutEnvia>10275149-3</RutEnvia>
+			<RutReceptor>76407152-2</RutReceptor>
+			<FchResol>2014-07-18</FchResol>
+			<NroResol>66</NroResol>
+			<TmstFirmaEnv>2019-01-28T18:07:45</TmstFirmaEnv>
+			<SubTotDTE>
+				<TpoDTE>33</TpoDTE>
+				<NroDTE>1</NroDTE>
+			</SubTotDTE>
+		</Caratula>
+		<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+			<Documento ID="R77721980F265517T33">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>33</TipoDTE>
+						<Folio>265517</Folio>
+						<FchEmis>2019-01-28</FchEmis>
+						<FmaPago>1</FmaPago>
+						<FchVenc>2019-01-28</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>77721980-4</RUTEmisor>
+						<RznSoc>COMERCIAL G Q LIMITADA</RznSoc>
+						<GiroEmis>ESTACION DE SERVICIOS</GiroEmis>
+						<Telefono>0</Telefono>
+						<CorreoEmisor>0</CorreoEmisor>
+						<Acteco>505000</Acteco>
+						<Sucursal>60076</Sucursal>
+						<DirOrigen>PANAMERICANA SUR KM 126  8</DirOrigen>
+						<CmnaOrigen>SAN FERNANDO</CmnaOrigen>
+						<CiudadOrigen>0</CiudadOrigen>
+						<CdgVendedor>0-0 / 0</CdgVendedor>
+					</Emisor>
+					<RUTMandante>99520000-7</RUTMandante>
+					<Receptor>
+						<RUTRecep>76407152-2</RUTRecep>
+						<RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+						<GiroRecep>CONSTRUCCION</GiroRecep>
+						<CorreoRecep>ACANADA@TECTON.CL</CorreoRecep>
+						<DirRecep>AV PROVIDENCIA 2330 OF 63</DirRecep>
+						<CmnaRecep>PROVIDENCIA</CmnaRecep>
+						<CiudadRecep>0</CiudadRecep>
+					</Receptor>
+					<Transporte>
+						<Patente>HDYD26</Patente>
+					</Transporte>
+					<Totales>
+						<MntNeto>12961</MntNeto>
+						<TasaIVA>19</TasaIVA>
+						<IVA>2463</IVA>
+						<IVATerc>2463</IVATerc>
+						<ImptoReten>
+							<TipoImp>28</TipoImp>
+							<MontoImp>3580</MontoImp>
+						</ImptoReten>
+						<MntTotal>19004</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>1</TpoCodigo>
+						<VlrCodigo>1</VlrCodigo>
+					</CdgItem>
+					<NmbItem>DIESEL</NmbItem>
+					<DscItem>DIESEL</DscItem>
+					<QtyItem>30.652</QtyItem>
+					<Subcantidad>
+						<SubQty>19004</SubQty>
+						<SubCod>SubPTotal</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>72.5295</SubQty>
+						<SubCod>IEF</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>44.2575</SubQty>
+						<SubCod>IEV/FEEP</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>620</SubQty>
+						<SubCod>PUnitario</SubCod>
+					</Subcantidad>
+					<UnmdItem>LTS</UnmdItem>
+					<PrcItem>422.8435</PrcItem>
+					<CodImpAdic>28</CodImpAdic>
+					<MontoItem>12961</MontoItem>
+				</Detalle>
+				<TED version="1.0">
+					<DD>
+						<RE>77721980-4</RE>
+						<TD>33</TD>
+						<F>265517</F>
+						<FE>2019-01-28</FE>
+						<RR>76407152-2</RR>
+						<RSR>CONSORCIO HLI HYDROGROUP SPA</RSR>
+						<MNT>19004</MNT>
+						<IT1>DIESEL</IT1>
+						<CAF version="1.0">
+<DA>
+<RE>77721980-4</RE>
+<RS>COMERCIAL G Q LIMITADA</RS>
+<TD>33</TD>
+<RNG><D>259879</D><H>309878</H></RNG>
+<FA>2018-12-29</FA>
+<RSAPK><M>sf9ewadH6GoOHgNxS59rP+NN0NLx9vTj76zIpr6dRdspzRAMjtQ09V8O9r+ZgTeFTzpAdSmYVZC87SopRzhCyw==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">hDE3v5QRYWXjlDjDZxV8e4G1BgbgLQWof+zs490YW+LixFO6h0flBQEdjBuRMnvYWjopoEw3M3CZLZBfTEz1zQ==</FRMA>
+</CAF><TSTED>2019-01-28T18:07:45</TSTED>
+					</DD>
+				<FRMT algoritmo="SHA1withRSA">FWj7yDh1PIqzPYT374f1hhWBiw1p+j7zfncGWeZK9KQT6aC3RnVp+HLq6StGw6MawFZlXJsbR3XswCOIts8Dhw==</FRMT></TED>
+				<TmstFirma>2019-01-28T18:07:45</TmstFirma>
+			</Documento>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#R77721980F265517T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>i3DbB+yRavKuogDy84+rAF6ucEE=</DigestValue></Reference></SignedInfo><SignatureValue>UzwpQd3M9jvYroSDNmC7zFtme1jAJ+g6tCNN7WYbg2rl3MLPJ/3LWiGVxyuYsN1Une1DGhw4OVsKFzdFa6gXynIL+iqRVBFiSm+f0FPvC6+Bm63Da3FWSX/3Q/oNnuyxuB+/cJBwhap8kqDAUPRGhMbaIBMKc7L32nuUdE95Y9s=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6jfQ3eyiTAlRN+0SxKvifHwIo1j94jRdbqegusTmmb5pAZfOx8yUcFpxXjF4IR9XcBBZ1eKUUv6iEYj271U9EJ8ku/hNAQR5lTX0KBfL+4VYh0RmLQ7ajMM+SeaBywGZEuEepKz/OUtekRgSbhoDQ4v673I2tqPFctxsURh3920=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+	</SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#SetDte"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>jlBEh/81X+/b3f0zJPuVh9hVbrk=</DigestValue></Reference></SignedInfo><SignatureValue>2V6lIMyGWlArrBLcrOeJBe0dju1OX/fSHOyiLmXetk+eTCurXVYjJZGg0kNjfU4lRbvD+AbxEzgxqpnfPtg8ss/O8/C57WCXm7D0/QSLe43eEnmiP1qAi0B7sk3wDKzIbWietRHaFsWGt3bZySRw+tnf+QG0Ut89yopqBaX3cB0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6jfQ3eyiTAlRN+0SxKvifHwIo1j94jRdbqegusTmmb5pAZfOx8yUcFpxXjF4IR9XcBBZ1eKUUv6iEYj271U9EJ8ku/hNAQR5lTX0KBfL+4VYh0RmLQ7ajMM+SeaBywGZEuEepKz/OUtekRgSbhoDQ4v673I2tqPFctxsURh3920=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>

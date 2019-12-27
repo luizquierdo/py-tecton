@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+<Documento ID="DOCT33F3227374P0">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>3227374</Folio>
+<FchEmis>2016-02-25</FchEmis>
+<FmaPago>1</FmaPago>
+</IdDoc>
+<Emisor>
+<RUTEmisor>79706120-4</RUTEmisor>
+<RznSoc>PETROBRAS CHILE RED LIMITADA</RznSoc>
+<GiroEmis>Venta de Combustible; Confites; Cigarrillos; Bebidas; Otros Prod; Almacenes Medi</GiroEmis>
+<Acteco>505000</Acteco>
+<Sucursal>CH9269</Sucursal>
+<CdgSIISucur>64839468</CdgSIISucur>
+<DirOrigen>AV. CERRO COLORADO 5240, TORRE 1, PISOS 12, 13 y 14</DirOrigen>
+<CmnaOrigen>Las Condes</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+<GiroRecep>CONSTRUCCION</GiroRecep>
+<DirRecep>AV.ISIDORA GOYENECHE 3356</DirRecep>
+<CmnaRecep>Las Condes</CmnaRecep>
+<CiudadRecep>Santiago</CiudadRecep>
+</Receptor>
+<Transporte>
+<Patente>GTGP43</Patente>
+<DirDest>AV.ISIDORA GOYENECHE 3356</DirDest>
+<CmnaDest>Las Condes</CmnaDest>
+<CiudadDest>Santiago</CiudadDest>
+</Transporte>
+<Totales>
+<MntNeto>6873</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19.0</TasaIVA>
+<IVA>1306</IVA>
+<ImptoReten>
+<TipoImp>28</TipoImp>
+<TasaImp>18.21</TasaImp>
+<MontoImp>1821</MontoImp>
+</ImptoReten>
+<MntTotal>10000</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<NmbItem>DIESEL A1</NmbItem>
+<QtyItem>26.525199</QtyItem>
+<UnmdItem>Litr</UnmdItem>
+<PrcItem>259.13</PrcItem>
+<CodImpAdic>28</CodImpAdic>
+<MontoItem>6873</MontoItem>
+</Detalle>
+	<TED version="1.0"><DD><RE>79706120-4</RE><TD>33</TD><F>3227374</F><FE>2016-02-25</FE><RR>76407152-2</RR><RSR>HLI CONSTRUCCIONES SPA</RSR><MNT>10000</MNT><IT1>DIESEL A1</IT1><CAF version="1.0"><DA><RE>79706120-4</RE><RS>PETROBRAS CHILE RED LIMITADA</RS><TD>33</TD><RNG><D>2762000</D><H>3761998</H></RNG><FA>2013-05-28</FA><RSAPK><M>uKdEB18ZOrHRhcYBMxVZ7HJMrtwCOH6Q2nWT4RiIHdYKSQiw+8k/IhlcDiH4bh3YnXfy9r+/JXoejzixIU/zbw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">LGNr57HSa9EFpp0naKhT+4JYVNul+DnJKYkcKGmvtiA+hT2Tu2sryGAfASFWwlCHMI8vm6UsTbufcGPFYJh3kA==</FRMA></CAF><TSTED>2016-02-25T15:56:50</TSTED></DD><FRMT algoritmo="SHA1withRSA">ZEKt8GiKKx6+NgFGuDymdBL3A2hHJDOGeQjDT969HXjggWSdzNj510OQ1EML+1YhQFbUIZo5EFs0
+tEHfOuAa4w==</FRMT></TED>
+<TmstFirma>2016-02-25T15:56:50</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#DOCT33F3227374P0"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>2fdVAG55whQUYGoGoOMa720K18I=</DigestValue></Reference></SignedInfo><SignatureValue>lnLD7rS5D0d4/mjoFcTX1nwFpsXn/mZBXLGeZSOFx2gdbfnReCbAvfN/4z0chz0YYL9+OnJV0Vhc
+x5RVWIxON/mnTeV68bJ5Ukk0NZ63Hxn1YIheyoKMriuVlklAw2ZsmuPGu9Gsp9D5BnlwNzl3O9lV
+/vKsAXWsoHpTh2SPTXq38lLhs8u41tgt0+Vkw2zSPtzG/KkkgzmjusrXSYEAmDP0pPVCc9gzdYve
+2EMb4PxY1Vks6T1ejy6a0ugtEhXD+IqVZNpsm64jzekwcsZPJay87viuC+GmZgh5ZN9YVYpmzn/g
+P8aW0GFtjOfYKrkQ03XUlBk+QjK6rjD17rDP2Q==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mp34Xl12rXTjS0GBL/cao9dGnttvhhK7Un86nTvt3qHrVWohSnBUtyeueXM5mbLinO2XYGs/Phw2
+OFQr8Y757RqnvXjSc+gP8yxuvt+cn6KHNw/Xihr1Ggy1i+Azrr0yQoLzcJ8ODnRh3os9trpPGoa9
+Up9fhAH2iUviasPIIAs+pYUIpXCGA6LelOhDIkSvq1Bn/+892dfK08/0iMNCZos2XEJH49K5Rmzp
++9ZZgLAzVE1NxhXTqCl7gejKFpzwM2h1cnBF009U7AQk5i9gv8k5szT4BwNvj0jCsN2RInbSFuwq
+m1iBnMs3VDqIeYub5ph4LywZn/OgIa4c2ykVZw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGUzCCBTugAwIBAgIQe6ih5+6vlzVf8fD2/bzXMjANBgkqhkiG9w0BAQUFADCBqDELMAkGA1UE
+BhMCQ0wxFDASBgNVBAoTC0UtU2lnbiBTLkEuMR8wHQYDVQQLExZTeW1hbnRlYyBUcnVzdCBOZXR3
+b3JrMUEwPwYDVQQDEzhFLVNpZ24gU0MgQ2xhc3MgMiBDb25zdW1lciBJbmRpdmlkdWFsIFN1YnNj
+cmliZXIgQ0EgLSBHMjEfMB0GCSqGSIb3DQEJARYQZS1zaWduQGUtc2lnbi5jbDAeFw0xNDA0MTYw
+MDAwMDBaFw0xNzA0MTUyMzU5NTlaMIIBGzEUMBIGA1UEChMLRS1TaWduIFMuQS4xLTArBgNVBAsT
+JFRlcm1pbm9zIGRlIHVzbyBlbiB3d3cuZS1zaWduLmNsL3JwYTElMCMGA1UECxMcQXV0aGVudGlj
+YXRlZCBieSBFLVNpZ24gUy5BLjEnMCUGA1UECxMeTWVtYmVyLCBTeW1hbnRlYyBUcnVzdCBOZXR3
+b3JrMRswGQYDVQQLExJEaWdpdGFsIElEIENsYXNzIDIxGTAXBgNVBAsUEFJVVCAtIDEwNjYzNDUx
+LTMxIzAhBgNVBAMMGm1hcmlvIGVucmlxdWUgYXJjZSBnYXJjw6lzMScwJQYJKoZIhvcNAQkBFhht
+YXJpby5hcmNlQHBldHJvYnJhcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCa
+nfheXXatdONLQYEv9xqj10ae22+GErtSfzqdO+3eoetVaiFKcFS3J655czmZsuKc7Zdgaz8+HDY4
+VCvxjvntGqe9eNJz6A/zLG6+35yfooc3D9eKGvUaDLWL4DOuvTJCgvNwnw4OdGHeiz22uk8ahr1S
+n1+EAfaJS+Jqw8ggCz6lhQilcIYDot6U6EMiRK+rUGf/7z3Z18rTz/SIw0JmizZcQkfj0rlGbOn7
+1lmAsDNUTU3GFdOoKXuB6MoWnPAzaHVycEXTT1TsBCTmL2C/yTmzNPgHA2+PSMKw3ZEidtIW7Cqb
+WIGcyzdUOoh5i5vmmHgvLBmf86AhrhzbKRVnAgMBAAGjggIBMIIB/TAjBgNVHREEHDAaoBgGCCsG
+AQQBwQEBoAwWCjEwNjYzNDUxLTMwCQYDVR0TBAIwADALBgNVHQ8EBAMCBaAwTwYDVR0fBEgwRjBE
+oEKgQIY+aHR0cDovL29uc2l0ZWNybC52ZXJpc2lnbi5jb20vRVNpZ25TQUNTQ0NsYXNzMkcyL0xh
+dGVzdENSTC5jcmwwHwYDVR0jBBgwFoAU2893YlgLODYlLRrSasRUAbJuTA4wHQYDVR0OBBYEFHzg
+/FuKGv67QrqlRismjSPQAscOMDsGCCsGAQUFBwEBBC8wLTArBggrBgEFBQcwAYYfaHR0cDovL29u
+c2l0ZS1vY3NwLnZlcmlzaWduLmNvbTCBmAYDVR0gBIGQMIGNMIGKBgtghkgBhvhFAQcXAjB7MDEG
+CCsGAQUFBwIBFiVodHRwczovL3d3dy5lLXNpZ24uY2wvcmVwb3NpdG9yaW8uaHRtMEYGCCsGAQUF
+BwICMDoaOENlcnRpZmljYWRvIHBhcmEgdXNvIFRyaWJ1dGFyaW8sIENvbWVyY2lvLCBQYWdvcyB5
+IE90cm9zMBEGCWCGSAGG+EIBAQQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+IwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5OTU1MTc0MC1LMA0GCSqGSIb3DQEBBQUAA4IBAQAt
+fnhWX/+aah2JL+vbK4ZgZnBIdY8Urake6NCE3hcHIJEPnxljHIl5sQcuGgf8JqjRiOEhxwVgHAwI
+vktWjYUWLA4j/zr4tcVUgFaZfi4bn1RrDsBj+bsxcfPzrGtjwFsLZJUOzRF6mLCaNeEKIHi95iFu
+wsJ0L7lEOq0CC0iv3GJrEMMY2ColobPq5ZtQUyuMwkNCpRXAvgfAJJ+xPvZU2Ln9fgOxvsfWpUTP
+WKmjc2uWzSwnuFGq1q3mzMtMDJCXkW3CanIYMipuROhn0leaOjxtNGVmQvYFCh9Cd3lEI2x8PnnH
+SAC/BQsAcN6uaapz0e7mF1azl7DxUEZI+9x/</X509Certificate></X509Data></KeyInfo></Signature>
+
+
+</DTE>

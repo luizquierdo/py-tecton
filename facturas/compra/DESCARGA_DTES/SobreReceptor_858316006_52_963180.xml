@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="SetDoc">
+ <Caratula version="1.0">
+  <RutEmisor>85831600-6</RutEmisor>
+  <RutEnvia>7190126-2</RutEnvia>
+  <RutReceptor>76407152-2</RutReceptor>
+  <FchResol>2014-08-22</FchResol>
+  <NroResol>80</NroResol>
+  <TmstFirmaEnv>2019-01-17T11:46:51</TmstFirmaEnv>
+  <SubTotDTE>
+    <TpoDTE>52</TpoDTE>
+    <NroDTE>1</NroDTE>
+  </SubTotDTE>
+ </Caratula>
+<DTE version="1.0">        <Documento ID="F963180T52">
+            <Encabezado>
+                <IdDoc>
+                   <TipoDTE>52</TipoDTE>
+                   <Folio>963180</Folio>
+                   <FchEmis>2019-01-17</FchEmis>
+                   <TipoDespacho>2</TipoDespacho>
+                   <IndTraslado>1</IndTraslado>
+                </IdDoc>
+                <Emisor>
+                   <RUTEmisor>85831600-6</RUTEmisor>
+                   <RznSoc>YOUSEF COMERCIAL LTDA.</RznSoc>
+                   <GiroEmis>VENTA DE MADERAS AGLOMERADAS</GiroEmis>
+                   <Acteco>202100</Acteco>
+                   <DirOrigen>LIRA 1817</DirOrigen>
+                   <CmnaOrigen>SANTIAGO</CmnaOrigen>
+                   <CiudadOrigen>REGION METROPOLITANA</CiudadOrigen>
+                </Emisor>
+                <Receptor>
+                   <RUTRecep>76407152-2</RUTRecep>
+                   <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+                   <GiroRecep>CONSTRUCCION</GiroRecep>      
+                   <DirRecep>NUEVA LYON 0124 OF 601</DirRecep>     
+                   <CmnaRecep>PROVIDENCIA</CmnaRecep>       
+                   <CiudadRecep>REGION METROPOL</CiudadRecep>     
+                </Receptor>
+                <Totales>
+                   <MntNeto>519000</MntNeto>
+                   <TasaIVA>19</TasaIVA>
+                   <IVA>98610</IVA>
+                   <MntTotal>617610</MntTotal>
+                </Totales>
+            </Encabezado>
+            <Detalle>
+                <NroLinDet>1</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>24000010010</VlrCodigo>
+                </CdgItem>
+                <NmbItem>MADERA PINO DIMENSIONADO VERDE 2*3  3.20MT</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>100</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>1188</PrcItem>
+                <MontoItem>118800</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>2</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>24000010009</VlrCodigo>
+                </CdgItem>
+                <NmbItem>MADERA PINO DIMENSIONADO VERDE 2*2  3.20MT</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>100</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>788</PrcItem>
+                <MontoItem>78800</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>3</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>24000010003</VlrCodigo>
+                </CdgItem>
+                <NmbItem>MADERA PINO DIMENSIONADO VERDE 1*4  3.20MT</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>300</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>788</PrcItem>
+                <MontoItem>236400</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>4</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INTERNA</TpoCodigo>
+                    <VlrCodigo>24000010023</VlrCodigo>
+                </CdgItem>
+                <NmbItem>MADERA CUARTON 3*3  3.20MT</NmbItem>
+                <DscItem></DscItem>
+                <QtyItem>50</QtyItem>
+                <UnmdItem>UN</UnmdItem>
+                <PrcItem>1700</PrcItem>
+                <MontoItem>85000</MontoItem>
+            </Detalle>
+<TED version="1.0"><DD><RE>85831600-6</RE><TD>52</TD><F>963180</F><FE>2019-01-17</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>617610</MNT><IT1>MADERA PINO DIMENSIONADO VERDE 2*3  3.20</IT1><CAF version="1.0"><DA><RE>85831600-6</RE><RS>YOUSEF COMERCIAL LTDA</RS><TD>52</TD><RNG><D>936501</D><H>1036500</H></RNG><FA>2018-10-23</FA><RSAPK><M>wX6Dz6eT1Kx7DJAx3vX0PP47w7Hv9zrTk8EBgOVnS2juDGQV9+KFugmeHVKPLMcwmW384rKVFQu8z5CSDW5++Q==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">OrYKO6KlK0EaTDXR9esopCYu71bnQ0xIVV+q5my0AHZMPGp50NWsnIVwU5urWolOSRI3qa9oWk9y2YZ0b96cSQ==</FRMA></CAF><TSTED>2019-01-17T12:49:27</TSTED></DD><FRMT algoritmo="SHA1withRSA">s9CmDeKhjEx2bad87bIvVEMGrGJw/Qk5U5XgE0J2Qh7cJc7decxdf5qqL9PaSFW7
+1c1yCiYt5UD1K+ToIqYf/Q==</FRMT></TED>
+<TmstFirma>2019-01-17T12:49:27</TmstFirma>
+        </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#F963180T52">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>rw9TxyAyOXoz89Aeh41RoJOibcw=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+pDKa7BX0ZlTB67ZhoESVsnWVQ4xe3Yh0/pvgMQwOkDdpWbgNDSWytDwnO9uPGNkDhW6rsLM+/sKX
+6rVFgOhpwusyRcAAzG5svib281ObV7WKuLXpY5Oc/mLlifWjC8tC8ky/zApaemN5Ng0bqbKuP6oU
+6x6qwxoVjf/4577lFKA=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+5JMfzL4GehsI4wvPQVOIYLintf9MUd3lKfP2fgHxjSUV40xdEwf5MF1GQ8TQEika3+RxuXx7dCUp
+cPl4rtJo7CLa5YCpElkKi2iblXVxWkybP0TuEJi0pD5yWcqYGbxrQcr29LiK4VBQbXdbv2nVXLgd
+i9bDEVdOxVJPfn9zobk=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGMjCCBRqgAwIBAgIKF4pBPAAAAAiPODANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA4MDIyMjEwNDFaFw0yMDA4MDEyMjEwNDFa
+MIG1MQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTzERMA8G
+A1UEBxMIU2FudGlhZ28xFjAUBgNVBAoTDURpY29tYWMgIEx0ZGExEzARBgNVBAsTCmZlcnJldGVy
+aWExGzAZBgNVBAMTEkpvcmdlIFlvdXNlZiBBbGxlbDElMCMGCSqGSIb3DQEJARYWam9yZ2V5b3Vz
+ZWZAZGljb21hYy5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5JMfzL4GehsI4wvPQVOI
+YLintf9MUd3lKfP2fgHxjSUV40xdEwf5MF1GQ8TQEika3+RxuXx7dCUpcPl4rtJo7CLa5YCpElkK
+i2iblXVxWkybP0TuEJi0pD5yWcqYGbxrQcr29LiK4VBQbXdbv2nVXLgdi9bDEVdOxVJPfn9zobkC
+AwEAAaOCAqcwggKjMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB
+7+w8YYHLnhSGqIJYAgFkAgEEMB0GA1UdDgQWBBQpCSwwJrk2CiUjaYGxhXttoo6JgjALBgNVHQ8E
+BAMCBPAwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4Yt
+aHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEB
+BC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMGA1UdEQQc
+MBqgGAYIKwYBBAHBAQGgDBYKMDcxOTAxMjYtMjAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2
+OTI4MTgwLTUwggFNBgNVHSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYh
+aHR0cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUA
+cgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAAcwBp
+AGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBuAGMA
+aQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABD
+AGUAcgB0AGkAZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIA
+aQBvMA0GCSqGSIb3DQEBBQUAA4IBAQA+LQ+dzD2oSDfmlIxI3jwGLkRO/xR+1zYJ3d15RWdbS2ew
+7vV9nanIB+mfZl+nUJuNOpRZdb1CEw/Qk51gYezGF9qX2G94g1R/8Cv3PhvJa2RqqWTgJuybGIWX
+PXvJJPAm0nw21orj1aeDqdZJzF58wSosn+vaTy2FJYgJX7jq7zoGVw4gYRmw4ThbgIeH8YzQFlNk
+mChCYyWNVVTtdIQny6wNfsANqOBexnYU2FnQt+8GcaQRBHT8va58HYTqlwRPbGvIo5FtZrARpOyH
+6goWbqVWixZLfPT0eiPNfXB0UT0E5wpRXKdK66SQZhTG1niEUsarn/dNi7MSIG/Vvob6
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#SetDoc">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>PcxUi2XT+9H4aPp8U5a6kovlPJk=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+AcpsBiUebdTqAIORs9QLRCg/9UZandFm1XUi4yRKpxJr7tcSO79XrCAT12RkcM9Tbo5ORld6oFWF
+cfQUQThlSsD9/yD1gx2lCXbsrafkXtwCqISRFXadiz3S7a9SkAcJT8o9zTqp7YuakuIJv5MhV4nP
+1LxxAdPmJuXXmRkJvy4=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+5JMfzL4GehsI4wvPQVOIYLintf9MUd3lKfP2fgHxjSUV40xdEwf5MF1GQ8TQEika3+RxuXx7dCUp
+cPl4rtJo7CLa5YCpElkKi2iblXVxWkybP0TuEJi0pD5yWcqYGbxrQcr29LiK4VBQbXdbv2nVXLgd
+i9bDEVdOxVJPfn9zobk=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGMjCCBRqgAwIBAgIKF4pBPAAAAAiPODANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzA4MDIyMjEwNDFaFw0yMDA4MDEyMjEwNDFa
+MIG1MQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTzERMA8G
+A1UEBxMIU2FudGlhZ28xFjAUBgNVBAoTDURpY29tYWMgIEx0ZGExEzARBgNVBAsTCmZlcnJldGVy
+aWExGzAZBgNVBAMTEkpvcmdlIFlvdXNlZiBBbGxlbDElMCMGCSqGSIb3DQEJARYWam9yZ2V5b3Vz
+ZWZAZGljb21hYy5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5JMfzL4GehsI4wvPQVOI
+YLintf9MUd3lKfP2fgHxjSUV40xdEwf5MF1GQ8TQEika3+RxuXx7dCUpcPl4rtJo7CLa5YCpElkK
+i2iblXVxWkybP0TuEJi0pD5yWcqYGbxrQcr29LiK4VBQbXdbv2nVXLgdi9bDEVdOxVJPfn9zobkC
+AwEAAaOCAqcwggKjMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB
+7+w8YYHLnhSGqIJYAgFkAgEEMB0GA1UdDgQWBBQpCSwwJrk2CiUjaYGxhXttoo6JgjALBgNVHQ8E
+BAMCBPAwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4Yt
+aHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEB
+BC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMCMGA1UdEQQc
+MBqgGAYIKwYBBAHBAQGgDBYKMDcxOTAxMjYtMjAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2
+OTI4MTgwLTUwggFNBgNVHSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYh
+aHR0cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUA
+cgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAAcwBp
+AGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAAcgBlAHMAZQBuAGMA
+aQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABD
+AGUAcgB0AGkAZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIA
+aQBvMA0GCSqGSIb3DQEBBQUAA4IBAQA+LQ+dzD2oSDfmlIxI3jwGLkRO/xR+1zYJ3d15RWdbS2ew
+7vV9nanIB+mfZl+nUJuNOpRZdb1CEw/Qk51gYezGF9qX2G94g1R/8Cv3PhvJa2RqqWTgJuybGIWX
+PXvJJPAm0nw21orj1aeDqdZJzF58wSosn+vaTy2FJYgJX7jq7zoGVw4gYRmw4ThbgIeH8YzQFlNk
+mChCYyWNVVTtdIQny6wNfsANqOBexnYU2FnQt+8GcaQRBHT8va58HYTqlwRPbGvIo5FtZrARpOyH
+6goWbqVWixZLfPT0eiPNfXB0UT0E5wpRXKdK66SQZhTG1niEUsarn/dNi7MSIG/Vvob6
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>

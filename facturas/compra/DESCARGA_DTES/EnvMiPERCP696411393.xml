@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+<SetDTE ID="SDTE696411393">
+  <Caratula version="1.0">
+    <RutEmisor>76558008-0</RutEmisor>
+    <RutEnvia>48080155-5</RutEnvia>
+    <RutReceptor>76407152-2</RutReceptor>
+    <FchResol>2014-10-21</FchResol>
+    <NroResol>99</NroResol>
+    <TmstFirmaEnv>2019-01-07T10:12:52</TmstFirmaEnv>
+    <SubTotDTE>
+      <TpoDTE>33</TpoDTE>
+      <NroDTE>1</NroDTE>
+    </SubTotDTE>
+  </Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+  <!-- O Win32 Chrome 71 central VERSION: v20170209 -->
+<Documento ID="MiPE76558008-11943">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>225</Folio>
+        <FchEmis>2019-01-07</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>2</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76558008-0</RUTEmisor>
+        <RznSoc>TRANSPORTE E INVERSIONES FERNANDO BRAVO  RIVERA EMPRESA INDIVIDUAL DE</RznSoc>
+        <GiroEmis>TRANSPORTE DE CARGA POR CARRETERA</GiroEmis>
+        <Telefono>2 2313574</Telefono>
+        <Acteco>492300</Acteco>
+        <CdgSIISucur>079701904</CdgSIISucur>
+        <DirOrigen>POZO AL MONTE 9099</DirOrigen>
+        <CmnaOrigen>LAS CONDES</CmnaOrigen>
+        <CiudadOrigen>SANTIAGO</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76407152-2</RUTRecep>
+        <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+        <GiroRecep>CONSTRUCCION DE EDIFICIOS PARA USO RESID</GiroRecep>
+        <Contacto>OBRA: ALCANTARA</Contacto>
+        <DirRecep>NUEVA DE LYON 124  601</DirRecep>
+        <CmnaRecep>PROVIDENCIA</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>1712000</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>325280</IVA>
+        <MntTotal>2037280</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>RETIRO DE ESCOMBROS</NmbItem>
+      <DscItem>OBRA: ALCANTARA #360  LAS CONDES
+VALES#: 40619-40753-40754-40621-
+40756-40624-40762-40761-40763-
+40771-40647-40646-40645-40785-
+40789-40790-40705-40794-40709-
+40798-40854-40812-40816-40711-
+40764-40786</DscItem>
+      <QtyItem>214.00</QtyItem>
+      <UnmdItem>M3</UnmdItem>
+      <PrcItem>8000.00</PrcItem>
+      <MontoItem>1712000</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>76558008-0</RE><TD>33</TD><F>225</F><FE>2019-01-07</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>2037280</MNT><IT1>RETIRO DE ESCOMBROS</IT1><CAF version="1.0"><DA><RE>76558008-0</RE><RS>TRANSPORTE E INVERSIONES FERNANDO BRAVO</RS><TD>33</TD><RNG><D>225</D><H>225</H></RNG><FA>2019-01-07</FA><RSAPK><M>2FD7imsIv4ObhFnNuBw6gZr14mHodUhXYpp7hrO+RTI1cV04EEWHNBNPB8gUUoR8NcWwWag6+HXxUMZFyAslKw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">lOnEeetiw7cdbOIcZonB9jy8VNaqcS9HEzsWgzqHVHJIfv19FpKXjSRwt/fFQB6IPsazZSoIcwX6dLnAI3v83A==</FRMA></CAF><TSTED>2019-01-07T10:12:09</TSTED></DD><FRMT algoritmo="SHA1withRSA">uzYFJX5G8nbkGy9IOB9XGu1UM4rzFDTSx4hOH/3komDLV9zNfL8w2oCS7PdkuZyZkUztguTjHtqZvYL3nTFycQ==</FRMT></TED>
+    <TmstFirma>2019-01-07T10:12:09</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76558008-11943">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>klcBbEjASVElP/sOXkKWFqaTWPM=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+kdtHCfQ3iYzhLBX6ViBU/rxBun/aM3he3CUGG6FuDajewzt5F72fhhrWkoSjzZMc4g4u6c2NWpqi
+rZpaNlmilYsi13GEbOY324S9MwHPAGeuIeu+vGOLK3bi36xSWHZIK8X/IbPCJhltsoOx0pgC+UM7
+ByNYRTj2m3e3y466218=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+lTwC4M8iSIklHdgngV4ZPB0CimEyBJmEhI790dDoOi6rbR6yxcO1jqj3ObPWrLUMIVIVDsMxRNeL
+SZSLK0QdxVNQbDwSkr6plyV6GnCnEG63uGJ+H/M9358A60BvAIocbKy9BLPcv2Ga++NhbWPap90P
+WwiuzpuPyGAVQQQHM+8=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGSDCCBTCgAwIBAgIKJEfgXgAAAASVkTANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNjA3MjYxMzMyMzVaFw0xOTA3MjYxMzMyMzVa
+MIHLMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMSQwIgYDVQQKExtGRVJOQU5ETyBKRVNVUyBCUkFWTyBSSVZFUkExCjAI
+BgNVBAsMASoxJDAiBgNVBAMTG0ZFUk5BTkRPIEpFU1VTIEJSQVZPIFJJVkVSQTEsMCoGCSqGSIb3
+DQEJARYdai5mdWVudGVzQHNlcnZpY2lvY29udGFibGUuY2wwgZ8wDQYJKoZIhvcNAQEBBQADgY0A
+MIGJAoGBAJU8AuDPIkiJJR3YJ4FeGTwdAophMgSZhISO/dHQ6Douq20essXDtY6o9zmz1qy1DCFS
+FQ7DMUTXi0mUiytEHcVTUGw8EpK+qZclehpwpxBut7hifh/zPd+fAOtAbwCKHGysvQSz3L9hmvvj
+YW1j2qfdD1sIrs6bj8hgFUEEBzPvAgMBAAGjggKnMIICozALBgNVHQ8EBAMCBPAwHQYDVR0OBBYE
+FAuhR/rqH6k+YZyX2EpjXtWEWk/5MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4G
+A1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVT
+LmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUu
+Y2wvb2NzcDA9BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGB
+mucVhq/gFQIBZAIBBDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA4MzEyMDgwLTAwIwYDVR0S
+BBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8BggrBgEE
+AcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB
+/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBhACAAUwBp
+AG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4AIABmAG8A
+cgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8AIABoAGEAYgBp
+AGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIAYQAgAHUA
+cwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEAbTS7zUTCEIrrFx75
+M2kvbovLuX0298U0olEqhWV/UTZPuH8mc1oe7F8fm4yRa0QaJo0L5DydLwf1ZuoXsYznRBO9AXRe
+cClSAf9UcaoXtHkjQwlgHZPPAkdYDd0Nbcavu+SC95RxrsBujsJL+TgRqcL1GkeCN2A5zJup4meg
+MHPu0ByL/cPtgR7WAwzknJQj/pYGTq23OEGysrnMmOBuuso1bN8tW0dwPRyhF8FVERclMKiRpaTH
+9wTu+3HlwxAwlpC1nog+dydYfC+jADye7ySZKwnFwfhtPE3hfp1G7bxfSzBDqjEZ22/rxYc0Keae
+Sgnq3C6L7OGEE96L736XQw==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#SDTE696411393">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>Jufm+4gxucEQlaM8ZLcQ3Xrc0YA=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>Ccdw0Vz4iVz3gYrH51z/jSoZjnpZ8K7btU7+BBx78bBf80q+GV3vvFajjMpuyZf3
+6wzGEdX1gjSPlvSbxPfviLBPo2yUfR7HDaEAXN6BnSr7031UKXRZUjplvcia9W8M
+DJPJXmkL72KUMrT6ZRtmDyB4p/Dby5DQ1KDCALqoLTwqPn0t2g/Sg6zd2EFUYwiz
+PBs3UpaTgAeRVxOavMQBHmHSp8BKvmWmanHc3QdlMYWygbTbTPKkzoqPJJrI/cYU
+hdWDZZQehS2uVIRlsyWxMOFPt4eTeFk6jXWInikX7zSqESvp0xGa1X2ahV7mrUFn
+niLuZwlAB5hyFJ/VONiSWg==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+vUSZwnTtsvIdpQ5q2hq53klOqJpf4xEXdId5mZBsDiCC7rYW17IXZsRmULwNbg80
+I+8op1lw3tG/f7wnAD70SbiF+XtAmpDtFWxBuifOA7yt5LQ61UYeZUumdBhcoWGP
+FXXmQCHHEyhZzl264AhbyKhReae6+KG1tk3YDcdNXwCbzdp90+3r4Jj9iNgxKpE3
+KWYmJQtQ9mWqZlDKVef1PdHzVtALOJrI72hG6A4FV9tGRQ8xluTByCqw+hx4fkXZ
+irF1DT3uQsF3l79nGrtU6520DRTPoNWimzUkeVsEp8auTbU6KMjj4Umk4rbVo5kw
+gRP4WlsONi0RBkMa7uRsnQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIEZDCCA0ygAwIBAgIBRDANBgkqhkiG9w0BAQUFADCBpTEUMBIGA1UEAxMLU0lJ
+LUNBLTIwMTM
+xGjAYBgNVBAcTEVNhbnRpYWdvIGRlIENoaWxlMR0wGwYDVQQIExRS
+ZWdpb24gTWV0cm9wb2xpdG
+FuYTELMAkGA1UEBhMCQ0wxHDAaBgkqhkiG9w0BCQEW
+DXNpaS1jYUBzaWkuY2wxJzAlBgNVBAoTH
+lNlcnZpY2lvIGRlIEltcHVlc3RvcyBJ
+bnRlcm5vczAeFw0xNzAzMjIxNjMwMjdaFw0xOTAzMjIx
+NjMwMjdaMIHRMSQwIgYD
+VQQLExtTdWJkaXJlY2Npb24gZGUgSW5mb3JtYXRpY2ExJzAlBgNVBAo
+THlNlcnZp
+Y2lvIGRlIEltcHVlc3RvcyBJbnRlcm5vczELMAkGA1UEBhMCQ0wxHTAbBgNVBAgT
+F
+FJlZ2lvbiBNZXRyb3BvbGl0YW5hMRowGAYDVQQHExFTYW50aWFnbyBkZSBDaGls
+ZTEeMBwGCSqG
+SIb3DQEJARYPbWxhY29zdGVAc2lpLmNsMRgwFgYDVQQDEw9GQUNU
+VVJBQ0lPTiBTSUkwggEiMA0
+GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9RJnC
+dO2y8h2lDmraGrneSU6oml/jERd0h3mZkG
+wOIILuthbXshdmxGZQvA1uDzQj7yin
+WXDe0b9/vCcAPvRJuIX5e0CakO0VbEG6J84DvK3ktDrVR
+h5lS6Z0GFyhYY8VdeZA
+IccTKFnOXbrgCFvIqFF5p7r4obW2TdgNx01fAJvN2n3T7evgmP2I2DEq
+kTcpZiYl
+C1D2ZapmUMpV5/U90fNW0As4msjvaEboDgVX20ZFDzGW5MHIKrD6HHh+RdmKsXUN
+Pe
+5CwXeXv2cau1TrnbQNFM+g1aKbNSR5WwSnxq5NtTooyOPhSaTittWjmTCBE/ha
+Ww42LREGQxru5
+GydAgMBAAGjcTBvMAkGA1UdEwQCMAAwPQYDVR0RBDYwNKAYBggr
+BgEEAcEBAaAMEwo0ODA4MDE1
+NS01oBgGCCsGAQQBwQEDoAwTCjYwODAzMDAwLUsw
+IwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMEwo
+2MDgwMzAwMC1LMA0GCSqGSIb3DQEB
+BQUAA4IBAQCltLIBMlvpHbdSttl+QC6pZPBsl2U2VKLThg
+IEE4lCDGCIB7UoPb3k
+evEY2AepxKxNy64SvqXKpsXwfRIcdudcQOIIhk77WnsWP3x0HiyAqmn4U
+Ri7DNa0
+Hk4bcQXsdAGHGYqPUisQltPeaqzoGyhlATLfo8XyaMeB3/1jlAGyWaczWCP8Fv40
+rO4
+QEUqIqUf5XFeC2TiJPfFp/LB5zYkZKNeAVnqZXZtQAaRHrqxnDd4DNy8BAe6c
+Al/YZsDh/1JWRb
+gySVQK2M4HOU172feqEGkLOoy3bcMSKxj9Wqxsjg3kzcm+Uo0F
+ymekuMCa1XFJ1OWVu0E2zB2Xp
+dIMZTjU
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>

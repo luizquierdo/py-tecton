@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+ <Documento ID="S20160227T033F0000683520">
+  <Encabezado>
+   <IdDoc>
+    <TipoDTE>33</TipoDTE>
+    <Folio>683520</Folio>
+    <FchEmis>2016-02-27</FchEmis>
+    <IndServicio>2</IndServicio>
+    <FmaPago>2</FmaPago>
+    <PeriodoDesde>2016-01-25</PeriodoDesde>
+    <PeriodoHasta>2016-02-24</PeriodoHasta>
+    <FchVenc>2016-03-14</FchVenc>
+   </IdDoc>
+   <Emisor>
+    <RUTEmisor>96992030-1</RUTEmisor>
+    <RznSoc>Sociedad Concesionaria Vespucio Norte Express S.A.</RznSoc>
+    <GiroEmis>Obras De Ingenieria</GiroEmis>
+    <Acteco>452020</Acteco>
+    <CdgSIISucur>60201347</CdgSIISucur>
+    <DirOrigen>AMERICO VESPUCIO ORIENTE 1305</DirOrigen>
+    <CmnaOrigen>PUDAHUEL</CmnaOrigen>
+    <CiudadOrigen>SANTIAGO</CiudadOrigen>
+   </Emisor><Receptor>
+    <RUTRecep>76407152-2</RUTRecep>
+    <CdgIntRecep>1101881034</CdgIntRecep>
+    <RznSocRecep>Sres. HLI CONTRUCCIONES SPA</RznSocRecep>
+    <GiroRecep>CONTRUCION .</GiroRecep>
+    <Contacto>facturacion@facturachile.cl;raracena@hli.cl</Contacto>
+    <DirRecep>ISIDORA GOYNECHEA 3356 OFICINA 41</DirRecep>
+    <CmnaRecep>LAS CONDES</CmnaRecep>
+    <CiudadRecep>SANTIAGO</CiudadRecep>
+    <DirPostal>ISIDORA GOYENECHEA 3356</DirPostal>
+    <CmnaPostal>LAS CONDES</CmnaPostal>
+    <CiudadPostal>SANTIAGO</CiudadPostal>
+   </Receptor>
+   <Totales>
+    <MntNeto>463</MntNeto>
+    <MntExe>5525</MntExe>
+    <TasaIVA>019.00</TasaIVA>
+    <IVA>88</IVA>
+    <MntTotal>6076</MntTotal>
+   </Totales>
+  </Encabezado>
+  <Detalle>
+   <NroLinDet>1</NroLinDet>
+   <IndExe>1</IndExe>
+   <NmbItem>Peaje Autopista Vespucio Norte</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>4386</PrcItem>
+   <MontoItem>4386</MontoItem>
+  </Detalle>
+  <Detalle>
+   <NroLinDet>2</NroLinDet>
+   <IndExe>1</IndExe>
+   <NmbItem>Peaje Túnel San Cristóbal</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>983</PrcItem>
+   <MontoItem>983</MontoItem>
+  </Detalle>
+  <Detalle>
+   <NroLinDet>3</NroLinDet>
+   <IndExe>1</IndExe>
+   <NmbItem>Interés por Mora</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>156</PrcItem>
+   <MontoItem>156</MontoItem>
+  </Detalle>
+  <Detalle>
+   <NroLinDet>4</NroLinDet>
+   <NmbItem>Arriendo Televía</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>463</PrcItem>
+   <MontoItem>463</MontoItem>
+  </Detalle>
+<TED version="1.0"><DD><RE>96992030-1</RE><TD>33</TD><F>683520</F><FE>2016-02-27</FE><RR>76407152-2</RR><RSR>Sres. HLI CONTRUCCIONES SPA</RSR><MNT>6076</MNT><IT1>Peaje Autopista Vespucio Norte</IT1><CAF version="1.0"><DA><RE>96992030-1</RE><RS>SOC CONCESIONARIA VESPUCIO NORTE EXPRESS</RS><TD>33</TD><RNG><D>599004</D><H>723503</H></RNG><FA>2015-09-11</FA><RSAPK><M>1ALrQOl1/P37bRO+yqfDv3n02AmLt1qSGdOvQoOAPflMjshNtDMpmJh88ZpRn1HjKS2eabrC+hsxBs5IjIU/iQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">cEkoYHayU91hzMs4nGpzwzGwTVPE3HR9DE+gw4gI7wIzlBFlEHEI7ggPGZGdN5nfFY1bZxV8YT91iRHMsH+7gw==</FRMA></CAF><TSTED>2016-02-27T03:38:05</TSTED></DD><FRMT algoritmo="SHA1withRSA">olA8cRDwjnRPvvCQpiVbzCqx0jOzCWGfnonlvuIvGlJeCP5i4RSZ7mguIszukLG0ml6IvIh9mK5s
+HncBo7uc3Q==
+</FRMT></TED>
+<TmstFirma>2016-02-27T03:38:05</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+    <Reference URI="#S20160227T033F0000683520">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+      <DigestValue>+HAa8n7WosxTbcQGudNtZqYt0lk=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    klh5H6kd/upogIBpGMicOieG/63YX5r/CSs99A5CV2PyJmXO9/XeaDcTmFMgYFZt
+    pWdkx9myGZjLJYmvwjmMnehnPWqGz8fVlee3GxJuLYJvcn0TwcBYb/FpZafps1Du
+    kpIZtXUU2QJ32TU8hyVs2nIiZfwLhSM4aj8BKD5EnoM=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          lb0u1E7OtBMKNkYwD10zCBMKfV68fSUBSgcGnNPwnuP+nzCFmav96qRn1pPm+0hw
+          J9tfmkVDHPZc2GECQmsRfKbndhgi0KjOioa40lV6wYH3sNOMvtIEc5pdGHAnbBn4
+          E/texB4yfq8wxe7GVKITdxhv8OUDpQz/yoN0rkmsKqk=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGezCCBWOgAwIBAgIKTRceGgAAAAFlsDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNDA2MzAxMzQ3MzhaFw0xNzA2MjkxMzQ3MzhaMIH9
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMTwwOgYDVQQKEzNTb2NpZWRlZCBDb25jZXNp
+        b25hcmlhIHZlc3B1Y2lvIE5vcnRlIEV4cHJlc3MgUy4gQS4xLDAqBgNVBAsTI0V4
+        cGxvdGFjaW9uIGRlIG9icmFsIHB1YmxpY2EgRmlzY2FsMSowKAYDVQQDEyFNYW51
+        ZWwgQW50b25pbyAgVmVyZHVnbyAgT3JlbGxhbmExHjAcBgkqhkiG9w0BCQEWD212
+        ZXJkdWdvQHZuZS5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlb0u1E7O
+        tBMKNkYwD10zCBMKfV68fSUBSgcGnNPwnuP+nzCFmav96qRn1pPm+0hwJ9tfmkVD
+        HPZc2GECQmsRfKbndhgi0KjOioa40lV6wYH3sNOMvtIEc5pdGHAnbBn4E/texB4y
+        fq8wxe7GVKITdxhv8OUDpQz/yoN0rkmsKqkCAwEAAaOCAqgwggKkMAsGA1UdDwQE
+        AwIE8DAdBgNVHQ4EFgQUXihlxaHPZfvQ7EbM8pWK2ywWFR4wHwYDVR0jBBgwFoAU
+        eOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2Ny
+        bC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDsGCCsGAQUFBwEB
+        BC8wLTArBggrBgEFBQcwAYYfaHR0cDovL29jc3AuaW50ZXJjYXBpdC5jb20vb2Nz
+        cDA9BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/s
+        PGGBmucVhq/gFQIBZAIBBDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjEyNjg1
+        NDI2LTkwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYD
+        VR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6
+        Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8egewA
+        QwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABsAGUA
+        LgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4AIABmAG8A
+        cgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8A
+        IABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEA
+        ZABvACAAcABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkq
+        hkiG9w0BAQUFAAOCAQEAg14cMYQgMgNBXVmrN00iBtJKvzAQUmnmLuWW13XubWYw
+        SD1BXE8NqCOjb+H/4ZSlOt2+0v7mqtffbqD6fEcxAaldxeJtdivwNC/lt+H8ZgSZ
+        I0mEgyEmeeq+OuYB/QBqn7J24193NRTF1aVGinn454sfd/z2b6msa4J2Ftcu3jrY
+        fbSXj+YAX1KNW4fURJB80xZes9FX9Rn9yLavLX7lmZZKdgo/QHWhScKJd/h0ogdo
+        8+qZbxS9JQRq8GPxAtQoUGeqgA/mfJnnzgOuO0v+kqJ9cbzwycRhjgOjWsqy/U6O
+        H5Ip57dOfjmqdqrzGsSKMFBT8ZLafvWf+VGnSlUdKQ==
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature>
+</DTE>

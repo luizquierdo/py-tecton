@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EDTE6518258D528027643">
+<Caratula version="1.0">
+<RutEmisor>96992030-1</RutEmisor>
+<RutEnvia>12685426-9</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2006-01-17</FchResol>
+<NroResol>6</NroResol>
+<TmstFirmaEnv>2019-02-02T06:59:36</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+
+<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+ <Documento ID="S20190129T033F0001525267">
+  <Encabezado>
+   <IdDoc>
+    <TipoDTE>33</TipoDTE>
+    <Folio>1525267</Folio>
+    <FchEmis>2019-01-26</FchEmis>
+    <IndServicio>2</IndServicio>
+    <FmaPago>2</FmaPago>
+    <PeriodoDesde>2018-12-19</PeriodoDesde>
+    <PeriodoHasta>2019-01-24</PeriodoHasta>
+    <FchVenc>2019-02-11</FchVenc>
+   </IdDoc>
+   <Emisor>
+    <RUTEmisor>96992030-1</RUTEmisor>
+    <RznSoc>Sociedad Concesionaria Vespucio Norte Express S.A.</RznSoc>
+    <GiroEmis>CONSTRUCCION DE CARRETERAS Y LINEAS DE FERROCARRIL</GiroEmis>
+    <Acteco>421000</Acteco>
+    <CdgSIISucur>60201347</CdgSIISucur>
+    <DirOrigen>AMERICO VESPUCIO ORIENTE 1305</DirOrigen>
+    <CmnaOrigen>PUDAHUEL</CmnaOrigen>
+    <CiudadOrigen>SANTIAGO</CiudadOrigen>
+   </Emisor><Receptor>
+    <RUTRecep>76407152-2</RUTRecep>
+    <CdgIntRecep>1101881034</CdgIntRecep>
+    <RznSocRecep>Sres. CONSTRUCTORA TECTON SPA</RznSocRecep>
+    <GiroRecep>CONTRUCION</GiroRecep>
+    <Contacto>pedro@hydrogroup.cl;raracena@hli.cl</Contacto>
+    <DirRecep>ISIDORA GOYNECHEA 3356 OFICINA 41</DirRecep>
+    <CmnaRecep>LAS CONDES</CmnaRecep>
+    <CiudadRecep>SANTIAGO</CiudadRecep>
+    <DirPostal>AV. PROVIDENCIA N° 2330,</DirPostal>
+    <CmnaPostal>PROVIDENCIA</CmnaPostal>
+    <CiudadPostal>SANTIAGO</CiudadPostal>
+   </Receptor>
+   <Totales>
+    <MntNeto>2367</MntNeto>
+    <MntExe>94381</MntExe>
+    <TasaIVA>019.00</TasaIVA>
+    <IVA>450</IVA>
+    <MntTotal>97198</MntTotal>
+   </Totales>
+  </Encabezado>
+  <Detalle>
+   <NroLinDet>1</NroLinDet>
+   <IndExe>1</IndExe>
+   <NmbItem>Peaje Autopista Vespucio Norte</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>89110</PrcItem>
+   <MontoItem>89110</MontoItem>
+  </Detalle>
+  <Detalle>
+   <NroLinDet>2</NroLinDet>
+   <IndExe>1</IndExe>
+   <NmbItem>Peaje Túnel San Cristóbal</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>5271</PrcItem>
+   <MontoItem>5271</MontoItem>
+  </Detalle>
+  <Detalle>
+   <NroLinDet>3</NroLinDet>
+   <NmbItem>Arriendo Televía</NmbItem>
+   <QtyItem>1</QtyItem>
+   <PrcItem>2741</PrcItem>
+   <MontoItem>2741</MontoItem>
+  </Detalle>
+  <DscRcgGlobal>
+   <NroLinDR>1</NroLinDR>
+   <TpoMov>D</TpoMov>
+   <GlosaDR>Descuento Arriendo Televía</GlosaDR>
+   <TpoValor>$</TpoValor>
+   <ValorDR>374</ValorDR>
+  </DscRcgGlobal>
+<TED version="1.0"><DD><RE>96992030-1</RE><TD>33</TD><F>1525267</F><FE>2019-01-26</FE><RR>76407152-2</RR><RSR>Sres. CONSTRUCTORA TECTON SPA</RSR><MNT>97198</MNT><IT1>Peaje Autopista Vespucio Norte</IT1><CAF version="1.0"><DA><RE>96992030-1</RE><RS>SOC CONCESIONARIA VESPUCIO NORTE EXPRESS</RS><TD>33</TD><RNG><D>1491428</D><H>1729427</H></RNG><FA>2018-12-19</FA><RSAPK><M>4SBLGtPNcl2G8kYypDHgnyaqlzcZRCIChoZI4aakk5g0B0GRV+3TOJkhInNxwJEA1dvum/b0R+Mrlnp74XVZ7w==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">I9H+sj5XWkx4EWEBxHCazgWqXWqEfD9nou8Gie/SmL+eTRM0F2fkYl/EEPU3yBSod8iRHplRoQkg8if/xuSIMw==</FRMA></CAF><TSTED>2019-01-29T08:30:10</TSTED></DD><FRMT algoritmo="SHA1withRSA">nZ5A4gMqjxH4uUGTc6XIffaCfzNiG21nkmgu9DSLLcxXUVo96x8XeUBhyysnASsdv6LY0bOrbb1P
+Dc3+8cUl+w==
+</FRMT></TED>
+<TmstFirma>2019-01-29T08:30:10</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#S20190129T033F0001525267">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>+OEH240M4PuOlw8u28UMPid2pI8=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    Hn2yCqV9beDKk6UASV+xclIJHQXb+AUA8arsnYOnnVUAypKa37cy2rkYcYeFRN0i
+    3n9lLhPzbuklaMlEUijAXRyqsZ4cgZ3CMwe86rrOOnBvjYkS0y9l7EKLQTxVM4U2
+    cDQHW1v0M4RafNlFlLDbS+R82WAURY6vZW12UfaOx6o=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          xBSiDBcFRxTThWywiqT9aHFAYoGu80chn6rtzq42bJGle+i3X15Tx6+ZUgVy6Klk
+          3DK9oiKJuem1LEc+E8p5fvPpkJU22ofDZ2gX7rH6+wyP75sTgtEkcWZUPa2X1V18
+          gxG1O7WB3F3zG6AVU3X58VYcDHVCbPQDqn+yc/fMdR8=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGezCCBWOgAwIBAgIKHjAQkgAAAAgeGDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNzA2MTIyMTMwMzRaFw0yMDA2MTEyMTMwMzRaMIH+
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMTYwNAYDVQQKEy1Tb2NpZWRhZCBDb25jZXNp
+        b25hcmlhIFZlc3B1Y2lvIEV4cHJlc3MgUy4gQS4xKzApBgNVBAsMIkV4cGxvdGFj
+        acOzbiBkZSBPYnJhIFB1YmxpY2EgRmljYWwxKDAmBgNVBAMTH01hbnVlbCBBbnRv
+        bmlvIFZlcmR1Z28gT3JlbGxhbmExKDAmBgkqhkiG9w0BCQEWGW12ZXJkdWdvQHZl
+        c3B1Y2lvbm9ydGUuY2wwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMQUogwX
+        BUcU04VssIqk/WhxQGKBrvNHIZ+q7c6uNmyRpXvot19eU8evmVIFcuipZNwyvaIi
+        ibnptSxHPhPKeX7z6ZCVNtqHw2doF+6x+vsMj++bE4LRJHFmVD2tl9VdfIMRtTu1
+        gdxd8xugFVN1+fFWHAx1Qmz0A6p/snP3zHUfAgMBAAGjggKnMIICozA9BgkrBgEE
+        AYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiC
+        WAIBZAIBBDAdBgNVHQ4EFgQUFMhACEvEC8idQdQzbEf+reKp0T8wCwYDVR0PBAQD
+        AgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUw
+        M6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVT
+        LmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVj
+        ZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjEyNjg1
+        NDI2LTkwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYD
+        VR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6
+        Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8egewA
+        QwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABsAGUA
+        LgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4AIABmAG8A
+        cgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8A
+        IABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEA
+        ZABvACAAcABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkq
+        hkiG9w0BAQUFAAOCAQEAhW665g3GusVk+YpiiZLSKBY9riLoxoX6CUAVfOONaEsQ
+        btfpseugw4Srl2qdRG19yXyRAGDo8qO4vA+X4PKvxIAZzJlkiY/KebiFHmzO4CQl
+        kLvZD38JCi6LxkP2BDO7C8b8qTctPNoo1/mU+Qiex2C+u4OPNhiKXGdGzwXL/+OJ
+        usM9Zqf0MSk1WV72gvCmM2QbkgmsxXpAx5885irerDP5ri2HD59gLc2JlQeJ2CkS
+        N+lOm3PXuoyxf8HHiOwC3ODcP0sPG928W7cR1P4I3ML77zpEKc6oKM4XQSp/a6eF
+        AmLW77ajUX+iScj+ofilfw9c99lFGWA0muTocTvUBA==
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature>
+</DTE>
+
+</SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#EDTE6518258D528027643">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>LQ4MDjg4QtYSyVdBal5QkSl7ZWI=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    gtqyIRHnm6UmcwSbEA/A6E5kEkwXdQgDDWMa/5J9HugHaXWKUQfeZ4NTZgt5k+af
+    Cei+f6YDDHeoaIfmEh+V8ukkvedE1NFtWsPP6UpaBKKbODTWFNPIKVlsr8pGRYVK
+    6TFzWVH4u3AtQW3COAk86RnuIgErfwizsojDczv0v3s=
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          xBSiDBcFRxTThWywiqT9aHFAYoGu80chn6rtzq42bJGle+i3X15Tx6+ZUgVy6Klk
+          3DK9oiKJuem1LEc+E8p5fvPpkJU22ofDZ2gX7rH6+wyP75sTgtEkcWZUPa2X1V18
+          gxG1O7WB3F3zG6AVU3X58VYcDHVCbPQDqn+yc/fMdR8=
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGezCCBWOgAwIBAgIKHjAQkgAAAAgeGDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+        A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+        EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+        aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+        QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+        LWNlcnRjaGlsZS5jbDAeFw0xNzA2MTIyMTMwMzRaFw0yMDA2MTEyMTMwMzRaMIH+
+        MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+        TyAxETAPBgNVBAcTCFNhbnRpYWdvMTYwNAYDVQQKEy1Tb2NpZWRhZCBDb25jZXNp
+        b25hcmlhIFZlc3B1Y2lvIEV4cHJlc3MgUy4gQS4xKzApBgNVBAsMIkV4cGxvdGFj
+        acOzbiBkZSBPYnJhIFB1YmxpY2EgRmljYWwxKDAmBgNVBAMTH01hbnVlbCBBbnRv
+        bmlvIFZlcmR1Z28gT3JlbGxhbmExKDAmBgkqhkiG9w0BCQEWGW12ZXJkdWdvQHZl
+        c3B1Y2lvbm9ydGUuY2wwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMQUogwX
+        BUcU04VssIqk/WhxQGKBrvNHIZ+q7c6uNmyRpXvot19eU8evmVIFcuipZNwyvaIi
+        ibnptSxHPhPKeX7z6ZCVNtqHw2doF+6x+vsMj++bE4LRJHFmVD2tl9VdfIMRtTu1
+        gdxd8xugFVN1+fFWHAx1Qmz0A6p/snP3zHUfAgMBAAGjggKnMIICozA9BgkrBgEE
+        AYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiC
+        WAIBZAIBBDAdBgNVHQ4EFgQUFMhACEvEC8idQdQzbEf+reKp0T8wCwYDVR0PBAQD
+        AgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUw
+        M6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVT
+        LmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVj
+        ZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjEyNjg1
+        NDI2LTkwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYD
+        VR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6
+        Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8egewA
+        QwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABsAGUA
+        LgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4AIABmAG8A
+        cgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8A
+        IABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEA
+        ZABvACAAcABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkq
+        hkiG9w0BAQUFAAOCAQEAhW665g3GusVk+YpiiZLSKBY9riLoxoX6CUAVfOONaEsQ
+        btfpseugw4Srl2qdRG19yXyRAGDo8qO4vA+X4PKvxIAZzJlkiY/KebiFHmzO4CQl
+        kLvZD38JCi6LxkP2BDO7C8b8qTctPNoo1/mU+Qiex2C+u4OPNhiKXGdGzwXL/+OJ
+        usM9Zqf0MSk1WV72gvCmM2QbkgmsxXpAx5885irerDP5ri2HD59gLc2JlQeJ2CkS
+        N+lOm3PXuoyxf8HHiOwC3ODcP0sPG928W7cR1P4I3ML77zpEKc6oKM4XQSp/a6eF
+        AmLW77ajUX+iScj+ofilfw9c99lFGWA0muTocTvUBA==
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature></EnvioDTE>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F12198966">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>12198966</Folio>
+            <FchEmis>2016-02-12</FchEmis>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76568660-1</RUTEmisor>
+            <RznSoc>EASY RETAIL S A</RznSoc>
+            <GiroEmis>Comercial</GiroEmis>
+            <Acteco>521300</Acteco>
+            <DirOrigen>Av. Kennedy 9001, Piso 6</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+            <CdgVendedor>13480176</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCIONES</GiroRecep>
+            <DirRecep>AVDA PROVIDENCIA2330</DirRecep>
+            <CmnaRecep>STGO</CmnaRecep>
+            <DirPostal/>
+            <CmnaPostal/>
+          </Receptor>
+          <Totales>
+            <MntNeto>37450</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>7116</IVA>
+            <MntTotal>44566</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>789126556763</VlrCodigo>
+          </CdgItem>
+          <NmbItem>SOPORTE P S XA2</NmbItem>
+          <QtyItem>1.00</QtyItem>
+          <PrcItem>25621.848739</PrcItem>
+          <MontoItem>25622</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>235156</VlrCodigo>
+          </CdgItem>
+          <NmbItem>TUB T III 20MMX6MT</NmbItem>
+          <QtyItem>4.00</QtyItem>
+          <PrcItem>1071.428571</PrcItem>
+          <MontoItem>4286</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>3</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>EAN13</TpoCodigo>
+            <VlrCodigo>118565</VlrCodigo>
+          </CdgItem>
+          <NmbItem>METALCON ESTRUCT U</NmbItem>
+          <QtyItem>3.00</QtyItem>
+          <PrcItem>2514.285714</PrcItem>
+          <MontoItem>7543</MontoItem>
+        </Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>76568660-1</RE>
+            <TD>33</TD>
+            <F>12198966</F>
+            <FE>2016-02-12</FE>
+            <RR>76407152-2</RR>
+            <RSR>HLI CONSTRUCCIONES SPA</RSR>
+            <MNT>44566</MNT>
+            <IT1>SOPORTE P S XA2   </IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76568660-1</RE>
+                <RS>EASY RETAIL S.A. .-</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>12000001</D>
+                  <H>12570000</H>
+                </RNG>
+                <FA>2016-01-28</FA>
+                <RSAPK>
+                  <M>3NdO7NoOflq4nXTKIxkkvZNYOg8GjTPhGhfSiI01HnU7+CTtmshLYszku5cA2Xw6gKhXbc0MwkXnBLQgZeYgkw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">VVs/XD3BgCGEk9w8vs3bgfJYCfl5qUXuzhFqCXAB9o1jTf92TPuBxf9SWkhgrdTn1njdlT+kw3bHUXPdxluVxg==</FRMA>
+            </CAF>
+            <TSTED>2016-02-12T09:32:25</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">ybaLyx4oZvn7thTvmApOu3B0omFyaEs2LQHoRNKikPXKP+evzU01I0cdQlnoUI6kqE2XriyBjELG
+WYEGXtfWCw==</FRMT>
+        </TED>
+        <TmstFirma>2016-02-12T09:32:25</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<Reference URI="#T33F12198966">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<DigestValue>cp4lRRt3EyrjJTsdCN/+EADoAeg=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>CaSMVSbL08A/VKVDl4S/IQBs7qKQ1BVS+/zpqJ7ag23pif0Zp1yJWney47ucVqJJMLJS2MIoxCxZ
+/skeAcy4BjtqxHASm8gclG6NiSm4Xs3c47FIkT+0ZAitz+/guicJDf/xeHjWRhBUOb5ULy3taeDb
+4D5mXUyebWTv2CTfv9tLTO8X8VuyISYu9EHwcuJ7m/Cq4GEgP7MCWxG21ul5nYOHzbIwtJcg5RAh
+i6lZNveSUXo+PJAkZb81PbgyOSqynx3HMDOz8KKaiAL5jO3/ATEHEOJD/26ibOSA6n9Q0wFiE2Q8
+jWmVQVoc+FGoRCoNgZVRDJSKmRf1MTFH/KJyRg==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>hyQYMgoP96GHgmnq2+2QXGLS1Zp50NN1pImqNF6yKEyqBG3Fbisa7asRmvuZtOnRLBkrLusp0nna
+aN/iyV/AOuPWgbGFxYqgDl4f8AH96FI7i+lB2E6wf3VyTNZAGzcVHPLQyZ4KV8d/lCpFsLpYQmiR
+HIqnqxPCcyMs7HNwIylkyGTZm/ckHG3E9NpnOnge3r61Eq0T8uIH65LFzBgvfSwnwbP9dINveSot
+J1zd4VkmHBUGfoGxYu8XY5r1Bp2qXdeF/Oa8YqddwSiUGZD1u2CapGde/05Bet76hTrFgVVlhT/j
+C9sHl1LTIkdrWtZX0VmftlBmRGxdaBvzLen/VQ==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIF6TCCBNGgAwIBAgICGc0wDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMiBQZXJzb25hIE5hdHVyYWwgLSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE2MDExODE1NTgzMloXDTE5MDExODE1
+NTgzMlowgZIxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKDAmBgNVBAMT
+H1JPRFJJR08gQ1JJU1RJQU4gTEFSUkFJTiBLQVBMQU4xKjAoBgkqhkiG9w0BCQEWG3JvZHJpZ28u
+bGFycmFpbkBjZW5jb3N1ZC5jbDETMBEGA1UEBRMKMTA5NzMxMzktMDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAIckGDIKD/ehh4Jp6tvtkFxi0tWaedDTdaSJqjResihMqgRtxW4rGu2r
+EZr7mbTp0SwZKy7rKdJ52mjf4slfwDrj1oGxhcWKoA5eH/AB/ehSO4vpQdhOsH91ckzWQBs3FRzy
+0MmeClfHf5QqRbC6WEJokRyKp6sTwnMjLOxzcCMpZMhk2Zv3JBxtxPTaZzp4Ht6+tRKtE/LiB+uS
+xcwYL30sJ8Gz/XSDb3kqLSdc3eFZJhwVBn6BsWLvF2Oa9Qadql3XhfzmvGKnXcEolBmQ9btgmqRn
+Xv9OQXre+oU6xYFVZYU/4wvbB5dS0yJHa1rWV9FZn7ZQZkRsXWgb8y3p/1UCAwEAAaOCAjEwggIt
+MB8GA1UdIwQYMBaAFEAkGj2pMXqFd3o9nnKTOYTlQDgZMB0GA1UdDgQWBBSmYGQBII2w6e0u0Fbb
+MvVPcCCVDDALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCG
+SAGG+EIBAQQEAwIFoDBuBgNVHSAEZzBlMGMGCisGAQQBtWuHagowVTAoBggrBgEFBQcCARYcaHR0
+cDovL3d3dy5hY2VwdGEuY29tL0NQUy1HMzApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5B
+LjADAgEJGgNUQkQwWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUF
+BwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBmBgNVHREEXzBd
+oBgGCCsGAQQBwQEBoAwWCjEwOTczMTM5LTCgJAYIKwYBBQUHCAOgGDAWDAoxMDk3MzEzOS0wBggr
+BgEEAcEBAoEbcm9kcmlnby5sYXJyYWluQGNlbmNvc3VkLmNsMD8GCCsGAQUFBwEBBDMwMTAvBggr
+BgEFBQcwAYYjaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTNCaW8tRzMwNwYDVR0fBDAwLjAs
+oCqgKIYmaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNlM0Jpby1HMy5jcmwwDQYJKoZIhvcNAQEF
+BQADggEBADCDeesrjKQxQSzOVp+uZjmzcSXUh+SXA2K7hASiYZLm7umb/dxrV2xCa6cWt/5rIQv8
+ivhqcu78ShBhH3h9NZitpqPeO2uhz7ZJ5nOp+kzOwYI71INJ28AyL6G8Z2X5eQqBRC63U0QsJ3f4
+AHdnJ5E+wwRNd4IKGvyf//7sPej0NTPDpAMvx401bmzkwJhMMGaSHrnrQxEqYAU6tu4qo4+QQmtJ
+T5wpvKsukHB2ahgbTaQv+hOOBj5r3KzkiiNCIMQP+N3OLRObIT6fQUpB+AhglyhgJlLbw/h+nPaz
+PY+WmtRG6PgABy8xRNo+M8/am9+zibTFg5dgyuDQ0XD6eoA=</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE>

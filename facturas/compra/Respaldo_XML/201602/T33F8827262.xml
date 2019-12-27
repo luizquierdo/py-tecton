@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+      <Documento ID="F8827262T33">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>8827262</Folio>
+            <FchEmis>2016-02-11</FchEmis>
+            <FmaPago>2</FmaPago>
+            <FchVenc>2016-03-12</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>96556940-5</RUTEmisor>
+            <RznSoc>PROVEEDORES INTEGRALES PRISA S A</RznSoc>
+            <GiroEmis>Compra y Venta de Articulos de Oficina</GiroEmis>
+            <Acteco>3131</Acteco>
+            <DirOrigen>Las Rosas 5757</DirOrigen>
+            <CmnaOrigen>Cerrillos</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCION</GiroRecep>
+            <Contacto>0</Contacto>
+            <DirRecep>PROVIDENCIA 2330</DirRecep>
+            <CmnaRecep>OFICINA 63</CmnaRecep>
+            <CiudadRecep>PROVIDENCIA</CiudadRecep>
+            <DirPostal>PROVIDENCIA 2330</DirPostal>
+            <CmnaPostal>OFICINA 63</CmnaPostal>
+            <CiudadPostal>PROVIDENCIA</CiudadPostal>
+          </Receptor>
+          <Totales>
+            <MntNeto>26600</MntNeto>
+            <TasaIVA>19.00</TasaIVA>
+            <IVA>5054</IVA>
+            <MntTotal>31654</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <NmbItem>ARCHIVADOR CARTA ANCHO COLON BURDEO 818AB</NmbItem>
+          <QtyItem>8.000000</QtyItem>
+          <UnmdItem>UND</UnmdItem>
+          <PrcItem>1122.000000</PrcItem>
+          <MontoItem>8976</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <NmbItem>CORCHETERA METALICA TORRE B-4 NEGRA MEDIANA</NmbItem>
+          <QtyItem>2.000000</QtyItem>
+          <UnmdItem>UND</UnmdItem>
+          <PrcItem>4171.000000</PrcItem>
+          <MontoItem>8342</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>3</NroLinDet>
+          <NmbItem>CORCHETES  26/ 6 DE 5000 TORRE 25HJS</NmbItem>
+          <QtyItem>2.000000</QtyItem>
+          <UnmdItem>UND</UnmdItem>
+          <PrcItem>443.000000</PrcItem>
+          <MontoItem>886</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>4</NroLinDet>
+          <NmbItem>PERFORADOR  30 HJ TORRE MEDIANO 8-NEGRO</NmbItem>
+          <QtyItem>2.000000</QtyItem>
+          <UnmdItem>UND</UnmdItem>
+          <PrcItem>3267.000000</PrcItem>
+          <MontoItem>6534</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>5</NroLinDet>
+          <NmbItem>SEPARADOR OFICIO 6 DIVIS. COLOR J.S.</NmbItem>
+          <QtyItem>2.000000</QtyItem>
+          <UnmdItem>JGO</UnmdItem>
+          <PrcItem>372.000000</PrcItem>
+          <MontoItem>744</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>6</NroLinDet>
+          <NmbItem>REGLA PLASTICA  30 CM. TRANSPARENTE</NmbItem>
+          <QtyItem>1.000000</QtyItem>
+          <UnmdItem>UND</UnmdItem>
+          <PrcItem>116.000000</PrcItem>
+          <MontoItem>116</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>7</NroLinDet>
+          <NmbItem>TIJERA  7.0  (17.78CM) TORRE MANGO SUAVE BLISTER</NmbItem>
+          <QtyItem>1.000000</QtyItem>
+          <UnmdItem>UND</UnmdItem>
+          <PrcItem>809.000000</PrcItem>
+          <MontoItem>809</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>8</NroLinDet>
+          <NmbItem>CLIPS N?1 PUNTA REDONDA TORRE X 100 UN. 33 MM</NmbItem>
+          <QtyItem>1.000000</QtyItem>
+          <UnmdItem>CJA</UnmdItem>
+          <PrcItem>193.000000</PrcItem>
+          <MontoItem>193</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>801</TpoDocRef>
+          <FolioRef>OC-00484</FolioRef>
+          <FchRef>2016-02-11</FchRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>96556940-5</RE>
+            <TD>33</TD>
+            <F>8827262</F>
+            <FE>2016-02-11</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSORCIO HLI HYDROGROUP SPA</RSR>
+            <MNT>31654</MNT>
+            <IT1>ARCHIVADOR CARTA ANCHO COLON BURDEO 818A</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>96556940-5</RE>
+                <RS>PROVEEDORES INTEGRALES PRISA S A</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>8703001</D>
+                  <H>8943000</H>
+                </RNG>
+                <FA>2015-11-03</FA>
+                <RSAPK>
+                  <M>33tavvrf7P4NYZVCMc5yoONQkLFqObW5XWdpkmRscVbTORF+jIJuSYWnpl94hdJjQ3RZvgsYET1/12BjrQUVJQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">eY9/qfvyl1onooSHqgsblvXC+QZR6lPUhSgujDfFPdwJRBA0h1phi9+hc5hTLa51duFu3o17O1Q0+you+2hYIQ==</FRMA>
+            </CAF>
+            <TSTED>2016-02-10T22:06:21</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">ZVMgg+0rrF+XwXEaTqYSC6+Q97j+FyBl1o9JUDX4U50/vWrXV0oxLeqUtkxdQsee9voUPHpjs0L1ZqD7DptdSw==</FRMT>
+        </TED>
+        <TmstFirma>2016-02-10T22:06:26</TmstFirma>
+      </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#F8827262T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>mIZ/ss+v71lDsW2QrlQEds8iMLk=</DigestValue></Reference></SignedInfo><SignatureValue>
+o5KBZq4wFLzNgo3Rs70K82a0pxnpOV3Z4mekDHnwtaQUUXADFXitCRkTXXY4Smp5
+YXW9J2IetKy7a3byH+2JPUNkuEtRCq69ELzWCsJXOCo/3ruzEy9cq9E8V9KMe7nR
+SPujign4KuYDvGKJf3R+t+3fC1x270PmP1HDLqZ0tRUusXqEd9ctTDHRX7/AVkS4
+j75IAbGrzRN7ymmECZKE76pZgrqF+aFmLS12k+LGMfj8kkFIX7ixGX5aY+qyigq/
+8RAW9CuVkRzNE8HEbXI3UzYGETJ3iODUKBXp9/dKu1kWi6Mm1GAm23Jef/DpFTtO
+s30n2995vjhW5mMuRzb+iw==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+vYWnMkoUNqBWeb9V4InEGCUmqpH81z8vWUid6ouzyNYgwow61ZGBLKn0LGcUXLZO
+Ab30DsUlz+0OHnEslijiiYOLUhwjZcp1avbEDAqtue6JSUxWveKweUs7pZI2FWHZ
+gT3M6hx69Tj2xTmB4SpsOl5PEPysLr3yYNt+t9uhZky3Z1i9kQsRgXWjmR27UsxW
+u2TlbZ4j0Bxv6xEAKfOKj3f5V7ubFJkqx3UM4Gp2/CIsWoyHHauuTggkmjaA+Z4B
+2wp8+XiU2c5Sqy/LuBIxone+bHzZKAXNXVEYqjYOfm24XsX2Sa7BtpwcgLVXH8x8
+95EpOgyz9wrIvUslumx5OQ==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGVzCCBT+gAwIBAgIDAOlRMA0GCSqGSIb3DQEBBQUAMIGmMQswCQYDVQQGEwJD
+TDEYMBYGA1UEChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29t
+IEF1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFs
+IC0gVjIxHjAcBgkqhkiG9w0BCQEWD2luZm9AYWNlcHRhLmNvbTETMBEGA1UEBRMK
+OTY5MTkwNTAtODAeFw0xNDA3MTcxNzQ0NDBaFw0xNzA3MTcxNzQ0NDBaMIGKMQsw
+CQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSgwJgYDVQQDEx9G
+UkFOQ0lTQ08gSkFWSUVSIFJFU1RSRVBPIFBFUkVaMSIwIAYJKoZIhvcNAQkBFhNm
+cmVzdHJlcG9wQHByaXNhLmNsMRMwEQYDVQQFEwoxNDcwODMwNC0xMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvYWnMkoUNqBWeb9V4InEGCUmqpH81z8v
+WUid6ouzyNYgwow61ZGBLKn0LGcUXLZOAb30DsUlz+0OHnEslijiiYOLUhwjZcp1
+avbEDAqtue6JSUxWveKweUs7pZI2FWHZgT3M6hx69Tj2xTmB4SpsOl5PEPysLr3y
+YNt+t9uhZky3Z1i9kQsRgXWjmR27UsxWu2TlbZ4j0Bxv6xEAKfOKj3f5V7ubFJkq
+x3UM4Gp2/CIsWoyHHauuTggkmjaA+Z4B2wp8+XiU2c5Sqy/LuBIxone+bHzZKAXN
+XVEYqjYOfm24XsX2Sa7BtpwcgLVXH8x895EpOgyz9wrIvUslumx5OQIDAQABo4IC
+pjCCAqIwHwYDVR0jBBgwFoAUQN/o9lYQ+XQanoTMIgjQNq0pJlEwHQYDVR0OBBYE
+FIgbZHxJd4OEsA1KmlPHk6Dk5VhxMAsGA1UdDwQEAwIE8DAdBgNVHSUEFjAUBggr
+BgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQDAgWgMIHyBgNVHSAEgeow
+gecwgeQGCisGAQQBtWuHaQIwgdUwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuYWNl
+cHRhLmNvbS9DUFNWMjCBqQYIKwYBBQUHAgIwgZwwFhYPQWNlcHRhLmNvbSBTLkEu
+MAMCAQIagYFFbCB0aXR1bGFyIGhhIHNpZG8gdmFsaWRhZG8gZW4gZm9ybWEgcHJl
+c2VuY2lhbCwgcXVlZGFuZG8gaGFiaWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJh
+IHVzbyB0cmlidXRhcmlvLCBwYWdvcywgY29tZXJjaW8geSBvdHJvcy4wWgYDVR0S
+BFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUFBwgDoBgwFgwK
+OTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBeBgNVHREEVzBV
+oBgGCCsGAQQBwQEBoAwWCjE0NzA4MzA0LTGgJAYIKwYBBQUHCAOgGDAWDAoxNDcw
+ODMwNC0xBggrBgEEAcEBAoETZnJlc3RyZXBvcEBwcmlzYS5jbDA7BggrBgEFBQcB
+AQQvMC0wKwYIKwYBBQUHMAGGH2h0dHA6Ly9vY3NwLmFjZXB0YS5jb20vQ2xhc2Uz
+VjIwMwYDVR0fBCwwKjAooCagJIYiaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNl
+M1YyLmNybDANBgkqhkiG9w0BAQUFAAOCAQEAON1HqQaeqPtfBVU2kAiQ4Q5Wfnb4
+LuiKZbZ4+HtP9l6jl7Z5jAJDNvYQrtUbsNWVVgdHOZp/MAtY/CKsc9ZAjfykXtKq
+/YgfapyjpED3VDhrPqQbfSBfYuD6xoqDQoJkkD+WZJVIwodkSBvGgvui+FWVfyVd
+kmfqQeJ39PruY/Z8ngNkkFZqLE80s7YZ/uHGvJ693qNza5R+hfit5u/u0WzhDiio
+adPelwrzZs3pAOatAoeW5TEGawaPyDft69xg+suHY95a97zWBfXhjI4msAY+o4oE
+FR8+br/ALth21UStVX0Ja6mcAUJodu1E6Wkw5sOrD+zkJqdkScJuJYlBqg==
+</X509Certificate></X509Data></KeyInfo></Signature>
+    </DTE>

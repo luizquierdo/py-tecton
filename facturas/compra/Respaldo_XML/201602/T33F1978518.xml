@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+<Documento ID="Sphinx39618170">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>1978518</Folio>
+<FchEmis>2016-02-29</FchEmis>
+</IdDoc>
+<Emisor>
+<RUTEmisor>78885550-8</RUTEmisor>
+<RznSoc>PERSONAL COMPUTER FACTORY S.A.</RznSoc>
+<GiroEmis>Ventas e importacion articulos computacionales</GiroEmis>
+<CorreoEmisor>dte@pcfactory.cl</CorreoEmisor>
+<Acteco>519000</Acteco>
+<Acteco>749990</Acteco>
+<Sucursal>Los Leones</Sucursal>
+<CdgSIISucur>74775163</CdgSIISucur>
+<DirOrigen>Los Leones 136</DirOrigen>
+<CmnaOrigen>PROVIDENCIA</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+<GiroRecep>CONSTRUCCION </GiroRecep>
+<DirRecep>AVDA PROVIDENCIA 2330 OF 63</DirRecep>
+<CmnaRecep>PROVIDENCIA</CmnaRecep>
+<CiudadRecep>STGO</CiudadRecep>
+</Receptor>
+<Totales>
+<MntNeto>54613</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19</TasaIVA>
+<IVA>10376</IVA>
+<MntTotal>64989</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>21567</VlrCodigo>
+</CdgItem>
+<NmbItem>Crucial Unidad SSD BX200 240 GB Sata3 2.5´ </NmbItem>
+<QtyItem>1.0</QtyItem>
+<PrcItem>57471.0</PrcItem>
+<MontoItem>57471</MontoItem>
+</Detalle>
+<DscRcgGlobal>
+<NroLinDR>1</NroLinDR>
+<TpoMov>D</TpoMov>
+<GlosaDR>Descuento</GlosaDR>
+<TpoValor>$</TpoValor>
+<ValorDR>2858.0</ValorDR>
+</DscRcgGlobal>
+<TED version="1.0">
+<DD>
+<RE>78885550-8</RE>
+<TD>33</TD>
+<F>1978518</F>
+<FE>2016-02-29</FE>
+<RR>76407152-2</RR>
+<RSR>CONSORCIO HLI HYDROGROUP SPA</RSR>
+<MNT>64989</MNT>
+<IT1>Crucial Unidad SSD BX200 240 GB Sata3 2.</IT1>
+<CAF version="1.0">
+<DA>
+<RE>78885550-8</RE>
+<RS>PERSONAL COMPUTER FACTORY SOCIEDAD ANONI</RS>
+<TD>33</TD>
+<RNG>
+<D>1974601</D>
+<H>1984600</H>
+</RNG>
+<FA>2015-10-30</FA>
+<RSAPK>
+<M>w47322srA2upeRk4xZWYbFJTTzBOWI5PMIz7suK7iiKnlBOEMTh1V+2cRm4r5xH68/3wsHZgslhYnMbVeWDDzw==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">OljbVMHoeM7JiDIfZ5uNyISXLHGuVNRu2O/UCgXprmhITO4KgOfqlMbqjtLKMQk3RFhCUJC3yO7zX9+rNa7Dew==</FRMA>
+</CAF>
+<TSTED>2016-02-29T15:51:00</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">GotY9qv1PB853PKMgiLC8scSrzQADib1b5iCK9HG1twtmiVrZVAKKDgD7EVL2ZsWSSB9hF+b7mGDGzsKwwSELg==</FRMT>
+</TED>
+<TmstFirma>2016-02-29T15:51:00</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#Sphinx39618170">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>AjgnW3yt32RH+phdTwvgn+3twVY=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+t3O+fHyODSE8Y10J00Kfj5uewNH8eePxa6yk5sk+aRYcTh9bH2nlRuYEFcbeSqgLn76P+ofYdYbw
+YCYJA4kgHpgA6Gf34Sp4FUv0qIKAgQSeFShdC+neMDo7Y8MPpEGSdcXkYIbtWX3q3/ylKi0OyJMN
+EpjD6A0OA6oH16T4ErjArrUE+rbKqpmcuBvOdf8Vi4vzV5xvle8LyObSMn2yDBQdjhyuGUluKS6l
+oc/lrvc/trxnBIwerVRB3tejysJRr0JrgDlLgNL/GJ2PP1C3f4otN6GPD/TYVDy1iKs/IXw1oY9m
+7QkgyxjTxhbZYdSlTPdUeU6XfCCt57NjfVLuXQ==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+vBdIKWBijyByCYcSlUoP6p/V6cduuYS7ng5Rjl90wIQomWJDJAkndVVVAXRmohRCEeWlnRbWY9Ag
+7dQxPK6IjlJ9QSnc6nM/tiMjYR3Xt6qYfKTfI4oEPzH//u9gavL1k7v40gYi0N17bcZ+fvibHmSY
+1p3/BJzDZTRaMgE9V9rsEV5MR3MxSJpd5viwpeVPeEiMxzvFBr5Pi19Egf2V5u1IzHE4ttI+B1O6
+tj6uutdpw61YB8fxiI0OhgGhLksLGJVe5I/pE/PExaCvxXjHivrLfdnOO3uDRrD1sFdaYVKaBaiH
+/H0YwCnQauBSObcJis76MvmM5zShyCmDep33PQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGWDCCBUCgAwIBAgIDAKPMMA0GCSqGSIb3DQEBBQUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gVjIxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xMzA0MzAyMzE3MjRaFw0xNjA0MzAy
+MzE3MjRaMIGMMQswCQYDVQQGEwJDTDEcMBoGA1UEDBMTSU5HRU5JRVJPIENPTUVSQ0lBTDEmMCQG
+A1UEAxMdSlVBTiBBTEVKQU5EUk8gU09NTUVSIFdBSExJTkcxIzAhBgkqhkiG9w0BCQEWFGpzb21t
+ZXJAcGNmYWN0b3J5LmNsMRIwEAYDVQQFEwk4MzIyNDczLTgwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC8F0gpYGKPIHIJhxKVSg/qn9Xpx265hLueDlGOX3TAhCiZYkMkCSd1VVUBdGai
+FEIR5aWdFtZj0CDt1DE8roiOUn1BKdzqcz+2IyNhHde3qph8pN8jigQ/Mf/+72Bq8vWTu/jSBiLQ
+3Xttxn5++JseZJjWnf8EnMNlNFoyAT1X2uwRXkxHczFIml3m+LCl5U94SIzHO8UGvk+LX0SB/ZXm
+7UjMcTi20j4HU7q2Pq6612nDrVgHx/GIjQ6GAaEuSwsYlV7kj+kT88TFoK/FeMeK+st92c47e4NG
+sPWwV1phUpoFqIf8fRjAKdBq4FI5twmKzvoy+YznNKHIKYN6nfc9AgMBAAGjggKlMIICoTAfBgNV
+HSMEGDAWgBRA3+j2VhD5dBqehMwiCNA2rSkmUTAdBgNVHQ4EFgQUnm3+aaXHenSAic4kAJQVKRAs
+M98wCwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhC
+AQEEBAMCBaAwgfIGA1UdIASB6jCB5zCB5AYKKwYBBAG1a4dpAjCB1TAnBggrBgEFBQcCARYbaHR0
+cDovL3d3dy5hY2VwdGEuY29tL0NQU1YyMIGpBggrBgEFBQcCAjCBnDAWFg9BY2VwdGEuY29tIFMu
+QS4wAwIBAhqBgUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxpZGFkbyBlbiBmb3JtYSBwcmVzZW5jaWFs
+LCBxdWVkYW5kbyBoYWJpbGl0YWRvIGVsIENlcnRpZmljYWRvIHBhcmEgdXNvIHRyaWJ1dGFyaW8s
+IHBhZ29zLCBjb21lcmNpbyB5IG90cm9zLjBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5
+MDUwLTigJAYIKwYBBQUHCAOgGDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEu
+Y29tMF0GA1UdEQRWMFSgFwYIKwYBBAHBAQGgCxYJODMyMjQ3My04oCMGCCsGAQUFBwgDoBcwFQwJ
+ODMyMjQ3My04BggrBgEEAcEBAoEUanNvbW1lckBwY2ZhY3RvcnkuY2wwOwYIKwYBBQUHAQEELzAt
+MCsGCCsGAQUFBzABhh9odHRwOi8vb2NzcC5hY2VwdGEuY29tL0NsYXNlM1YyMDMGA1UdHwQsMCow
+KKAmoCSGImh0dHA6Ly9jcmwuYWNlcHRhLmNvbS9DbGFzZTNWMi5jcmwwDQYJKoZIhvcNAQEFBQAD
+ggEBAIhxjZuaVhNbO1PJRBmE6dUHaB9q1mCItNPIXGrHCa2AA1KQ9jresbZghzyOnKHMWvMTJXmC
+OU/6S6xDBN4C2cXgYpe2QQUtp+I0wHZuOC5+nFkPXsUDgyLTvsSnlLajiu7g/RQ3MWg+lv3Nepem
+nQgCQnFNxpqMgUDJi9Ek3Bfsq4HPAnhcVZGDiQGkVcLVR8FV8X1cpow/O3Jx03BUj22KIEEmxZww
+XFFajtxXGQh1MSnPnF21H0M0HEFtJWnsyB7t7707KfTmg+gfBwEkQQieEjaXQVbgLZVjB7ztfrMz
+KwQxFQWFJpUV+e/Gwv+zLXG0VtYO9Fx7jPpYTIfv8b8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</DTE>

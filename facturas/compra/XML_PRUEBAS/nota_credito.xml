@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+<SetDTE ID="E014044357">
+<Caratula version="1.0">
+<RutEmisor>92242000-9</RutEmisor>
+<RutEnvia>13455667-6</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2014-08-22</FchResol>
+<NroResol>80</NroResol>
+<TmstFirmaEnv>2016-09-02T15:45:57</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>61</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0">
+<Documento ID="E000000001T061F0000000932">
+<Encabezado>
+<IdDoc>
+<TipoDTE>61</TipoDTE>
+<Folio>932</Folio>
+<FchEmis>2016-08-31</FchEmis>
+<FchVenc>2016-08-31</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>92242000-9</RUTEmisor>
+<RznSoc>Asfaltos Chilenos S.A.</RznSoc>
+<GiroEmis>FABRICA DE ASFALTOS</GiroEmis>
+<Acteco>231000</Acteco>
+<DirOrigen>Pedro de valdivia 2319 Providencia</DirOrigen>
+<CmnaOrigen>Providencia</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+<CdgVendedor>EQUEZADA</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<RznSocRecep>CONSORCIO HLI HYDROGOUP SPA.</RznSocRecep>
+<Extranjero>
+</Extranjero>
+<GiroRecep>OBRAS MENORES EN CONSTRUCCION</GiroRecep>
+<DirRecep>AV. PROVIDENCIA Nº 2330, OF.63</DirRecep>
+<CmnaRecep>PROVIDENCIA</CmnaRecep>
+<CiudadRecep>SANTIAGO</CiudadRecep>
+</Receptor>
+<Transporte>
+<DirDest>AV. PROVIDENCIA Nº 2330, OF.63</DirDest>
+<CmnaDest>PROVIDENCIA</CmnaDest>
+<CiudadDest>SANTIAGO</CiudadDest>
+</Transporte>
+<Totales>
+<MntNeto>847000</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>160930</IVA>
+<MntTotal>1007930</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1W010402</VlrCodigo>
+</CdgItem>
+<NmbItem>HIDROLOCK CUBIERTA BLANCA TINETA 20 kg.</NmbItem>
+<QtyItem>11</QtyItem>
+<PrcItem>77000</PrcItem>
+<MontoItem>847000</MontoItem>
+</Detalle>
+<Referencia>
+<NroLinRef>1</NroLinRef>
+<TpoDocRef>33</TpoDocRef>
+<FolioRef>10081</FolioRef>
+<FchRef>2016-08-01</FchRef>
+<CodRef>3</CodRef>
+<RazonRef>DEV.MERCADERIA</RazonRef>
+</Referencia>
+<TED version="1.0"><DD><RE>92242000-9</RE><TD>61</TD><F>932</F><FE>2016-08-31</FE><RR>76407152-2</RR><RSR>CONSORCIO HLI HYDROGOUP SPA.</RSR><MNT>1007930</MNT><IT1>HIDROLOCK CUBIERTA BLANCA TINETA 20 kg.</IT1><CAF version="1.0"><DA><RE>92242000-9</RE><RS>ASFALTOS CHILENOS S A</RS><TD>61</TD><RNG><D>500</D><H>999</H></RNG><FA>2014-11-02</FA><RSAPK><M>3bD8/O0tgiM7vyI+DNtAGmmodc6qoUQNihS6zL8o4/Fn9MSRLKwRcdnfcbEquftKobjwqOHYxJW/yzYTCuyhEQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">OF+E+7FEkC1ZjI06Gb0RI0rUBCXGVlQ/INFj3CNgMuA5ZM/MnHZx1r16bKFOJT/31flJKiSBJzQg+DBY5XiVTw==</FRMA></CAF><TSTED>2016-09-02T12:01:47</TSTED></DD><FRMT algoritmo="SHA1withRSA">lB8k5qthYgyQ2L5BlIeZupKk8zoMBzXXhJRXRZauEkT3wGvN6Go0+rijCIP0HH7+YRIx64nTJDhCWJzlOtaTZQ==</FRMT></TED><TmstFirma>2016-09-02T12:31:22</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000001T061F0000000932">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>TCv+4opjqwqbwVG2wUFEhDvEJAI=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>eotw29uwpg4XX/c/jUx2XeCkGrjxZLDinHeAKrC1mJKCKj2+x6RyjlZ7YmWVYgFQlI2j/LVC5wKI59H47uZStuxFIL0fgD7FAA1q/IyaYEr4H3EQBfLey7JJNCnDqMVJPKgUob3wkjhPOeUbIEn7AzDzEZ5cEsmx1x+5sFPOC+o=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+1xi2oGvC+82Xy60xaUnF6uwk5XHNmfkYWRKyI5yHfmq7YRez6f+S7IDenDFZZRov
+1TilPKFyyDMZD3XfrRvD6oVRIpC8pYWNNL+DPasiUYgaC3dllpBfLMkVHv9pCx/v
+O6aO+GCH4Kbftt6PNi+/bPMU12uaovtZzbLMTKfDqrs=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGQTCCBSmgAwIBAgIKHy6XCQAAAAFPzzANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNDA1MjcyMDI0MzdaFw0xNzA1MjYyMDI0MzdaMIHD
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMR8wHQYDVQQKExZBc2ZhbHRvcyBDaGlsZW5v
+cyBTLkEuMRUwEwYDVQQLEwxDb250YWJpbGlkYWQxHjAcBgNVBAMTFU1hcmNlbG8g
+QWxmYXJvIEFsb25zbzEkMCIGCSqGSIb3DQEJARYVTUFMRkFST0BBU0ZBTENISUxF
+LkNMMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXGLaga8L7zZfLrTFpScXq
+7CTlcc2Z+RhZErIjnId+arthF7Pp/5LsgN6cMVllGi/VOKU8oXLIMxkPdd+tG8Pq
+hVEikLylhY00v4M9qyJRiBoLd2WWkF8syRUe/2kLH+87po74YIfgpt+23o82L79s
+8xTXa5qi+1nNssxMp8OquwIDAQABo4ICqDCCAqQwPQYJKwYBBAGCNxUHBDAwLgYm
+KwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgZrnFYav4BUCAWQCAQQwHQYD
+VR0OBBYEFH/NzdQYpXQ6cNwxZ/krxOPWKBceMAsGA1UdDwQEAwIE8DAfBgNVHSME
+GDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRw
+Oi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOwYIKwYB
+BQUHAQEELzAtMCsGCCsGAQUFBzABhh9odHRwOi8vb2NzcC5pbnRlcmNhcGl0LmNv
+bS9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTM0NTU2NjctNjAjBgNV
+HRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNVHSAEggFEMIIB
+QDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNl
+cnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAA
+cwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAA
+cgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgAYQBiAGkA
+bABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABwAGEA
+cgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3DQEBBQUA
+A4IBAQDB9NG5MoQwwd5ORUSdaPhMBXXGKImrU0vbb3L1EdI6YlEjGNrd3MNFs66g
+0yl+0xbuJKIYHCrRkwlduVL3cJax4H6hPLL0qXkycrkY+Cgt1zhKtrc2IqP+GRLq
+ga9fCXDhyZRkrkHydnr3VZg91oWG6f9JKiFa3kSuT43bmeZne9qaxCqhvTXiwgQr
+AxgOIs5CVOWTdJ86cnycui4yVQEavGO5rsfr5w2lKqu89aKLADwPo/Mx4vy5WY1q
+V5nAhmeHH3QE2bKxLe0yYrTPmt4NBEhKW6WGDA0qAGniNulzEUTknAGmy/F6bb77
+KRlroKTdP3PFTl5HtwO5IZdOMLtV
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+</SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E014044357">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>I6MpndSmyALwI0jBJ2RumLxx87Q=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>Lw69OvF4gHqDjjNPkELl/E+85dWhpHadkUMwAwNIoHWDIlT3KJHFxl0C4dBnsAkdJSx2fGbwxjQ3x8DSDjHZcdGeCvZv0k+sTfu9ISDM/YqrwNNJbJoqqVfN5WZCvrJn6e6T0KEW60qKOYiRizh34yUGfdL15Iss6Iojavh5JM8=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+1xi2oGvC+82Xy60xaUnF6uwk5XHNmfkYWRKyI5yHfmq7YRez6f+S7IDenDFZZRov
+1TilPKFyyDMZD3XfrRvD6oVRIpC8pYWNNL+DPasiUYgaC3dllpBfLMkVHv9pCx/v
+O6aO+GCH4Kbftt6PNi+/bPMU12uaovtZzbLMTKfDqrs=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGQTCCBSmgAwIBAgIKHy6XCQAAAAFPzzANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNDA1MjcyMDI0MzdaFw0xNzA1MjYyMDI0MzdaMIHD
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMR8wHQYDVQQKExZBc2ZhbHRvcyBDaGlsZW5v
+cyBTLkEuMRUwEwYDVQQLEwxDb250YWJpbGlkYWQxHjAcBgNVBAMTFU1hcmNlbG8g
+QWxmYXJvIEFsb25zbzEkMCIGCSqGSIb3DQEJARYVTUFMRkFST0BBU0ZBTENISUxF
+LkNMMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXGLaga8L7zZfLrTFpScXq
+7CTlcc2Z+RhZErIjnId+arthF7Pp/5LsgN6cMVllGi/VOKU8oXLIMxkPdd+tG8Pq
+hVEikLylhY00v4M9qyJRiBoLd2WWkF8syRUe/2kLH+87po74YIfgpt+23o82L79s
+8xTXa5qi+1nNssxMp8OquwIDAQABo4ICqDCCAqQwPQYJKwYBBAGCNxUHBDAwLgYm
+KwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgZrnFYav4BUCAWQCAQQwHQYD
+VR0OBBYEFH/NzdQYpXQ6cNwxZ/krxOPWKBceMAsGA1UdDwQEAwIE8DAfBgNVHSME
+GDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRw
+Oi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOwYIKwYB
+BQUHAQEELzAtMCsGCCsGAQUFBzABhh9odHRwOi8vb2NzcC5pbnRlcmNhcGl0LmNv
+bS9vY3NwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTM0NTU2NjctNjAjBgNV
+HRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNVHSAEggFEMIIB
+QDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNl
+cnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAuACAASABhACAA
+cwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwByAG0AYQAgAHAA
+cgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAgAGgAYQBiAGkA
+bABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABwAGEA
+cgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqGSIb3DQEBBQUA
+A4IBAQDB9NG5MoQwwd5ORUSdaPhMBXXGKImrU0vbb3L1EdI6YlEjGNrd3MNFs66g
+0yl+0xbuJKIYHCrRkwlduVL3cJax4H6hPLL0qXkycrkY+Cgt1zhKtrc2IqP+GRLq
+ga9fCXDhyZRkrkHydnr3VZg91oWG6f9JKiFa3kSuT43bmeZne9qaxCqhvTXiwgQr
+AxgOIs5CVOWTdJ86cnycui4yVQEavGO5rsfr5w2lKqu89aKLADwPo/Mx4vy5WY1q
+V5nAhmeHH3QE2bKxLe0yYrTPmt4NBEhKW6WGDA0qAGniNulzEUTknAGmy/F6bb77
+KRlroKTdP3PFTl5HtwO5IZdOMLtV
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>

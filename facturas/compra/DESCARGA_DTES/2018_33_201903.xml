@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+  <SetDTE ID="ID906acf3c229b415ca316974ea7e4e94e">
+    <Caratula version="1.0">
+      <RutEmisor>99507430-3</RutEmisor>
+      <RutEnvia>15876919-0</RutEnvia>
+      <RutReceptor>76407152-2</RutReceptor>
+      <FchResol>2014-08-22</FchResol>
+      <NroResol>80</NroResol>
+      <TmstFirmaEnv>2018-12-24T09:13:19</TmstFirmaEnv>
+      
+    <SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+    
+  <DTE version="1.0">
+      <Documento ID="F201903T33">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>201903</Folio>
+            <FchEmis>2018-12-24</FchEmis>
+            <TermPagoGlosa>30 Dias</TermPagoGlosa>
+            <FchVenc>2019-01-23</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>99507430-3</RUTEmisor>
+            <RznSoc>HORMIGONES BICENTENARIO S.A.</RznSoc>
+            <GiroEmis>Exportacion de Materiales de Construccion</GiroEmis>
+            <Acteco>269510</Acteco>
+            <DirOrigen>Av. El Bosque Norte 0177, Piso 10 of. 1002</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+            <CdgVendedor>MARCELA QUINTANA CONTRERAS</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+            <Extranjero />
+            <GiroRecep>CONSTRUCTORA</GiroRecep>
+            <Contacto>22428584</Contacto>
+            <DirRecep>NUEVA DE LYON  0124 OF. 601</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+            <CiudadRecep>METROPOLITANA</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>1379116</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>262032</IVA>
+            <MntTotal>1641148</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <NmbItem>CARGAINCOM</NmbItem>
+          <QtyItem>3.00</QtyItem>
+          <UnmdItem>M3</UnmdItem>
+          <PrcItem>11026.333333</PrcItem>
+          <MontoItem>33079</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <NmbItem>HN25.0(90)20/10</NmbItem>
+          <QtyItem>6.00</QtyItem>
+          <UnmdItem>M3</UnmdItem>
+          <PrcItem>45759.166666</PrcItem>
+          <MontoItem>274555</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>3</NroLinDet>
+          <NmbItem>HN25.0(90)20/12</NmbItem>
+          <QtyItem>23.00</QtyItem>
+          <UnmdItem>M3</UnmdItem>
+          <PrcItem>46586.173913</PrcItem>
+          <MontoItem>1071482</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>52</TpoDocRef>
+          <FolioRef>2731739</FolioRef>
+          <FchRef>2018-12-18</FchRef>
+        </Referencia>
+        <Referencia>
+          <NroLinRef>2</NroLinRef>
+          <TpoDocRef>52</TpoDocRef>
+          <FolioRef>2731793</FolioRef>
+          <FchRef>2018-12-19</FchRef>
+        </Referencia>
+        <Referencia>
+          <NroLinRef>3</NroLinRef>
+          <TpoDocRef>52</TpoDocRef>
+          <FolioRef>2732977</FolioRef>
+          <FchRef>2018-12-21</FchRef>
+        </Referencia>
+        <Referencia>
+          <NroLinRef>4</NroLinRef>
+          <TpoDocRef>52</TpoDocRef>
+          <FolioRef>2735063</FolioRef>
+          <FchRef>2018-12-17</FchRef>
+        </Referencia>
+        <Referencia>
+          <NroLinRef>5</NroLinRef>
+          <TpoDocRef>52</TpoDocRef>
+          <FolioRef>2737687</FolioRef>
+          <FchRef>2018-12-17</FchRef>
+        </Referencia>
+        <Referencia>
+          <NroLinRef>6</NroLinRef>
+          <TpoDocRef>52</TpoDocRef>
+          <FolioRef>2738012</FolioRef>
+          <FchRef>2018-12-19</FchRef>
+        </Referencia>
+        <Referencia>
+          <NroLinRef>7</NroLinRef>
+          <TpoDocRef>801</TpoDocRef>
+          <FolioRef>02957-2990</FolioRef>
+          <FchRef>2018-05-22</FchRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>99507430-3</RE>
+            <TD>33</TD>
+            <F>201903</F>
+            <FE>2018-12-24</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSTRUCTORA TECTON SPA</RSR>
+            <MNT>1641148</MNT>
+            <IT1>CARGAINCOM</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>99507430-3</RE>
+                <RS>HORMIGONES BICENTENARIO S.A.</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>200982</D>
+                  <H>202981</H>
+                </RNG>
+                <FA>2018-12-14</FA>
+                <RSAPK>
+                  <M>urStIKrH79z6BVjQCkI6x8sJw7rPRaMTSEh8gZJRs1vWXfd/ot3x3tYPG2/Ay/KTa0sMLlFd66pyp4rxNZ4+eQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">SViJqgDSjsw2EI2iebP7eskRA9E0qEzldPtps2dSez3nWL22e5sEEEaY4TmWzUIiMuG8o7MItvmV0vIemhuj2w==</FRMA>
+            </CAF>
+            <TSTED>2018-12-24T08:21:38</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">ssvzL0XGerGIZWMtRumhc0Wq4RE0huFNPvuW4pna47WOnCqj2RbAhCZX4OgVQtUTv+T/hSENVPLtkIlx+mWT/w==</FRMT>
+        </TED>
+        <TmstFirma>2018-12-24T08:21:42</TmstFirma>
+      </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F201903T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>maWECoCWi89z7a+w+m2SPrVF1/E=</DigestValue></Reference></SignedInfo><SignatureValue>
+RtgWGcCbxOTMRw73RyW84O6oiON4ptpi+JU6liFaq4Tc8HApvuqrBOW2TVORCr3b
+d9/F6JyObPV63AarlgYnsfWlxiSZS3H/kNpah1V+sQOYTaAFc5JJOWE00o2GL1dq
+E4yYgKJ/4nhkBeQ7qDz4ws389flN3z03Idn+j2PuTfk=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+wr1vXxx59AizdJ2FYjzcu7teE4nCITd4x93hnAeXSei/L4+ugCy2C87x//FeihvO
+gs/cUobVXshCtup4Y6nZo06kmy3mgImQsmjaVspZWRrOkiLrKzyoyDTpmUi2xAtK
+VrZEFsHYEUos7fdxXmh8GKeaX0LIS/yzfpjBDN00KmU=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIF7zCCBNegAwIBAgICT+4wDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNM
+MRgwFgYDVQQKEw9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20g
+QXV0b3JpZGFkIENlcnRpZmljYWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwg
+LSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0BhY2VwdGEuY29tMRMwEQYDVQQFEwo5
+NjkxOTA1MC04MB4XDTE2MDkwNTIwMTEwMVoXDTE5MDkwNTIwMTEwMVowgZcxCzAJ
+BgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKDAmBgNVBAMTH05B
+VEFMSSBKT0NFTFlOIFNBTiBNQVJUSU4gQkFFWkExLzAtBgkqhkiG9w0BCQEWIG5h
+dGFsaS5zYW5tYXJ0aW5AY2VtZW50b3Nic2EuY29tMRMwEQYDVQQFEwoxNTg3Njkx
+OS0wMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCvW9fHHn0CLN0nYViPNy7
+u14TicIhN3jH3eGcB5dJ6L8vj66ALLYLzvH/8V6KG86Cz9xShtVeyEK26nhjqdmj
+TqSbLeaAiZCyaNpWyllZGs6SIusrPKjINOmZSLbEC0pWtkQWwdgRSizt93FeaHwY
+p5pfQshL/LN+mMEM3TQqZQIDAQABo4ICtjCCArIwHwYDVR0jBBgwFoAUtruLE7k3
+Z9/wTcfVuFaZ32aakc4wHQYDVR0OBBYEFMHxQiTVHleQslPNn5O/QyXcTr7XMAsG
+A1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZI
+AYb4QgEBBAQDAgWgMIHzBgNVHSAEgeswgegwgeUGCisGAQQBtWuHagIwgdYwKAYI
+KwYBBQUHAgEWHGh0dHA6Ly93d3cuYWNlcHRhLmNvbS9DUFMtRzMwgakGCCsGAQUF
+BwICMIGcMBYWD0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBz
+aWRvIHZhbGlkYWRvIGVuIGZvcm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmls
+aXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJpbywgcGFnb3Ms
+IGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5
+MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9p
+bmZvQGFjZXB0YS5jb20wawYDVR0RBGQwYqAYBggrBgEEAcEBAaAMFgoxNTg3Njkx
+OS0woCQGCCsGAQUFBwgDoBgwFgwKMTU4NzY5MTktMAYIKwYBBAHBAQKBIG5hdGFs
+aS5zYW5tYXJ0aW5AY2VtZW50b3Nic2EuY29tMDwGCCsGAQUFBwEBBDAwLjAsBggr
+BgEFBQcwAYYgaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTMtRzMwNAYDVR0f
+BC0wKzApoCegJYYjaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNlMy1HMy5jcmww
+DQYJKoZIhvcNAQEFBQADggEBAEaWKHEwNVY0tELyOJ10+rKi+sb8Nfcdchis6OxU
+BueveMQ8vxLRa9OruKSCKvJPSZ8oGunjGVxRxwgvmz3sdv96BksoHTKz/icKkLfV
+9dRgXq3PcvtXhcB7UNexeDl5Vvc5/GBz9Gp9N/sypKCcbg58liF33bVzDdwbP8nn
+7Gk1RqXMOxpWfz5hGYjnDoEGYU3VWs9fZuUqv6IDeUUoBdFp7ja7HBF0L5sYJzri
+eI6ASDRm7rJivGBN0H1wC3q+F5OG7f8iGvte5INb0hhp/qO+ydA8J5DCqUL/FsAE
+24ntNtucbd7ulURHPt0jLweMg/3fAJXsbsbcp51JSPop/IM=
+</X509Certificate></X509Data></KeyInfo></Signature>
+    </DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID906acf3c229b415ca316974ea7e4e94e"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>JnIfxiiyWgtAMER/AJquQi5qvMs=</DigestValue></Reference></SignedInfo><SignatureValue>
+ebDqmXK+n8V8W9B8EgM47mmWDTHzcuq07VFRnb31Tiw53MaihzZlmSOLZcFBjy9W
+M243hWYrzQ6m70omn6R0TXtjh6uZOWQsyaPSwQ0vXPlgyNlX+D3LwHU4XqTBOl+G
+TR88i1iKKfIUMNjdIs3yDC3dunUoCTuphjSK+mYRy8Q=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+wr1vXxx59AizdJ2FYjzcu7teE4nCITd4x93hnAeXSei/L4+ugCy2C87x//FeihvO
+gs/cUobVXshCtup4Y6nZo06kmy3mgImQsmjaVspZWRrOkiLrKzyoyDTpmUi2xAtK
+VrZEFsHYEUos7fdxXmh8GKeaX0LIS/yzfpjBDN00KmU=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIF7zCCBNegAwIBAgICT+4wDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNM
+MRgwFgYDVQQKEw9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20g
+QXV0b3JpZGFkIENlcnRpZmljYWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwg
+LSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0BhY2VwdGEuY29tMRMwEQYDVQQFEwo5
+NjkxOTA1MC04MB4XDTE2MDkwNTIwMTEwMVoXDTE5MDkwNTIwMTEwMVowgZcxCzAJ
+BgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKDAmBgNVBAMTH05B
+VEFMSSBKT0NFTFlOIFNBTiBNQVJUSU4gQkFFWkExLzAtBgkqhkiG9w0BCQEWIG5h
+dGFsaS5zYW5tYXJ0aW5AY2VtZW50b3Nic2EuY29tMRMwEQYDVQQFEwoxNTg3Njkx
+OS0wMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCvW9fHHn0CLN0nYViPNy7
+u14TicIhN3jH3eGcB5dJ6L8vj66ALLYLzvH/8V6KG86Cz9xShtVeyEK26nhjqdmj
+TqSbLeaAiZCyaNpWyllZGs6SIusrPKjINOmZSLbEC0pWtkQWwdgRSizt93FeaHwY
+p5pfQshL/LN+mMEM3TQqZQIDAQABo4ICtjCCArIwHwYDVR0jBBgwFoAUtruLE7k3
+Z9/wTcfVuFaZ32aakc4wHQYDVR0OBBYEFMHxQiTVHleQslPNn5O/QyXcTr7XMAsG
+A1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZI
+AYb4QgEBBAQDAgWgMIHzBgNVHSAEgeswgegwgeUGCisGAQQBtWuHagIwgdYwKAYI
+KwYBBQUHAgEWHGh0dHA6Ly93d3cuYWNlcHRhLmNvbS9DUFMtRzMwgakGCCsGAQUF
+BwICMIGcMBYWD0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBz
+aWRvIHZhbGlkYWRvIGVuIGZvcm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmls
+aXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJpbywgcGFnb3Ms
+IGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5
+MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9p
+bmZvQGFjZXB0YS5jb20wawYDVR0RBGQwYqAYBggrBgEEAcEBAaAMFgoxNTg3Njkx
+OS0woCQGCCsGAQUFBwgDoBgwFgwKMTU4NzY5MTktMAYIKwYBBAHBAQKBIG5hdGFs
+aS5zYW5tYXJ0aW5AY2VtZW50b3Nic2EuY29tMDwGCCsGAQUFBwEBBDAwLjAsBggr
+BgEFBQcwAYYgaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTMtRzMwNAYDVR0f
+BC0wKzApoCegJYYjaHR0cDovL2NybC5hY2VwdGEuY29tL0NsYXNlMy1HMy5jcmww
+DQYJKoZIhvcNAQEFBQADggEBAEaWKHEwNVY0tELyOJ10+rKi+sb8Nfcdchis6OxU
+BueveMQ8vxLRa9OruKSCKvJPSZ8oGunjGVxRxwgvmz3sdv96BksoHTKz/icKkLfV
+9dRgXq3PcvtXhcB7UNexeDl5Vvc5/GBz9Gp9N/sypKCcbg58liF33bVzDdwbP8nn
+7Gk1RqXMOxpWfz5hGYjnDoEGYU3VWs9fZuUqv6IDeUUoBdFp7ja7HBF0L5sYJzri
+eI6ASDRm7rJivGBN0H1wC3q+F5OG7f8iGvte5INb0hhp/qO+ydA8J5DCqUL/FsAE
+24ntNtucbd7ulURHPt0jLweMg/3fAJXsbsbcp51JSPop/IM=
+</X509Certificate></X509Data></KeyInfo></Signature>
+  
+</EnvioDTE>

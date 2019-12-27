@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+<Documento ID="Sphinx39357103">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>1904574</Folio>
+<FchEmis>2016-02-12</FchEmis>
+</IdDoc>
+<Emisor>
+<RUTEmisor>78885550-8</RUTEmisor>
+<RznSoc>PERSONAL COMPUTER FACTORY S.A.</RznSoc>
+<GiroEmis>Ventas e importacion articulos computacionales</GiroEmis>
+<CorreoEmisor>dte@pcfactory.cl</CorreoEmisor>
+<Acteco>519000</Acteco>
+<Acteco>749990</Acteco>
+<Sucursal>Mall Costanera Cent</Sucursal>
+<CdgSIISucur>77334363</CdgSIISucur>
+<DirOrigen>Av. Andres Bello 2447 Local 196</DirOrigen>
+<CmnaOrigen>PROVIDENCIA</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+<GiroRecep>CONSTRUCCION </GiroRecep>
+<DirRecep>ISIDORA GOYENECHEA 3356 OF 41</DirRecep>
+<CmnaRecep>LAS CONDES</CmnaRecep>
+<CiudadRecep>STGO</CiudadRecep>
+</Receptor>
+<Totales>
+<MntNeto>84017</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19</TasaIVA>
+<IVA>15963</IVA>
+<MntTotal>99980</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>21567</VlrCodigo>
+</CdgItem>
+<NmbItem>Crucial Unidad SSD BX200 240 GB Sata3 2.5´ </NmbItem>
+<QtyItem>1.0</QtyItem>
+<PrcItem>57471.0</PrcItem>
+<MontoItem>57471</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>17869</VlrCodigo>
+</CdgItem>
+<NmbItem>Crucial Memoria Notebook 4GB SoDimm DDR3L (1.35v Low Voltage) 1600</NmbItem>
+<QtyItem>1.0</QtyItem>
+<PrcItem>26546.0</PrcItem>
+<MontoItem>26546</MontoItem>
+</Detalle>
+<TED version="1.0">
+<DD>
+<RE>78885550-8</RE>
+<TD>33</TD>
+<F>1904574</F>
+<FE>2016-02-12</FE>
+<RR>76407152-2</RR>
+<RSR>CONSORCIO HLI HYDROGROUP SPA</RSR>
+<MNT>99980</MNT>
+<IT1>Crucial Unidad SSD BX200 240 GB Sata3 2.</IT1>
+<CAF version="1.0">
+<DA>
+<RE>78885550-8</RE>
+<RS>PERSONAL COMPUTER FACTORY SOCIEDAD ANONI</RS>
+<TD>33</TD>
+<RNG>
+<D>1894601</D>
+<H>1909600</H>
+</RNG>
+<FA>2015-09-17</FA>
+<RSAPK>
+<M>xOVAhQYo4qz/RuZb1L+bJx/XLvGxqyJqHp2v9+xNsdo+6gwFvCkzuSGNk2gU/kk1TxaFDRniuv4xNH7Qep+9Uw==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">NJlzwZg00N7KQ1Sh6/+HNzY+OG2rZazEth2V6airnW+dTJun63Sstc0MW8uEeqz2M+r40+NPvdr/zD6cMDnBjA==</FRMA>
+</CAF>
+<TSTED>2016-02-12T12:57:37</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">Bc5lOCaYBVLUmH+73lIsofOvu5mpkf322NMrvz+ho1+Bha20pZ6F46mCiK5ghH4kkCxRy/5M4hnlyymwF2EnNw==</FRMT>
+</TED>
+<TmstFirma>2016-02-12T12:57:37</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#Sphinx39357103">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>O2UUf1ebsKcZuqFsEm/Pz5VlNlA=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+SJssG+YX3Du8rULhbeIPq/SG2BiApK9L+hzS7y3uo/k+d8AlKwI9WyilgeOjZRD7FSOYLcljRVlQ
+7Le7xyvsSBuGcLtxP9u7YEw7agi7V00k2oRKWMzSrcwdlyEK+CJokvZ+9Js+5x6C9VdXXbf6iP8e
+FB+t0MmDSQTIdpSY083AUt/CRvDt9WMmeXXxBE+2ChEDWTbVJ8a3yr9Num+oJjNtdNvWkoQkdI4z
+aTgLCUzQJS9AoDP4G34uQyG6Jj3ut9dHp5v3TgTug/7s3nMABY0PC3uRpLds+Z1yUEnuNgLnGNSR
+HALfuzZ+vwEGUhmug665RaAY0KpgdrFq6i9Alg==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+vBdIKWBijyByCYcSlUoP6p/V6cduuYS7ng5Rjl90wIQomWJDJAkndVVVAXRmohRCEeWlnRbWY9Ag
+7dQxPK6IjlJ9QSnc6nM/tiMjYR3Xt6qYfKTfI4oEPzH//u9gavL1k7v40gYi0N17bcZ+fvibHmSY
+1p3/BJzDZTRaMgE9V9rsEV5MR3MxSJpd5viwpeVPeEiMxzvFBr5Pi19Egf2V5u1IzHE4ttI+B1O6
+tj6uutdpw61YB8fxiI0OhgGhLksLGJVe5I/pE/PExaCvxXjHivrLfdnOO3uDRrD1sFdaYVKaBaiH
+/H0YwCnQauBSObcJis76MvmM5zShyCmDep33PQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGWDCCBUCgAwIBAgIDAKPMMA0GCSqGSIb3DQEBBQUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gVjIxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xMzA0MzAyMzE3MjRaFw0xNjA0MzAy
+MzE3MjRaMIGMMQswCQYDVQQGEwJDTDEcMBoGA1UEDBMTSU5HRU5JRVJPIENPTUVSQ0lBTDEmMCQG
+A1UEAxMdSlVBTiBBTEVKQU5EUk8gU09NTUVSIFdBSExJTkcxIzAhBgkqhkiG9w0BCQEWFGpzb21t
+ZXJAcGNmYWN0b3J5LmNsMRIwEAYDVQQFEwk4MzIyNDczLTgwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC8F0gpYGKPIHIJhxKVSg/qn9Xpx265hLueDlGOX3TAhCiZYkMkCSd1VVUBdGai
+FEIR5aWdFtZj0CDt1DE8roiOUn1BKdzqcz+2IyNhHde3qph8pN8jigQ/Mf/+72Bq8vWTu/jSBiLQ
+3Xttxn5++JseZJjWnf8EnMNlNFoyAT1X2uwRXkxHczFIml3m+LCl5U94SIzHO8UGvk+LX0SB/ZXm
+7UjMcTi20j4HU7q2Pq6612nDrVgHx/GIjQ6GAaEuSwsYlV7kj+kT88TFoK/FeMeK+st92c47e4NG
+sPWwV1phUpoFqIf8fRjAKdBq4FI5twmKzvoy+YznNKHIKYN6nfc9AgMBAAGjggKlMIICoTAfBgNV
+HSMEGDAWgBRA3+j2VhD5dBqehMwiCNA2rSkmUTAdBgNVHQ4EFgQUnm3+aaXHenSAic4kAJQVKRAs
+M98wCwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhC
+AQEEBAMCBaAwgfIGA1UdIASB6jCB5zCB5AYKKwYBBAG1a4dpAjCB1TAnBggrBgEFBQcCARYbaHR0
+cDovL3d3dy5hY2VwdGEuY29tL0NQU1YyMIGpBggrBgEFBQcCAjCBnDAWFg9BY2VwdGEuY29tIFMu
+QS4wAwIBAhqBgUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxpZGFkbyBlbiBmb3JtYSBwcmVzZW5jaWFs
+LCBxdWVkYW5kbyBoYWJpbGl0YWRvIGVsIENlcnRpZmljYWRvIHBhcmEgdXNvIHRyaWJ1dGFyaW8s
+IHBhZ29zLCBjb21lcmNpbyB5IG90cm9zLjBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5
+MDUwLTigJAYIKwYBBQUHCAOgGDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEu
+Y29tMF0GA1UdEQRWMFSgFwYIKwYBBAHBAQGgCxYJODMyMjQ3My04oCMGCCsGAQUFBwgDoBcwFQwJ
+ODMyMjQ3My04BggrBgEEAcEBAoEUanNvbW1lckBwY2ZhY3RvcnkuY2wwOwYIKwYBBQUHAQEELzAt
+MCsGCCsGAQUFBzABhh9odHRwOi8vb2NzcC5hY2VwdGEuY29tL0NsYXNlM1YyMDMGA1UdHwQsMCow
+KKAmoCSGImh0dHA6Ly9jcmwuYWNlcHRhLmNvbS9DbGFzZTNWMi5jcmwwDQYJKoZIhvcNAQEFBQAD
+ggEBAIhxjZuaVhNbO1PJRBmE6dUHaB9q1mCItNPIXGrHCa2AA1KQ9jresbZghzyOnKHMWvMTJXmC
+OU/6S6xDBN4C2cXgYpe2QQUtp+I0wHZuOC5+nFkPXsUDgyLTvsSnlLajiu7g/RQ3MWg+lv3Nepem
+nQgCQnFNxpqMgUDJi9Ek3Bfsq4HPAnhcVZGDiQGkVcLVR8FV8X1cpow/O3Jx03BUj22KIEEmxZww
+XFFajtxXGQh1MSnPnF21H0M0HEFtJWnsyB7t7707KfTmg+gfBwEkQQieEjaXQVbgLZVjB7ztfrMz
+KwQxFQWFJpUV+e/Gwv+zLXG0VtYO9Fx7jPpYTIfv8b8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</DTE>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+    <SetDTE ID="ID2e62339e6e664062af9b1c80cc8789ed">
+        <Caratula version="1.0">
+            <RutEmisor>76076074-9</RutEmisor>
+            <RutEnvia>09453810-6</RutEnvia>
+            <RutReceptor>76407152-2</RutReceptor>
+            <FchResol>2009-12-30</FchResol>
+            <NroResol>209</NroResol>
+            <TmstFirmaEnv>2019-01-29T16:35:59</TmstFirmaEnv>
+            <SubTotDTE>
+                <TpoDTE>52</TpoDTE>
+                <NroDTE>1</NroDTE>
+            </SubTotDTE>
+        </Caratula>
+        <DTE version="1.0">       
+            <Documento ID="F6932T52">
+                <Encabezado>
+                    <IdDoc>
+                        <TipoDTE>52</TipoDTE>
+                        <Folio>6932</Folio>
+                        <FchEmis>2019-01-29</FchEmis>
+                        <IndTraslado>1</IndTraslado>
+                    </IdDoc>
+                    <Emisor>
+                        <RUTEmisor>76076074-9</RUTEmisor>
+                        <RznSoc>DU ROCAS S.A.</RznSoc>
+                        <GiroEmis>COMERCIALIZADORA DE MARMOL</GiroEmis>
+                        <Telefono>229440770</Telefono>
+                        <Acteco>269990</Acteco>
+                        <DirOrigen>AV. DEL PARQUE 4928 OFICINA 325</DirOrigen>
+                        <CmnaOrigen>Huechuraba</CmnaOrigen>
+                        <CiudadOrigen>SANTIAGO</CiudadOrigen>
+                    </Emisor>
+                    <Receptor>
+                        <RUTRecep>76407152-2</RUTRecep>
+                        <RznSocRecep>CONSTRUCTORA TECTON S.A.</RznSocRecep>
+                        <GiroRecep>CONSTRUCTORA</GiroRecep>
+                        <DirRecep>NUEVA DE LYON 0124 OF. 601 PROVIDENCIA</DirRecep>
+                        <CmnaRecep>Providencia</CmnaRecep>
+                        <CiudadRecep>SANTIAGO</CiudadRecep>
+                    </Receptor>
+                    <Totales>
+                        <MntNeto>120840</MntNeto>
+                        <TasaIVA>19</TasaIVA>
+                        <IVA>22960</IVA>
+                        <MntTotal>143800</MntTotal>
+                    </Totales>
+                </Encabezado>
+                <Detalle>
+                    <NroLinDet>1</NroLinDet>
+                    <CdgItem>
+                        <TpoCodigo>Interna</TpoCodigo>
+                        <VlrCodigo></VlrCodigo>
+                    </CdgItem>
+                    <NmbItem>DIMENSIONADO TRAVERTINO AGUA RUSTICO 2 CM.</NmbItem>
+                    <DscItem>DIMENSIONADO TRAVERTINO AGUA RUSTICO 2 CM. FORMATO: 120x60</DscItem>
+                    <QtyItem>3.6</QtyItem>
+                    <UnmdItem>M2</UnmdItem>
+                    <PrcItem>29400</PrcItem>
+                    <MontoItem>105840</MontoItem>
+                 </Detalle>
+                <Detalle>
+                    <NroLinDet>2</NroLinDet>
+                    <CdgItem>
+                        <TpoCodigo>Interna</TpoCodigo>
+                        <VlrCodigo></VlrCodigo>
+                    </CdgItem>
+                    <NmbItem>EMBALAJE DE MADERA</NmbItem>
+                    <DscItem>EMBALAJE DE MADERA</DscItem>
+                    <QtyItem>1</QtyItem>
+                    <UnmdItem>UNI</UnmdItem>
+                    <PrcItem>15000</PrcItem>
+                    <MontoItem>15000</MontoItem>
+                 </Detalle>
+                <Referencia>
+                    <NroLinRef>1</NroLinRef>
+                    <TpoDocRef>802</TpoDocRef>
+                    <FolioRef>PV1316</FolioRef>
+                    <FchRef>2019-01-21</FchRef>
+                 </Referencia>
+                <Referencia>
+                    <NroLinRef>2</NroLinRef>
+                    <TpoDocRef>33</TpoDocRef>
+                    <FolioRef>4047</FolioRef>
+                    <FchRef>2019-01-21</FchRef>
+                 </Referencia>
+                <TED version="1.0">
+  <DD>
+    <RE>76076074-9</RE>
+    <TD>52</TD>
+    <F>6932</F>
+    <FE>2019-01-29</FE>
+    <RR>76407152-2</RR>
+    <RSR>CONSTRUCTORA TECTON S.A.</RSR>
+    <MNT>143800</MNT>
+    <IT1>DIMENSIONADO TRAVERTINO AGUA RUSTICO 2 C</IT1>
+    <CAF version="1.0">
+      <DA>
+        <RE>76076074-9</RE>
+        <RS>DU ROCAS S.A.</RS>
+        <TD>52</TD>
+        <RNG>
+          <D>6551</D>
+          <H>7050</H>
+        </RNG>
+        <FA>2017-12-20</FA>
+        <RSAPK>
+          <M>xxhfbSmz6ynHmPitXTXqqbtv2UCjP6oJPrY5jdc4NsmKs7gjevbpYCR9t5mtLG3aJC8Fugpp5s6PsHwkmz9mwQ==</M>
+          <E>Aw==</E>
+        </RSAPK>
+        <IDK>300</IDK>
+      </DA>
+      <FRMA algoritmo="SHA1withRSA">mtDkp6pFBOVqtBs4qTPK7Vi0pc4Mj5NVUjsmVR1KqpmzoYrZsCmZLkjWpt7PrZuk800/OalQTW5gSQqFpSd8Hg==</FRMA>
+    </CAF>
+    <TSTED>2019-01-29T12:35:58</TSTED>
+  </DD>
+  <FRMT algoritmo="SHA1withRSA">xQXD0OnFsNtWU+9UFGlzWi6PTQmtQT+jOSodqfcI78SYUlwXc58qBv5QDaubm7FiGm/oqv8j7pQQd0OInYfVhw==</FRMT>
+</TED>
+                <TmstFirma>2019-01-29T12:35:58</TmstFirma>
+            </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F6932T52"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>gOM1GncfD5Q6j8nxz8a6JqKKSOw=</DigestValue></Reference></SignedInfo><SignatureValue>
+O2TTodCd/nD5y1RjCPPr49QGd1cMU/677j7GJM5UcagJUb+RiGTJvACCF0ykdO0O
+DoH12gyD1Wrqj/n/6KiNzMiw8UwAdYdJfdrOrTm6Aa3RdF4t+ANnkQzX5A+AxuWm
+E/Qxp0STAcpkLpfogITLsQ964moz53ilAov+lHManCc=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+kB6ZiqhlhVnECUG8scnSWmMdoJSGpGkoL1eVumiLEo9InK5Xo9t7RhgXH7mg0LaY
+uGNBeEjNyjt1IFSHpn1J4a/jkarvuNNV9Mm1tc/u54PMkueW7vmeQPz+/25pLbob
+m0neRroT/LqSSkXqGffzpkkPc7TAP9tT1z9z+IwsEZU=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGTjCCBTagAwIBAgIKTLsMMwAAAAbA6jANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNzAyMDgyMDExMjBaFw0yMDAyMDgyMDExMjBaMIHR
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMR4wHAYDVQQKExVIIE0gUCBJTkdFTmlFUklB
+IExUREExIjAgBgNVBAsTGUlOR0lFTkVSSUEgWSBDT05TVFJVQ0NJT04xIzAhBgNV
+BAMTGkp1YW4gQ2FybG9zIFBvdmVkYSBNb3JhbGVzMSEwHwYJKoZIhvcNAQkBFhJw
+b3ZlZGFqY0BnbWFpbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJAe
+mYqoZYVZxAlBvLHJ0lpjHaCUhqRpKC9XlbpoixKPSJyuV6Pbe0YYFx+5oNC2mLhj
+QXhIzco7dSBUh6Z9SeGv45Gq77jTVfTJtbXP7ueDzJLnlu75nkD8/v9uaS26G5tJ
+3ka6E/y6kkpF6hn386ZJD3O0wD/bU9c/c/iMLBGVAgMBAAGjggKnMIICozA9Bgkr
+BgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBmucV
+hq/gFQIBZAIBBDAdBgNVHQ4EFgQU5tg3dR8hQEZwSAXkfoyYJugM/MowCwYDVR0P
+BAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3
+MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNh
+RkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA5
+NDUzODEwLTYwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIB
+TQYDVR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0
+dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8e
+gewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABs
+AGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4AIABm
+AG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBk
+AG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzAN
+BgkqhkiG9w0BAQUFAAOCAQEAq4ozLMtxuNkIpSe85RZidAtYyY9T9ZPv+RnNeDPP
+hnvNtJbKM2ZMgS7/LfnwieT+SdCQYnqtIPPM+mezC2yqqR0C43C2o0lvxJ9/PUUe
+EsZms2NqeWRh4S5CVmVBaFOWZTJfrbzqJMHm3X5GhORK6Wohv4b+CxzxG24N3XgS
+mdbF8Z4WIiCJv3EwNbfsrTIYoetcCZ9s32bjl38JnCipBfVeRD+BbttNx+oAWyXN
+LVeGbwwDbFTz1oo5VZsCVj2b4z07VNaj+0g3L5oOXDNQpQtjAckL/HMj6k2gz6oj
+7+yLz/0uz2tWr9FtkWuQlSDqFxY4b7ceeL6WdyMYN7xJww==
+</X509Certificate></X509Data></KeyInfo></Signature>
+        </DTE>
+    </SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID2e62339e6e664062af9b1c80cc8789ed"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>+H+2UZorQu9UDOhu7oyg8Y+/hxY=</DigestValue></Reference></SignedInfo><SignatureValue>
+ft6Q0i7VLO0YB5CC5cTTV0peDpeq3y7Clhlny8pZs09tgWfiz2J2G05V+ZSmGWex
+eRuBds8aHpxwgT/ybIfKTYIqAO5Ls7JHDnCkUyuBb/ZK3acCzwTbcUllUZSzdzmC
+GDb3Z4bWSvLYbphrVnnwEYAuOpHL6+ZoqbVUPda0y3g=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+kB6ZiqhlhVnECUG8scnSWmMdoJSGpGkoL1eVumiLEo9InK5Xo9t7RhgXH7mg0LaY
+uGNBeEjNyjt1IFSHpn1J4a/jkarvuNNV9Mm1tc/u54PMkueW7vmeQPz+/25pLbob
+m0neRroT/LqSSkXqGffzpkkPc7TAP9tT1z9z+IwsEZU=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGTjCCBTagAwIBAgIKTLsMMwAAAAbA6jANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNzAyMDgyMDExMjBaFw0yMDAyMDgyMDExMjBaMIHR
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMR4wHAYDVQQKExVIIE0gUCBJTkdFTmlFUklB
+IExUREExIjAgBgNVBAsTGUlOR0lFTkVSSUEgWSBDT05TVFJVQ0NJT04xIzAhBgNV
+BAMTGkp1YW4gQ2FybG9zIFBvdmVkYSBNb3JhbGVzMSEwHwYJKoZIhvcNAQkBFhJw
+b3ZlZGFqY0BnbWFpbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJAe
+mYqoZYVZxAlBvLHJ0lpjHaCUhqRpKC9XlbpoixKPSJyuV6Pbe0YYFx+5oNC2mLhj
+QXhIzco7dSBUh6Z9SeGv45Gq77jTVfTJtbXP7ueDzJLnlu75nkD8/v9uaS26G5tJ
+3ka6E/y6kkpF6hn386ZJD3O0wD/bU9c/c/iMLBGVAgMBAAGjggKnMIICozA9Bgkr
+BgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBmucV
+hq/gFQIBZAIBBDAdBgNVHQ4EFgQU5tg3dR8hQEZwSAXkfoyYJugM/MowCwYDVR0P
+BAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3
+MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNh
+RkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA5
+NDUzODEwLTYwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIB
+TQYDVR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0
+dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8e
+gewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABs
+AGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4AIABm
+AG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBk
+AG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzAN
+BgkqhkiG9w0BAQUFAAOCAQEAq4ozLMtxuNkIpSe85RZidAtYyY9T9ZPv+RnNeDPP
+hnvNtJbKM2ZMgS7/LfnwieT+SdCQYnqtIPPM+mezC2yqqR0C43C2o0lvxJ9/PUUe
+EsZms2NqeWRh4S5CVmVBaFOWZTJfrbzqJMHm3X5GhORK6Wohv4b+CxzxG24N3XgS
+mdbF8Z4WIiCJv3EwNbfsrTIYoetcCZ9s32bjl38JnCipBfVeRD+BbttNx+oAWyXN
+LVeGbwwDbFTz1oo5VZsCVj2b4z07VNaj+0g3L5oOXDNQpQtjAckL/HMj6k2gz6oj
+7+yLz/0uz2tWr9FtkWuQlSDqFxY4b7ceeL6WdyMYN7xJww==
+</X509Certificate></X509Data></KeyInfo></Signature>
+</EnvioDTE>

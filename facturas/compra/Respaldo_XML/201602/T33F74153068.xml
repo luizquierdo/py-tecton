@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+<Documento ID="E000000005T033F0074153068">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>74153068</Folio>
+<FchEmis>2016-02-29</FchEmis>
+<FmaPago>1</FmaPago>
+<FchVenc>2016-02-29</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>96792430-K</RUTEmisor>
+<RznSoc>SODIMAC S.A.</RznSoc>
+<GiroEmis>DISTRIBUIDORA DE MATERIALES DE CONSTRUCCION</GiroEmis>
+<Acteco>61514</Acteco>
+<Sucursal>HC El Bosque</Sucursal>
+<CdgSIISucur>74934928</CdgSIISucur>
+<DirOrigen>JOSE MIGUEL CARRERA 10375</DirOrigen>
+<CmnaOrigen>El Bosque</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+<CdgVendedor>.</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<CdgIntRecep>0</CdgIntRecep>
+<RznSocRecep>CONSORCIO HLI HYDROGROUP</RznSocRecep>
+<GiroRecep>OBRAS MENORES EN CONSTRUCCION</GiroRecep>
+<DirRecep>AV.PROVIDENCIA 2330 OF.63</DirRecep>
+<CmnaRecep>PROVIDENCIA</CmnaRecep>
+<CiudadRecep>SANTIAGO</CiudadRecep>
+</Receptor>
+<RUTSolicita>76407152-2</RUTSolicita>
+<Totales>
+<MntNeto>6681</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>1269</IVA>
+<MntTotal>7950</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>1308041</VlrCodigo>
+</CdgItem>
+<NmbItem>CODO 90 HE FUSION 20X1/2 CCS</NmbItem>
+<PrcRef>2466</PrcRef>
+<QtyItem>2</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>2466.38</PrcItem>
+<MontoItem>4933</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>227781</VlrCodigo>
+</CdgItem>
+<NmbItem>PASTA PARA GASFITER 300GRS. CU</NmbItem>
+<PrcRef>1748</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>1747.89</PrcItem>
+<MontoItem>1748</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>96792430-K</RE><TD>33</TD><F>74153068</F><FE>2016-02-29</FE><RR>76407152-2</RR><RSR>CONSORCIO HLI HYDROGROUP</RSR><MNT>7950</MNT><IT1>CODO 90 HE FUSION 20X1/2 CCS</IT1><CAF version="1.0"><DA><RE>96792430-K</RE><RS>SODIMAC S A</RS><TD>33</TD><RNG><D>73509033</D><H>74509031</H></RNG><FA>2015-10-26</FA><RSAPK><M>satlee92RpzCLjXkk1lvj0tT8WLvcnQbYhyt+phqrh/nFnARNQ+UHFHpCzvjeOegDuE4OTZHdONAvUsjQ1Dbyw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">RN13AYZsunEgr/h0yip+imikDQmNvEzjNlxF8irX+cqECSTZrc1bZSmxDN2HBq+3ZrexDFt8fzshOP48XTfrMA==</FRMA></CAF><TSTED>2016-02-29T21:28:54</TSTED></DD><FRMT algoritmo="SHA1withRSA">eUuIZZFfjl24PLEyZeTqB9IcAL2wXbaICqy9jpvhto/YQod/BWTYCtT6jWJUY805KGrbnGZdKxGOqZ4Spyuc0g==</FRMT></TED><TmstFirma>2016-02-29T22:30:38</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000005T033F0074153068">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>WEzRibIRivD0pTyFG6/btf8P5Q4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>fFmiY8iPxpW0hdHLZBnuC4Qyzep1iVgsh/7BZIoTEF3BUVTvPc7/N9r+nRmJvUvU1+qvZkrF+B5DBeCg8XXlrz5jHVve8Ad+F8kY7tJrN+c8vd936ja4air6+QklyN0pPhHbCikur1X8SMFmDNRWtL13fobDGywvGBtloJ8G++g=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+mZYiJXm3rhK/6B3TVhfLO4jV6hk9Sid5qcq7WbgyMEAtISBrLmuiIOyWqt16aG6r
+nmIOj0J6jaSJ+sdyosDaa9VKF3D+P40BkXY1ByP54FRa2imQwsDoEgZCVMZwdGZs
+nhlJnnELUzU+b1z1wzMfFWabo8JZDJflTueTVJ2GAFU=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGSjCCBTKgAwIBAgIKEVPNGwAAAAJOVDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNTA0MjMxODM0MzVaFw0xODA0MjIxODM0MzVaMIHN
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMSowKAYDVQQKEyFDcmlzdGlhbiBBbGZyZWRv
+IEdvbnphbGV6IFJ1YmlsYXIxCjAIBgNVBAsMASoxKjAoBgNVBAMTIUNyaXN0aWFu
+IEFsZnJlZG8gR29uemFsZXogUnViaWxhcjEiMCAGCSqGSIb3DQEJARYTcnZlcmdh
+cmFAc29kaW1hYy5jbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmZYiJXm3
+rhK/6B3TVhfLO4jV6hk9Sid5qcq7WbgyMEAtISBrLmuiIOyWqt16aG6rnmIOj0J6
+jaSJ+sdyosDaa9VKF3D+P40BkXY1ByP54FRa2imQwsDoEgZCVMZwdGZsnhlJnnEL
+UzU+b1z1wzMfFWabo8JZDJflTueTVJ2GAFUCAwEAAaOCAqcwggKjMAsGA1UdDwQE
+AwIE8DAdBgNVHQ4EFgQUIX3b71J4EjPpks/1yhDPdREm2/cwHwYDVR0jBBgwFoAU
+eOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2Ny
+bC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEB
+BC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3Nw
+MD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8
+YYHLnhSGqIJYAgFkAgEEMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTMwNDc3
+MDAtMzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwggFNBgNV
+HSAEggFEMIIBQDCCATwGCCsGAQQBw1IFMIIBLjAtBggrBgEFBQcCARYhaHR0cDov
+L3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH8BggrBgEFBQcCAjCB7x6B7ABD
+AGUAcgB0AGkAZgBpAGMAYQBkAG8AIABGAGkAcgBtAGEAIABTAGkAbQBwAGwAZQAu
+ACAASABhACAAcwBpAGQAbwAgAHYAYQBsAGkAZABhAGQAbwAgAGUAbgAgAGYAbwBy
+AG0AYQAgAHAAcgBlAHMAZQBuAGMAaQBhAGwALAAgAHEAdQBlAGQAYQBuAGQAbwAg
+AGgAYQBiAGkAbABpAHQAYQBkAG8AIABlAGwAIABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABwAGEAcgBhACAAdQBzAG8AIAB0AHIAaQBiAHUAdABhAHIAaQBvMA0GCSqG
+SIb3DQEBBQUAA4IBAQCgNrIiSJ5Xuxaz2Oq3vHlg4bVP+twqTfAk8sbH3qCuROje
+cx1AuXAFXqA3pGCl9gNeiIIKXD2saUIY6FbRSsj6hgTD2Rc13z0S658nH3qllZT2
+T0B82ehWsbYUcyX4h9BmYoXMQBPxFab+jGM73I6SLbu1sRKS/KrgpDz0lGnTXncG
+aviVexinY+tWCxSMSOD39Ki7pCvRr7gWNbMr6Bp54GRKtbXOkoIbbjFBso9UPIsV
+zNQJ4uItZ5Ww3p2x1nJSxivUBs+61SftbB5/YBGeBCHsRDlDVxWevWLNGZAGpdji
+erVrNY2F01Ra1Gao9QB/65R42T1vHxi3Yjun9SwR
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

@@ -1,0 +1,15 @@
+Resultado de Validacion de Envio de DTE
+=======================================
+
+Rut de Empresa Emisora   : 76407152-2
+Rut que Realizo el Envio : 13459205-2
+Identificador de Envio   : 3430933738
+Fecha de Recepcion       : 07/01/2019 18:17:44
+Estado del Envio         : EPR - Envio Procesado
+
+Estadisticas del Envio
+======================
+Tipo DTE  Informados  Rechazos  Reparos  Aceptados
+--------------------------------------------------
+   33              1         0        0          1
+

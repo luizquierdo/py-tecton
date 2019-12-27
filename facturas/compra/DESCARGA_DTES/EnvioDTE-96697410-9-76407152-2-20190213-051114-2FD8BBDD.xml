@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EnvioDTE-96697410-9-76407152-2-20190213-051114-2FD8BBDD">
+<Caratula version="1.0">
+<RutEmisor>96697410-9</RutEmisor>
+<RutEnvia>13272698-1</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2003-09-01</FchResol>
+<NroResol>47</NroResol>
+<TmstFirmaEnv>2019-02-13T05:11:14</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F7709728">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>7709728</Folio>
+            <FchEmis>2019-02-01</FchEmis>
+            <TipoDespacho>2</TipoDespacho>
+            <FmaPago>2</FmaPago>
+            <PeriodoDesde>2018-12-21</PeriodoDesde>
+            <PeriodoHasta>2019-01-20</PeriodoHasta>
+            <FchVenc>2019-03-15</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>96697410-9</RUTEmisor>
+            <RznSoc>ENTEL TELEFONIA LOCAL S.A.</RznSoc>
+            <GiroEmis>SERVICIOS DE COMUNICACION</GiroEmis>
+            <Acteco>619090</Acteco>
+            <DirOrigen>Costanera Sur 2760 Piso 09</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+            <GiroRecep>OBRAS MEN.ES EN CONSTR.(CONTRAT., ALB., </GiroRecep>
+            <CorreoRecep>hriquelme@tecton.cl</CorreoRecep>
+            <DirRecep>NUEVA DE LYON 0124 Dpto/Of/L 601 Piso 6</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+            <CiudadRecep>SANTIAGO</CiudadRecep>
+            <DirPostal>NUEVA DE LYON 0124 Dpto/Of/L 601 Piso 6</DirPostal>
+            <CmnaPostal>PROVIDENCIA</CmnaPostal>
+            <CiudadPostal>SANTIAGO</CiudadPostal>
+          </Receptor>
+          <Totales>
+            <MntNeto>24572</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>4669</IVA>
+            <MntTotal>29241</MntTotal>
+            <MontoPeriodo>29241</MontoPeriodo>
+            <SaldoAnterior>0</SaldoAnterior>
+            <VlrPagar>29241</VlrPagar>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <NmbItem>1.  SERVICIO TELEFONICO LOCAL</NmbItem>
+          <QtyItem>1</QtyItem>
+          <PrcItem>11850</PrcItem>
+          <MontoItem>11850</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <NmbItem>3.  COMUNICACIONES A MOVILES Y/O RURALES Y/U OTROS SERVICIOS PUBLICOS DE TELECOM</NmbItem>
+          <QtyItem>1</QtyItem>
+          <PrcItem>185</PrcItem>
+          <MontoItem>185</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>3</NroLinDet>
+          <NmbItem>II)  SERVICIO DE ACCESO A INTERNET</NmbItem>
+          <QtyItem>1</QtyItem>
+          <PrcItem>20660</PrcItem>
+          <MontoItem>20660</MontoItem>
+        </Detalle>
+        <DscRcgGlobal>
+          <NroLinDR>1</NroLinDR>
+          <TpoMov>D</TpoMov>
+          <GlosaDR>IV) OTROS COBROS Y DESCUENTOS</GlosaDR>
+          <TpoValor>$</TpoValor>
+          <ValorDR>8123</ValorDR>
+        </DscRcgGlobal>
+        <TED version="1.0">
+          <DD>
+            <RE>96697410-9</RE>
+            <TD>33</TD>
+            <F>7709728</F>
+            <FE>2019-02-01</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSTRUCTORA TECTON SPA</RSR>
+            <MNT>29241</MNT>
+            <IT1>2</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>96697410-9</RE>
+                <RS>ENTEL TELEFONIA LOCAL S A</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>7697386</D>
+                  <H>7778244</H>
+                </RNG>
+                <FA>2018-09-12</FA>
+                <RSAPK>
+                  <M>vbCEUb6BEH19dFbu9EWA0EhvYl91syxLFXvMxEmtywB7mNhYuOf/cnsaxz5bDUemVIAijFtB8JPKu3msaDUbqw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">mm/bYe/MDiPPCFWeRkeehojF5AyFn4laA0bZ/eYpTyOizfd4sysLM6Je5KtMeQEl14kTh8uXuM0usgqjIk+C6A==</FRMA>
+            </CAF>
+            <TSTED>2019-02-06T10:15:19</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">hMiILCMHR8bXH/WmW/g+7dCIQGFNtrvG00vdI+VctpOa86OLPWeNQhny3tU7ajpY8edMNeK56QPw
+4pmL18L+EQ==</FRMT>
+        </TED>
+        <TmstFirma>2019-02-06T10:15:19</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+		<Reference URI="#T33F7709728">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+			<DigestValue>5lg+YihDrLC3++whSyyaYBWPWpU=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>fbxvNJw+0f0qqrian7/PNyqvJifYRnwopLnkiFsQsKDZ6GNJ3j4XvEbkN+QSjuovBm5hvUWrx8qA
+lRksDaTSwicpZBy0TJWTU73KAHvWoOdZJMndv0COHWK9WFc2SZTgS8eCMsfWaa5atlbCWJU/qyKB
+dXjMAZNssrSAEgTURr1d9Z8lqRA4XZGa2mr/WwXMbHeCqo4E3XnrD/Chu26wMB4qAyLCaIh/gJK8
+bpIiZ4T6DdiwLHwuvbFaO72Wphsm2aFr41lJD/gM044aexxvDI+DI42pB1laGMMfIlVCDiPg3TMX
+o3wigoUwgzO0GM/GGxea7DS+HpnKjPkhZEFZ5g==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>rTLGGVUU92J7q8HYU0gwJtGBX2oCGUPXZLxWPRB4icCXUVuPBMG0LsNNtYuOiN8nhDDg8Ld0Xd/P
+N2TwfWHg5RLN5YPxtsChEqjX7sk5AAtcpzy29uzVu2mDs9ybfTkIQ2PMR44Zu0y9iXN9pU6TZPPZ
+SIj5hEXTOQSAS9CRTg0BvPlwjlJ7zmxsvmcIi8PX8kKBK9UmJlDkTYEGnmMnGOHokuqwQFX+uKpd
+rcDYk40dSNVAs5+SIwhFt4NjrWmd7ArI9+0gBsKc5axQkeHAI99b9XzJ6dpeRLukiL1ss+w8n4++
+kOiOMeoLyKbhiaae43OFciLmvml8fzxed8ExrQ==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIGfTCCBWWgAwIBAgICM0owDQYJKoZIhvcNAQELBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwgLSBHNDEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE4MTEwODE2MDAyNloXDTIxMTEwODE2
+MDAyNlowgZMxCzAJBgNVBAYTAkNMMSMwIQYDVQQMExpJTkdFTklFUk8gQ0lWSUwgSU5EVVNUUklB
+TDEoMCYGA1UEAxMfSklNTVkgQ0hSSVNUT1BIRVIgRkxPUkVTIFNJR09OQTEgMB4GCSqGSIb3DQEJ
+ARYRSlNGTE9SRVNARU5URUwuQ0wxEzARBgNVBAUTCjExODYyNzM2LTkwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCtMsYZVRT3YnurwdhTSDAm0YFfagIZQ9dkvFY9EHiJwJdRW48EwbQu
+w021i46I3yeEMODwt3Rd3883ZPB9YeDlEs3lg/G2wKESqNfuyTkAC1ynPLb27NW7aYOz3Jt9OQhD
+Y8xHjhm7TL2Jc32lTpNk89lIiPmERdM5BIBL0JFODQG8+XCOUnvObGy+ZwiLw9fyQoEr1SYmUORN
+gQaeYycY4eiS6rBAVf64ql2twNiTjR1I1UCzn5IjCEW3g2OtaZ3sCsj37SAGwpzlrFCR4cAj31v1
+fMnp2l5Eu6SIvWyz7Dyfj76Q6I4x6gvIpuGJpp7jc4VyIua+aXx/PF53wTGtAgMBAAGjggLEMIIC
+wDAfBgNVHSMEGDAWgBSq/b3F6TdN9plNV47BcRr568MG4zAdBgNVHQ4EFgQU2YRppIHXMLsxfxx6
+2BNEzzNripgwCwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglg
+hkgBhvhCAQEEBAMCBaAwgfoGA1UdIASB8jCB7zCB7AYIKwYBBAG1awIwgd8wMQYIKwYBBQUHAgEW
+JWh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL0NQUy1BY2VwdGFjb20wgakGCCsGAQUFBwICMIGcMBYW
+D0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRvIGVuIGZv
+cm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1
+c28gdHJpYnV0YXJpbywgcGFnb3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYB
+BAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQEC
+gQ9pbmZvQGFjZXB0YS5jb20wXAYDVR0RBFUwU6AYBggrBgEEAcEBAaAMFgoxMTg2MjczNi05oCQG
+CCsGAQUFBwgDoBgwFgwKMTE4NjI3MzYtOQYIKwYBBAHBAQKBEUpTRkxPUkVTQEVOVEVMLkNMMEcG
+CCsGAQUFBwEBBDswOTA3BggrBgEFBQcwAYYraHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9v
+Y3NwL0NsYXNlMy1HNDA/BgNVHR8EODA2MDSgMqAwhi5odHRwczovL2FjZzQuYWNlcHRhLmNvbS9h
+Y2c0L2NybC9DbGFzZTMtRzQuY3JsMA0GCSqGSIb3DQEBCwUAA4IBAQA/Ec+VDUCri7k1VlCidQ4Y
+F1JER7K8PPxVpfmzrwTI9WJsYNUEX5Sxz4weE+kPaMrs8UjeyKOBIjEbpG9rfcWAloLKAQ80qtAE
+rE1puYpKAbbq0Esf+WdumMXCGQfDO49kiVUb12sr54w4ygJIt7vrJGbUyrM9zZfjChXh5GI/0+4P
+S2qDAafAbNVqLI06JTqGRW3i4ZQGGjUrKXUBNpIhLFlHrsNOSiImnrltMNpn7G3CmZ/q/x1HqZgk
+OgsyM1PZqi9L5EEO0aIRTRfvovF08yft87xm25XGqZDeP4/tCygHAq8z0iiu38NSJy6Z3CSFuJBk
+VSdGU0JVbnAmw5Qs</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod><Reference URI="#EnvioDTE-96697410-9-76407152-2-20190213-051114-2FD8BBDD"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod><DigestValue>7/ND2rok1ldCLkcL7/hus9HeZ18=</DigestValue></Reference></SignedInfo><SignatureValue>krQTYZsukMoXS7Cfn+vuSqyS/kZrDAp+KRnu3muVYiLz8nVxuVsfwmTT+qibuQ1MjmidJgLnxWq0
+EeouYMp8939oWxWpMvSpR4qPn4B+/9W/1S4RB+01MBN9cVzuj7HTCJE+DDgseMiIj+0S/ksJH/hZ
+1Noqaeq3yMyQjOPzRXvNMnbxmJKy4cS78SA8YrCsQxHN0tqzq3KxCj8Px2kEhmVMwNeFbLiVrCnU
+Q33z5Kdb93vnUKzJi2YDEs5IDeY06IKh11GYl7t5Br+BoFRigHWC108FhOGLzHYNTsZlN7cQtIif
+8KxomoKEwsdjxRL4qsNbnCdqrMvygDJoyvRdsg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vFcAcV5gfBmNMdyqYl+0VI6s76wCAwbI6PWMZaGglaFhYYd3shhCGIBU4gtv0AbNiqi44RnRwTkD
+VvJ4m9JcU9LrWkv1Ed9yTsAE321eZpoUYfYwNsQ4N/DJlKP6UlqDHBtGT6UDPGcOK/2GJC8iIzk7
+NF1izi1hHJN7upXa2TfO07+8AIW7AtcQJ7GqjN6YA1jXirVMycYjQYUjeGOfoo7GbNzYE3nvHqvc
+4coT2MKbg5Q4vUaI9JQikkf7ymHqOt1XWXc3EbqqSWDnWmscfiH4qPSyLcLtrtOak0dJFGyPgdhU
+HJf/C4frHEpIB4SZaopra1NCRLcTtoiX6YBrCw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIF9zCCBN+gAwIBAgIBEzANBgkqhkiG9w0BAQsFADCBpjELMAkGA1UEBhMCQ0wxGDAWBgNVBAoT
+D0FjZXB0YS5jb20gUy5BLjFIMEYGA1UEAxM/QWNlcHRhLmNvbSBBdXRvcmlkYWQgQ2VydGlmaWNh
+ZG9yYSBDbGFzZSAyIFBlcnNvbmEgTmF0dXJhbCAtIEc0MR4wHAYJKoZIhvcNAQkBFg9pbmZvQGFj
+ZXB0YS5jb20xEzARBgNVBAUTCjk2OTE5MDUwLTgwHhcNMTYxMDA3MTgzMjQwWhcNMTkxMDA3MTgz
+MjQwWjCBizELMAkGA1UEBhMCQ0wxGDAWBgNVBAwTD1BFUlNPTkEgTkFUVVJBTDEiMCAGA1UEAxMZ
+QUxWQVJPIEdPTlpBTEVaIFJJRURFTUFOTjEpMCcGCSqGSIb3DQEJARYaYWx2YXJvLmdvbnphbGV6
+QGFjZXB0YS5jb20xEzARBgNVBAUTCjEzMjcyNjk4LTEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC8VwBxXmB8GY0x3KpiX7RUjqzvrAIDBsjo9YxloaCVoWFhh3eyGEIYgFTiC2/QBs2K
+qLjhGdHBOQNW8nib0lxT0utaS/UR33JOwATfbV5mmhRh9jA2xDg38MmUo/pSWoMcG0ZPpQM8Zw4r
+/YYkLyIjOTs0XWLOLWEck3u6ldrZN87Tv7wAhbsC1xAnsaqM3pgDWNeKtUzJxiNBhSN4Y5+ijsZs
+3NgTee8eq9zhyhPYwpuDlDi9Roj0lCKSR/vKYeo63VdZdzcRuqpJYOdaaxx+Ifio9LItwu2u05qT
+R0kUbI+B2FQcl/8Lh+scSkgHhJlqimtrU0JEtxO2iJfpgGsLAgMBAAGjggJHMIICQzAfBgNVHSME
+GDAWgBRlpas+P8i2UW0Rfl/DCgfmQ6AItjAdBgNVHQ4EFgQUyh2fhOBhnlVGwTznOvB+y2tHmgkw
+CwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhCAQEE
+BAMCBaAwdQYDVR0gBG4wbDBqBggrBgEEAbVrAjBeMDEGCCsGAQUFBwIBFiVodHRwczovL2FjZzQu
+YWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMCkGCCsGAQUFBwICMB0wFhYPQWNlcHRhLmNvbSBTLkEu
+MAMCAQkaA1RCRDBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYBBQUH
+CAOgGDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29tMGUGA1UdEQReMFyg
+GAYIKwYBBAHBAQGgDBYKMTMyNzI2OTgtMaAkBggrBgEFBQcIA6AYMBYMCjEzMjcyNjk4LTEGCCsG
+AQQBwQECgRphbHZhcm8uZ29uemFsZXpAYWNlcHRhLmNvbTBHBggrBgEFBQcBAQQ7MDkwNwYIKwYB
+BQUHMAGGK2h0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvb2NzcC9DbGFzZTItRzQwPwYDVR0f
+BDgwNjA0oDKgMIYuaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9jcmwvQ2xhc2UyLUc0LmNy
+bDANBgkqhkiG9w0BAQsFAAOCAQEAvlrMZ25rD567BX60SPygz2pc4d8JmbRbkCZsG8BJK+/SxIcr
+lS5osKMD2rxYGKMlSiL1By/+qT0gxF4FP7z1z034rKDmpNlqu+N6VxTYMQKE6bsihu4/a0Gqt7vS
+SIcRMpaXLJqKyuThyDTH7z5n59mZ/W+LUuKZ6OKMnMBLvE4cEZyZqFLVSdqaCxtu/jfxKRH6RYpj
+Y2+/NXf5S1ilN2BYooZilfPLxY8m649q3UxxCrFhOMazp8UlrOqF6veXva4ae11Pl3RCvkmf+H2F
+VUB/PM7S9kptQsHzrjQZt3LpyswMg5qUpWj5mHLcXKKlZYOlfNFpoeIW+D8pgi1hMg==</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>

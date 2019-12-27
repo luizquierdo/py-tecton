@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+<Documento ID="T33F4425">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>4425</Folio>
+<FchEmis>2016-02-24</FchEmis>
+<FmaPago>2</FmaPago>
+<MntPagos>
+<FchPago>2016-03-24</FchPago>
+<MntPago>1745824</MntPago>
+</MntPagos>
+<PeriodoDesde>2016-01-25</PeriodoDesde>
+<PeriodoHasta>2016-02-24</PeriodoHasta>
+<FchVenc>2016-03-24</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>77879620-1</RUTEmisor>
+<RznSoc>Moldajes Alsina Ltda.</RznSoc>
+<GiroEmis>Compraventa, Fabricación, Industrialización y Arriendo de Moldajes para la Const</GiroEmis>
+<Telefono>0224842400</Telefono>
+<CorreoEmisor>chile@alsina.com</CorreoEmisor>
+<Acteco>289990</Acteco>
+<CdgSIISucur>63605632</CdgSIISucur>
+<DirOrigen>Nueva Taqueral, 369
+Panamericana Norte Km.22, Lampa
+Santiago de Chile</DirOrigen>
+<CmnaOrigen>Lampa</CmnaOrigen>
+<CiudadOrigen>LAMPA</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<RznSocRecep>HLI CONSTRUCCIONES SPA</RznSocRecep>
+<GiroRecep>Construcción de edificios comp</GiroRecep>
+<DirRecep>Isidora Goyenechea 3356 of. 41,</DirRecep>
+<CmnaRecep>Las Condes</CmnaRecep>
+<CiudadRecep>LAS CONDES</CiudadRecep>
+</Receptor>
+<Totales>
+<MntNeto>1467079</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>278745</IVA>
+<MntTotal>1745824</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<NmbItem>Arriendo</NmbItem>
+<DscItem>Arriendo de equipos Alsina
+según detalle anexo
+Mes de Febrero del 2016
+
+Valor UF al 24/02/2016 $25.695,29
+
+Obra: Las Pircas
+Ficha: 30019743</DscItem>
+<QtyItem>1</QtyItem>
+<PrcItem>1467079</PrcItem>
+<MontoItem>1467079</MontoItem>
+</Detalle>
+<TED version="1.0">
+<DD>
+<RE>77879620-1</RE>
+<TD>33</TD>
+<F>4425</F>
+<FE>2016-02-24</FE>
+<RR>76407152-2</RR>
+<RSR>HLI CONSTRUCCIONES SPA</RSR>
+<MNT>1745824</MNT>
+<IT1>Arriendo</IT1>
+<CAF version="1.0">
+<DA>
+<RE>77879620-1</RE>
+<RS>MOLDAJES ALSINA LIMITADA</RS>
+<TD>33</TD>
+<RNG>
+<D>3646</D>
+<H>5777</H>
+</RNG>
+<FA>2015-09-23</FA>
+<RSAPK>
+<M>tLed7lLwwbs7RKALHUhsomzdGkvVbLr/p5are3y6TpU56/jTahTaFNGEsFk3H8M7K4k6y4IK9iBGDjjYFqeEIw==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">GtCKq8P4uowWyV7wHwkd1RoxomTGsivtlQPgUZlkQ4pDBxjE0IcJEg9S1XOFHKnJHCpwtk77dX2ax+8YORWY4Q==</FRMA>
+</CAF>
+<TSTED>2016-02-25T22:21:32</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">AXOcFuCvPFzKZ7RFIHOayqVEQNsl5zrCUUi2kcCYxA3xanB5IYvLiq8hyOLzCGxa6D+4a8K/8utFYRaeLZJ1dw==</FRMT>
+</TED>
+<TmstFirma>2016-02-25T22:21:32</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#T33F4425"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>KDUGvmKly5KmM7lAyRGGA1/+Fsc=</DigestValue></Reference></SignedInfo>
+<SignatureValue>
+GZB6mue80v4kTJ93eOx/PmVOFn4AvdTSdWxUM7QgHaqkt21zZC63QJg4RRYieAhaFUlj8NJFLJtW
+QUlBZR5pC7N1NeE0HdvDGs3zfgR6zojAWBr0mO6+nly4qheTSYGyOw77BmhNyWXxCw2vz628TfFd
+r6klTemHizSo4gPDqEheEFCrAxS4FdLv5lO4Ar9f3qyv0c6Durfdqh7S1jh3W0B6ltgYnkcHyVFt
+FCtTJnx+03NuTRVHdM64gYL0iiSK3tHhF3T9Al7I6tWEs+TW0Aetlq01NENkS1E3MmTEeBa6drzo
+phMxgHgqWu6ErFndtsbxkuNZzxj5A5arNnNBnA==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+tF4+soH2hXaKCN32jlQG0ouAQx8YId8OH3BtqnoOmq83Xd9TQsfY1iP7oYlcgBTQlJH0q5QCCiVM
+FURD2IFplJdS7T92DjYWAMAl/LobM//9PHrZjRTFOrxlIgxGYejCDYe8inJf5YkaIzesgsNVe/i4
+oq9O78N1AWD4TIbtO7FZ7rhSXhLWTgusqF4sNIdzvZNjrR8UDZR6U+tZ+6H6c2y6ndkB3hnP9Hhn
+bx2dzSA2YEOA3Cb+D49917NjLeFvnDJQV1MMuUaWOXo+CVpt87HSdVpUoFamueWScBMWWjVdzYhe
+uLmEQJPxJmFGrT3NohvfzWJ+QZThnT54L89f0w==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGHjCCBQagAwIBAgICA+AwDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMiBQZXJzb25hIE5hdHVyYWwgLSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE1MDgyODE5MjI0N1oXDTE4MDgyODE5
+MjI0N1owgYwxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxIjAgBgNVBAMT
+GUVTVEVGQU5JQSBHQVJDSUEgR09OWkFMRVoxKjAoBgkqhkiG9w0BCQEWG2VzdGVmYW5pYS5nYXJj
+aWFAYWxzaW5hLmNvbTETMBEGA1UEBRMKMjQxNjczNjktMzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALRePrKB9oV2igjd9o5UBtKLgEMfGCHfDh9wbap6DpqvN13fU0LH2NYj+6GJXIAU
+0JSR9KuUAgolTBVEQ9iBaZSXUu0/dg42FgDAJfy6GzP//Tx62Y0UxTq8ZSIMRmHowg2HvIpyX+WJ
+GiM3rILDVXv4uKKvTu/DdQFg+EyG7TuxWe64Ul4S1k4LrKheLDSHc72TY60fFA2UelPrWfuh+nNs
+up3ZAd4Zz/R4Z28dnc0gNmBDgNwm/g+PfdezYy3hb5wyUFdTDLlGljl6PglabfOx0nVaVKBWprnl
+knATFlo1Xc2IXri5hECT8SZhRq09zaIb381ifkGU4Z0+eC/PX9MCAwEAAaOCAmwwggJoMB8GA1Ud
+IwQYMBaAFEAkGj2pMXqFd3o9nnKTOYTlQDgZMB0GA1UdDgQWBBQJegsfFNNOWI7akkytqcRAHUN3
+ZjALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIB
+AQQEAwIFoDCBmAYDVR0gBIGQMIGNMIGKBgorBgEEAbVrh2oKMHwwKgYIKwYBBQUHAgEWHmh0dHBz
+Oi8vYWNnMy5hY2VwdGEuY29tL0NQUy1HMzBOBggrBgEFBQcCAjBCMBYWD0FjZXB0YS5jb20gUy5B
+LjADAgEJGihDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvIHkgb3Ryb3MuMFoGA1UdEgRT
+MFGgGAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgG
+CCsGAQQBwQECgQ9pbmZvQGFjZXB0YS5jb20wZgYDVR0RBF8wXaAYBggrBgEEAcEBAaAMFgoyNDE2
+NzM2OS0zoCQGCCsGAQUFBwgDoBgwFgwKMjQxNjczNjktMwYIKwYBBAHBAQKBG2VzdGVmYW5pYS5n
+YXJjaWFAYWxzaW5hLmNvbTBHBggrBgEFBQcBAQQ7MDkwNwYIKwYBBQUHMAGGK2h0dHBzOi8vYWNn
+My5hY2VwdGEuY29tL2FjZzMvb2NzcC9DbGFzZTItRzMwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cHM6
+Ly9hY2czLmFjZXB0YS5jb20vYWNnMy9jcmwvQ2xhc2UyLUczLmNybDANBgkqhkiG9w0BAQUFAAOC
+AQEAaw3L/FVEnictkLiBvehSfQ1OoACHqb4AOeuJnR4sjHUSRMSCrjNNiXNJa7pxg2jii28Bg01a
+06ZUAM3C6jJutHvBgJxR6q+eNbO4i4MyBiHYKI18FSwBroL70Cwc5+kDAwfP/3Aa7Lr0AAxV50c4
++k7APYhmDcUD724DJCnsHvXns27rclZc/j3txoDZm+nEeHC1hYwyiwdFmW0sYoZoa/LgfGdPzkMD
+oOYdu+ZYlI4xpNjp5yq+QLJvrb0NElm6XprHEFyv6OPfdYCURF8HCjJ5aqD9WpJul9MxEPvLyJTn
+4Z9aEBJ92yegw/f6jao4Mg+SLkmeNsoBNKA32AeqxA==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

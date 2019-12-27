@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+  <!-- O Win32 Trident 7 plugin -->
+<Documento ID="MiPE76132446-24091">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>2740</Folio>
+        <FchEmis>2016-02-11</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76132446-2</RUTEmisor>
+        <RznSoc>INGENIERIA DE PROYECTOS Y EQUIPOS PARA LA CONSTRUCCION LIMITADA</RznSoc>
+        <GiroEmis>COMP/VTA Y ARRENDAMIENTO DE ANDAMIOS Y MONTAJES</GiroEmis>
+        <Acteco>454000</Acteco>
+        <CdgSIISucur>076330234</CdgSIISucur>
+        <DirOrigen>CERRO LOS CONDORES 9881 GALP.C  PARQUE IND.PORTEZUEO</DirOrigen>
+        <CmnaOrigen>QUILICURA</CmnaOrigen>
+        <CiudadOrigen>SANTIAGO</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76407152-2</RUTRecep>
+        <RznSocRecep>CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+        <GiroRecep>OBRAS MENORES EN CONSTRUCCION (CONTRATIS</GiroRecep>
+        <DirRecep>AV. PROVIDENCIA 2330  63</DirRecep>
+        <CmnaRecep>PROVIDENCIA</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>316000</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>60040</IVA>
+        <MntTotal>376040</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>PRENSA RAPIDA</NmbItem>
+      <QtyItem>200.00</QtyItem>
+      <PrcItem>1325.00</PrcItem>
+      <MontoItem>265000</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <NmbItem>TENSOR PRENSA RAPIDA</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>17000.00</PrcItem>
+      <MontoItem>51000</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>76132446-2</RE><TD>33</TD><F>2740</F><FE>2016-02-11</FE><RR>76407152-2</RR><RSR>CONSORCIO HLI HYDROGROUP SPA</RSR><MNT>376040</MNT><IT1>PRENSA RAPIDA</IT1><CAF version="1.0"><DA><RE>76132446-2</RE><RS>INGENIERIA DE PROYECTOS Y EQUIPOS PARA L</RS><TD>33</TD><RNG><D>2740</D><H>2740</H></RNG><FA>2016-02-11</FA><RSAPK><M>taPdVcpzSek7Og/V+cGRRWFi6WEOG27eyaj7JuDHkan9q2AB6EQ4tvnG64q4HrE8FOQQmqAJzy0108vL8HCwcw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">UuOfGLG95ZwUfT7Xa5SlWFQtpm1/u17kruVWtj9mz0mQGxYGrbRVNNtra5cJ/4wousXSOoieOZNDqD8keQqryg==</FRMA></CAF><TSTED>2016-02-11T16:37:47</TSTED></DD><FRMT algoritmo="SHA1withRSA">L02Xejt4o3fRaOc64MIjkAtRKRiyp3d5urIFaHG8aufzu+jn8vtzrZ3gWMbtFpwk55tX8COsoLD4A7EpHcjUZw==</FRMT></TED>
+    <TmstFirma>2016-02-11T16:37:47</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#MiPE76132446-24091"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>KDeCY+ZeZXld7HGzEAEItMVe9LI=</DigestValue></Reference></SignedInfo>
+<SignatureValue>GHUQIzB/VVhuwBTYoaErrs96pKBOndeup1G1gr6bVhE/+mHrvK/jmyQ7XnXARKvMbj5IsZgoNEf5zkDDe3S4D3Oq8pSokLf78iA8hgfRBBzxOgokdCpA9DNgZsGiUTE3DlzBn3eprWN817m3P67IhSNdTSuH4MJ4MfYhOOTF930=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>yG8B7LsL7yHv0WUZrtCVyXGy/BY6epGXoFtUHKqZ0AQV6cbhBH7yV1C8oKzwHyMDRvpdQBRkV3Rxk6VEqSRLWk4fmn+Y9Mbe5deQ8JJDH9lR6YFk7Z6PJuHQNJ5IcmekHinUseeSKBdt9qrPkPZIQKUtAaFOuHFoY7JGqO88KX8=</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGPzCCBSegAwIBAgIKHPTIAwAAAAEyATANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNDA0MDQxNTU3NThaFw0xNzA0MDMxNTU3NTha
+MIHBMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRQwEgYDVQQKEwtNQVFURUMgTFREQTElMCMGA1UECxMcQVJSSUVORE8g
+WSBWRU5UQSBERSBBTkRBTUlPUzEdMBsGA1UEAxMUUk9EUklHTyAgTElSQSBNT0xJTkExHjAcBgkq
+hkiG9w0BCQEWD1JMSVJBQE1BUVRFQy5DTDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyG8B
+7LsL7yHv0WUZrtCVyXGy/BY6epGXoFtUHKqZ0AQV6cbhBH7yV1C8oKzwHyMDRvpdQBRkV3Rxk6VE
+qSRLWk4fmn+Y9Mbe5deQ8JJDH9lR6YFk7Z6PJuHQNJ5IcmekHinUseeSKBdt9qrPkPZIQKUtAaFO
+uHFoY7JGqO88KX8CAwEAAaOCAqgwggKkMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+F
+k4xmhdWdF4Li3CeB7+w8YYGa5xWGr+AVAgFkAgEEMB0GA1UdDgQWBBQM3cgo7F45xmenhP7mHjQ8
+yf5onDALBgNVHQ8EBAMCBPAwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0f
+BDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3Js
+MDsGCCsGAQUFBwEBBC8wLTArBggrBgEFBQcwAYYfaHR0cDovL29jc3AuaW50ZXJjYXBpdC5jb20v
+b2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA5OTEwMDEyLTUwIwYDVR0SBBwwGqAYBggr
+BgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCCAUAwggE8BggrBgEEAcNSBTCCAS4w
+LQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/AYIKwYBBQUH
+AgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBpAHIAbQBhACAAUwBpAG0AcABsAGUA
+LgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8AIABlAG4AIABmAG8AcgBtAGEAIABw
+AHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBkAG8AIABoAGEAYgBpAGwAaQB0AGEA
+ZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAcABhAHIAYQAgAHUAcwBvACAAdABy
+AGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEAbzbdRHxUpDHo+mYopDFodNflIzQp
+osJx/Z07xc2Rzbf7Ed7ZYfSIsXmweEiROTAwzmDF0JXkP74syyYw/1T7a0da2BqR+OrZ49/tDjrr
+vOt6ifEcbe8jXJxtNIKiQsiEclRehxuuUu4xss1L68uznHNHCqZ5DlKPi/SQNAGXXmw9FuB5defN
+rDSkDj17YS0WIs6DZ9x/39Vm3f4V/EfIuTfZzsXa/maQt8UN4ipmG6TSZDSxT+H/QpVweUkhtEgO
+gz+tBnMflwVSvIEJh039gGi5FX8NzxYSoyAjWXf7IfO64nY2Qdg5Zjh47BO/K7qxjHlf41OwXRv0
+23GbCAxnzA==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

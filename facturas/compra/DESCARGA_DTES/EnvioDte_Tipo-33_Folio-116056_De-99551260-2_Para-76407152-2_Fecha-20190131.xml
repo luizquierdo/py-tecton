@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+  <SetDTE ID="ID99551260-2__1__33__116056">
+    <Caratula version="1.0">
+      <RutEmisor>99551260-2</RutEmisor>
+      <RutEnvia>14681596-0</RutEnvia>
+      <RutReceptor>76407152-2</RutReceptor>
+      <FchResol>2010-07-30</FchResol>
+      <NroResol>124</NroResol>
+      <TmstFirmaEnv>2019-02-04T11:05:16</TmstFirmaEnv>
+      
+    <SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+    
+  <DTE version="1.0">
+      <Documento ID="F116056T33">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>116056</Folio>
+            <FchEmis>2019-01-31</FchEmis>
+            <FmaPago>2</FmaPago>
+            <TermPagoGlosa>50%CONTADO/50%DCTADO A 30 DIASS</TermPagoGlosa>
+            <FchVenc>2019-01-31</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>99551260-2</RUTEmisor>
+            <RznSoc>LAYHER DEL PACIFICO S A</RznSoc>
+            <GiroEmis>COMPRA, VENTA, IMPORTACION, EXPORTACION ESTRUCTURAS METALICAS</GiroEmis>
+            <Acteco>519000</Acteco>
+            <DirOrigen>AVENIDA VOLCAN LASCAR 791</DirOrigen>
+            <CmnaOrigen>PUDAHUEL</CmnaOrigen>
+            <CiudadOrigen>SANTIAGO</CiudadOrigen>
+            <CdgVendedor>RODRIGO CORDOVA G.</CdgVendedor>
+            <IdAdicEmisor>FCV</IdAdicEmisor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <CdgIntRecep>2986</CdgIntRecep>
+            <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCION</GiroRecep>
+            <Contacto>Fabiola Reyes Fuentes</Contacto>
+            <DirRecep>NUEVA DE LYON N° 0124 OF 601</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+          </Receptor>
+          <Transporte>
+            <Patente>HPKJ-35</Patente>
+            <RUTTrans>15542594-6</RUTTrans>
+            <Chofer>
+              <RUTChofer>15542594-6</RUTChofer>
+              <NombreChofer>RODRIGO CORDOVA</NombreChofer>
+            </Chofer>
+            <DirDest>NUEVA DE LYON N° 0124 OF 601</DirDest>
+            <CmnaDest>PROVIDENCIA</CmnaDest>
+          </Transporte>
+          <Totales>
+            <MntNeto>86994</MntNeto>
+            <TasaIVA>19.00</TasaIVA>
+            <IVA>16529</IVA>
+            <MntTotal>103523</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>412281</TpoCodigo>
+            <VlrCodigo>1757073</VlrCodigo>
+          </CdgItem>
+          <NmbItem>RODAPIE LATERAL 0,73 M BLITZ</NmbItem>
+          <QtyItem>12.000000</QtyItem>
+          <UnmdItem>UN</UnmdItem>
+          <PrcItem>8977.305600</PrcItem>
+          <MontoItem>107728</MontoItem>
+        </Detalle>
+        <DscRcgGlobal>
+          <NroLinDR>1</NroLinDR>
+          <TpoMov>D</TpoMov>
+          <GlosaDR>DESCUENTO COMERCIAL</GlosaDR>
+          <TpoValor>$</TpoValor>
+          <ValorDR>16159.00</ValorDR>
+        </DscRcgGlobal>
+        <DscRcgGlobal>
+          <NroLinDR>2</NroLinDR>
+          <TpoMov>D</TpoMov>
+          <GlosaDR>DESCUENTO PRIMERA COMPRA</GlosaDR>
+          <TpoValor>$</TpoValor>
+          <ValorDR>4575.00</ValorDR>
+        </DscRcgGlobal>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>801</TpoDocRef>
+          <FolioRef>04387</FolioRef>
+          <FchRef>2019-01-08</FchRef>
+          <RazonRef>VENTA BLITZ</RazonRef>
+        </Referencia>
+        <Referencia>
+          <NroLinRef>2</NroLinRef>
+          <TpoDocRef>52</TpoDocRef>
+          <FolioRef>95782</FolioRef>
+          <FchRef>2019-01-31</FchRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>99551260-2</RE>
+            <TD>33</TD>
+            <F>116056</F>
+            <FE>2019-01-31</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSTRUCTORA TECTON SPA</RSR>
+            <MNT>103523</MNT>
+            <IT1>RODAPIE LATERAL 0,73 M BLITZ</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>99551260-2</RE>
+                <RS>LAYHER DEL PACIFICO S A</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>111331</D>
+                  <H>122929</H>
+                </RNG>
+                <FA>2018-09-03</FA>
+                <RSAPK>
+                  <M>5aSbZGIxNzCxxvTc7mwwUgm6vhbaFcNLt4qJdNHMO74s3i4eWZNzsnE3aXFNwJOk6foWzWu1yPFJsacRT99SBQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">deyIEdss9NLI1MWW6bfjGlps6z7UDTSjRi7ctsbLR9mckN8U6Jwrh8AjbkOzo6Q1cwJTBpcgYn9/JjHEZSiY5g==</FRMA>
+            </CAF>
+            <TSTED>2019-02-04T13:01:35</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">LNMUDIwacsdwNYQ+7CNA0EbngrRClak9z4/eZF46qDVLH4nfAkaN+cvXNKAVLF7yoI1MFA/8MU1Q2xlsNmCe/w==</FRMT>
+        </TED>
+        <TmstFirma>2019-02-04T13:01:38</TmstFirma>
+      </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F116056T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>9jY2vhn4lcA6GqQr2dJ0B95Piy0=</DigestValue></Reference></SignedInfo><SignatureValue>
+QZ2KEKtibCAW+kead/GmjpVth89b3plosTzvRQzMrPz+0IPFt5KTKCysbUQMInAX
+/uGHPM3RPk7tRNsO6bWsqDPhkzmYHHAlTyL/85+IV4kx6R4jXmjJ4GyZE7d8glPb
+gFzF58tkwyJq43vKbdxNjEdIf9ZHkbi/APsreqKEuGziEdrPGRyXh0BGlcZQwSD9
+zKIa8ngQh+EOjB+2vpesiwH9gRjvP/hW1QIpDVQQ+wKM2kli4jA7/pZp5EuN0YWT
+5cLeP+xvbY2HkLyKaBGNCJZbcETboGDMqcGn1wNXbWruYJJ7bJ0/hREX1rCemalU
+sulRsDEmE1WeKioSy+t0Dw==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+6Zw69D1xeuLe+/EdD4wyEX6NXXuygt0xZ7paRkXYykNmnjGUiYxe5oeWiqGmr75y
+XhH0vogXNo9Mnvj4OFO1voHdn6Jgql69K9CdA5QfXd2CcCza4el5MfWV48aNcBwP
+zhQKaQxSmlUaHJWq7bCpT8FlfuIFqJsDdSxABJUvlPv/YLYUTnMVggoHCFoYkSYL
+T9zriB7odqaHlfIzbd2sTEqRynVD03VjBzBp9m5LXhoZlqypkR6erxybklYUt20N
+SJswWFVAf1mdMBGH2EiKiZgYQD7r4sLJl9B3O9jaYPbFdsOCKHjzwRaVXV8gMl22
+Cyeqrh+inxQk2H2zDTtMQQ==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGTzCCBTegAwIBAgIIS3R6W3SVU0AwDQYJKoZIhvcNAQELBQAwga8xCzAJBgNV
+BAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5MDcGA1UECwwwVGVybXMgb2Yg
+dXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJkb3RlcmNlcm9zMSswKQYDVQQD
+DCJFLVNpZ24gQ2xhc3MgMiBGaXJtYSBUcmlidXRhcmlhIENBMSIwIAYJKoZIhvcN
+AQkBFhNlLXNpZ25AZXNpZ24tbGEuY29tMB4XDTE2MTExNzEzNDYxNVoXDTE5MTEx
+NzEzMjcwMFowga4xDjAMBgNVBAYTBUNoaWxlMRQwEgYDVQQKDAtFLVNpZ24gUy5B
+LjE5MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1
+ZXJkb3RlcmNlcm9zMSYwJAYDVQQDDB1IRVJOQU4gRURVQVJETyBGRVJOQU5ERVog
+TEVPTjEjMCEGCSqGSIb3DQEJARYUaGZlcm5hbmRlekBsYXloZXIuY2wwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDpnDr0PXF64t778R0PjDIRfo1de7KC
+3TFnulpGRdjKQ2aeMZSJjF7mh5aKoaavvnJeEfS+iBc2j0ye+Pg4U7W+gd2fomCq
+Xr0r0J0DlB9d3YJwLNrh6Xkx9ZXjxo1wHA/OFAppDFKaVRoclartsKlPwWV+4gWo
+mwN1LEAElS+U+/9gthROcxWCCgcIWhiRJgtP3OuIHuh2poeV8jNt3axMSpHKdUPT
+dWMHMGn2bkteGhmWrKmRHp6vHJuSVhS3bQ1ImzBYVUB/WZ0wEYfYSIqJmBhAPuvi
+wsmX0Hc72Npg9sV2w4IoePPBFpVdXyAyXbYLJ6quH6KfFCTYfbMNO0xBAgMBAAGj
+ggJsMIICaDCBgAYIKwYBBQUHAQEEdDByMEoGCCsGAQUFBzAChj5odHRwOi8vcGtp
+LmVzaWduLWxhLmNvbS9jYWNlcnRzL3BraUNsYXNzMkZpcm1hVHJpYnV0YXJpYUNB
+LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZXNpZ24tbGEuY29tMB0GA1Ud
+DgQWBBSdTMrJgPoS98/Qf9/M7BpMFV1WWjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQY
+MBaAFPlK+sLHbsLnEpxXRTWEGm0o6UqkMIHIBgNVHSAEgcAwgb0wgboGDCsGAQQB
+gspqAQQBAjCBqTB+BggrBgEFBQcCAjByHnAAQwBlAHIAdABpAGYAaQBjAGEAZABv
+ACAAcABhAHIAYQAgAHUAcwBvACAAVAByAGkAYgB1AHQAYQByAGkAbwAsACAAQwBv
+AG0AZQByAGMAaQBvACwAIABQAGEAZwBvAHMAIAB5ACAATwB0AHIAbwBzMCcGCCsG
+AQUFBwIBFhtodHRwOi8vd3d3LmVzaWduLWxhLmNvbS9jcHMwUQYDVR0fBEowSDBG
+oESgQoZAaHR0cDovL3BraS5lc2lnbi1sYS5jb20vY3JsL3BraUNsYXNzMkZpcm1h
+VHJpYnV0YXJpYS9lbmR1c2VyLmNybDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwIGCCsGAQUFBwMEMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYK
+MTA4NDYzMTUtNTAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk5NTUxNzQwLUsw
+DQYJKoZIhvcNAQELBQADggEBAHEv/5Ma2WTMT9bFuQaxoNisoO7LdQ02oWYR6enS
+l/Mi703JNkvu9CrjSc0y+GWF/BKyYilPFRVdxnFanH/6Qh3s59LWJp1w3/bPOfFv
+ZbIggdZtBLpid8u7/EUJBTIrvmuH+1Ed5zEUhZlA/hZVeZwzVs+A9PDYQPiPbRZy
+RMx0JyU5ZHCDWFqR66XRK6kNyAArrn2spXKM/1fzrNl76wlifL7kUgdS3ifq3GFw
+teTwinwLGoopqYoJaxJQ9f3NQn21KnlyCNA4FT+X4KwmZ7LL1k6atMkKIagtB5eb
+JnjPnp34YM/7wxAECfV4xO8tnbH4fHxjLsF2wlJraSa94x8=
+</X509Certificate></X509Data></KeyInfo></Signature>
+    </DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID99551260-2__1__33__116056"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>/ihI8vOFOP32xrSIZnnzMXB8NDI=</DigestValue></Reference></SignedInfo><SignatureValue>
+JA5pyyvamcQdstrfaC9hKNW9+LJqiWAKb29F4jIXhBpSFtcbTDxUFeLJ5qFq1HHr
+FrCxy5xEOibbQUWn/BfLxEcCE98Qq6K4bdZxVEp5buKdrlDw7SXFUAGh+t0aOq7E
+/F65hLXBpvLqna1Bvw1cFbPY0lmx/3SnpNmH/H5ZcXc=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+pNci5AbduPBP7Bc36DAaicMVoTXwPQ6b1vvHKXZ2iZH/qiq3+a0fe5SFPzF+Yerp
+7u5n+gYwfzziTA4sQip2A5BXg3QAvY2Lt+nAaCOs0z3lHFPps7pPQ+7bp7AbSASo
+napBUhfFqdMZ7P3e6IAfTXdCOe7abupbfPJaT+fOEXk=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGbDCCBVSgAwIBAgIKdjB7JwAAAAuxQTANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xODA4MDIxMzUwMTdaFw0yMTA4MDExMzUwMTdaMIHt
+MQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TzERMA8GA1UEBxMIU2FudGlhZ28xJjAkBgNVBAoTHVNvdXRoIENvbnN1bHRpbmcg
+U2lnbmF0dXJlIFNBMSIwIAYDVQQLExlBdiBWaXRhY3VyYSAyNjcwIDZ0byBQaXNv
+MScwJQYDVQQDEx5NYXJpbyBBdWd1c3RvIEZlcm5hbmRleiBDdWVzdGExMjAwBgkq
+hkiG9w0BCQEWI21hcmlvLmZlcm5hbmRlekBzb3V0aGNvbnN1bHRpbmcuY29tMIGf
+MA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCk1yLkBt248E/sFzfoMBqJwxWhNfA9
+DpvW+8cpdnaJkf+qKrf5rR97lIU/MX5h6unu7mf6BjB/POJMDixCKnYDkFeDdAC9
+jYu36cBoI6zTPeUcU+mzuk9D7tunsBtIBKidqkFSF8Wp0xns/d7ogB9Nd0I57tpu
+6lt88lpP584ReQIDAQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIBQjCCAT4GCCsG
+AQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5j
+bC9DUFMuaHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBk
+AGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBu
+ACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABl
+ACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBj
+AGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABv
+AHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFHzmg5mTx7ZZ4XrV
+25jJ1jigC6GvMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwW
+CjE0NjgxNTk2LTAwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYD
+VR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNo
+aWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDov
+L29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQB
+gjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFkAgEEMCMGA1UdEgQc
+MBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQUFAAOCAQEA
+S6x47s+jcHmHj/4B7lY2alo4J+txLZLkIslYJGDiDhTMgB+z7lD3txCHsK4UXBq8
+wSqAho8UTfm8J3JFclFhxT2Fg/Loou8dp/sZhBW2wouYemp/z2EniyZPtSIw1oIn
++SI12mZJpjeJ0Tq9g3f54G0sYAh85fJ+M0DwlSW3MLpklSocZDVHlyZ/LA3DfgWt
+bfFI5ZfAMIcpNVgIjZ7YXkkYiCm7mXL7dBj031ZvB4sSxTqXTQbxRB123+w0HFNz
+9TMdX0PW5sKuiF6d1bJa+3CdiRHRqG/p6R+yFaEDeCQ58N7OX0BiMVxsnG15oOfE
+XIcCBKy16v+gsuheQHs2gA==
+</X509Certificate></X509Data></KeyInfo></Signature>
+  
+</EnvioDTE>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F40076695">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>40076695</Folio>
+            <FchEmis>2016-02-01</FchEmis>
+            <IndServicio>1</IndServicio>
+            <MntBruto>1</MntBruto>
+            <FmaPago>1</FmaPago>
+            <PeriodoDesde>2016-01-01</PeriodoDesde>
+            <PeriodoHasta>2016-01-31</PeriodoHasta>
+            <FchVenc>2016-02-22</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>87845500-2</RUTEmisor>
+            <RznSoc>TELEFONICA MOVILES CHILE S.A.</RznSoc>
+            <GiroEmis>Comunicaciones</GiroEmis>
+            <Acteco>72001</Acteco>
+            <DirOrigen>Bosque Sur 90 (Segundo Subterraneo)</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <CdgIntRecep>29394260</CdgIntRecep>
+            <RznSocRecep>Hli Construcciones Spa</RznSocRecep>
+            <GiroRecep>Actividades No Especificadas</GiroRecep>
+            <CorreoRecep>facturacion@facturachile.cl</CorreoRecep>
+            <DirRecep>Isidora Goyenechea 3356</DirRecep>
+            <CmnaRecep>Las Condes</CmnaRecep>
+            <CiudadRecep>Santiago</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>91043</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>17298</IVA>
+            <MntTotal>108341</MntTotal>
+            <SaldoAnterior>0</SaldoAnterior>
+            <VlrPagar>108341</VlrPagar>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <NmbItem>Servicio Telefonico Movil</NmbItem>
+          <MontoItem>108196</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <NmbItem>Servicios Adicionales</NmbItem>
+          <MontoItem>145</MontoItem>
+        </Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>87845500-2</RE>
+            <TD>33</TD>
+            <F>40076695</F>
+            <FE>2016-02-01</FE>
+            <RR>76407152-2</RR>
+            <RSR>Hli Construcciones Spa</RSR>
+            <MNT>108341</MNT>
+            <IT1>Servicio Telefonico Movil</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>87845500-2</RE>
+                <RS>TELEFONICA MOVILES CHILE S A</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>39610997</D>
+                  <H>40410996</H>
+                </RNG>
+                <FA>2015-09-03</FA>
+                <RSAPK>
+                  <M>s0Q8cWGLuCnOumHZuYVT8rmmirpQ5t3YwrQcAklJscOtcBNGzus8SS3EGs0/2v3gieewfCtcymduk3bOE2byyw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">aKTsiaXTUA5DFurf9P6d8IoeFpfqbjFgVbPXiSHofh2OkUWNO4hGvzPclLfYXw1jqTrkbsB5GPLhUglKUTsJfQ==</FRMA>
+            </CAF>
+            <TSTED>2016-02-08T00:32:37</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">Wd/5stWAG8Nydng0d+fqCzAAD0ivgNm+gPzbFai3TryJ6Mr4ZqSLPsDzfMPENtJ8eIv1e025NbYE
+s2pIVqPM4w==</FRMT>
+        </TED>
+        <TmstFirma>2016-02-08T00:32:37</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<Reference URI="#T33F40076695">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<DigestValue>UJYZCbIbsx9ZXjDpIUucH08QsFM=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>twsTOmJd7JThyt1nT66jTIc775XSRycM2gjtEhOmX4/BDO77QOkzMPYZtuXgc4vIr14fbE5THhL2
+ufD7/Loa+V+4tGUQ+I95kQZofAbP4VmL4UuvivBMV/pAdaM7AFeqK2a2KbsJRNUsYNyKvtGbSRYS
+54Hf/OmZ7CtVgfngORA=</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>3dFj6+L4t2vLcUCsN8gqtCXaUbMcvazg6sPaXk752dZZ6T3Ka58rluR4ACcJKaJKZm+hmSxVXNoQ
+rYRJgBg3jPompShakhAAVQ7617Q8oN8wya0loxH2GcstW71OBdf546S/u3lQsmqhmzS8CWrgAoJz
+Ipf9DDcmxvWCyVLZEPk=</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIF3jCCBMagAwIBAgIDASNrMA0GCSqGSIb3DQEBBQUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gVjIxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xNTA0MTMyMDA5MTFaFw0xNjA0MTMy
+MDA5MTFaMIGOMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSQwIgYDVQQD
+ExtKRU5OWSBOQVZJQSBDQVJSSVpPIFlFVkVORVMxKzApBgkqhkiG9w0BCQEWHGplbm55LmNhcnJp
+em9AdGVsZWZvbmljYS5jb20xEjAQBgNVBAUTCTg3MTQxNjgtMzCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA3dFj6+L4t2vLcUCsN8gqtCXaUbMcvazg6sPaXk752dZZ6T3Ka58rluR4ACcJKaJK
+Zm+hmSxVXNoQrYRJgBg3jPompShakhAAVQ7617Q8oN8wya0loxH2GcstW71OBdf546S/u3lQsmqh
+mzS8CWrgAoJzIpf9DDcmxvWCyVLZEPkCAwEAAaOCAq0wggKpMB8GA1UdIwQYMBaAFEDf6PZWEPl0
+Gp6EzCII0DatKSZRMB0GA1UdDgQWBBRGUFValdOcJ/49FBny9PUbc7itlzALBgNVHQ8EBAMCBPAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIFoDCB8gYDVR0g
+BIHqMIHnMIHkBgorBgEEAbVrh2kCMIHVMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmFjZXB0YS5j
+b20vQ1BTVjIwgakGCCsGAQUFBwICMIGcMBYWD0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0
+dWxhciBoYSBzaWRvIHZhbGlkYWRvIGVuIGZvcm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmls
+aXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJpbywgcGFnb3MsIGNvbWVyY2lv
+IHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcI
+A6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9pbmZvQGFjZXB0YS5jb20wZQYDVR0RBF4wXKAX
+BggrBgEEAcEBAaALFgk4NzE0MTY4LTOgIwYIKwYBBQUHCAOgFzAVDAk4NzE0MTY4LTMGCCsGAQQB
+wQECgRxqZW5ueS5jYXJyaXpvQHRlbGVmb25pY2EuY29tMDsGCCsGAQUFBwEBBC8wLTArBggrBgEF
+BQcwAYYfaHR0cDovL29jc3AuYWNlcHRhLmNvbS9DbGFzZTNWMjAzBgNVHR8ELDAqMCigJqAkhiJo
+dHRwOi8vY3JsLmFjZXB0YS5jb20vQ2xhc2UzVjIuY3JsMA0GCSqGSIb3DQEBBQUAA4IBAQAfu5yn
+Zj9oJ+01S5NuLNhKjiXaWT3KVf3VDLXhAL8cei50AYj8VzNnSf++g4isLrCmeEIq6SLygnVX7Kc3
+2ybAWRMPK/QFDqdXVn3j/GSZL3cH6YOBIRJVLM6S5vsNOplWCHPybW25zdyl513wOym6RTw3v2JK
+CAbw+NgdHC31hRpcxjphAYvgjtOaraFjnHM3H+mBnUivc9m+cL2aCdHy2aqi4PbBzAi+LFjrPiLu
+iLDE/XpAQLXpUPClWgd/iE8ww4iwRE/8dBAixdjuFtO7GA/cEBj7xMTAFIKX4y3yzXpAem24Ry9o
++hFyy/kLrLFAYis3NtHip8ynGtyl7JXV</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE>

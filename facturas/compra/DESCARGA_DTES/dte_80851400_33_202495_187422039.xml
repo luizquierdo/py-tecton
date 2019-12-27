@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+<SetDTE ID="SETDTE80851400X33X202495X187422039">
+<Caratula version="1.0">
+<RutEmisor>80851400-1</RutEmisor>
+<RutEnvia>11862736-9</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2011-06-29</FchResol>
+<NroResol>83</NroResol>
+<TmstFirmaEnv>2019-01-30T10:00:15</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0">
+    <Documento ID="DTE80851400X33X202495X20190130100009">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>202495</Folio>
+            <FchEmis>2019-01-30</FchEmis>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>80851400-1</RUTEmisor>
+            <RznSoc>Ferreteria Antofagasta Limitada</RznSoc>
+            <GiroEmis>Venta al por menor de articulos de ferreteria y ma</GiroEmis>
+            <Acteco>475201</Acteco>
+            <DirOrigen>Direccion 34</DirOrigen>
+            <CmnaOrigen>Santiago</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+            <CdgVendedor>JUAN  PEREZ .</CdgVendedor>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76407152-2</RUTRecep>
+            <CdgIntRecep>1514010</CdgIntRecep>
+            <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+            <GiroRecep>CONSTRUCCION</GiroRecep>
+            <Contacto>2-223355466</Contacto>
+            <DirRecep>AV. PROVIDENCIA 2330 OF. 63</DirRecep>
+            <CmnaRecep>PROVIDENCIA</CmnaRecep>
+            <CiudadRecep>SANTIAGO</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>32240</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>6126</IVA>
+            <MntTotal>38366</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>INT</TpoCodigo>
+            <VlrCodigo>2H00007</VlrCodigo>
+          </CdgItem>
+          <NmbItem>HENKEL AGOREX 60 1 GALON 1 GALON</NmbItem>
+          <UnmdRef>UNID</UnmdRef>
+          <PrcRef>21206.34</PrcRef>
+          <QtyItem>1</QtyItem>
+          <PrcItem>21206.34</PrcItem>
+          <MontoItem>21206</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>INT</TpoCodigo>
+            <VlrCodigo>2S00620</VlrCodigo>
+          </CdgItem>
+          <NmbItem>SIPA SIPALAC SELLADOR PARA MADERA 1/4 GL. 1/4 GALON</NmbItem>
+          <UnmdRef>UNID</UnmdRef>
+          <PrcRef>4395</PrcRef>
+          <QtyItem>2</QtyItem>
+          <PrcItem>4395</PrcItem>
+          <MontoItem>8790</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>3</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>INT</TpoCodigo>
+            <VlrCodigo>8B00005</VlrCodigo>
+          </CdgItem>
+          <NmbItem>DEVA BISAGRA ZINCADA C/TORNILLOS 3.1/2" X 3.1/2" 3.1/2" X 3.1/2</NmbItem>
+          <UnmdRef>PAR</UnmdRef>
+          <PrcRef>748</PrcRef>
+          <QtyItem>3</QtyItem>
+          <PrcItem>748</PrcItem>
+          <MontoItem>2244</MontoItem>
+        </Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>80851400-1</RE>
+            <TD>33</TD>
+            <F>202495</F>
+            <FE>2019-01-30</FE>
+            <RR>76407152-2</RR>
+            <RSR>CONSTRUCTORA TECTON SPA</RSR>
+            <MNT>38366</MNT>
+            <IT1>HENKEL AGOREX 60 1 GALON 1 GALON</IT1>
+          <CAF version="1.0">
+<DA>
+<RE>80851400-1</RE>
+<RS>FERRETERIA ANTOFAGASTA LIMITADA</RS>
+<TD>33</TD>
+<RNG><D>200001</D><H>212500</H></RNG>
+<FA>2018-12-27</FA>
+<RSAPK><M>rQAT51Snc8BEjz5lFVlYUDe/NXmsnPh8jFPL6HMkgtAyDBvYnxmCM+UJv2eW1ZQ2XE4txX2BD7+KqGDGZI6lkw==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">PURwnvnmR2PifLbHpobVV8FIL2hutfI64Nxj/SDSu7laA/8tTcNBQO/xU4T4u/N9fo7oBFwrgzo5OgOKfbI6lQ==</FRMA>
+</CAF><TSTED>2019-01-30T10:00:09</TSTED></DD>
+        <FRMT algoritmo="SHA1withRSA">Q56kNkIkAtWP1I5So8g3Xt8fCeGpwsCYn3ZVgYxw4yfzHEqEX6orqoDFxMwCvHDKoEVK4ytBiGsVEWOZAUGx/g==</FRMT></TED>
+      <TmstFirma>2019-01-30T10:00:09</TmstFirma></Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#DTE80851400X33X202495X20190130100009">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>YJ2lTf+fsvn8gdGAzEGCHdKI63Y=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+tkPCRI1Xmh5s+BEKZeoYcBN4qx34lqV9YEa6Vda8SmagbiSaUC5KbPAl225REvbi3lRfOaZGOMKW
+jo99j6q3fdyBPb7+M99JIF6DgbCMJDRxBqe1Q9t0ycECa33XRNhtOlX7ZnYMroNkuUrWz9nEbp8p
+r4lLasN/wL3ujXiHlNq8QImq34igvHIEIoYwuAtwV17Rkl7PNaVslFERKEzTvPjNfnM1k9SbScDV
+uaFJerxWswtNOseVOU7hSIJMg7fDEX7IplAwlLzu2GahkFc6sokVM6Me4LIhV7C8eLdf+krQg3zy
+JFQB1qbQtot/7MiQsB4AxEfwtv7UBI2zl7B8NA==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+0eYL58SQU0RExtSmbgq8b991PiYQ74RmhjQxzPvWP2tEEyPmR389+Bb4/qOz86yl/Y8IRm/pNQfa
+kwu77UADZEJqknAZwOyuineSCkPAGPCPuC3AuLLXYRZ12AgqZ9fob2Usu//WFYMQ5z2YC4FsYio4
+LDPpOPobd6eCt9A1lVu9pQ5YKXdyNHNcMW4DeUDdyoVTCmIY8aqGUqH9bUyJyLgNG1EoqJjcjTm0
+AwX2Cw26uMILTkSz4EwRf4lT6nXrOGxxoctNn9zvfenNy2OoeqIr8waa19eY7zm0fVK6ME3xNSxd
+XFrgiQb7MDbMgVdJx/WBXrojMe9sx03TZ+NfZw==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIF9zCCBN+gAwIBAgIDAPfgMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xNzA2MTIxMzAzNTdaFw0yMDA2MTIx
+MzAzNTdaMIGNMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMScwJQYDVQQD
+Ex5DRUNJTElBIE1PREVTVEEgTk9SSUVHQSBWSUxMQVIxJzAlBgkqhkiG9w0BCQEWGGNub3JpZWdh
+QGZhbnRvZmFnYXN0YS5jbDESMBAGA1UEBRMJNzIwODUxOS0xMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA0eYL58SQU0RExtSmbgq8b991PiYQ74RmhjQxzPvWP2tEEyPmR389+Bb4/qOz
+86yl/Y8IRm/pNQfakwu77UADZEJqknAZwOyuineSCkPAGPCPuC3AuLLXYRZ12AgqZ9fob2Usu//W
+FYMQ5z2YC4FsYio4LDPpOPobd6eCt9A1lVu9pQ5YKXdyNHNcMW4DeUDdyoVTCmIY8aqGUqH9bUyJ
+yLgNG1EoqJjcjTm0AwX2Cw26uMILTkSz4EwRf4lT6nXrOGxxoctNn9zvfenNy2OoeqIr8waa19eY
+7zm0fVK6ME3xNSxdXFrgiQb7MDbMgVdJx/WBXrojMe9sx03TZ+NfZwIDAQABo4ICQzCCAj8wHwYD
+VR0jBBgwFoAUZaWrPj/ItlFtEX5fwwoH5kOgCLYwHQYDVR0OBBYEFMtYXBl23yfTx1GlrYTA67GV
+puQ+MAsGA1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4
+QgEBBAQDAgWgMHUGA1UdIARuMGwwagYIKwYBBAG1awIwXjAxBggrBgEFBQcCARYlaHR0cHM6Ly9h
+Y2c0LmFjZXB0YS5jb20vQ1BTLUFjZXB0YWNvbTApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20g
+Uy5BLjADAgEJGgNUQkQwWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsG
+AQUFBwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBhBgNVHREE
+WjBYoBcGCCsGAQQBwQEBoAsWCTcyMDg1MTktMaAjBggrBgEFBQcIA6AXMBUMCTcyMDg1MTktMQYI
+KwYBBAHBAQKBGGNub3JpZWdhQGZhbnRvZmFnYXN0YS5jbDBHBggrBgEFBQcBAQQ7MDkwNwYIKwYB
+BQUHMAGGK2h0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvb2NzcC9DbGFzZTItRzQwPwYDVR0f
+BDgwNjA0oDKgMIYuaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9jcmwvQ2xhc2UyLUc0LmNy
+bDANBgkqhkiG9w0BAQsFAAOCAQEAVrLtjLoyet+T22a+pZDaE6JFWk3vPXhw30BaTCje9G5TJUpS
+LEgH5JrnMQS/eIfXY9RhjPm4RylZ/D7tltkmtYGQg8RXao053UeW+IzUYWdTAli3n9I9Lb1hHCz2
+9cHGyfwK2QWgcdOwZWEZT160JARvo99ngPgxZqgyOa68LbbrFN/oZLcgmwRAU+gi/BgNPKSr8CMx
+XzqmkmBuqi0sqFHA47Fn5oMphaBgaT9zzsi4qXDJv7zc0EUKsz3EtczX1ZHwohmwbVoWmtQTPyhp
+BnDItY8IoPT2c7yWcFnNj+Gj3L/5WsEZuDP99E03AUFEVyVxxL1v5BIARxoKLNNVxg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+</SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#SETDTE80851400X33X202495X187422039">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>X4yFrPY1t74WxCUK+8vfK0fLIj8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+FbzpGIqcLR9FzR1L0TA85W0li0Jbb46FljuXPQsfucARzad/1RJvoSSfpFtKloED0w6WlPGDPGwK
+HQ/+vBhYJxMioorxYH2NNAxGKrRUuDbmu4sf6kPowaq2RsHzZsy9M/Kjk1euLvUwtic05KtASz2x
+wW3Bz9ZTSu6YxIvfZw02Hya6b5zIab+1T6vshtZppPUK+mVIW7k6Juc5MFUNN5k3WoKE3keDcEy4
+WdqEZBvJVIbu9TXNjqQKJofIX+cKnIAz/hiwNWLSDoX1R5LTL0geKZozQLy4Hgs4a9TQ8v0FP387
+8VvlrfuvMgoygfZ/hJ1TwsQhzCTn7+hs+2qofA==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+rTLGGVUU92J7q8HYU0gwJtGBX2oCGUPXZLxWPRB4icCXUVuPBMG0LsNNtYuOiN8nhDDg8Ld0Xd/P
+N2TwfWHg5RLN5YPxtsChEqjX7sk5AAtcpzy29uzVu2mDs9ybfTkIQ2PMR44Zu0y9iXN9pU6TZPPZ
+SIj5hEXTOQSAS9CRTg0BvPlwjlJ7zmxsvmcIi8PX8kKBK9UmJlDkTYEGnmMnGOHokuqwQFX+uKpd
+rcDYk40dSNVAs5+SIwhFt4NjrWmd7ArI9+0gBsKc5axQkeHAI99b9XzJ6dpeRLukiL1ss+w8n4++
+kOiOMeoLyKbhiaae43OFciLmvml8fzxed8ExrQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGfTCCBWWgAwIBAgICM0owDQYJKoZIhvcNAQELBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwgLSBHNDEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE4MTEwODE2MDAyNloXDTIxMTEwODE2
+MDAyNlowgZMxCzAJBgNVBAYTAkNMMSMwIQYDVQQMExpJTkdFTklFUk8gQ0lWSUwgSU5EVVNUUklB
+TDEoMCYGA1UEAxMfSklNTVkgQ0hSSVNUT1BIRVIgRkxPUkVTIFNJR09OQTEgMB4GCSqGSIb3DQEJ
+ARYRSlNGTE9SRVNARU5URUwuQ0wxEzARBgNVBAUTCjExODYyNzM2LTkwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCtMsYZVRT3YnurwdhTSDAm0YFfagIZQ9dkvFY9EHiJwJdRW48EwbQu
+w021i46I3yeEMODwt3Rd3883ZPB9YeDlEs3lg/G2wKESqNfuyTkAC1ynPLb27NW7aYOz3Jt9OQhD
+Y8xHjhm7TL2Jc32lTpNk89lIiPmERdM5BIBL0JFODQG8+XCOUnvObGy+ZwiLw9fyQoEr1SYmUORN
+gQaeYycY4eiS6rBAVf64ql2twNiTjR1I1UCzn5IjCEW3g2OtaZ3sCsj37SAGwpzlrFCR4cAj31v1
+fMnp2l5Eu6SIvWyz7Dyfj76Q6I4x6gvIpuGJpp7jc4VyIua+aXx/PF53wTGtAgMBAAGjggLEMIIC
+wDAfBgNVHSMEGDAWgBSq/b3F6TdN9plNV47BcRr568MG4zAdBgNVHQ4EFgQU2YRppIHXMLsxfxx6
+2BNEzzNripgwCwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglg
+hkgBhvhCAQEEBAMCBaAwgfoGA1UdIASB8jCB7zCB7AYIKwYBBAG1awIwgd8wMQYIKwYBBQUHAgEW
+JWh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL0NQUy1BY2VwdGFjb20wgakGCCsGAQUFBwICMIGcMBYW
+D0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRvIGVuIGZv
+cm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1
+c28gdHJpYnV0YXJpbywgcGFnb3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYB
+BAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQEC
+gQ9pbmZvQGFjZXB0YS5jb20wXAYDVR0RBFUwU6AYBggrBgEEAcEBAaAMFgoxMTg2MjczNi05oCQG
+CCsGAQUFBwgDoBgwFgwKMTE4NjI3MzYtOQYIKwYBBAHBAQKBEUpTRkxPUkVTQEVOVEVMLkNMMEcG
+CCsGAQUFBwEBBDswOTA3BggrBgEFBQcwAYYraHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9v
+Y3NwL0NsYXNlMy1HNDA/BgNVHR8EODA2MDSgMqAwhi5odHRwczovL2FjZzQuYWNlcHRhLmNvbS9h
+Y2c0L2NybC9DbGFzZTMtRzQuY3JsMA0GCSqGSIb3DQEBCwUAA4IBAQA/Ec+VDUCri7k1VlCidQ4Y
+F1JER7K8PPxVpfmzrwTI9WJsYNUEX5Sxz4weE+kPaMrs8UjeyKOBIjEbpG9rfcWAloLKAQ80qtAE
+rE1puYpKAbbq0Esf+WdumMXCGQfDO49kiVUb12sr54w4ygJIt7vrJGbUyrM9zZfjChXh5GI/0+4P
+S2qDAafAbNVqLI06JTqGRW3i4ZQGGjUrKXUBNpIhLFlHrsNOSiImnrltMNpn7G3CmZ/q/x1HqZgk
+OgsyM1PZqi9L5EEO0aIRTRfvovF08yft87xm25XGqZDeP4/tCygHAq8z0iiu38NSJy6Z3CSFuJBk
+VSdGU0JVbnAmw5Qs
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</EnvioDTE>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="Envio-7795">
+<Caratula version="1.0">
+<RutEmisor>79971680-1</RutEmisor>
+<RutEnvia>6062331-7</RutEnvia>
+<RutReceptor>76407152-2</RutReceptor>
+<FchResol>2014-08-22</FchResol>
+<NroResol>80</NroResol>
+<TmstFirmaEnv>2018-12-26T16:46:02</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0">
+<Documento ID="DTE-33-12843">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>12843</Folio>
+<FchEmis>2018-12-26</FchEmis>
+<FmaPago>1</FmaPago>
+<FchCancel>2018-12-26</FchCancel>
+<FchVenc>2018-12-26</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>79971680-1</RUTEmisor>
+<RznSoc>PROTAC S.A.</RznSoc>
+<GiroEmis>Representacion,Asesoria,Comercio y productos Tecnicos</GiroEmis>
+<Acteco>514320</Acteco>
+<DirOrigen>Nueva las Condes 12253 Local 74</DirOrigen>
+<CmnaOrigen>Las Condes</CmnaOrigen>
+<CiudadOrigen>SANTIAGO</CiudadOrigen>
+<CdgVendedor>03 TRES</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76407152-2</RUTRecep>
+<RznSocRecep>TECTON CONSORCIO HLI HYDROGROUP SPA</RznSocRecep>
+<GiroRecep>CONSTRUCCION</GiroRecep>
+<DirRecep>AV. PROVIDENCIA 2330 OF. 63</DirRecep>
+<CmnaRecep>Providencia</CmnaRecep>
+<CiudadRecep>Santiago</CiudadRecep>
+</Receptor>
+<Totales>
+<MntNeto>2919</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19</TasaIVA>
+<IVA>555</IVA>
+<MntTotal>3474</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<NmbItem>610061414</NmbItem>
+<DscItem>ENDURECEDOR 35 GR. ROBERLO</DscItem>
+<QtyItem>1.0</QtyItem>
+<PrcItem>2919.0</PrcItem>
+<MontoItem>2919</MontoItem>
+</Detalle>
+<Referencia>
+<NroLinRef>1</NroLinRef>
+<TpoDocRef>802</TpoDocRef>
+<FolioRef>12946</FolioRef>
+<FchRef>2018-12-26</FchRef>
+</Referencia>
+<TED version="1.0">
+<DD>
+<RE>79971680-1</RE>
+<TD>33</TD>
+<F>12843</F>
+<FE>2018-12-26</FE>
+<RR>76407152-2</RR>
+<RSR>TECTON CONSORCIO HLI HYDROGROUP SPA</RSR>
+<MNT>3474</MNT>
+<IT1>610061414</IT1>
+<CAF version="1.0">
+<DA>
+<RE>79971680-1</RE>
+<RS>PROTAC S A</RS>
+<TD>33</TD>
+<RNG>
+<D>12168</D>
+<H>17216</H>
+</RNG>
+<FA>2018-11-06</FA>
+<RSAPK>
+<M>ru8EF4M7ro6MqW42C8Q2kz03qixO0ys4F5M9sJQLkbtPMKjFpuxLqpLJtxsk3uOokRjS+cH+1WC+mkSf5MO1NQ==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">meiAeQCbni/EIO/zcGYr2D3oXz4QozlEDRF11sThNzH4qzaQam6xSAKXzmnGPj08EZ1ntUTYyBPMLazQQ52lHg==</FRMA>
+</CAF>
+<TSTED>2018-12-26T15:13:48</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">L31YuCr3BLgJw1ZDBr6hq1vNNePeg6dfakDo/lV/YOCoCVwng9+u3GH7tfTtyIZFMbvw72F7fo+El/PMqd3NJQ==</FRMT>
+</TED>
+<TmstFirma>2018-12-26T15:13:48</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#DTE-33-12843">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>OQlSxQ/4RyruwgA+lmIBONs5IdY=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>krBfadlIXTLh/6KXv+H3DIh8RRfFt7bL8GyLH3UMEmSVKPFGvZ2nhs8/ys3n2D4Ev/55U7it1aPW t3S0yhakiHjvN179afFwTa8oheQIqQubngB6wZvrhVj9Pp4fKa6IGr+B2BrwxgJKZdSAo/2X1roU cEeZ/pS9pdV1iACQd1Q=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>oqNb+uazwOmG2+0ygKJeT9d+1mW+0laqNxCPuhfWSbJzkjbk5LEFNFbxDM6hSuOJZPgfSU/uecGv BrS6vc8clRm170GyDbr/XmPOGqqrOv0l9wFIkAhmPn0STHSAfNclYwcqOO0m54+O0u3Unf7HQOJm TzUhceYBexC79XJmY6E=</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>MIIFVTCCBD2gAwIBAgICUmowDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj YWRvcmEgQ2xhc2UgMiBQZXJzb25hIE5hdHVyYWwgLSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE2MDYyNDE5MzgzMloXDTE5MDYyNDE5 MzgzMlowgYwxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKzApBgNVBAMT IkpVQU4gUEFCTE8gTEFSUkFJTiBHQVJDSUEgSFVJRE9CUk8xIjAgBgkqhkiG9w0BCQEWE2pwbGFy cmFpbkBwcm90YWMuY2wxEjAQBgNVBAUTCTYwNjIzMzEtNzCBnzANBgkqhkiG9w0BAQEFAAOBjQAw gYkCgYEAoqNb+uazwOmG2+0ygKJeT9d+1mW+0laqNxCPuhfWSbJzkjbk5LEFNFbxDM6hSuOJZPgf SU/uecGvBrS6vc8clRm170GyDbr/XmPOGqqrOv0l9wFIkAhmPn0STHSAfNclYwcqOO0m54+O0u3U nf7HQOJmTzUhceYBexC79XJmY6ECAwEAAaOCAicwggIjMB8GA1UdIwQYMBaAFEAkGj2pMXqFd3o9 nnKTOYTlQDgZMB0GA1UdDgQWBBQxLtykyp9mYaF/WNvzG02Zt4nqpDALBgNVHQ8EBAMCBPAwHQYD VR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIFoDBuBgNVHSAEZzBl MGMGCisGAQQBtWuHagowVTAoBggrBgEFBQcCARYcaHR0cDovL3d3dy5hY2VwdGEuY29tL0NQUy1H MzApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5BLjADAgEJGgNUQkQwWgYDVR0SBFMwUaAY BggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUFBwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYB BAHBAQKBD2luZm9AYWNlcHRhLmNvbTBcBgNVHREEVTBToBcGCCsGAQQBwQEBoAsWCTYwNjIzMzEt N6AjBggrBgEFBQcIA6AXMBUMCTYwNjIzMzEtNwYIKwYBBAHBAQKBE2pwbGFycmFpbkBwcm90YWMu Y2wwPwYIKwYBBQUHAQEEMzAxMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5hY2VwdGEuY29tL0Ns YXNlM0Jpby1HMzA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmFjZXB0YS5jb20vQ2xhc2Uz QmlvLUczLmNybDANBgkqhkiG9w0BAQUFAAOCAQEAsxmejDrb8/gkRM7Z1ukS6QAH7AP/nTmiBM9s 3lvyASw8oaMSN1X3yLPeIYQkzW8gbi8OmMi5XdpUkqaF4edK6vTKVB5i4ZakNSk06KPQNs4oTvnv Xmx/2pvp6nOQuWmRn37NT1njyEGZXgZ1OeReSTITRFsvxPjjP3YTUl5T5I7uKqC52dQ4b+Z27zNa uxxMPR2dGd6w1ndy0RbbN8sNMqMrFthg6cWOUJvInfXbR7uNNadqfWCsJZREue1R3k6j9EwFjS2r tf/S5uX3OllF8Y85E7dceXPVDnA5/4hQqf6WG3JQpOtJ2yHfkpeQ9YhSzZd2WJu5KFTtUSfnjAfe xg==</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</DTE>
+</SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#Envio-7795">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>j9a3VmG1pogHDH5MWJ0xb0cHZK4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>RkfSaYt4o/8wrQwvE6ZJ1xRFrGAB08D8FxNPFFRL5qsFi78dFGHRuuEE17BywhSLt1eArSURYAvM CacHIFu216BTvCyr5PDsDrs/Em4M5JbX1UW1hc4GbYmr2efT7gdHOiJr9caGLpWoy6YYeB6O031c oWZeXidcCZ6KTrjhK2E=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>oqNb+uazwOmG2+0ygKJeT9d+1mW+0laqNxCPuhfWSbJzkjbk5LEFNFbxDM6hSuOJZPgfSU/uecGv BrS6vc8clRm170GyDbr/XmPOGqqrOv0l9wFIkAhmPn0STHSAfNclYwcqOO0m54+O0u3Unf7HQOJm TzUhceYBexC79XJmY6E=</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>MIIFVTCCBD2gAwIBAgICUmowDQYJKoZIhvcNAQEFBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj YWRvcmEgQ2xhc2UgMiBQZXJzb25hIE5hdHVyYWwgLSBHMzEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE2MDYyNDE5MzgzMloXDTE5MDYyNDE5 MzgzMlowgYwxCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxKzApBgNVBAMT IkpVQU4gUEFCTE8gTEFSUkFJTiBHQVJDSUEgSFVJRE9CUk8xIjAgBgkqhkiG9w0BCQEWE2pwbGFy cmFpbkBwcm90YWMuY2wxEjAQBgNVBAUTCTYwNjIzMzEtNzCBnzANBgkqhkiG9w0BAQEFAAOBjQAw gYkCgYEAoqNb+uazwOmG2+0ygKJeT9d+1mW+0laqNxCPuhfWSbJzkjbk5LEFNFbxDM6hSuOJZPgf SU/uecGvBrS6vc8clRm170GyDbr/XmPOGqqrOv0l9wFIkAhmPn0STHSAfNclYwcqOO0m54+O0u3U nf7HQOJmTzUhceYBexC79XJmY6ECAwEAAaOCAicwggIjMB8GA1UdIwQYMBaAFEAkGj2pMXqFd3o9 nnKTOYTlQDgZMB0GA1UdDgQWBBQxLtykyp9mYaF/WNvzG02Zt4nqpDALBgNVHQ8EBAMCBPAwHQYD VR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIFoDBuBgNVHSAEZzBl MGMGCisGAQQBtWuHagowVTAoBggrBgEFBQcCARYcaHR0cDovL3d3dy5hY2VwdGEuY29tL0NQUy1H MzApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5BLjADAgEJGgNUQkQwWgYDVR0SBFMwUaAY BggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUFBwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYB BAHBAQKBD2luZm9AYWNlcHRhLmNvbTBcBgNVHREEVTBToBcGCCsGAQQBwQEBoAsWCTYwNjIzMzEt N6AjBggrBgEFBQcIA6AXMBUMCTYwNjIzMzEtNwYIKwYBBAHBAQKBE2pwbGFycmFpbkBwcm90YWMu Y2wwPwYIKwYBBQUHAQEEMzAxMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5hY2VwdGEuY29tL0Ns YXNlM0Jpby1HMzA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmFjZXB0YS5jb20vQ2xhc2Uz QmlvLUczLmNybDANBgkqhkiG9w0BAQUFAAOCAQEAsxmejDrb8/gkRM7Z1ukS6QAH7AP/nTmiBM9s 3lvyASw8oaMSN1X3yLPeIYQkzW8gbi8OmMi5XdpUkqaF4edK6vTKVB5i4ZakNSk06KPQNs4oTvnv Xmx/2pvp6nOQuWmRn37NT1njyEGZXgZ1OeReSTITRFsvxPjjP3YTUl5T5I7uKqC52dQ4b+Z27zNa uxxMPR2dGd6w1ndy0RbbN8sNMqMrFthg6cWOUJvInfXbR7uNNadqfWCsJZREue1R3k6j9EwFjS2r tf/S5uX3OllF8Y85E7dceXPVDnA5/4hQqf6WG3JQpOtJ2yHfkpeQ9YhSzZd2WJu5KFTtUSfnjAfe xg==</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</EnvioDTE>
+

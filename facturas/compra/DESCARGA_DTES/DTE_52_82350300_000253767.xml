@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+<SetDTE ID="SetDocF0T52_20190110_085706">
+ <Caratula version="1.0">
+  <RutEmisor>82350300-8</RutEmisor>
+  <RutEnvia>15335465-0</RutEnvia>
+  <RutReceptor>76407152-2</RutReceptor>
+  <FchResol>2014-08-22</FchResol>
+  <NroResol>80</NroResol>
+  <TmstFirmaEnv>2019-01-10T08:57:08</TmstFirmaEnv>
+  <SubTotDTE>
+   <TpoDTE>52</TpoDTE>
+   <NroDTE>1</NroDTE>
+  </SubTotDTE>
+ </Caratula>
+<DTE version="1.0">
+<Documento ID="F253767T52"><Encabezado>
+		<IdDoc>
+			<TipoDTE>52</TipoDTE>
+			<Folio>253767</Folio>
+			<FchEmis>2019-01-10</FchEmis>
+			<IndTraslado>1</IndTraslado>
+		</IdDoc>
+		<Emisor>
+			<RUTEmisor>82350300-8</RUTEmisor>
+			<RznSoc>FERRETERIA SAN MARTIN SPA</RznSoc>
+			<GiroEmis>FERRETERIA</GiroEmis>
+			<Acteco>523410</Acteco>
+			<DirOrigen>AV.BUZETA 4201</DirOrigen>
+			<CmnaOrigen>CERRILLOS</CmnaOrigen>
+			<CiudadOrigen>SANTIAGO</CiudadOrigen>
+		</Emisor>
+		<Receptor>
+			<RUTRecep>76407152-2</RUTRecep>
+			<RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+			<GiroRecep>CONSTRUCCION</GiroRecep>
+			<Contacto></Contacto>
+			<DirRecep>AV.PROVIDENCIA 2330 OF 63</DirRecep>
+			<CmnaRecep>PROVIDENCIA</CmnaRecep>
+			<CiudadRecep>SANTIAGO</CiudadRecep>
+		</Receptor>
+		<Totales>
+			<MntNeto>96555</MntNeto>
+			<MntExe>0</MntExe>
+			<TasaIVA>19</TasaIVA>
+			<IVA>18345</IVA>
+			<MntTotal>114900</MntTotal>
+		</Totales>
+	</Encabezado>
+	<Detalle>
+		<NroLinDet>1</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>003742</VlrCodigo>
+		</CdgItem>
+		<NmbItem>QUIX 750CC</NmbItem>
+		<QtyItem>10.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>1725.00</PrcItem>
+		<MontoItem>17250</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>2</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>001034</VlrCodigo>
+		</CdgItem>
+		<NmbItem>CLORO CLORINDA 1 LT</NmbItem>
+		<QtyItem>10.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>820.00</PrcItem>
+		<MontoItem>8200</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>3</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>002494</VlrCodigo>
+		</CdgItem>
+		<NmbItem>HOJA SIERRA 12" BIMETAL SANFLEX 1/2*24D</NmbItem>
+		<QtyItem>10.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>710.00</PrcItem>
+		<MontoItem>7100</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>4</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>002454</VlrCodigo>
+		</CdgItem>
+		<NmbItem>HISOPO WC PLASTICO C/BASE</NmbItem>
+		<QtyItem>4.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>899.00</PrcItem>
+		<MontoItem>3596</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>5</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>002528</VlrCodigo>
+		</CdgItem>
+		<NmbItem>HUAIPE PAñO JERSINA COLOR 2ª</NmbItem>
+		<QtyItem>10.00</QtyItem>
+		<UnmdItem>KG</UnmdItem>
+		<PrcItem>790.00</PrcItem>
+		<MontoItem>7900</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>6</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>023130007</VlrCodigo>
+		</CdgItem>
+		<NmbItem>JABON LIQUIDO GLICERINA BIDON 5LT</NmbItem>
+		<QtyItem>1.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>3735.00</PrcItem>
+		<MontoItem>3735</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>7</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>005317</VlrCodigo>
+		</CdgItem>
+		<NmbItem>TIZADOR 30MT C/TIZA UYUS     TZT030</NmbItem>
+		<QtyItem>2.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>2379.00</PrcItem>
+		<MontoItem>4758</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>8</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>0280003</VlrCodigo>
+		</CdgItem>
+		<NmbItem>CUCHILLO CART.TRUPER PROF. 6" CUT6X #16977</NmbItem>
+		<QtyItem>3.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>1242.00</PrcItem>
+		<MontoItem>3726</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>9</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>001436</VlrCodigo>
+		</CdgItem>
+		<NmbItem>CUCH. HOJA REPUESTO 44-L (GRUESA)</NmbItem>
+		<QtyItem>5.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>390.00</PrcItem>
+		<MontoItem>1950</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>10</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>023160001</VlrCodigo>
+		</CdgItem>
+		<NmbItem>ESCOBILLON DOMESTICO LUSTER</NmbItem>
+		<QtyItem>6.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>915.00</PrcItem>
+		<MontoItem>5490</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>11</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>001760</VlrCodigo>
+		</CdgItem>
+		<NmbItem>ESCOBILLON MUNICIPAL ATTILIO C/MANGO</NmbItem>
+		<QtyItem>5.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>3900.00</PrcItem>
+		<MontoItem>19500</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>12</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>1100011</VlrCodigo>
+		</CdgItem>
+		<NmbItem>BOLSA BASURA NEGRA DE 110 * 120CMS *070</NmbItem>
+		<QtyItem>30.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>335.00</PrcItem>
+		<MontoItem>10050</MontoItem>
+	</Detalle>
+	<Detalle>
+		<NroLinDet>13</NroLinDet>
+		<CdgItem>
+			<TpoCodigo>INT1</TpoCodigo>
+			<VlrCodigo>001791</VlrCodigo>
+		</CdgItem>
+		<NmbItem>ESPATULA UYUS 3"</NmbItem>
+		<QtyItem>3.00</QtyItem>
+		<UnmdItem>U</UnmdItem>
+		<PrcItem>1100.00</PrcItem>
+		<MontoItem>3300</MontoItem>
+	</Detalle>
+	<Referencia>
+		<NroLinRef>1</NroLinRef>
+		<TpoDocRef>801</TpoDocRef>
+		<FolioRef>04400</FolioRef>
+		<FchRef>2019-01-10</FchRef>
+	</Referencia><TED version="1.0"><DD><RE>82350300-8</RE><TD>52</TD><F>253767</F><FE>2019-01-10</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>114900</MNT><IT1>001791</IT1><CAF version="1.0">
+				<DA>
+					<RE>82350300-8</RE>
+					<RS>FERRETERIA SAN MARTIN SPA</RS>
+					<TD>52</TD>
+					<RNG><D>253001</D><H>263000</H></RNG>
+					<FA>2018-07-27</FA>
+					<RSAPK><M>uQ2qxmbaxVR985cziws74Bpjt28/5xZnYeRdDFDT2O8BqZ205rWyNikv5/MLXGLkAP3xk6QgL1AO+lRjvJhG8w==</M><E>Aw==</E></RSAPK>
+					<IDK>300</IDK>
+				</DA>
+				<FRMA algoritmo="SHA1withRSA">U8zNz6jYeld1CjoFdVX1h/ehHpaFKy/h6OhspPa3/zikAfu75ZpOrPoayjm/l3+iQCTQPIJJecpQAosMdjshzw==</FRMA>
+			</CAF><TSTED>2019-01-10T08:57:07</TSTED></DD><FRMT algoritmo="SHA1withRSA">RmmlRPPsjEemaWyOaDGmhroC4jEqlbZQxYPEA58hDG5Wf0+wrOwjUdrdzLVGFyM6qJlFaOFQLa0w
+smAW1aiHog==</FRMT></TED><TmstFirma>2019-01-10T08:57:07</TmstFirma></Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#F253767T52">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>ZVCqYDQ2Z9P5T43qkTH8F3wP6Yg=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>DDmm7CvIEtvdKgyd6vWrApn+/kLP0j/E2pmXVyXm7Hhz0+Htf0hLQP9KAKowOPQEqsM8dctILYC1
+1J0QSkik82rQBKYz9L4DQGLHcZjcinHYx4EKXjLjph/nKiwMqQ8Y6C6U3dPFMTmCkQnMcyThSWRR
+nKZZ+HghbmqnFaT0ElmQhcmM1X8LuRtOzXkwXxQKdc8/P1dipeWR5H3Un/H5Kg2yeQU2ZhScn5Or
+hY33Tz7iPa3mmRab/64kV9VN3tYwqRavcR2vD0MYQlXXJ1l8FwqAN5p/es5uvsQdq6ZPUscIyxyK
+L87/Tjbh99LPDf52SGZm34v9WrJ58zeFeeTteA==</SignatureValue>
+<KeyInfo>
+  <KeyValue>
+    <RSAKeyValue>
+      <Modulus>hFV+3kE+VfraSG/C4PJoHs/SSMQcqZ9GrFxQUsD3z/Wg3P+gZl+fexAU1G500xylVrshVRipJ/+K
+j2t8uHKBA/VxVveKrIswoH0Ii8HH+xVb2khL71O98U6fFtyvh2GN3I5QaULCDXMaxHXPDGmMi2Qj
+TWpJ7/DWDBBvS9wd3X7xbWaPtfOqYEQmWoIijWT9c8MPwEVN+wntfNjPi9ji8k2l7hbFrGVtjMbG
+XvddlLM5SSl7f5scYu+1qyFQV4/w1zT+OIJNQkO3AFUfuQSnEPqQp/DR/6Po9y//11CZu9RnF4uz
+thuMwCVcF9Tbh2qCZ82WDIk3/ivJCaoFdD/i5Q==</Modulus>
+      <Exponent>AQAB</Exponent>
+    </RSAKeyValue>
+  </KeyValue>
+  <X509Data>
+    <X509Certificate>MIIGTjCCBTagAwIBAgIIUHxz1+eA9gcwDQYJKoZIhvcNAQELBQAwga8xCzAJBgNVBAYTAkNMMRQw
+EgYDVQQKDAtFLVNpZ24gUy5BLjE5MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1s
+YS5jb20vYWN1ZXJkb3RlcmNlcm9zMSswKQYDVQQDDCJFLVNpZ24gQ2xhc3MgMiBGaXJtYSBUcmli
+dXRhcmlhIENBMSIwIAYJKoZIhvcNAQkBFhNlLXNpZ25AZXNpZ24tbGEuY29tMB4XDTE4MDcyNzEz
+MTQwMFoXDTIxMDcyNjEzMTQwMFowga0xCzAJBgNVBAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5B
+LjE5MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJkb3RlcmNl
+cm9zMSYwJAYDVQQDDB1GZXJuYW5kbyBBbmRyZXMgQmFyb25hIE9zb3JpbzElMCMGCSqGSIb3DQEJ
+ARYWZmVybmFuZG8uYmFyb25hQGZzbS5jbDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AIRVft5BPlX62khvwuDyaB7P0kjEHKmfRqxcUFLA98/1oNz/oGZfn3sQFNRudNMcpVa7IVUYqSf/
+io9rfLhygQP1cVb3iqyLMKB9CIvBx/sVW9pIS+9TvfFOnxbcr4dhjdyOUGlCwg1zGsR1zwxpjItk
+I01qSe/w1gwQb0vcHd1+8W1mj7XzqmBEJlqCIo1k/XPDD8BFTfsJ7XzYz4vY4vJNpe4WxaxlbYzG
+xl73XZSzOUkpe3+bHGLvtashUFeP8Nc0/jiCTUJDtwBVH7kEpxD6kKfw0f+j6Pcv/9dQmbvUZxeL
+s7YbjMAlXBfU24dqgmfNlgyJN/4ryQmqBXQ/4uUCAwEAAaOCAmwwggJoMIGABggrBgEFBQcBAQR0
+MHIwSgYIKwYBBQUHMAKGPmh0dHA6Ly9wa2kuZXNpZ24tbGEuY29tL2NhY2VydHMvcGtpQ2xhc3My
+RmlybWFUcmlidXRhcmlhQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5lc2lnbi1sYS5j
+b20wHQYDVR0OBBYEFOnkK67vFatqiRCf5j6p9KJCRePGMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgw
+FoAU+Ur6wsduwucSnFdFNYQabSjpSqQwgcgGA1UdIASBwDCBvTCBugYMKwYBBAGCymoBBAECMIGp
+MH4GCCsGAQUFBwICMHIecABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBzAG8A
+IABUAHIAaQBiAHUAdABhAHIAaQBvACwAIABDAG8AbQBlAHIAYwBpAG8ALAAgAFAAYQBnAG8AcwAg
+AHkAIABPAHQAcgBvAHMwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZXNpZ24tbGEuY29tL2NwczBR
+BgNVHR8ESjBIMEagRKBChkBodHRwOi8vcGtpLmVzaWduLWxhLmNvbS9jcmwvcGtpQ2xhc3MyRmly
+bWFUcmlidXRhcmlhL2VuZHVzZXIuY3JsMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAgYIKwYBBQUHAwQwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgoxNTMzNTQ2NS0wMCMGA1Ud
+EgQcMBqgGAYIKwYBBAHBAQKgDBYKOTk1NTE3NDAtSzANBgkqhkiG9w0BAQsFAAOCAQEAhG9xHvrs
+bQFkbQT2tTI58uAvxoDqH5CD6UyXP7zIkI/3VaCafhoEW8fYEQjB6BE9nyCxJfCkNFIxBnvjFGa3
+un9S5dNfns0zf/JT4vR2Zp+bQKuyiSwU8yw+ECsmVVbL0laSoIG+0cbc6OVBx6Lc/zMMb/kg1dJv
+wDk5AF7ZK3uwdo7idTiwptTT2x8ZlmWdPLNkrEIo1EC87sStmycBVrGAio3l5IoJ2qYBiLBPxOhF
+YFCmVEQUZUWA8NicyhlJtuja/GYfnvEMmOjNMhfy2twcB3y2752jI/nvROzPDifAIRxpIzrr9EKV
+D5g40dI+0PxCqasUa78BkHSzpf21GA==</X509Certificate>
+  </X509Data>
+</KeyInfo>
+</Signature>
+</DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#SetDocF0T52_20190110_085706">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>FVLoD6tXcXJymdO9ByeX1rstFTk=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>NwQDte8XDN65sMu9F50W+jRJ5nQ04ALYrkmn2qNqOColF678x6Xy6QPZ5sLRU0HmZYm5qu8mJAoK
+6dMB0zyEtIraJkJgboOLK2e/D/hNojyyzuzFYzUB74d3hNWM9lTVT6g+qmVVfy5iBLusMGsS7gqD
+Cxagm+nd1JEJozOVmW0kqo/zCZYxnQFlvB11ysilRR/Bn3dFQPKAgAJhufVp3+yUq2jNH5SbsxYA
+/V38e0RCWoW+SAIyBNhfeOcHIvXPd9l6CyibuVRypVKRmc16byZ+aghK9MqDRCpxN2zs8Tz0tdsG
+88+wuHA5lz17OZBCoCyhU++1um7jKd+DMHagOg==</SignatureValue>
+<KeyInfo>
+  <KeyValue>
+    <RSAKeyValue>
+      <Modulus>hFV+3kE+VfraSG/C4PJoHs/SSMQcqZ9GrFxQUsD3z/Wg3P+gZl+fexAU1G500xylVrshVRipJ/+K
+j2t8uHKBA/VxVveKrIswoH0Ii8HH+xVb2khL71O98U6fFtyvh2GN3I5QaULCDXMaxHXPDGmMi2Qj
+TWpJ7/DWDBBvS9wd3X7xbWaPtfOqYEQmWoIijWT9c8MPwEVN+wntfNjPi9ji8k2l7hbFrGVtjMbG
+XvddlLM5SSl7f5scYu+1qyFQV4/w1zT+OIJNQkO3AFUfuQSnEPqQp/DR/6Po9y//11CZu9RnF4uz
+thuMwCVcF9Tbh2qCZ82WDIk3/ivJCaoFdD/i5Q==</Modulus>
+      <Exponent>AQAB</Exponent>
+    </RSAKeyValue>
+  </KeyValue>
+  <X509Data>
+    <X509Certificate>MIIGTjCCBTagAwIBAgIIUHxz1+eA9gcwDQYJKoZIhvcNAQELBQAwga8xCzAJBgNVBAYTAkNMMRQw
+EgYDVQQKDAtFLVNpZ24gUy5BLjE5MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1s
+YS5jb20vYWN1ZXJkb3RlcmNlcm9zMSswKQYDVQQDDCJFLVNpZ24gQ2xhc3MgMiBGaXJtYSBUcmli
+dXRhcmlhIENBMSIwIAYJKoZIhvcNAQkBFhNlLXNpZ25AZXNpZ24tbGEuY29tMB4XDTE4MDcyNzEz
+MTQwMFoXDTIxMDcyNjEzMTQwMFowga0xCzAJBgNVBAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5B
+LjE5MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJkb3RlcmNl
+cm9zMSYwJAYDVQQDDB1GZXJuYW5kbyBBbmRyZXMgQmFyb25hIE9zb3JpbzElMCMGCSqGSIb3DQEJ
+ARYWZmVybmFuZG8uYmFyb25hQGZzbS5jbDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AIRVft5BPlX62khvwuDyaB7P0kjEHKmfRqxcUFLA98/1oNz/oGZfn3sQFNRudNMcpVa7IVUYqSf/
+io9rfLhygQP1cVb3iqyLMKB9CIvBx/sVW9pIS+9TvfFOnxbcr4dhjdyOUGlCwg1zGsR1zwxpjItk
+I01qSe/w1gwQb0vcHd1+8W1mj7XzqmBEJlqCIo1k/XPDD8BFTfsJ7XzYz4vY4vJNpe4WxaxlbYzG
+xl73XZSzOUkpe3+bHGLvtashUFeP8Nc0/jiCTUJDtwBVH7kEpxD6kKfw0f+j6Pcv/9dQmbvUZxeL
+s7YbjMAlXBfU24dqgmfNlgyJN/4ryQmqBXQ/4uUCAwEAAaOCAmwwggJoMIGABggrBgEFBQcBAQR0
+MHIwSgYIKwYBBQUHMAKGPmh0dHA6Ly9wa2kuZXNpZ24tbGEuY29tL2NhY2VydHMvcGtpQ2xhc3My
+RmlybWFUcmlidXRhcmlhQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5lc2lnbi1sYS5j
+b20wHQYDVR0OBBYEFOnkK67vFatqiRCf5j6p9KJCRePGMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgw
+FoAU+Ur6wsduwucSnFdFNYQabSjpSqQwgcgGA1UdIASBwDCBvTCBugYMKwYBBAGCymoBBAECMIGp
+MH4GCCsGAQUFBwICMHIecABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABwAGEAcgBhACAAdQBzAG8A
+IABUAHIAaQBiAHUAdABhAHIAaQBvACwAIABDAG8AbQBlAHIAYwBpAG8ALAAgAFAAYQBnAG8AcwAg
+AHkAIABPAHQAcgBvAHMwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZXNpZ24tbGEuY29tL2NwczBR
+BgNVHR8ESjBIMEagRKBChkBodHRwOi8vcGtpLmVzaWduLWxhLmNvbS9jcmwvcGtpQ2xhc3MyRmly
+bWFUcmlidXRhcmlhL2VuZHVzZXIuY3JsMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAgYIKwYBBQUHAwQwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgoxNTMzNTQ2NS0wMCMGA1Ud
+EgQcMBqgGAYIKwYBBAHBAQKgDBYKOTk1NTE3NDAtSzANBgkqhkiG9w0BAQsFAAOCAQEAhG9xHvrs
+bQFkbQT2tTI58uAvxoDqH5CD6UyXP7zIkI/3VaCafhoEW8fYEQjB6BE9nyCxJfCkNFIxBnvjFGa3
+un9S5dNfns0zf/JT4vR2Zp+bQKuyiSwU8yw+ECsmVVbL0laSoIG+0cbc6OVBx6Lc/zMMb/kg1dJv
+wDk5AF7ZK3uwdo7idTiwptTT2x8ZlmWdPLNkrEIo1EC87sStmycBVrGAio3l5IoJ2qYBiLBPxOhF
+YFCmVEQUZUWA8NicyhlJtuja/GYfnvEMmOjNMhfy2twcB3y2752jI/nvROzPDifAIRxpIzrr9EKV
+D5g40dI+0PxCqasUa78BkHSzpf21GA==</X509Certificate>
+  </X509Data>
+</KeyInfo>
+</Signature>
+</EnvioDTE>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+<SetDTE ID="SDTE689628464">
+  <Caratula version="1.0">
+    <RutEmisor>5243118-2</RutEmisor>
+    <RutEnvia>48080155-5</RutEnvia>
+    <RutReceptor>76407152-2</RutReceptor>
+    <FchResol>2014-10-21</FchResol>
+    <NroResol>99</NroResol>
+    <TmstFirmaEnv>2018-12-27T16:01:55</TmstFirmaEnv>
+    <SubTotDTE>
+      <TpoDTE>33</TpoDTE>
+      <NroDTE>1</NroDTE>
+    </SubTotDTE>
+  </Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+  <!-- O Win32 Firefox 64 central VERSION: v20170209 -->
+<Documento ID="MiPE5243118-22152">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>9</Folio>
+        <FchEmis>2018-12-27</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>1</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>5243118-2</RUTEmisor>
+        <RznSoc>JAIME ERNESTO ORTIZ GONZALEZ</RznSoc>
+        <GiroEmis>TRANSPORTE DE CARGA , TRANSPORTE DE PASAJEROS POR VIA TERRESTRE</GiroEmis>
+        <CorreoEmisor>TRANSJEOG@GMAIL.COM</CorreoEmisor>
+        <Acteco>492290</Acteco>
+        <CdgSIISucur>001518662</CdgSIISucur>
+        <DirOrigen>DR ARTURO SCROGGIE 260   EL AVELLANO</DirOrigen>
+        <CmnaOrigen>LOS ANGELES</CmnaOrigen>
+        <CiudadOrigen>LOS ANGELES</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76407152-2</RUTRecep>
+        <RznSocRecep>CONSTRUCTORA TECTON SPA</RznSocRecep>
+        <GiroRecep>CONSTRUCCION DE EDIFICIOS PARA USO RESID</GiroRecep>
+        <DirRecep>NUEVA DE LYON 124  601</DirRecep>
+        <CmnaRecep>PROVIDENCIA</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>500000</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>95000</IVA>
+        <MntTotal>595000</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>FLETE CON ESTRUCTURA DE</NmbItem>
+      <DscItem>VIGAS LAMINADAS DE PROYECTO ALCANTARA, ORDEN DE COMPRA OC-04229 DE FECHA MIERCOLES 19 DE DICIEMBRE DEL 2018</DscItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>500000.00</PrcItem>
+      <MontoItem>500000</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>5243118-2</RE><TD>33</TD><F>9</F><FE>2018-12-27</FE><RR>76407152-2</RR><RSR>CONSTRUCTORA TECTON SPA</RSR><MNT>595000</MNT><IT1>FLETE CON ESTRUCTURA DE</IT1><CAF version="1.0"><DA><RE>5243118-2</RE><RS>JAIME ERNESTO ORTIZ GONZALEZ</RS><TD>33</TD><RNG><D>9</D><H>9</H></RNG><FA>2018-12-27</FA><RSAPK><M>sNdLtMi7kgwRGWb/M0HX8aIFiwuyhU9VR9hZ6VoTO2AFxxdhNMgtlaPqwoeGBMROYuFDAHIE+5bT9d/cCj9e2Q==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">N0UMEcjHlJe87QosXCITpxUnn3YJchr4hdMe3+1JBqxEc1s6FhXzPpL9E04SbrgqCvMi6V/2qkAg5M1EnQMKDA==</FRMA></CAF><TSTED>2018-12-27T16:01:23</TSTED></DD><FRMT algoritmo="SHA1withRSA">GzcewCf+WOafclvqNBGZzXXWoIARq3BmM4nbwzStg5NC73C3wmGFbdwUZjxEYLC5ZO5V50wEDpSiFeSUtpoGcQ==</FRMT></TED>
+    <TmstFirma>2018-12-27T16:01:23</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE5243118-22152">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>2vq+3JVk7BQS+XaB79yX8cx7I7o=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+mFtYygekmCEiWz5YG56H+wfguYno7aLeAVcpbAOCAdUcRnqZBFod3u6dUxo7L0UB+ClvoVg/sffA
+M3I4ea4g6n7Lfbe7S00RwL2KJCBiILFPNUqP0S+XHkHPX3oyrqNKKpzIID2RcTYseZefNMIIi5x4
+DeIOw5X7W+GI08+zdt8zzXf5rGEK8T53qx9MnsCwgd1SHkOuKkb1j7n8Tu59nAigZ/E5LYsndYYI
+ZavkcgDvtR4Y2GqDOKA3cISYZ/Z+X5N2sOiBU1n2T0xEII27mX+Wwi1s5+6Fq81YvBn3jUQKxGLg
+M6S3zQr2lEz3kumiMt3mrTwH8XHYOMO3p248Wg==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+mpOXxO8IQ1SUgayyYn24R7/xvYc2z3Lc+KwdPFU4PEzaGji3o+CW8HLdN8D6UDDVXId278hQOWD7
+8djDqLNThfiCWRnXlO9VPAjOIq8bDU74PVeAdH1/wve6jhyiBK9yuVLKGGRIs9hbl5tzE3ue1+hk
+p09Zz3XwYZ4uVRVPrhPKS3XbCDVZohftIPIUZdR023qLYBFUaDPm6EMe2gqT9vzem7a4SNUOr8C9
+ATP9RzSs9FaeRjZ4gL22HEvbI5aWDw4PkUsEBIxaGBwg51ftcbFJpj7mskKcqTO11YxTHWKYe35c
+RmfUHGFCHsFXm0XARkpUGLX4Yy5AUwkYYDMovw==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGcDCCBVigAwIBAgIDAeaAMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xODAzMDcxMzM5MDFaFw0yMTAzMDcx
+MzM5MDFaMIGIMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSUwIwYDVQQD
+ExxKQUlNRSBFUk5FU1RPIE9SVElaIEdPTlpBTEVaMSQwIgYJKoZIhvcNAQkBFhVhYmVsdHJhbkBp
+bmdlY2hlY2suY2wxEjAQBgNVBAUTCTUyNDMxMTgtMjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAJqTl8TvCENUlIGssmJ9uEe/8b2HNs9y3PisHTxVODxM2ho4t6PglvBy3TfA+lAw1VyH
+du/IUDlg+/HYw6izU4X4glkZ15TvVTwIziKvGw1O+D1XgHR9f8L3uo4cogSvcrlSyhhkSLPYW5eb
+cxN7ntfoZKdPWc918GGeLlUVT64Tykt12wg1WaIX7SDyFGXUdNt6i2ARVGgz5uhDHtoKk/b83pu2
+uEjVDq/AvQEz/Uc0rPRWnkY2eIC9thxL2yOWlg8OD5FLBASMWhgcIOdX7XGxSaY+5rJCnKkztdWM
+Ux1imHt+XEZn1BxhQh7BV5tFwEZKVBi1+GMuQFMJGGAzKL8CAwEAAaOCAsEwggK9MB8GA1UdIwQY
+MBaAFGWlqz4/yLZRbRF+X8MKB+ZDoAi2MB0GA1UdDgQWBBQUFtsbLnbb+J0da6k6iLut2YB7AzAL
+BgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQE
+AwIFoDCB9QYDVR0gBIHtMIHqMIHnBggrBgEEAbVrAjCB2jAxBggrBgEFBQcCARYlaHR0cHM6Ly9h
+Y2c0LmFjZXB0YS5jb20vQ1BTLUFjZXB0YWNvbTCBpAYIKwYBBQUHAgIwgZcwFhYPQWNlcHRhLmNv
+bSBTLkEuMAMCAQkafUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxpZGFkbyBlbiBmb3JtYSBvbmxpbmUs
+IHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJpbywg
+cGFnb3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5MTkw
+NTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9pbmZvQGFjZXB0YS5j
+b20wXgYDVR0RBFcwVaAXBggrBgEEAcEBAaALFgk1MjQzMTE4LTKgIwYIKwYBBQUHCAOgFzAVDAk1
+MjQzMTE4LTIGCCsGAQQBwQECgRVhYmVsdHJhbkBpbmdlY2hlY2suY2wwRwYIKwYBBQUHAQEEOzA5
+MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0
+MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNl
+Mi1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBAEIzQ0ieE6pizb/1cvsQH9CFqaSxa6b6znBzCknO
+bi7evj3dEZRr1+kl94ytNX90PLEC6WTzr+a9tq6QetPzT9D/cSGSyQd1RitTA4dephlFeEOGKRCM
+ens+WfFsIoS7DoGDtpbddfqFEWb2I7dm3czCEt2Vye1gu5X4NtlsCTQdWMaAh4MTMWv1t1OXyLWF
+uiPyL2OqZtSinLlHraZjocCnL1Q4UFW4kU88ZoAx1RB6UzGOqXwAkwlnI3lc8Yp4srHX0xIFG6tK
+cNeT5NnzD+T0BSwpY+jWv6mtRzs0c363LBq/+EkqTwliopj5juHayg5ANfrDZQUnuDMZqLH1FtI=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#SDTE689628464">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>OKL380yHF5+Q7d0WUZs20vUBJyo=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>YFkku+ICCLNYLEY3EE2XK680UxvQY0rDdpLXpVF0lY+fqyI16BRMFWvPYjOMshK8
+sv7FDNS50W9b/cDbshNPHP6Se9yftXLiU5KbUq/9eCpzJWLS4WYEN8Sbifowux1o
+VLeZ5xeIpZINuiMn5R7wFlIBwsU9siGGfQ0OX1N3BMgrUVpEZ5XOGDzTfwICNkgS
+ghKOhgNZx2ppP2grQWbe1ibR7awX7QWaSchqB3ejyNEuuQreZ1BrvfLz1zKEhZP0
+0WpbHeR+6BBMiMtYp6OCVRK6moRulEx8YWT5HNlgm7xcQG9917r11Ggc+6C3Vhtn
+JageprYBWO322Ro4WM6RzA==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+vUSZwnTtsvIdpQ5q2hq53klOqJpf4xEXdId5mZBsDiCC7rYW17IXZsRmULwNbg80
+I+8op1lw3tG/f7wnAD70SbiF+XtAmpDtFWxBuifOA7yt5LQ61UYeZUumdBhcoWGP
+FXXmQCHHEyhZzl264AhbyKhReae6+KG1tk3YDcdNXwCbzdp90+3r4Jj9iNgxKpE3
+KWYmJQtQ9mWqZlDKVef1PdHzVtALOJrI72hG6A4FV9tGRQ8xluTByCqw+hx4fkXZ
+irF1DT3uQsF3l79nGrtU6520DRTPoNWimzUkeVsEp8auTbU6KMjj4Umk4rbVo5kw
+gRP4WlsONi0RBkMa7uRsnQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIEZDCCA0ygAwIBAgIBRDANBgkqhkiG9w0BAQUFADCBpTEUMBIGA1UEAxMLU0lJ
+LUNBLTIwMTM
+xGjAYBgNVBAcTEVNhbnRpYWdvIGRlIENoaWxlMR0wGwYDVQQIExRS
+ZWdpb24gTWV0cm9wb2xpdG
+FuYTELMAkGA1UEBhMCQ0wxHDAaBgkqhkiG9w0BCQEW
+DXNpaS1jYUBzaWkuY2wxJzAlBgNVBAoTH
+lNlcnZpY2lvIGRlIEltcHVlc3RvcyBJ
+bnRlcm5vczAeFw0xNzAzMjIxNjMwMjdaFw0xOTAzMjIx
+NjMwMjdaMIHRMSQwIgYD
+VQQLExtTdWJkaXJlY2Npb24gZGUgSW5mb3JtYXRpY2ExJzAlBgNVBAo
+THlNlcnZp
+Y2lvIGRlIEltcHVlc3RvcyBJbnRlcm5vczELMAkGA1UEBhMCQ0wxHTAbBgNVBAgT
+F
+FJlZ2lvbiBNZXRyb3BvbGl0YW5hMRowGAYDVQQHExFTYW50aWFnbyBkZSBDaGls
+ZTEeMBwGCSqG
+SIb3DQEJARYPbWxhY29zdGVAc2lpLmNsMRgwFgYDVQQDEw9GQUNU
+VVJBQ0lPTiBTSUkwggEiMA0
+GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9RJnC
+dO2y8h2lDmraGrneSU6oml/jERd0h3mZkG
+wOIILuthbXshdmxGZQvA1uDzQj7yin
+WXDe0b9/vCcAPvRJuIX5e0CakO0VbEG6J84DvK3ktDrVR
+h5lS6Z0GFyhYY8VdeZA
+IccTKFnOXbrgCFvIqFF5p7r4obW2TdgNx01fAJvN2n3T7evgmP2I2DEq
+kTcpZiYl
+C1D2ZapmUMpV5/U90fNW0As4msjvaEboDgVX20ZFDzGW5MHIKrD6HHh+RdmKsXUN
+Pe
+5CwXeXv2cau1TrnbQNFM+g1aKbNSR5WwSnxq5NtTooyOPhSaTittWjmTCBE/ha
+Ww42LREGQxru5
+GydAgMBAAGjcTBvMAkGA1UdEwQCMAAwPQYDVR0RBDYwNKAYBggr
+BgEEAcEBAaAMEwo0ODA4MDE1
+NS01oBgGCCsGAQQBwQEDoAwTCjYwODAzMDAwLUsw
+IwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMEwo
+2MDgwMzAwMC1LMA0GCSqGSIb3DQEB
+BQUAA4IBAQCltLIBMlvpHbdSttl+QC6pZPBsl2U2VKLThg
+IEE4lCDGCIB7UoPb3k
+evEY2AepxKxNy64SvqXKpsXwfRIcdudcQOIIhk77WnsWP3x0HiyAqmn4U
+Ri7DNa0
+Hk4bcQXsdAGHGYqPUisQltPeaqzoGyhlATLfo8XyaMeB3/1jlAGyWaczWCP8Fv40
+rO4
+QEUqIqUf5XFeC2TiJPfFp/LB5zYkZKNeAVnqZXZtQAaRHrqxnDd4DNy8BAe6c
+Al/YZsDh/1JWRb
+gySVQK2M4HOU172feqEGkLOoy3bcMSKxj9Wqxsjg3kzcm+Uo0F
+ymekuMCa1XFJ1OWVu0E2zB2Xp
+dIMZTjU
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></EnvioDTE>
