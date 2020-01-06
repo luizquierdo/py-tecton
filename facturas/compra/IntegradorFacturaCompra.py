@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 from frappeclient import FrappeClient
 from operator import itemgetter
+import datetime
 
 
 class IntegradorFacturaCompra:
@@ -81,7 +82,24 @@ class IntegradorFacturaCompra:
     def crear_factura_desde_oc(self, oc, bill_no, bill_date):
 
         purchase_invoice = self.client.get_api(
-            "erpnext.buying.doctype.purchase_order.purchase_order.make_purchase_invoice", {"source_name": oc}
+            "erpnext.buying.doctype.purchase_order.purchase_order.make_purchase_invoice", {"source_name": oc["name"]}
+        )
+
+        purchase_invoice['bill_no'] = bill_no
+        purchase_invoice['bill_date'] = bill_date
+
+        due_date = datetime.datetime.strptime(bill_date, "%Y-%m-%d") + datetime.timedelta(days=30)
+        due_date = due_date.strftime("%Y-%m-%d")
+        purchase_invoice['due_date'] = due_date
+
+        return self.client.insert(purchase_invoice)
+
+    def crear_factura_desde_gd(self, gd, bill_no, bill_date):
+
+        name_gd = gd["name"]
+
+        purchase_invoice = self.client.get_api(
+            "erpnext.stock.doctype.purchase_receipt.purchase_receipt.make_purchase_invoice", {"source_name": name_gd}
         )
 
         purchase_invoice['bill_no'] = bill_no
@@ -114,6 +132,22 @@ class IntegradorFacturaCompra:
             resultados.append([diff, gd])
 
         return sorted(resultados, key = itemgetter(0))[0]
+
+    def buscar_oc(self, rut, numero_oc):
+        oc = self.client.get_doc("Purchase Order",
+                                  filters=[["Purchase Order", "rut", "=", rut],
+                                           ["Purchase Order", "name", "like", "%" + str(numero_oc) + "%"],
+                                           ["Purchase Order", "docstatus", "=", 1]],
+                                            fields=["name", "total", "per_billed"])
+        return oc
+
+    def buscar_gd(self, rut, numero_guia):
+        gd = self.client.get_doc("Purchase Receipt",
+                                  filters=[["Purchase Receipt", "rut", "=", rut],
+                                           ["Purchase Receipt", "numero_guia", "=", numero_guia],
+                                           ["Purchase Receipt", "docstatus", "=", 1]],
+                                            fields=["name", "total", "numero_guia", "per_billed"])
+        return gd
 
     def get_nombre_proveedor(self, rut):
         try:

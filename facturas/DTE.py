@@ -15,9 +15,10 @@ class DTE:
             self.asignar_tipo_dte_palabras()
             self.parse_items()
             self.parse_referencias()
+            self.bien_formado = 1
         except:
             print("ERROR AL LEER EL XML")
-            raise
+            self.bien_formado = 0
 
     def asignar_tipo_dte_palabras(self):
         if self.tipo_dte == 33:
@@ -34,7 +35,7 @@ class DTE:
         self.rut_proveedor = self.tree.find('.//{http://www.sii.cl/SiiDte}RUTEmisor').text
         self.monto_neto = self.tree.find('.//{http://www.sii.cl/SiiDte}MntNeto').text \
             if self.tree.find('.//{http://www.sii.cl/SiiDte}MntNeto') is not None else 0
-        self.numero_factura = self.tree.find('.//{http://www.sii.cl/SiiDte}Folio').text
+        self.numero_factura = self.tree.find('.//{http://www.sii.cl/SiiDte}Folio').text.lstrip("0")
         self.fecha = self.tree.find('.//{http://www.sii.cl/SiiDte}FchEmis').text
         self.tipo_dte = int(self.tree.find('.//{http://www.sii.cl/SiiDte}TipoDTE').text)
 
@@ -52,8 +53,8 @@ class DTE:
             qtytext = qty.text if qty is not None else str(1)
             ratetext = rate.text if rate is not None else total
 
-            print (
-                "qty = " + qtytext + ", rate = " + ratetext + ", description = " + description + ", total = " + total)
+            #print (
+            #    "qty = " + qtytext + ", rate = " + ratetext + ", description = " + description + ", total = " + total)
 
             #"warehouse": "Bodega Generica - T",
 
@@ -98,4 +99,3 @@ class DTE:
 
     def es_respuesta(self):
         return not self.tree.find('.//{http://www.sii.cl/SiiDte}NmbEnvio') is None
-

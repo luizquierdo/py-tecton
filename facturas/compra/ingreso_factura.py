@@ -68,7 +68,7 @@ for file in os.listdir("."):
         if len(facturas) > 0:
             os.rename("./" + file, "./INGRESADO/" + file)
         else:
-            os.rename("./" + file, "./POR_INGRESAR/" + file)
+            os.rename("./" + file, "./POR_INGRESAR/" + dte.fecha + "_" + dte.rut_proveedor + "_" + dte.numero_factura + ".xml")
 
     except Exception as e:
         logger.error(
@@ -92,21 +92,109 @@ for file in os.listdir("."):
     except Exception as e:
         logger.error("ERROR AL CLASIFICAR REFERENCIAS, ARCHIVO: " + file + ", EXCEPCION: " + e.message)
 
-os.chdir("./SIN_REF")
+os.chdir("./REF_GD")
 for file in os.listdir("."):
-
     if os.path.isdir(file):
         continue
 
     try:
         dte = DTE(file)
-        logger.debug(
-            "Ingresando factura " + dte.numero_factura + " " + integrador.get_nombre_proveedor(dte.rut_proveedor))
+
+        facturas = integrador.get_facturas(dte.numero_factura, dte.rut_proveedor)
+
+        if len(facturas) > 0:
+            os.rename("./" + file, "./INGRESADAS/" + file)
+            continue
+
+        for referencia in dte.referencias:
+            if(referencia["tipo_doc_referencia"] != "52"): continue
+
+            numero_guia = referencia["folio_referencia"]
+            numero_guia = int(numero_guia)
+            guias = integrador.buscar_gd(dte.rut_proveedor, numero_guia)
+            if len(guias) == 0:
+                logger.debug("no se encontro la guia para la factura "  + dte.numero_factura + " " + dte.rut_proveedor)
+                os.rename("./" + file,
+                          "./SIN_RMAT/" + dte.fecha + "_" + dte.rut_proveedor + "_" + dte.numero_factura + ".xml")
+                continue
+
+            gd = guias[0]
+            if float(gd["per_billed"]) > 95:
+                logger.debug("la guia en referencia ya esta facturada en mas que un 95% " + dte.numero_factura + " del proveedor " + dte.rut_proveedor)
+                os.rename("./" + file, "./INGRESADAS/" + file)
+                continue
+
+            integrador.crear_factura_desde_gd(gd, dte.numero_factura, dte.fecha)
+            os.rename("./" + file, "./INGRESADAS/" + file)
+
+            logger.debug(
+                "factura ingresada" + dte.numero_factura + " " + dte.rut_proveedor)
+            break
+
+    except Exception as e:
+        logger.error("ERROR AL CREAR FACTURA, ARCHIVO: " + file)
+        continue
+
+# ingreso ahora las que no tenian el RMAT, pero tal vez tienen una referencia a OC
+os.chdir("./SIN_RMAT")
+for file in os.listdir("."):
+    if os.path.isdir(file):
+        continue
+
+    try:
+        dte = DTE(file)
+
+        facturas = integrador.get_facturas(dte.numero_factura, dte.rut_proveedor)
+
+        if len(facturas) > 0:
+            os.rename("./" + file, "../INGRESADAS/" + file)
+            continue
+
+        for referencia in dte.referencias:
+            if(referencia["tipo_doc_referencia"] != "801"): continue
+
+            numero_oc = referencia["folio_referencia"]
+            ocs = integrador.buscar_oc(dte.rut_proveedor, numero_oc)
+            if len(ocs) == 0:
+                logger.debug("no se encontro la OC para la factura "  + dte.numero_factura + " " + dte.rut_proveedor)
+                # os.rename("./" + file,
+                #          "./SIN_RMAT/" + dte.fecha + "_" + dte.rut_proveedor + "_" + dte.numero_factura + ".xml")
+                continue
+
+            oc = ocs[0]
+            if float(oc["per_billed"]) > 95:
+                logger.debug("la guia en referencia ya esta facturada en mas que un 95% " + dte.numero_factura + " del proveedor " + dte.rut_proveedor)
+                continue
+
+            integrador.crear_factura_desde_oc(oc, dte.numero_factura, dte.fecha)
+            os.rename("./" + file, "../INGRESADAS/" + file)
+
+            logger.debug(
+                "factura ingresada" + dte.numero_factura + " " + dte.rut_proveedor)
+            break
+
+    except Exception as e:
+        logger.error("ERROR AL CREAR FACTURA, ARCHIVO: " + file)
+        continue
+
+
+#os.chdir("./SIN_REF")
+#for file in os.listdir("."):
+#
+#    if os.path.isdir(file):
+#        continue
+#
+#    try:
+#        dte = DTE(file)
+#        logger.debug(
+#            "Ingresando factura " + dte.numero_factura + " " + integrador.get_nombre_proveedor(dte.rut_proveedor))
         # integrador.crear_factura(dte)
         # os.rename("./" + file, "./INGRESADAS/" + file)
 
-    except Exception as e:
-        logger.error("ERROR AL CREAR FACTURA, ARCHIVO: " + file + ", EXCEPCION: " + e.message)
+#    except Exception as e:
+#        logger.error("ERROR AL CREAR FACTURA, ARCHIVO: " + file + ", EXCEPCION: " + e.message)
+
+#############################################################################3
 
 # for file in os.listdir("."):
 #
