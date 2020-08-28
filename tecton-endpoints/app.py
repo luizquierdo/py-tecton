@@ -1,4 +1,4 @@
-# flask_sqlalchemy/app.py
+
 from flask import Flask
 from flask_graphql import GraphQLView
 from flask_cors import CORS

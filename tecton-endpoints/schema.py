@@ -1,5 +1,6 @@
 import datetime
-from erp_datasource.erp_database import generar_balance, getComprasPorItemGroup
+from erp_datasource.erp_database import generar_balance, getComprasPorItemGroup, \
+    getComprasPorCentroCosto, getComprasMensualesPorCentroCosto, getComprasMensualesPorItemGroup
 import graphene
 
 
@@ -33,6 +34,25 @@ class Balance(graphene.ObjectType):
 class ComprasPorItemGroup(graphene.ObjectType):
     obra = graphene.NonNull(graphene.String)
     item_group = graphene.String()
+    suma_facturas = graphene.Float()
+
+
+class ComprasPorCentroCosto(graphene.ObjectType):
+    obra = graphene.NonNull(graphene.String)
+    cost_center = graphene.String()
+    suma_facturas = graphene.Float()
+
+
+class ComprasMensualesPorCentroCosto(graphene.ObjectType):
+    obra = graphene.NonNull(graphene.String)
+    cost_center = graphene.String()
+    mes = graphene.String()
+    suma_facturas = graphene.Float()
+
+class ComprasMensualesPorItemGroup(graphene.ObjectType):
+    obra = graphene.NonNull(graphene.String)
+    item_group = graphene.String()
+    mes = graphene.String()
     suma_facturas = graphene.Float()
 
 
@@ -80,6 +100,21 @@ class Query(graphene.ObjectType):
 
     def resolve_compras_por_item_group(parent, info, obra):
         return getComprasPorItemGroup(obra)
+
+    compras_por_centro_costo = graphene.List(ComprasPorCentroCosto, obra=graphene.String())
+
+    def resolve_compras_por_centro_costo(parent, info, obra):
+        return getComprasPorCentroCosto(obra)
+
+    compras_mensuales_por_centro_costo = graphene.List(ComprasMensualesPorCentroCosto, obra=graphene.String())
+
+    def resolve_compras_mensuales_por_centro_costo(parent, info, obra):
+        return getComprasMensualesPorCentroCosto(obra)
+
+    compras_mensuales_por_item_group = graphene.List(ComprasMensualesPorItemGroup, obra=graphene.String())
+
+    def resolve_compras_mensuales_por_item_group(parent, info, obra):
+        return getComprasMensualesPorItemGroup(obra)
 
 
 schema = graphene.Schema(query=Query)

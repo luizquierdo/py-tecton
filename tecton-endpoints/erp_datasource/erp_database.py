@@ -77,6 +77,38 @@ def getComprasPorItemGroup(obra):
 
     return ({"item_group": d.tipo, "suma_facturas": d.suma_facturas} for index, d in df.iterrows())
 
+def getComprasPorCentroCosto(obra):
+
+    query = 'SELECT t2.cost_center, sum(qty*rate) as suma_facturas ' \
+            'FROM `tabPurchase Invoice` as t1 inner join `tabPurchase Invoice Item` as t2 on t2.parent = t1.name ' \
+            'WHERE t2.cost_center like ' + obra + ' AND t1.docstatus = 1 ' \
+            'GROUP BY t2.cost_center'
+
+    df = pd.read_sql(query, con=db)
+
+    return ({"cost_center": d.cost_center, "suma_facturas": d.suma_facturas} for index, d in df.iterrows())
+
+def getComprasMensualesPorCentroCosto(obra):
+
+    query = 'SELECT t2.cost_center, date_format(t1.bill_date,"%y-%m") as mes, sum(qty*rate) as suma_facturas ' \
+            'FROM `tabPurchase Invoice` as t1 inner join `tabPurchase Invoice Item` as t2 on t2.parent = t1.name ' \
+            'WHERE t2.cost_center like ' + obra + ' and t1.docstatus = 1 ' \
+            'GROUP BY t2.cost_center, mes;'
+
+    df = pd.read_sql(query, con=db)
+
+    return ({"cost_center": d.cost_center, "mes": d.mes, "suma_facturas": d.suma_facturas} for index, d in df.iterrows())
+
+def getComprasMensualesPorItemGroup(obra):
+
+    query = 'SELECT date_format(t1.bill_date,"%y-%m") as mes, left(t2.item_group,3) as tipo, sum(qty*rate) as suma_facturas ' \
+            'FROM `tabPurchase Invoice` as t1 inner join `tabPurchase Invoice Item` as t2 on t2.parent = t1.name ' \
+            'WHERE t2.cost_center like ' +  obra + ' and t1.docstatus = 1 ' \
+            'GROUP BY mes, tipo;'
+
+    df = pd.read_sql(query, con=db)
+
+    return ({"item_group": d.tipo, "mes": d.mes, "suma_facturas": d.suma_facturas} for index, d in df.iterrows())
 
 def generar_balance(fecha_inicial, fecha_final, company):
 
