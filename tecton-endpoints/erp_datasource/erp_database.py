@@ -17,7 +17,7 @@ db = MySQLdb.connect(host="localhost",
                      db="dd422756b6b88fae")
 
 # funcion que obtiene los datos agrupados por cuenta, desde la base de datos
-def getDataBasePandas(fecha_inicial, fecha_final, company):
+def getDataBalance(fecha_inicial, fecha_final, company):
 
 
     c = db.cursor()
@@ -66,11 +66,23 @@ def getPeriodClosingVoucher(fecha_inicial, fecha_final, company):
     return data
 
 
+def getComprasPorItemGroup(obra):
+
+    query = 'SELECT left(t2.item_group,3) as tipo, round(sum(qty*rate)) as suma_facturas ' \
+            'FROM `tabPurchase Invoice` as t1 INNER JOIN `tabPurchase Invoice Item` as t2 on t2.parent = t1.name ' \
+            'WHERE t2.cost_center LIKE ' + obra + \
+                ' AND t1.docstatus = 1 ' \
+            'GROUP BY tipo;'
+    df = pd.read_sql(query, con=db)
+
+    return ({"item_group": d.tipo, "suma_facturas": d.suma_facturas} for index, d in df.iterrows())
+
+
 def generar_balance(fecha_inicial, fecha_final, company):
 
     # obtengo desde la base de datos los saldos del periodo y los saldos de apertura
-    periodo = getDataBasePandas(fecha_inicial, fecha_final, company)
-    apertura = getDataBasePandas("2000-01-01", fecha_inicial, company)
+    periodo = getDataBalance(fecha_inicial, fecha_final, company)
+    apertura = getDataBalance("2000-01-01", fecha_inicial, company)
     period_closing = getPeriodClosingVoucher(fecha_inicial, fecha_final, 'Constructora Tecton SpA')
 
     # Merge del periodo y la apertura, luego el resultado con el cierre del periodo

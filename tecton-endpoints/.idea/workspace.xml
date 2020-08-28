@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="136b1ccd-8dbc-4b8b-a01b-46d7f7c363ec" name="Default Changelist" comment="" />
+    <list default="true" id="136b1ccd-8dbc-4b8b-a01b-46d7f7c363ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../balance/.idea/Balance8Columnas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../balance/.idea/Balance8Columnas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../balance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../balance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../balance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../balance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../balance/balance8columnas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../balance/balance8columnas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facturas/DTE.py" beforeDir="false" afterPath="$PROJECT_DIR$/../facturas/DTE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facturas/compra/IntegradorFacturaCompra.py" beforeDir="false" afterPath="$PROJECT_DIR$/../facturas/compra/IntegradorFacturaCompra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facturas/compra/diccionario.json" beforeDir="false" afterPath="$PROJECT_DIR$/../facturas/compra/diccionario.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facturas/compra/facturas_sin_rmat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../facturas/compra/facturas_sin_rmat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facturas/compra/ingreso_factura_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../facturas/compra/ingreso_factura_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facturas/compra/ingreso_facturas.log" beforeDir="false" afterPath="$PROJECT_DIR$/../facturas/compra/ingreso_facturas.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tecton-endpoints.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tecton-endpoints.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erp_datasource/erp_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/erp_datasource/erp_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv2/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/../venv2/pip-selfcheck.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +31,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tecton-endpoints/schema.py">
+        <entry file="file://$PROJECT_DIR$/schema.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+            <state relative-caret-position="1275">
+              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -22,20 +42,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tecton-endpoints/erp_datasource/erp_database.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/erp_datasource/erp_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="348">
+              <caret line="77" column="99" selection-start-line="77" selection-start-column="99" selection-end-line="77" selection-end-column="99" />
               <folding>
                 <element signature="e#46#60#0" expanded="true" />
+                <element signature="e#4935#5091#0" />
+                <element signature="e#5151#6383#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tecton-endpoints/buk_datasource/buk_datasource.py">
+        <entry file="file://$PROJECT_DIR$/buk_datasource/buk_datasource.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
@@ -46,21 +68,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../tecton-endpoints/app.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="150">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
                 <element signature="e#26#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tecton-endpoints/db_tecton.sql">
-          <provider selected="true" editor-type-id="LargeFileEditor" />
         </entry>
       </file>
     </leaf>
@@ -71,6 +88,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,8 +107,8 @@
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/models-example.py" />
         <option value="$PROJECT_DIR$/schema-example.py" />
-        <option value="$PROJECT_DIR$/schema.py" />
         <option value="$PROJECT_DIR$/erp_datasource/erp_database.py" />
+        <option value="$PROJECT_DIR$/schema.py" />
       </list>
     </option>
   </component>
@@ -98,21 +118,21 @@
     <option name="width" value="1323" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="flask_graphene" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tecton-endpoints" type="b2602c69:ProjectViewProjectNode" />
               <item name="tecton-endpoints" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="flask_graphene" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tecton-endpoints" type="b2602c69:ProjectViewProjectNode" />
               <item name="tecton-endpoints" type="462c0819:PsiDirectoryNode" />
               <item name="erp_datasource" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -120,10 +140,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tecton-endpoints/app.py" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -174,11 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tecton-endpoints" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tecton-endpoints/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,13 +326,13 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35737526" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49836066" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49836066" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.39099783" side_tool="true" weight="0.15732759" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.4978308" weight="0.42564654" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.4978308" weight="0.5777538" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.4989071" weight="0.3297414" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.6090022" weight="0.25431034" />
+      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.4989071" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.6090022" visible="true" weight="0.2537797" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -320,50 +342,54 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregue un endpoint con una consulta de Toni que agrupa las facturas de una obra por ItemGroup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregue un endpoint con una consulta de Toni que agrupa las facturas de una obra por ItemGroup" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/buk_datasource/relaciones_cuentas.json">
+    <entry file="file://$PROJECT_DIR$/buk_datasource/relaciones_cuentas.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/buk_datasource/relaciones_centros_de_costos.json">
+    <entry file="file://$PROJECT_DIR$/buk_datasource/relaciones_centros_de_costos.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/venv/lib/python3.6/site-packages/graphene_sqlalchemy/fields.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/graphene_sqlalchemy/fields.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-330">
           <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/venv/lib/python3.6/site-packages/graphene_sqlalchemy/types.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/graphene_sqlalchemy/types.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="205" column="6" selection-start-line="205" selection-start-column="6" selection-end-line="205" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/venv/lib/python3.6/site-packages/Cheetah/Template.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/Cheetah/Template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="1095" column="8" selection-start-line="1095" selection-start-column="8" selection-end-line="1095" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/erp_datasource/balance8columnas.tpl.tex">
+    <entry file="file://$PROJECT_DIR$/erp_datasource/balance8columnas.tpl.tex">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/venv/lib/python3.6/site-packages/MySQLdb/connections.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/MySQLdb/connections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="238" selection-start-line="238" selection-end-line="238" />
@@ -372,7 +398,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models-example.py" />
     <entry file="file://$PROJECT_DIR$/schema-example.py" />
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/buk_datasource/buk_datasource.py">
+    <entry file="file://$PROJECT_DIR$/db_tecton.sql" />
+    <entry file="file://$PROJECT_DIR$/buk_datasource/buk_datasource.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
@@ -382,35 +409,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/schema.py">
+    <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#26#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/db_tecton.sql">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/erp_datasource/erp_database.py">
+    <entry file="file://$PROJECT_DIR$/erp_datasource/erp_database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="348">
+          <caret line="77" column="99" selection-start-line="77" selection-start-column="99" selection-end-line="77" selection-end-column="99" />
           <folding>
             <element signature="e#46#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tecton-endpoints/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#26#49#0" expanded="true" />
+            <element signature="e#4935#5091#0" />
+            <element signature="e#5151#6383#0" />
           </folding>
         </state>
       </provider>

@@ -1,5 +1,5 @@
 import datetime
-from erp_datasource.erp_database import generar_balance
+from erp_datasource.erp_database import generar_balance, getComprasPorItemGroup
 import graphene
 
 
@@ -30,15 +30,13 @@ class Balance(graphene.ObjectType):
     total_ganancia = graphene.Float()
 
 
-class CentroCosto(graphene.ObjectType):
-    nombre_buk = graphene.String()
-    cuenta = graphene.String()
+class ComprasPorItemGroup(graphene.ObjectType):
+    obra = graphene.NonNull(graphene.String)
+    item_group = graphene.String()
+    suma_facturas = graphene.Float()
 
 
 class Query(graphene.ObjectType):
-    centro_costo = graphene.Field(CentroCosto)
-
-    all_cc = graphene.List(CentroCosto)
 
     balance = graphene.Field(Balance, nombre_empresa=graphene.String(), fecha_inicio=graphene.Date(),
                              fecha_termino=graphene.Date())
@@ -77,6 +75,11 @@ class Query(graphene.ObjectType):
                 "total_perdida": totales['perdida'],
                 "total_ganancia": totales['ganancia']
                 }
+
+    compras_por_item_group = graphene.List(ComprasPorItemGroup, obra=graphene.String())
+
+    def resolve_compras_por_item_group(parent, info, obra):
+        return getComprasPorItemGroup(obra)
 
 
 schema = graphene.Schema(query=Query)
