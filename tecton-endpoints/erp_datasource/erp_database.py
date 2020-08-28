@@ -110,6 +110,19 @@ def getComprasMensualesPorItemGroup(obra):
 
     return ({"item_group": d.tipo, "mes": d.mes, "suma_facturas": d.suma_facturas} for index, d in df.iterrows())
 
+def getOrdenesCompraNoFacturadasPorCentroCosto(obra):
+    query = 'SELECT t2.cost_center, sum(qty*rate-billed_amt) as suma_ordenes_compra, ' \
+                'count(distinct t1.name) as cantidad_oc_pendientes, group_concat(distinct t1.name separator ", ") as oc_pendientes, ' \
+                'group_concat(distinct t1.supplier separator ", ") as oc_pendientes_supplier ' \
+            'FROM `tabPurchase Order` as t1 inner join `tabPurchase Order Item` as t2 on t2.parent = t1.name ' \
+            'WHERE t2.cost_center like ' + \
+                  obra + ' and t1.docstatus = 1 and t1.status <> "Completed" and t1.status <> "Closed" ' \
+            'GROUP BY t2.cost_center;'
+    df = pd.read_sql(query, con=db)
+    print(df)
+
+    return ({"cost_center": d.cost_center, "suma_ordenes_compra": d.suma_ordenes_compra, "cantidad_oc_pendientes": d.cantidad_oc_pendientes} for index, d in df.iterrows())
+
 def generar_balance(fecha_inicial, fecha_final, company):
 
     # obtengo desde la base de datos los saldos del periodo y los saldos de apertura

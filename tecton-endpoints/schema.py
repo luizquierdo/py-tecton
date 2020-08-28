@@ -1,6 +1,6 @@
 import datetime
 from erp_datasource.erp_database import generar_balance, getComprasPorItemGroup, \
-    getComprasPorCentroCosto, getComprasMensualesPorCentroCosto, getComprasMensualesPorItemGroup
+    getComprasPorCentroCosto, getComprasMensualesPorCentroCosto, getComprasMensualesPorItemGroup, getOrdenesCompraNoFacturadasPorCentroCosto
 import graphene
 
 
@@ -49,12 +49,23 @@ class ComprasMensualesPorCentroCosto(graphene.ObjectType):
     mes = graphene.String()
     suma_facturas = graphene.Float()
 
+class OrdenDeCompra(graphene.ObjectType):
+    nombre = graphene.NonNull(graphene.String)
+    supplier = graphene.String()
+    total_neto = graphene.Float()
+
 class ComprasMensualesPorItemGroup(graphene.ObjectType):
     obra = graphene.NonNull(graphene.String)
     item_group = graphene.String()
     mes = graphene.String()
     suma_facturas = graphene.Float()
 
+class OrdenesCompraNoFacturadasPorCentroCosto(graphene.ObjectType):
+    obra = graphene.NonNull(graphene.String)
+    cost_center = graphene.String()
+    suma_ordenes_compra = graphene.Float()
+    cantidad_oc_pendientes = graphene.Int()
+    lista_ocs_pendientes = graphene.List(OrdenDeCompra)
 
 class Query(graphene.ObjectType):
 
@@ -115,6 +126,11 @@ class Query(graphene.ObjectType):
 
     def resolve_compras_mensuales_por_item_group(parent, info, obra):
         return getComprasMensualesPorItemGroup(obra)
+
+    oc_pendientes_facturar_por_centro_costo = graphene.List(OrdenesCompraNoFacturadasPorCentroCosto, obra=graphene.String())
+
+    def resolve_oc_pendientes_facturar_por_centro_costo(parent, info, obra):
+        return getOrdenesCompraNoFacturadasPorCentroCosto(obra)
 
 
 schema = graphene.Schema(query=Query)
